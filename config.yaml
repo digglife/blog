@@ -1,0 +1,48 @@
+---
+url: https://www.digglife.net
+title : DiggLife
+description: DiggLife 是一个有关互联网服务和实用软件技巧的博客
+baseURL: https://www.digglife.net/
+language: zh-CN
+languageCode: zh-CN
+theme: ghostwriter
+copyright: DiggLife
+disqusShortname: digglifenet
+hasCJKLanguage: true
+PygmentsCodeFences: true
+pygmentsStyle: tango
+
+Author:
+  name: 摩摩诘
+  profile: https://www.digglife.net
+
+Taxonomies:
+  tag: tags
+  category: categories
+
+Params:
+  intro: true
+  subtitle: 有关网络和软件技巧
+  github: https://github.com/digglife
+  linkedin: https://linkedin.com/in/digglife/
+  stackoverflow: https://stackoverflow.com/users/1350657/zsl
+  email: digglife@gmail.com
+  gentieKey: 9bce0a9f3a5a4390b2c3e4d5951361a5
+  opengraph: true
+  shareTwitter: true
+  shareFacebook: true
+  shareGooglePlus: true
+  shareLinkedIn: true
+  dateFormat: 2006-01-02
+
+menu:
+  main:
+    - name: 首页
+      url: "/"
+      weight: 1
+    - name: 关于
+      url: "/about"
+      weight: 2
+    - name: 设备
+      url: "/devices"
+      weight: 2
