@@ -11,6 +11,7 @@ disqusShortname: digglifenet
 hasCJKLanguage: true
 PygmentsCodeFences: true
 pygmentsStyle: tango
+MetaDataFormat: yaml
 
 Author:
   name: 摩摩诘
