@@ -7,6 +7,7 @@ tags:
 - 博客
 - hugo
 title: DiggLife 迁移到 Hugo
+url: /articles/hugo-migration.html
 
 ---
 
