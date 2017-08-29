@@ -14,7 +14,7 @@ title: DiggLife 迁移到 Hugo
 
 <!--more-->
 
-![hugo logo](/wp-content/uploads/hugo.logo)
+![hugo logo](/wp-content/uploads/hugo.png)
 
 其实“把博客系统迁移到 Hugo”这句话，从技术上讲，是有点语病的。因为 Hugo 不是一个博客系统，岂止不是，类似这种 **静态网站生成器** 的初衷就是为了摆脱所谓博客系统，在本地将内容全部静态化，上传到服务器直接让 Web Server 处理。类似的引擎很早就有了，而且过一段时间就会有个不服气的程序猿推出一个更好的，比如 Octopress、Jekyll、Hexo 等等，Hugo 是最近最受关注的一个，据我所知也的确位于进化树的顶端。
 
