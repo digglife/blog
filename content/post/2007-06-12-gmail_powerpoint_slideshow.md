@@ -1,6 +1,5 @@
 ---
-title:
-  - SlideShow:Gmail推出PowerPoint预览功能
+title: SlideShow:Gmail推出PowerPoint预览功能
   - SlideShow:Gmail推出PowerPoint预览功能
 author: 摩摩诘
 type: post

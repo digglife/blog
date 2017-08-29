@@ -1,6 +1,5 @@
 ---
-title:
-  - 名侦探柯南第507集日文字幕DiggLife版
+title: 名侦探柯南第507集日文字幕DiggLife版
 author: 摩摩诘
 type: post
 date: 2008-07-07T11:24:17+00:00

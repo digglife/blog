@@ -1,6 +1,5 @@
 ---
-title:
-  - 小技巧:如何复制Windows信息框文字到剪切板
+title: 小技巧:如何复制Windows信息框文字到剪切板
   - 小技巧:如何复制Windows信息框文字到剪切板
 author: 摩摩诘
 type: post

@@ -1,6 +1,5 @@
 ---
-title:
-  - Safari 3.0 Alpha For Windows体验,两个字:糟糕.
+title: Safari 3.0 Alpha For Windows体验,两个字:糟糕.
   - Safari 3.0 Alpha For Windows体验,两个字:糟糕.
 author: 摩摩诘
 type: post

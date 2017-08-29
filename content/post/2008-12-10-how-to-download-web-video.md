@@ -1,6 +1,5 @@
 ---
-title:
-  - 如何从YouTube,优酷,土豆等视频网站下载在线视频
+title: 如何从YouTube,优酷,土豆等视频网站下载在线视频
 author: 摩摩诘
 type: post
 date: 2008-12-10T14:42:37+00:00

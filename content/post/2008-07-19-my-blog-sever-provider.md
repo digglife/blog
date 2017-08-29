@@ -1,6 +1,5 @@
 ---
-title:
-  - 谈谈DiggLife所在的服务器
+title: 谈谈DiggLife所在的服务器
 author: 摩摩诘
 type: post
 date: 2008-07-19T09:30:15+00:00

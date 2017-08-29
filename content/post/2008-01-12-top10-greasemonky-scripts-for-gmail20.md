@@ -1,6 +1,5 @@
 ---
-title:
-  - 10个增强Gmail新版体验的Greasemonkey代码
+title: 10个增强Gmail新版体验的Greasemonkey代码
 author: 摩摩诘
 type: post
 date: 2008-01-12T12:13:09+00:00

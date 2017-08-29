@@ -1,6 +1,5 @@
 ---
-title:
-  - Feedsky话题营销规则变化:可申请话题
+title: Feedsky话题营销规则变化:可申请话题
 author: 摩摩诘
 type: post
 date: 2008-03-04T14:27:42+00:00

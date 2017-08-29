@@ -1,6 +1,5 @@
 ---
-title:
-  - 7款替代Nero的免费CD/DVD刻录软件下载
+title: 7款替代Nero的免费CD/DVD刻录软件下载
 author: 摩摩诘
 type: post
 date: 2008-02-18T15:28:38+00:00

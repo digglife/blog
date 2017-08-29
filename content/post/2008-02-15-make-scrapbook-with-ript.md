@@ -1,6 +1,5 @@
 ---
-title:
-  - Ript:拖拽文字和图片制作超酷剪贴薄
+title: Ript:拖拽文字和图片制作超酷剪贴薄
 author: 摩摩诘
 type: post
 date: 2008-02-15T07:27:04+00:00

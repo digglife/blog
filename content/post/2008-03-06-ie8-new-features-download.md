@@ -1,6 +1,5 @@
 ---
-title:
-  - IE 8 Beta 1简体中文版下载和新功能介绍
+title: IE 8 Beta 1简体中文版下载和新功能介绍
 author: 摩摩诘
 type: post
 date: 2008-03-05T17:20:39+00:00

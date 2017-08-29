@@ -1,6 +1,5 @@
 ---
-title:
-  - 激活Windows Vista的隐藏启动画面
+title: 激活Windows Vista的隐藏启动画面
 author: 摩摩诘
 type: post
 date: 2007-02-12T04:43:25+00:00

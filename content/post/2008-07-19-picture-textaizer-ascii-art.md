@@ -1,6 +1,5 @@
 ---
-title:
-  - 将普通图片转换为字符或ASCII码拼图
+title: 将普通图片转换为字符或ASCII码拼图
 author: 摩摩诘
 type: post
 date: 2008-07-19T08:30:11+00:00

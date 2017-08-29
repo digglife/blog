@@ -1,6 +1,5 @@
 ---
-title:
-  - Ubuntu电子杂志《Full Circle》第1期上线
+title: Ubuntu电子杂志《Full Circle》第1期上线
   - Ubuntu电子杂志《Full Circle》第1期上线
 author: 摩摩诘
 type: post

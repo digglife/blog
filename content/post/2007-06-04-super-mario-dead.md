@@ -1,6 +1,5 @@
 ---
-title:
-  - 数位游戏:挂了的Mario去哪里了?
+title: 数位游戏:挂了的Mario去哪里了?
   - 数位游戏:挂了的Mario去哪里了?
 author: 摩摩诘
 type: post

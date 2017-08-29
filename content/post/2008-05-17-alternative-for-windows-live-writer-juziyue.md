@@ -1,6 +1,5 @@
 ---
-title:
-  - 菊子曰博客离线编辑器Alpha 3 SP1评测
+title: 菊子曰博客离线编辑器Alpha 3 SP1评测
 author: 摩摩诘
 type: post
 date: 2008-05-17T05:47:41+00:00

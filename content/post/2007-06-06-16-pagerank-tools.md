@@ -1,6 +1,5 @@
 ---
-title:
-  - 推荐:16个PageRank相关工具和服务
+title: 推荐:16个PageRank相关工具和服务
   - 推荐:16个PageRank相关工具和服务
 author: 摩摩诘
 type: post

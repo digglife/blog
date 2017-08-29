@@ -1,6 +1,5 @@
 ---
-title:
-  - Firefox 3 beta 4发布,改进一览
+title: Firefox 3 beta 4发布,改进一览
 author: 摩摩诘
 type: post
 date: 2008-03-11T11:06:43+00:00

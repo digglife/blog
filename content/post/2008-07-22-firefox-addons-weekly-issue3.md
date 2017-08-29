@@ -1,6 +1,5 @@
 ---
-title:
-  - 一周Firefox扩展推荐-第三辑
+title: 一周Firefox扩展推荐-第三辑
 author: 摩摩诘
 type: post
 date: 2008-07-22T14:14:27+00:00

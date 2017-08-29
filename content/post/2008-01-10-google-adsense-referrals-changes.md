@@ -1,6 +1,5 @@
 ---
-title:
-  - Google AdSense推介广告即将在中国取消
+title: Google AdSense推介广告即将在中国取消
 author: 摩摩诘
 type: post
 date: 2008-01-09T16:52:57+00:00

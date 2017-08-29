@@ -1,6 +1,5 @@
 ---
-title:
-  - PC上安装Mac OSX Leopard
+title: PC上安装Mac OSX Leopard
 author: 摩摩诘
 type: post
 date: 2008-05-08T16:48:47+00:00

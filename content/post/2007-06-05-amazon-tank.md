@@ -1,6 +1,5 @@
 ---
-title:
-  - 超酷装备:Amazon上公然叫卖坦克!
+title: 超酷装备:Amazon上公然叫卖坦克!
   - 超酷装备:Amazon上公然叫卖坦克!
 author: 摩摩诘
 type: post

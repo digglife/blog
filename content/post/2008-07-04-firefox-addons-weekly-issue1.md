@@ -1,6 +1,5 @@
 ---
-title:
-  - 一周Firefox扩展推荐-第一辑
+title: 一周Firefox扩展推荐-第一辑
 author: 摩摩诘
 type: post
 date: 2008-07-04T14:48:22+00:00

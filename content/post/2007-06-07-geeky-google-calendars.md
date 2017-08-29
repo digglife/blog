@@ -1,6 +1,5 @@
 ---
-title:
-  - 奇客必备的8个特色Google日历
+title: 奇客必备的8个特色Google日历
   - 奇客必备的8个特色Google日历
 author: 摩摩诘
 type: post

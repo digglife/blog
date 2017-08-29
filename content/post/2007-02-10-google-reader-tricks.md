@@ -1,6 +1,5 @@
 ---
-title:
-  - Google Reader你可能不知道的一些技巧
+title: Google Reader你可能不知道的一些技巧
 author: 摩摩诘
 type: post
 date: 2007-02-10T11:28:32+00:00

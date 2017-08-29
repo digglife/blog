@@ -1,6 +1,5 @@
 ---
-title:
-  - 给你的Windows Mobile手机加上iPhone风格的联系人菜单
+title: 给你的Windows Mobile手机加上iPhone风格的联系人菜单
   - 给你的Windows Mobile手机加上iPhone风格的联系人菜单
 author: 摩摩诘
 type: post

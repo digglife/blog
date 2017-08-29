@@ -1,6 +1,5 @@
 ---
-title:
-  - Ubuntu技巧:Ubuntu软件安装方法完全指南
+title: Ubuntu技巧:Ubuntu软件安装方法完全指南
   - Ubuntu技巧:Ubuntu软件安装方法完全指南
 author: 摩摩诘
 type: post

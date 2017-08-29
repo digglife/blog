@@ -1,6 +1,5 @@
 ---
-title:
-  - Feedsky统计功能更新
+title: Feedsky统计功能更新
 author: 摩摩诘
 type: post
 date: 2007-12-07T11:55:55+00:00

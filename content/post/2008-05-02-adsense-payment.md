@@ -1,6 +1,5 @@
 ---
-title:
-  - 收到Google Adsense西联快汇付款(武汉)
+title: 收到Google Adsense西联快汇付款(武汉)
 author: 摩摩诘
 type: post
 date: 2008-05-01T21:37:52+00:00

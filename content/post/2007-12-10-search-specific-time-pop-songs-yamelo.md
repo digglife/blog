@@ -1,6 +1,5 @@
 ---
-title:
-  - 搜索特定时间的流行歌曲--Yamelo
+title: 搜索特定时间的流行歌曲--Yamelo
 author: 摩摩诘
 type: post
 date: 2007-12-10T11:42:10+00:00

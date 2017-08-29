@@ -1,6 +1,5 @@
 ---
-title:
-  - 关于Wordpress2.6的图片说明(image Captioin)
+title: 关于Wordpress2.6的图片说明(image Captioin)
 author: 摩摩诘
 type: post
 date: 2008-07-16T05:00:32+00:00

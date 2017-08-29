@@ -1,6 +1,5 @@
 ---
-title:
-  - Yahoo!Mash试用和免费邀请
+title: Yahoo!Mash试用和免费邀请
 author: 摩摩诘
 type: post
 date: 2007-09-17T05:53:03+00:00

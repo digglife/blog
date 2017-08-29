@@ -1,6 +1,5 @@
 ---
-title:
-  - 适合博客使用的7个Adobe AIR程序
+title: 适合博客使用的7个Adobe AIR程序
 author: 摩摩诘
 type: post
 date: 2008-05-16T04:07:32+00:00

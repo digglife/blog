@@ -1,6 +1,5 @@
 ---
-title:
-  - 集装:在Firefox侧边栏载入Google应用
+title: 集装:在Firefox侧边栏载入Google应用
 author: 摩摩诘
 type: post
 date: 2008-01-28T11:41:49+00:00

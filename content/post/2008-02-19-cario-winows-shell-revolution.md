@@ -1,6 +1,5 @@
 ---
-title:
-  - Cario:Windows桌面体验的革命,媲美Mac OS
+title: Cario:Windows桌面体验的革命,媲美Mac OS
 author: 摩摩诘
 type: post
 date: 2008-02-19T08:50:02+00:00

@@ -1,6 +1,5 @@
 ---
-title:
-  - 名侦探柯南第508集日文字幕DiggLife版
+title: 名侦探柯南第508集日文字幕DiggLife版
 author: 摩摩诘
 type: post
 date: 2008-07-11T15:38:19+00:00

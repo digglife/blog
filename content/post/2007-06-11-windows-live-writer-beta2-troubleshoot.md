@@ -1,6 +1,5 @@
 ---
-title:
-  - Windows Live Writer 2无法安装和资源占用过高的解决方案
+title: Windows Live Writer 2无法安装和资源占用过高的解决方案
   - Windows Live Writer 2无法安装和资源占用过高的解决方案
 author: 摩摩诘
 type: post

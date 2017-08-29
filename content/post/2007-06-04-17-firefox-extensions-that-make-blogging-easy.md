@@ -1,6 +1,5 @@
 ---
-title:
-  - Firefox:17个Firefox扩展让你博得更爽.
+title: Firefox:17个Firefox扩展让你博得更爽.
   - Firefox:17个Firefox扩展让你博得更爽.
 author: 摩摩诘
 type: post

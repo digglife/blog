@@ -1,6 +1,5 @@
 ---
-title:
-  - 手机版Firefox用户界面预览
+title: 手机版Firefox用户界面预览
 author: 摩摩诘
 type: post
 date: 2008-01-26T15:16:55+00:00

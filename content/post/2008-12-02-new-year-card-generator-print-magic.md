@@ -1,6 +1,5 @@
 ---
-title:
-  - 免费贺卡制作利器Print Magic
+title: 免费贺卡制作利器Print Magic
 author: 摩摩诘
 type: post
 date: 2008-12-02T11:10:02+00:00

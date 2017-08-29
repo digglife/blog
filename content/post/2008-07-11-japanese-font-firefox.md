@@ -1,6 +1,5 @@
 ---
-title:
-  - 完美解决Firefox下日文字体显示为宋体的问题
+title: 完美解决Firefox下日文字体显示为宋体的问题
 author: 摩摩诘
 type: post
 date: 2008-07-11T11:26:53+00:00

@@ -1,6 +1,5 @@
 ---
-title:
-  - Firefox 3.0 Alpha 5 发布
+title: Firefox 3.0 Alpha 5 发布
   - Firefox 3.0 Alpha 5 发布
 author: 摩摩诘
 type: post

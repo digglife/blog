@@ -1,6 +1,5 @@
 ---
-title:
-  - Prism扩展:将Web应用桌面化
+title: Prism扩展:将Web应用桌面化
 author: 摩摩诘
 type: post
 date: 2008-03-08T08:05:30+00:00

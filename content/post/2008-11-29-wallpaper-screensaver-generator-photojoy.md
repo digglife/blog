@@ -1,6 +1,5 @@
 ---
-title:
-  - 超酷壁纸和屏幕保护生成器PhotoJoy
+title: 超酷壁纸和屏幕保护生成器PhotoJoy
 author: 摩摩诘
 type: post
 date: 2008-11-29T12:00:19+00:00

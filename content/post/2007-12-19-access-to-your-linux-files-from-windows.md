@@ -1,6 +1,5 @@
 ---
-title:
-  - 在Windows下访问Linux文件系统:Linux Reader
+title: 在Windows下访问Linux文件系统:Linux Reader
 author: 摩摩诘
 type: post
 date: 2007-12-19T08:33:11+00:00

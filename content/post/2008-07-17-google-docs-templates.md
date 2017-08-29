@@ -1,6 +1,5 @@
 ---
-title:
-  - 使用开放的模板创建Google文件
+title: 使用开放的模板创建Google文件
 author: 摩摩诘
 type: post
 date: 2008-07-17T02:05:48+00:00

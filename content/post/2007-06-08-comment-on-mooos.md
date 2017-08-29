@@ -1,6 +1,5 @@
 ---
-title:
-  - 给无法评论的网站强行写上评论--MOOOS
+title: 给无法评论的网站强行写上评论--MOOOS
   - 给无法评论的网站强行写上评论--MOOOS
 author: 摩摩诘
 type: post

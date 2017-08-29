@@ -1,6 +1,5 @@
 ---
-title:
-  - Web2.0风格的PSD格式网页素材包下载
+title: Web2.0风格的PSD格式网页素材包下载
 author: 摩摩诘
 type: post
 date: 2008-02-01T17:39:24+00:00

@@ -1,6 +1,5 @@
 ---
-title:
-  - Skype For Linux 1.4 beta发布
+title: Skype For Linux 1.4 beta发布
   - Skype For Linux 1.4 beta发布
 author: 摩摩诘
 type: post

@@ -1,6 +1,5 @@
 ---
-title:
-  - Firefox 3 RC1发布,绿色便携版下载
+title: Firefox 3 RC1发布,绿色便携版下载
 author: 摩摩诘
 type: post
 date: 2008-05-18T15:12:46+00:00

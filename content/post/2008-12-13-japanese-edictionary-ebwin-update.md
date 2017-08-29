@@ -1,6 +1,5 @@
 ---
-title:
-  - 最好的日文桌面电子词典EBWin更新到3.00
+title: 最好的日文桌面电子词典EBWin更新到3.00
 author: 摩摩诘
 type: post
 date: 2008-12-12T16:00:35+00:00

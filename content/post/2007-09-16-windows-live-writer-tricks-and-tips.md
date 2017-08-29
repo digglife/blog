@@ -1,6 +1,5 @@
 ---
-title:
-  - 我的Windows Live Writer使用心得 Part.1
+title: 我的Windows Live Writer使用心得 Part.1
 author: 摩摩诘
 type: post
 date: 2007-09-16T00:24:04+00:00

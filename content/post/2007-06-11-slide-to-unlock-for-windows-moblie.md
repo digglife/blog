@@ -1,6 +1,5 @@
 ---
-title:
-  - 让你的Windows Mobile系统用上iPhone屏保特效
+title: 让你的Windows Mobile系统用上iPhone屏保特效
   - 让你的Windows Mobile系统用上iPhone屏保特效
 author: 摩摩诘
 type: post

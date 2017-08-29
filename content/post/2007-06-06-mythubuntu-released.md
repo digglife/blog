@@ -1,6 +1,5 @@
 ---
-title:
-  - Ubuntu:Ubuntu媒体中心发行版Mythubuntu 7.04
+title: Ubuntu:Ubuntu媒体中心发行版Mythubuntu 7.04
   - Ubuntu:Ubuntu媒体中心发行版Mythubuntu 7.04
 author: 摩摩诘
 type: post

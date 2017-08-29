@@ -1,6 +1,5 @@
 ---
-title:
-  - Windows Vista SP1简体中文独立安装包官方下载
+title: Windows Vista SP1简体中文独立安装包官方下载
 author: 摩摩诘
 type: post
 date: 2008-04-16T00:10:40+00:00

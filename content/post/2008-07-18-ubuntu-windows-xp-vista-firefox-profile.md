@@ -1,6 +1,5 @@
 ---
-title:
-  - Ubuntu,Windows Vista和XP共享Firefox配置文件
+title: Ubuntu,Windows Vista和XP共享Firefox配置文件
 author: 摩摩诘
 type: post
 date: 2008-07-18T10:01:47+00:00

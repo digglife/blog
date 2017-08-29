@@ -1,6 +1,5 @@
 ---
-title:
-  - 如何将Word文档转化为PDF
+title: 如何将Word文档转化为PDF
 author: 摩摩诘
 type: post
 date: 2008-05-30T12:39:24+00:00

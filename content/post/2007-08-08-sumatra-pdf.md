@@ -1,6 +1,5 @@
 ---
-title:
-  - 酷软推荐:开源PDF阅读器Sumatra PDF
+title: 酷软推荐:开源PDF阅读器Sumatra PDF
 author: 摩摩诘
 type: post
 date: 2007-08-08T10:12:54+00:00

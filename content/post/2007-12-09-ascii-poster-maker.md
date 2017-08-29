@@ -1,6 +1,5 @@
 ---
-title:
-  - 在线制作ASCII码海报:ASCII Poster Maker
+title: 在线制作ASCII码海报:ASCII Poster Maker
 author: 摩摩诘
 type: post
 date: 2007-12-09T10:03:00+00:00

@@ -1,6 +1,5 @@
 ---
-title:
-  - 将照片卡通化:Befunky
+title: 将照片卡通化:Befunky
 author: 摩摩诘
 type: post
 date: 2007-12-08T12:12:55+00:00

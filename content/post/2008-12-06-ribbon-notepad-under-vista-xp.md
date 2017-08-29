@@ -1,6 +1,5 @@
 ---
-title:
-  - Vista和XP下使用Windows 7风格的记事本
+title: Vista和XP下使用Windows 7风格的记事本
 author: 摩摩诘
 type: post
 date: 2008-12-06T08:35:26+00:00

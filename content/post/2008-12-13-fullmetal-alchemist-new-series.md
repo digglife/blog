@@ -1,24 +1,15 @@
 ---
-title:
-  - 钢之炼金术师TV动画2009年4月开始新篇章
+title: 钢之炼金术师TV动画2009年4月开始新篇章
 author: 摩摩诘
 type: post
 date: 2008-12-12T17:26:14+00:00
 url: /articles/fullmetal-alchemist-new-series.html
 index_image:
   - https://www.digglife.net/wp-content/uploads/IndexImage/fma.jpg
-views:
-  - 6943
-bot_views:
-  - 3377
 keywords:
   - 钢之炼金术师,钢炼续集,钢炼第二部
 description:
   - 其实在八月份的时候就已经有消息说钢之炼金术师将会在09年重新动漫化，但是今天看到这个消息之后我依然非常激动，非常非常，非常到我迫不及待地想和喜欢钢炼的朋友分享这个令人兴奋的消息：钢之炼金术师TV动画2009年4月开始新篇章。
-syntaxhighlighter_encoded:
-  - 1
-duoshuo_thread_id:
-  - 1154125469839262127
 categories:
   - 电影动漫
 tags:

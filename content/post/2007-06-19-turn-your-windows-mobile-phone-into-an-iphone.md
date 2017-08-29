@@ -1,6 +1,5 @@
 ---
-title:
-  - 总结:Windows Mobile手机模拟iPhone完全方案
+title: 总结:Windows Mobile手机模拟iPhone完全方案
   - 总结:Windows Mobile手机模拟iPhone完全方案
 author: 摩摩诘
 type: post

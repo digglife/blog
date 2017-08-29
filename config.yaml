@@ -12,6 +12,7 @@ hasCJKLanguage: true
 PygmentsCodeFences: true
 pygmentsStyle: tango
 MetaDataFormat: yaml
+#uglyurls: true
 
 Author:
   name: 摩摩诘

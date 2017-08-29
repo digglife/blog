@@ -1,6 +1,5 @@
 ---
-title:
-  - 我最喜欢的Windows Vista功能
+title: 我最喜欢的Windows Vista功能
 author: 摩摩诘
 type: post
 date: 2008-07-23T13:16:38+00:00

@@ -1,6 +1,5 @@
 ---
-title:
-  - Firefox 3 Beta 3新特性体验
+title: Firefox 3 Beta 3新特性体验
 author: 摩摩诘
 type: post
 date: 2008-02-16T10:03:44+00:00

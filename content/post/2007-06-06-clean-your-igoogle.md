@@ -1,6 +1,5 @@
 ---
-title:
-  - iGoogle:清理你的个性化主页
+title: iGoogle:清理你的个性化主页
   - iGoogle:清理你的个性化主页
 author: 摩摩诘
 type: post

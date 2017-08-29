@@ -1,6 +1,5 @@
 ---
-title:
-  - Ubuntu Compiz Fusion安装和常见问题解决 Part.1
+title: Ubuntu Compiz Fusion安装和常见问题解决 Part.1
 author: 摩摩诘
 type: post
 date: 2007-09-10T12:09:57+00:00

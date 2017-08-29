@@ -1,6 +1,5 @@
 ---
-title:
-  - 微软网络电视软件LiveStation尝鲜
+title: 微软网络电视软件LiveStation尝鲜
 author: 摩摩诘
 type: post
 date: 2008-02-13T02:43:28+00:00

@@ -1,6 +1,5 @@
 ---
-title:
-  - 任意定制文本对齐方式:CSS Text Wrapper
+title: 任意定制文本对齐方式:CSS Text Wrapper
 author: 摩摩诘
 type: post
 date: 2007-12-07T13:15:14+00:00

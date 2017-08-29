@@ -1,6 +1,5 @@
 ---
-title:
-  - Firefox 3附加软件页面预览
+title: Firefox 3附加软件页面预览
 author: 摩摩诘
 type: post
 date: 2008-02-19T07:47:55+00:00

@@ -1,6 +1,5 @@
 ---
-title:
-  - Google在线演示文稿新增网页嵌入功能
+title: Google在线演示文稿新增网页嵌入功能
 author: 摩摩诘
 type: post
 date: 2008-01-05T05:00:25+00:00

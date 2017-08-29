@@ -1,6 +1,5 @@
 ---
-title:
-  - 十个你可能从未见过的Google Logo
+title: 十个你可能从未见过的Google Logo
   - 十个你可能从未见过的Google Logo
 author: 摩摩诘
 type: post

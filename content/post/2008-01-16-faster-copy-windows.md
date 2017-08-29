@@ -1,6 +1,5 @@
 ---
-title:
-  - 加快Windows下的文件复制速度:TeraCopy
+title: 加快Windows下的文件复制速度:TeraCopy
 author: 摩摩诘
 type: post
 date: 2008-01-15T16:21:14+00:00

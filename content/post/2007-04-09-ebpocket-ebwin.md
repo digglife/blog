@@ -1,6 +1,5 @@
 ---
-title:
-  - PPC:EBPocket(EBWin)日文字典下载安装和使用教程
+title: PPC:EBPocket(EBWin)日文字典下载安装和使用教程
 author: 摩摩诘
 type: post
 date: 2007-04-09T08:13:28+00:00

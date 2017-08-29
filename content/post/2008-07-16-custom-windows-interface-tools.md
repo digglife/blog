@@ -1,6 +1,5 @@
 ---
-title:
-  - 9个工具打造焕然一新的Windows界面
+title: 9个工具打造焕然一新的Windows界面
 author: 摩摩诘
 type: post
 date: 2008-07-16T04:21:37+00:00

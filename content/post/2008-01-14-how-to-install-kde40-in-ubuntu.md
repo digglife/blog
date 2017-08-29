@@ -1,6 +1,5 @@
 ---
-title:
-  - 如何在Ubuntu 7.10下安装KDE 4.0
+title: 如何在Ubuntu 7.10下安装KDE 4.0
 author: 摩摩诘
 type: post
 date: 2008-01-13T16:00:56+00:00
