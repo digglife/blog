@@ -22,12 +22,14 @@ tags:
 
 把以下URL中的银行卡卡号替换成需要查询的真实卡号即可。
 
-<pre lang="bash">https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?_input_charset=utf-8&cardNo=银行卡卡号&cardBinCheck=true
-</pre>
+```bash
+https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?_input_charset=utf-8&cardNo=银行卡卡号&cardBinCheck=true
+```
 
 下面是一个农业银行的例子，当然卡号是假的，只是头6位是农行的BIN码而已。支付宝的这个API并没有使用<a href="http://en.wikipedia.org/wiki/Luhn_algorithm" title="Luhn算法" target="_blank">LUHN算法</a>来验证银行卡是否合法。
 
-<pre lang="bash">zhu@tp430:~/Dev/cnbankcard$ http "https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?_input_charset=utf-8&cardNo=6228430120000000000&cardBinCheck=true"
+```bash
+zhu@tp430:~/Dev/cnbankcard$ http "https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?_input_charset=utf-8&cardNo=6228430120000000000&cardBinCheck=true"
 HTTP/1.1 200 OK
 Connection: keep-alive
 Content-Language: zh-CN
@@ -41,14 +43,14 @@ Set-Cookie: spanner=dauWw2JHEhbWoKV/zrMf2LLFCxFf8h1G;path=/;secure;
 Strict-Transport-Security: max-age=31536000
 
 {
-    "bank": "ABC", 
-    "cardType": "DC", 
-    "key": "6228430120000000000", 
-    "messages": [], 
-    "stat": "ok", 
+    "bank": "ABC",
+    "cardType": "DC",
+    "key": "6228430120000000000",
+    "messages": [],
+    "stat": "ok",
     "validated": true
 }
-</pre>
+```
 
 因为JSON数据里的银行名称是英文代码，所以写了一个 <a href="https://github.com/digglife/cnbankcard/blob/master/parsebanks.py" title="python获取银行代码对应的中文名" target="_blank">Python 脚本</a>从<a href="http://ab.alipay.com/i/yinhang.htm" title="支付宝银行合作伙伴" target="_blank">支付宝的合作银行页面</a>自动获取英文代码对应的中文银行名。
 

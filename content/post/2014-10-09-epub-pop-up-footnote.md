@@ -16,7 +16,7 @@ tags:
 
 ---
 网上搜到一些国学典籍的 [EPUB][1] 版，虽有古人的注解，但正文和注解混排在一起，当我只想迅速读正文的时候比较碍眼。于是研究了一下 EPUB3 中有关脚注（footnote）的规格定义，写了一个 Python 脚本[把所有混在正文中的脚注全部改写成了弹出窗口样式][2]，在 iBooks 里测试通过，略记一笔。
-  
+
 <!--more-->
 
 ### 什么是EPUB弹出窗口式脚注
@@ -31,36 +31,39 @@ tags:
 
 要实现这种效果，有三个注意点。
 
-  1. 正文中的链接锚点。
-<pre lang='html'><p>
-  太祖武皇帝，沛國譙人也，姓曹，諱操，字孟德，漢相國參之後。
-      <a epub:type="noteref" href="#fn1">
-          <sup>1</sup>
-      </a>
-  桓帝世，曹騰為中常侍大長秋，封費亭侯。
-  ......
-  
-</p>
-</pre>
+1. 正文中的链接锚点。
 
-  2. 脚注 aside 模块。
-<pre lang='html'>&lt;aside epub:type="footnote" id="fn1">
-〔曹瞞傳曰：太祖一名吉利，小字阿瞞。王沈魏書曰：其先出於黃帝。當高陽世，陸終之子曰安，是為曹姓。周武王克殷，存先世之後，封曹俠於邾。春秋之世，與於盟會，逮至戰國，為楚所滅。子孫分流，或家於沛。漢高祖之起，曹參以功封平陽侯，世襲爵士，絶而復紹，至今適嗣國於容城。〕
-&lt;/aside>
-</pre>
+    ```html
+    <p>
+      太祖武皇帝，沛國譙人也，姓曹，諱操，字孟德，漢相國參之後。
+          <a epub:type="noteref" href="#fn1">
+              <sup>1</sup>
+          </a>
+      桓帝世，曹騰為中常侍大長秋，封費亭侯。
+      ......
 
-在 iBooks 下，如果 `epub:type` 属性的值为 `footnote` ，这个 `aside` 会默认隐藏。只有对应的链接被点击时，其内容才会在弹出窗口中显示。
+    </p>
+    ```
 
-  3. epub 命名空间（namespace）。
-上面两处都有一个共同的属性名，`epub:type`。一般 EPUB 文档都没有定义 epub 这个命名空间，所以满足以上两点之后直接打开会提示 epub 命名空间没有定义。EPUB 定义 namespace 有两种方式，一种是在 CSS 里定义，一种是在内容页的HTML标签里定义。我测试过，iBooks 无法识别 CSS 里定义的 namespace，所以我采用了另外一种方式。
+2. 脚注 aside 模块。
 
-<pre lang='html'>
-</pre>
+    ```html
+    <aside epub:type="footnote" id="fn1">
+    〔曹瞞傳曰：太祖一名吉利，小字阿瞞。王沈魏書曰：其先出於黃帝。當高陽世，陸終之子曰安，是為曹姓。周武王克殷，存先世之後，封曹俠於邾。春秋之世，與於盟會，逮至戰國，為楚所滅。子孫分流，或家於沛。漢高祖之起，曹參以功封平陽侯，世襲爵士，絶而復紹，至今適嗣國於容城。〕
+    </aside>
+    ```
+
+    在 iBooks 下，如果 `epub:type` 属性的值为 `footnote` ，这个 `aside` 会默认隐藏。只有对应的链接被点击时，其内容才会在弹出窗口中显示。
+
+3. epub 命名空间（`namespace`）。
+
+    上面两处都有一个共同的属性名，`epub:type`。一般 EPUB 文档都没有定义 epub 这个命名空间，所以满足以上两点之后直接打开会提示 epub 命名空间没有定义。EPUB 定义 namespace 有两种方式，一种是在 CSS 里定义，一种是在内容页的 HTML 标签里定义。我测试过，iBooks 无法识别 CSS 里定义的 namespace，所以我采用了另外一种方式。
+
 </ol>
 
 
 <h3>
-  用Python脚本处理EPUB的HTML文档
+  用 Python 脚本处理 EPUB 的 HTML 文档
 </h3>
 
 
@@ -73,27 +76,27 @@ tags:
   <li>
     循环读入所有 EPUB 内容文档并解析
   </li>
-  
-  
+
+
   <li>
     给 <code>html</code> 标签加上 epub 命名空间定义
   </li>
-  
-  
+
+
   <li>
     获取 <code>p</code> 标签下的 所有<code>span</code>标签
   </li>
-  
-  
+
+
   <li>
     遍历获取的<code>span</code>标签，取出文本，并以此创建 <code>aside</code> 模块
   </li>
-  
-  
+
+
   <li>
     清除<code>span</code>标签的内容，更改为链接锚点
   </li>
-  
+
 </ol>
 
 
@@ -102,9 +105,7 @@ tags:
 </p>
 
 
-<pre lang='html'>
-
-
+```html
 <p>
   太祖武皇帝，沛國譙人也，姓曹，諱操，字孟德，漢相國參之後。
       <span class="zhushi">
@@ -112,10 +113,9 @@ tags:
       </span>
   桓帝世，曹騰為中常侍大長秋，封費亭侯。
   ......
-  
-</p>
-</pre>
 
+</p>
+```
 
 <p>
   在 OS X 版 iBooks 中的显示效果，正文注释混排。
@@ -132,7 +132,7 @@ tags:
 </p>
 
 
-<pre lang='python'>
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -184,7 +184,7 @@ for f in os.listdir(epub_content_path):
     doc = open(html,'wb')
     doc.write(str(soup))
     doc.close()
-</pre>
+```
 
 
 <h3>
@@ -197,7 +197,7 @@ for f in os.listdir(epub_content_path):
 </p>
 
 
-<pre lang='css'>
+```css
 sup {
     font-family: Arial;
     font-size: 0.5em;
@@ -211,7 +211,7 @@ sup {
     box-shadow: 0px 1px 1px #333;
     text-shadow: 0 -1px 0 #333;
 }
-</pre>
+```
 
 
 <p>
