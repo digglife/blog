@@ -3,8 +3,9 @@ url: https://www.digglife.net
 title : DiggLife
 description: DiggLife 是一个有关互联网服务和实用软件技巧的博客
 baseURL: https://www.digglife.net/
-language: zh-CN
-languageCode: zh-CN
+defaultContentLanguage: zh
+language: zh
+languageCode: zh
 theme: ghostwriter
 copyright: DiggLife
 disqusShortname: digglifenet

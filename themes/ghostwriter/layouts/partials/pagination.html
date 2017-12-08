@@ -3,10 +3,10 @@
     <nav class="pagination" role="navigation">
         <span class="page-number">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
         {{ if $pag.HasPrev }}
-            <a class="newer-posts" href="{{ $pag.Prev.URL }}">&larr; Newer Posts</a>
+            <a class="newer-posts" href="{{ $pag.Prev.URL }}">&larr; 新日志</a>
         {{ end }}
         {{ if $pag.HasNext }}
-            <a class="older-posts" href="{{ $pag.Next.URL }}">Older Posts &rarr;</a>
+            <a class="older-posts" href="{{ $pag.Next.URL }}">旧日志 &rarr;</a>
         {{ end }}
     </nav>
 {{ end }}
