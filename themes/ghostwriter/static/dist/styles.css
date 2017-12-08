@@ -110,6 +110,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .button-square:hover { background: #303030; }
 .error { text-align: center; }
 .comments { margin-top: 10px; }
+.show-comments { margin: 0 auto; display: block; }
 .site-header { padding: 40px 0 0; overflow: auto; text-align: center; text-transform: uppercase; }
 .site-title-wrapper { display: table; margin: 0 auto; }
 .site-title { float: left; font-size: 14px; font-weight: 600; margin: 0; text-transform: uppercase; }

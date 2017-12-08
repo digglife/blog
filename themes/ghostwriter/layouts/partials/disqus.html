@@ -1,5 +1,6 @@
 {{ if .Site.DisqusShortname }}
-    <div class="comments">
-        {{ template "_internal/disqus.html" . }}
-    </div>
+<div class="comments">
+    <button class="show-comments button">加载评论</button>
+    <div id="disqus_thread"></div>
+</div>
 {{ end }}
