@@ -65,9 +65,24 @@
                                 <i class="fa fa-google-plus"></i>
                             </a>
                         {{ end }}
+                        {{ with .Site.Params.fanfou }}
+                            <a class="button-square button-social hint--top" data-hint="Fanfou" title="Fanfou" href="{{ . }}">
+                                <i class="fa fa-weibo"></i>
+                            </a>
+                        {{ end }}
                         {{ with .Site.Params.email }}
                             <a class="button-square button-social hint--top" data-hint="Email" title="Email" href="mailto:{{ . }}">
                                 <i class="fa fa-envelope"></i>
+                            </a>
+                        {{ end }}
+                        {{ with .Site.Params.psn }}
+                            <a class="button-square button-social hint--top" data-hint="PSN" title="PSN" href="{{ . }}">
+                                <i class="fa fa-trophy"></i>
+                            </a>
+                        {{ end }}
+                        {{ with .Site.Params.steam }}
+                            <a class="button-square button-social hint--top" data-hint="Steam" title="Steam" href="{{ . }}">
+                                <i class="fa fa-steam"></i>
                             </a>
                         {{ end }}
                     </div>
