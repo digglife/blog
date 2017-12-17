@@ -11,6 +11,14 @@
     {{ end}}
 
     <div class="share">
+        {{ if or (not (isset .Site.Params "shareweibo")) .Site.Params.shareWeibo }}
+            <a class="icon-weibo" href="http://service.weibo.com/share/share.php?&title={{ .Title }} - {{ .Site.Title }}&url={{ .Permalink }}"
+                onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fa fa-weibo"></i>
+                <span class="hidden">Weibo</span>
+            </a>
+        {{ end }}
+
         {{ if or (not (isset .Site.Params "sharetwitter")) .Site.Params.shareTwitter }}
             <a class="icon-twitter" href="https://twitter.com/share?text={{ .Title }}&url={{ .Permalink }}"
                 onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
