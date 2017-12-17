@@ -70,7 +70,7 @@ template { display: none; }
 .diff .hljs-change { background: #0086b3; }
 .hljs-chunk { color: #aaa; }
 html, body { height: 100%; }
-body { background: #fefefe; color: #424242; font-family: "HelveticaNeue-Light", Arial, "Hiragino Sans GB", "Microsoft Yahei", "WenQuanYi Micro Hei",sans-serif; font-size: 18px; }
+body { background: #fefefe; color: #424242; font-family: "HelveticaNeue-Light", Arial, "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", sans-serif; font-size: 18px; }
 h1, h2, h3, h4, h5, h6 { margin-bottom: 20px; text-transform: none; }
 h1 { font-size: 26px; }
 h2 { font-size: 24px; }
