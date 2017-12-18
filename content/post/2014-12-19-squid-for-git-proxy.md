@@ -23,26 +23,26 @@ tags:
 
 ### 1. Squid 添加 Git 端口
 
-    git 协议使用的是 9418 端口，所以需要在 squid.conf 里添加这个端口的支持。
+git 协议使用的是 9418 端口，所以需要在 squid.conf 里添加这个端口的支持。
 
-    ```bash
-    acl SSL_ports port 443
-    acl Safe_ports port 80		# http
-    acl Safe_ports port 21		# ftp
-    acl Safe_ports port 443		# https
-    acl Safe_ports port 70		# gopher
-    acl Safe_ports port 210		# wais
-    acl Safe_ports port 1025-65535	# unregistered ports
-    acl Safe_ports port 280		# http-mgmt
-    acl Safe_ports port 488		# gss-http
-    acl Safe_ports port 591		# filemaker
-    acl Safe_ports port 777		# multiling http
+```bash
+acl SSL_ports port 443
+acl Safe_ports port 80		# http
+acl Safe_ports port 21		# ftp
+acl Safe_ports port 443		# https
+acl Safe_ports port 70		# gopher
+acl Safe_ports port 210		# wais
+acl Safe_ports port 1025-65535	# unregistered ports
+acl Safe_ports port 280		# http-mgmt
+acl Safe_ports port 488		# gss-http
+acl Safe_ports port 591		# filemaker
+acl Safe_ports port 777		# multiling http
 
-    #add git protocol support
-    acl SSL_ports port 9418
-    acl Safe_ports port 9418        # git port
-    acl CONNECT method CONNECT
-    ```
+#add git protocol support
+acl SSL_ports port 9418
+acl Safe_ports port 9418        # git port
+acl CONNECT method CONNECT
+```
 
 编辑完成之后使用 `squid -k reconfigure` 重新载入配置文件。
 
@@ -77,7 +77,6 @@ exec socat STDIO PROXY:$_proxy:$1:$2,proxyport=$_proxyport
 
 ### 3. 配置git客户端代理
 
-
 ```bash
 git config --global core.gitproxy /path/to/你的脚本名字
 ```
@@ -88,6 +87,7 @@ git config --global core.gitproxy /path/to/你的脚本名字
 
 顺便提一下 git 的 HTTP/HTTPS 代理设置。
 
-<pre lang="bash">git config --global http.proxy http://proxy.yourcompany.com:3128
+```bash
+git config --global http.proxy http://proxy.yourcompany.com:3128
 git config --global https.proxy http://proxy.yourcompany.com:3128
-</pre>
+```
