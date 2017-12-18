@@ -13,7 +13,7 @@
     <div class="share">
         {{ if or (not (isset .Site.Params "shareweibo")) .Site.Params.shareWeibo }}
             <a class="icon-weibo" href="http://service.weibo.com/share/share.php?&title={{ .Title }} - {{ .Site.Title }}&url={{ .Permalink }}"
-                onclick="window.open(this.href, 'weibo-share', 'width=550,height=235');return false;">
+                onclick="window.open(this.href, 'weibo-share', 'width=650,height=384');return false;">
                 <i class="fa fa-weibo"></i>
                 <span class="hidden">Weibo</span>
             </a>
