@@ -9,6 +9,7 @@ languageCode: zh
 theme: ghostwriter
 copyright: DiggLife
 disqusShortname: digglifenet
+weiboName: digglife
 hasCJKLanguage: true
 PygmentsCodeFences: true
 pygmentsStyle: tango
@@ -32,6 +33,7 @@ Params:
   fanfou: http://fanfou.com/momojie
   psn: https://psnine.com/psnid/hajimuz
   email: digglife@gmail.com
+  weiboComment: true
   opengraph: true
   shareTwitter: true
   shareFacebook: true
