@@ -1,6 +1,5 @@
 ---
 title: 10个你可能不知道的Windows XP小技巧
-  - 10个你可能不知道的Windows XP小技巧
 author: 摩摩诘
 type: post
 date: 2007-06-18T09:42:14+00:00

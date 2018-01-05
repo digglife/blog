@@ -1,6 +1,5 @@
 ---
 title: Ubuntu Compiz Fusion安装和常见问题解决 Part.2
-  - Ubuntu Compiz Fusion安装和常见问题解决 Part.2
 author: 摩摩诘
 type: post
 date: 2007-09-11T14:41:08+00:00
@@ -70,7 +69,7 @@ tags:
 **3.安装compiz-ico**
 
 按顺序执行以下命令：
-  
+
 <span class="postbody">cd fusion-icon<br /> make<br /> sudo make install </span>
 
 **4.启动和使用**

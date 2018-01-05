@@ -1,6 +1,5 @@
 ---
 title: 给你的Windows Mobile手机加上iPhone风格的联系人菜单
-  - 给你的Windows Mobile手机加上iPhone风格的联系人菜单
 author: 摩摩诘
 type: post
 date: 2007-06-16T03:40:56+00:00
@@ -26,21 +25,21 @@ tags:
   - 联系人菜单
 
 ---
-如果你看过iPhone的宣传广告,大致应该知道这个效果是怎样的.为了让大家更清楚地了解,我还是在下面贴一段视频.这个效果的特点是,当你手指上下滑动时,页面有一个惯性滑动效果. 
+如果你看过iPhone的宣传广告,大致应该知道这个效果是怎样的.为了让大家更清楚地了解,我还是在下面贴一段视频.这个效果的特点是,当你手指上下滑动时,页面有一个惯性滑动效果.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/icontact.png" atomicselection="true"><img height="266" alt="icontact" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/icontact-thumb.png" width="200" /></a>  <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/sscontact-v1-1-0.jpg" atomicselection="true"><img height="266" alt="sscontact-v1-1-0" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/sscontact-v1-1-0-thumb.jpg" width="200" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/icontact.png" atomicselection="true"><img height="266" alt="icontact" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/icontact-thumb.png" width="200" /></a>  <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/sscontact-v1-1-0.jpg" atomicselection="true"><img height="266" alt="sscontact-v1-1-0" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/sscontact-v1-1-0-thumb.jpg" width="200" /></a>
 
 <!--more-->
 
 为了测试效果,必须加入多个联系人(其实我的是PPC,不能打电话,所以没有联系人&#8230;..),所以我临时加了几个,试了一下还是不错的,比Windows Mobile下干巴巴的联系人菜单好多了.有两个软件可以实现这种效果,[i-Contact][1]和[SSContact][2](这个无法在Windows Mobile 2003下运行,所以我没有截图),看截图似乎后者比较像一点,推荐.
 
-> **软件下载(来自<a href="http://www.freewarepocketpc.net" target="_blank">freewarepocketpc</a>):** 
-> 
-> [i-Contact][3] 
-> 
-> [SSContact][4] 
+> **软件下载(来自<a href="http://www.freewarepocketpc.net" target="_blank">freewarepocketpc</a>):**
+>
+> [i-Contact][3]
+>
+> [SSContact][4]
 
-i-contact视频如下: 
+i-contact视频如下:
 
  
 

@@ -1,6 +1,5 @@
 ---
 title: Windows Live Writer 2无法安装和资源占用过高的解决方案
-  - Windows Live Writer 2无法安装和资源占用过高的解决方案
 author: 摩摩诘
 type: post
 date: 2007-06-11T08:27:04+00:00
@@ -28,7 +27,7 @@ tags:
   - 微软
 
 ---
-<a href="https://www.digglife.net/articles/windows-live-writer-beta2-released.html" target="_blank">Windows Live Writer Beta 2上周发布</a>后用户反应了很多问题,<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wlw-cr.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="47" alt="WLW_cr" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/wlw-cr-thumb.png" width="240" align="right" border="0" /></a>包括无法安装和造成资源占用过高导致电脑宕机.今天WLW团队在他们的博客<a href="http://windowslivewriter.spaces.live.com/" target="_blank">Writer Zone</a>上提供了官方的解决办法. 
+<a href="https://www.digglife.net/articles/windows-live-writer-beta2-released.html" target="_blank">Windows Live Writer Beta 2上周发布</a>后用户反应了很多问题,<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wlw-cr.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="47" alt="WLW_cr" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/wlw-cr-thumb.png" width="240" align="right" border="0" /></a>包括无法安装和造成资源占用过高导致电脑宕机.今天WLW团队在他们的博客<a href="http://windowslivewriter.spaces.live.com/" target="_blank">Writer Zone</a>上提供了官方的解决办法.
 
 &nbsp;
 
@@ -54,17 +53,17 @@ tags:
 
 Windows XP SP2用户定位到以下文件夹:
 
->   * C:\Documents and Settings\All Users\Application Data\WindowsLiveInstaller\logs 
->   * C:\Documents and Settings\All Users\Application Data\WindowsLiveInstaller\MsiLogs 
->   * C:\Documents and Settings\All Users\Application Data\WLInstaller 
+>   * C:\Documents and Settings\All Users\Application Data\WindowsLiveInstaller\logs
+>   * C:\Documents and Settings\All Users\Application Data\WindowsLiveInstaller\MsiLogs
+>   * C:\Documents and Settings\All Users\Application Data\WLInstaller
 
 <!--more-->
 
 WindowsVista 用户定位到以下文件夹获取:
 
->   * C:\programdata\WindowsLiveInstaller\logs 
->   * C:\programdata\WindowsLiveInstaller\MsiLogs 
->   * C:\programdata\WLInstaller 
+>   * C:\programdata\WindowsLiveInstaller\logs
+>   * C:\programdata\WindowsLiveInstaller\MsiLogs
+>   * C:\programdata\WLInstaller
 
 3. 点击下载<a href="http://download.microsoft.com/download/2/3/0/23036331-516d-4c7e-b9ac-31554a2fec06/WL-Beta-remove.zip" target="_blank">WL-Beta-Remove</a>文件.
 
@@ -86,8 +85,8 @@ WindowsVista 用户定位到以下文件夹获取:
 
 10. 重新安装Windows Live Writer.&nbsp; NOTE: 如果你还安装有Windows Live Messenger 或者Windows Live Mail ,你还需要一并重装他们:
 
-  * 重新安装<a href="http://get.live.com/betas/maildesktop_betas" target="_blank">Windows Live Mail</a> 
-  * 重新安装<a href="http://get.live.com/betas/messenger_betas" target="_blank">Windows Live Messenger</a> 
+  * 重新安装<a href="http://get.live.com/betas/maildesktop_betas" target="_blank">Windows Live Mail</a>
+  * 重新安装<a href="http://get.live.com/betas/messenger_betas" target="_blank">Windows Live Messenger</a>
 
 11. 打开[Writer support page][1] 并提交第二步保存的记录文件.
 
@@ -115,10 +114,10 @@ WindowsVista 用户定位到以下文件夹获取:
 
 3. 在命令提示符程序中输入一下命令:
 
-  * net stop &#8220;Windows Live Setup Service&#8221; 
-  * 回车 
-  * sc config &#8220;Windows Live Setup Service&#8221; start=disabled 
-  * 回车 
+  * net stop &#8220;Windows Live Setup Service&#8221;
+  * 回车
+  * sc config &#8220;Windows Live Setup Service&#8221; start=disabled
+  * 回车
 
 4. 关闭命令提示符和其他运行的程序
 

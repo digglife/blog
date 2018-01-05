@@ -1,6 +1,5 @@
 ---
 title: 新鲜出炉的11款Wordpress主题模版
-  - 新鲜出炉的11款Wordpress主题模版
 author: 摩摩诘
 type: post
 date: 2007-06-09T08:12:09+00:00

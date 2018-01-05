@@ -1,6 +1,5 @@
 ---
 title: Firefox 3.0 Alpha 5 发布
-  - Firefox 3.0 Alpha 5 发布
 author: 摩摩诘
 type: post
 date: 2007-06-08T07:47:48+00:00
@@ -24,12 +23,12 @@ Firefox 3.0继续Alpha,代号依然为我们熟悉的_Gran Paradiso_.<a atomicse
 Places功能仍然在开发当中,最终的版本将会支持给收藏加标签,全文本索引,加强的元数据搜索,内置同步等功能.另外,导出功能也将加强,能够将书签导出为多种格式.这个Alpha版本主要是整合了Place系统的架构元素,Place的<a target="_blank" href="http://wiki.mozilla.org/Places:User_Interface">用户界面</a>还没有开发出来,所以尽管加入了这个功能,但是并没有在界面上得以体现.值得一提的是,Alpha5把<a target="_blank" href="http://developer.mozilla.org/devnews/index.php/2007/05/23/bookmarks-on-places-now-enabled-for-firefox-3-alpha-5/">书签库</a>从目前的XML格式转到了基于SQLite的Mozstorage系统,所以能够在Firefox的Profile文件夹发现.sqlite文件.                                                             
 
 > **更新日志:**
-> 
+>
 >   * 增加Place功能.
 >   * 新的崩溃记录工具Breakpad
 >   * 新的基于Javascripts的密码管理器 
 >   * 修正了一些Gecko 1.9核心的Bug
-> 
+>
 > 完整的更新日志看<a target="_blank" href="http://developer.mozilla.org/devnews/index.php/2007/06/06/firefox-30-alpha-5-available-for-download/">这里</a> 
 
 <!--more-->
@@ -51,7 +50,7 @@ Firefox 3.0可能会在将来加入**恶意软件防护功能(**Malware Protecti
 <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/firefox-anti-malware.png"><img width="350" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/firefox-anti-malware-thumb.png" alt="firefox-anti-malware" height="319" /></a>                      
 
 目前有害网站名单由一家专门和间谍软件,恶意软件和欺诈广告做斗争的<a target="_blank" href="http://www.stopbadware.org/home/help">StopBadware</a>管理,并且有Google,联想和Sun的幕后支持.
-  
+
 如果你留心的话,会发现用Google搜索的时候,某些搜索结果下下会有&#8221;该网站可能会损害您的计算机&#8221;的字样.这正式Firefox3.0最新功能的依据.
 
  [1]: http://download.mozilla.org/?product=granparadiso-alpha5&os=win

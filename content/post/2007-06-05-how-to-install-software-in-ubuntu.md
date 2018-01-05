@@ -1,6 +1,5 @@
 ---
 title: Ubuntu技巧:Ubuntu软件安装方法完全指南
-  - Ubuntu技巧:Ubuntu软件安装方法完全指南
 author: 摩摩诘
 type: post
 date: 2007-06-05T13:43:04+00:00
@@ -33,25 +32,25 @@ tags:
 
 **3步安装:搜索,标记,应用**
 
-  1. 搜索你需要安装的程序.在新立得里面有成千上万种主题,应用程序,软件包,文档.所有的这些文件包都被存放在Ubuntu的服务器上供下载和升级.新立得相当于一个升级版的windows升级工具,因为它除了可以升级系统文件之外,还可以通过它安装的非关键性程序.你可以在侧边栏的分类中查找软件.点击工具栏上的搜索图标进行搜索. <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/.png" atomicselection="true"><img height="354" alt="新立得" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/thumb.png" width="450" /></a> 
-  2. 找到需要安装的文件包后,右键点击标记.系统很有可能会提示你一些依赖程序将会同时被安装,幸运的是这些系统会自动为你解决.记住:你可以使用同样的步骤卸载程序(右键点击,选择卸载).你也可以一次标记多个安装包以节省时间. 
-  3. 标记完毕所有需要安装的文件之后,点击应用图标.新立得会自动下载安装. 
+  1. 搜索你需要安装的程序.在新立得里面有成千上万种主题,应用程序,软件包,文档.所有的这些文件包都被存放在Ubuntu的服务器上供下载和升级.新立得相当于一个升级版的windows升级工具,因为它除了可以升级系统文件之外,还可以通过它安装的非关键性程序.你可以在侧边栏的分类中查找软件.点击工具栏上的搜索图标进行搜索. <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/.png" atomicselection="true"><img height="354" alt="新立得" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/thumb.png" width="450" /></a>
+  2. 找到需要安装的文件包后,右键点击标记.系统很有可能会提示你一些依赖程序将会同时被安装,幸运的是这些系统会自动为你解决.记住:你可以使用同样的步骤卸载程序(右键点击,选择卸载).你也可以一次标记多个安装包以节省时间.
+  3. 标记完毕所有需要安装的文件之后,点击应用图标.新立得会自动下载安装.
 
 <!--more-->
 
 
-  
-**常见问题:** 
 
-<font color="#ff0080">1.如果找不到我需要的文件怎么办?</font>  
+**常见问题:**
+
+<font color="#ff0080">1.如果找不到我需要的文件怎么办?</font>
 其实这是很正常的.大概说来有以下3个原因:
 
-  * 新立得软件包管理器里面的所有文件包都来自Ubuntu的主源,但是除了默认的源之外还有很多非官方软件源.在你放弃安装之前尝试一下激活额外的源. 
-  * 如果你没有联网,这样的结果是肯定的.当然,你也许能够在安装CD上找到它,不过基本上这样的可能性比较小. 
-  * 如果你在非官方源都无法找到该文件包,你还可以手动安装.但是记住,在Linux下有比你想象中多得多的安装包格式.这也是本文重点介绍的部分. 
+  * 新立得软件包管理器里面的所有文件包都来自Ubuntu的主源,但是除了默认的源之外还有很多非官方软件源.在你放弃安装之前尝试一下激活额外的源.
+  * 如果你没有联网,这样的结果是肯定的.当然,你也许能够在安装CD上找到它,不过基本上这样的可能性比较小.
+  * 如果你在非官方源都无法找到该文件包,你还可以手动安装.但是记住,在Linux下有比你想象中多得多的安装包格式.这也是本文重点介绍的部分.
 
-<font color="#ff0080">2.我已经安装了,但是我在哪里才能找到它呢?</font>  
-通常情况下,应用程序菜单会自动升级以包含你安装的文件,但是有时也不会.这里有几种方法找到你新安装的程序.  
+<font color="#ff0080">2.我已经安装了,但是我在哪里才能找到它呢?</font>
+通常情况下,应用程序菜单会自动升级以包含你安装的文件,但是有时也不会.这里有几种方法找到你新安装的程序.
 1).安装Debian Menu.
 
 Debian Menu给你安装的程序提供了一个更加全面的列表,它同样显示在应用程序菜单里.你需要安装一个叫做menu-xdg的软件包(新立得里面有),可能需要重启X window(Ctrl+Alt+空格)才能让它显示.
@@ -60,20 +59,20 @@ Debian Menu给你安装的程序提供了一个更加全面的列表,它同样�
 
 2).在终端输入程序名.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/2007-06-05-062239-561x463-scrot.png" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="371" alt="2007-06-05-062239_561x463_scrot" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/2007-06-05-062239-561x463-scrot-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/2007-06-05-062239-561x463-scrot.png" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="371" alt="2007-06-05-062239_561x463_scrot" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/2007-06-05-062239-561x463-scrot-thumb.png" width="450" border="0" /></a>
 
-比如说我通过新立得安装了**Muine**,然后可以通过在终端直接输入**Muine**,回车就可以启动它了.注意,这样操作得话,程序会随着你关闭终端而自动关闭. 为避免这种情况发生,同时按下**Alt+F2**运行**启动程序管理**,输入muine启动.你还可以尝试键入程序名称的首字母后按两下Tab键.输入框会显示命令名称或者可供选择的命令列表.要知道程序的命令行名称可以按照一下步骤:  
+比如说我通过新立得安装了**Muine**,然后可以通过在终端直接输入**Muine**,回车就可以启动它了.注意,这样操作得话,程序会随着你关闭终端而自动关闭. 为避免这种情况发生,同时按下**Alt+F2**运行**启动程序管理**,输入muine启动.你还可以尝试键入程序名称的首字母后按两下Tab键.输入框会显示命令名称或者可供选择的命令列表.要知道程序的命令行名称可以按照一下步骤:
 在新立得里面右键点击安装包,选择属性后进入&#8221;已安装文件&#8221;标签栏.这里显示的是已安装的程序列表,安装到/**usr/bin文件夹**的文件绝大多数情况就是该程序的命令名.
 
-<font color="#ff0080">3.我该如何卸载这些程序呢.</font>  
+<font color="#ff0080">3.我该如何卸载这些程序呢.</font>
 当你要卸载一个程序时,和安装该程序的步骤一样,只是要选择&#8221;标记以便删除&#8221;,而不是&#8221;标记以便安装&#8221;.如果你想把配置文件一并删除,则可以选择&#8221;标记以便彻底删除&#8221;.
 
 ### **二.使用终端安装软件.**
 
 可能你会经常看到这样的话:你可以使用以下代码安装某某程序&#8230;然后在下面提供一段可以直接复制到终端的代码.你可能觉得这和新立得完全不同,而事实上,新立得同样在使用这样的代码,只不过给了一个友好的界面而已.
 
-安装方法:  
-定位到应用**<font color="#000080">程序&#8211;附件&#8211;终端</font>**,激活终端程序.  
+安装方法:
+定位到应用**<font color="#000080">程序&#8211;附件&#8211;终端</font>**,激活终端程序.
 以下的两行代码是安装程序最常用的命令.
 
 > sudo apt-get install ABC 和 sudo aptitude install ABC
@@ -102,7 +101,7 @@ Debian Menu给你安装的程序提供了一个更加全面的列表,它同样�
 
 你肯定无法在新立得里面找到自己需要的软件了?你试过激活更多的额外源么?如果你都常试过了都无法找到的话,那么我们就要使用你在Windows下经常使用的招数了.下载安装包然后手动安装.
 
-**1.安装Debian包(.deb)**  
+**1.安装Debian包(.deb)**
 其实你在新立得软件包管理器里面下载的所有软件都是Debian软件包.所以如果你在网上找到的程序有几种格式供下载的时候,最简单的就是下载Debian包.
 
 安装方法:
@@ -121,30 +120,30 @@ Debian Menu给你安装的程序提供了一个更加全面的列表,它同样�
 
 注意:使用此命令需要你自己注意依赖软件,所以这并不是安装软件的最佳方法.
 
-**2.安装rpm软件包(.rpm)**  
+**2.安装rpm软件包(.rpm)**
 RPM是另外一个流行的软件打包方式,它在很多流行的Linux发行版如Fedora,SUSE,Mandriva等上应用得非常广泛.它并没有被 Ubuntu的软件包管理器所采用,但是有一个命令能够将其转化为Deb格式,尽管如此,这并不代表所有的RPM包都能在你的系统上正常运行.同样的软件可以直接安装RPM包,这个包叫做alien,你可以在新立得(当然命令行也可以)里面下载安装它:
 
 > sudo apt-get install alien
 
-那么,RPM的安装方法:  
+那么,RPM的安装方法:
 如果用户neo需要安装放在桌面的名叫test.rpm的软件包,只需要在终端中输入
 
 > sudo alien -i /home/neo/desktop/test.rpm
 
-**3.安装桌面主题(.tar, .tar.gz, .tgz, .tar.bz, &#8230;)**  
+**3.安装桌面主题(.tar, .tar.gz, .tgz, .tar.bz, &#8230;)**
 在Gnome下安装桌面主题非常简单.定位到 **<font color="#0000a0">系统&#8211;首选项&#8211;主题</font>** 打开**主题管理器**.使用这个应用程序你可以更改图标,控件,窗口边框等.下载主题包后只需要将其拖拽到主题管理器窗口即可安装.
 
 <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ubuntu-desktop-themes.png" atomicselection="true"><img height="486" alt="ubuntu_desktop_themes" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/ubuntu-desktop-themes-thumb.png" width="450" /></a>
 
-**4.启动画面主题.(.tar, .tar.gz, .tgz, .tar.bz, &#8230;)  
+**4.启动画面主题.(.tar, .tar.gz, .tgz, .tar.bz, &#8230;)
 ** 这个和安装桌面主题一样简单.定位到 **<font color="#000080">系统&#8211;系统管理&#8211;登录窗口</font>** 打开登录窗口首选项.拖拽下载的主题到这个窗口,在弹出对话框中点击确认即可.
 
 <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/login-themes.png" atomicselection="true"><img height="509" alt="login_themes" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/login-themes-thumb.png" width="450" /></a>
 
 > 介绍两个比较火的Gnome主题网站:
-> 
+>
 > <a href="http://www.gnome-look.org/" target="_blank">Gnome-Look</a>
-> 
+>
 > <a href="http://art.gnome.org/" target="_blank">Gnome Art</a>
 
 **5.源码包 (.tar, .tar.gz, .tgz, .tar.bz, &#8230;)**

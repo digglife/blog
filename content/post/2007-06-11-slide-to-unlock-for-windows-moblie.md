@@ -1,6 +1,5 @@
 ---
 title: 让你的Windows Mobile系统用上iPhone屏保特效
-  - 让你的Windows Mobile系统用上iPhone屏保特效
 author: 摩摩诘
 type: post
 date: 2007-06-11T09:51:16+00:00
@@ -52,13 +51,13 @@ iPhone的苹果风格特效让不少<a target="_blank" href="https://www.digglif
 **Note:Windows Mobile下如何创建程序和文件的快捷方式.**
 
 > 1.将你的掌上设备通过ActiveSync连接到电脑.
-> 
+>
 > 2.右键点击你需要创建快捷方式的程序,选择&#8221;复制&#8221;.
-> 
+>
 > <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/shortcut.png"><img width="380" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/shortcut-thumb.png" alt="shortcut" height="450" /></a>
-> 
+>
 > 3.定位到你要希望复制到的文件夹,右键点击空白处,选择&#8221;复制快捷方式&#8221;.
-> 
+>
 > 当然,在第2步的时候,你可以直接选择创建快捷方式,然后将该快捷方式复制到指定文件夹.
 
 消息来源:<a target="_blank" href="http://www.gadgetell.com/2007/06/slide-2-unlock-gives-windows-mobile-users-an-iphone-feature/">Gadgetell</a>

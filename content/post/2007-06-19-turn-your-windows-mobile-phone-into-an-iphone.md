@@ -1,6 +1,5 @@
 ---
 title: 总结:Windows Mobile手机模拟iPhone完全方案
-  - 总结:Windows Mobile手机模拟iPhone完全方案
 author: 摩摩诘
 type: post
 date: 2007-06-18T16:17:52+00:00
@@ -73,7 +72,7 @@ tags:
 为了给每一个按钮指定应用程序,只需要在Config.ini文件中找到该按钮名称,然后编辑后面的路径即可.比如,如果我想让Clock按钮运行Slide2Unlock,可以编辑clock那一行为
 
 > `clock=\你刚刚新创建的文件夹路径(我的是<font color="#ff0080">\SD Card\iphone\</font>)\slide.exe`
-> 
+>
 > `如果你是下载Cab文件安装的,那么这行应该编辑为:\Program Files\Slide2Unlock\slide.exe`
 
 如果你还想做进一步的自定义,你可以更改GFX文件夹内的图片文件.这个文件夹内是组成整个界面的所有BMP格式图片.你只需将自己的图标按钮命名为你想替换的按钮名称,然后复制到GFX\Icon文件夹内覆盖原文件即可.如果要更改显示文字,你需要编辑GFX\Res内的图片.

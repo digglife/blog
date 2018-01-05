@@ -1,6 +1,5 @@
 ---
 title: iGoogle:清理你的个性化主页
-  - iGoogle:清理你的个性化主页
 author: 摩摩诘
 type: post
 date: 2007-06-06T09:09:27+00:00

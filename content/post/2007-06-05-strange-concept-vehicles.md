@@ -1,6 +1,5 @@
 ---
 title: 史上最怪异的10款概念车
-  - 史上最怪异的10款概念车
 author: 摩摩诘
 type: post
 date: 2007-06-05T13:46:28+00:00
@@ -35,8 +34,8 @@ tags:
 <!--more-->
 
 
-  
-2.坦克车 
+
+2.坦克车
 
 <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-tank-chair.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="310" alt="strange-vehicles-tank-chair" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-tank-chair-thumb.jpg" width="400" border="0" /></a>
 

@@ -1,6 +1,5 @@
 ---
 title: Skype For Linux 1.4 beta发布
-  - Skype For Linux 1.4 beta发布
 author: 摩摩诘
 type: post
 date: 2007-06-16T03:59:27+00:00
@@ -23,33 +22,33 @@ tags:
   - 软件
 
 ---
-Skype在14日发布了<a href="http://www.skype.com/intl/en/download/skype/linux/" target="_blank">Linux版本的 1.4 beta</a>.从更新日志上看,Skype的确对这个被人忽视的Linux版本做了很多改进,但是在功能上依然落后Windows和Mac版本.最受关注得摄像头功能还是没有加入.遗憾,其实我在Linux下还一次都没有用过摄像头,主要是驱动装不上,不过既然已经<a href="http://www.cnbeta.com/articles/26339.htm" target="_blank">有个热心的法国人为中国300多种摄像头开发了Linux驱动</a>,相信这也不会成为什么问题. 
+Skype在14日发布了<a href="http://www.skype.com/intl/en/download/skype/linux/" target="_blank">Linux版本的 1.4 beta</a>.从更新日志上看,Skype的确对这个被人忽视的Linux版本做了很多改进,但是在功能上依然落后Windows和Mac版本.最受关注得摄像头功能还是没有加入.遗憾,其实我在Linux下还一次都没有用过摄像头,主要是驱动装不上,不过既然已经<a href="http://www.cnbeta.com/articles/26339.htm" target="_blank">有个热心的法国人为中国300多种摄像头开发了Linux驱动</a>,相信这也不会成为什么问题.
 
- <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/linux-14-shot.png" atomicselection="true"><img height="190" alt="linux_14_shot" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/linux-14-shot-thumb.png" width="450" /></a>  
+ <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/linux-14-shot.png" atomicselection="true"><img height="190" alt="linux_14_shot" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/linux-14-shot-thumb.png" width="450" /></a> 
 
 <!--more-->
 
 **下载:**
 
-<a href="http://download.skype.com/linux/skype-1.4.0.74.deb" target="_blank">For Ubuntu 7.04 Debian包下载</a> 
+<a href="http://download.skype.com/linux/skype-1.4.0.74.deb" target="_blank">For Ubuntu 7.04 Debian包下载</a>
 
 其他Linux发行版<a href="http://www.skype.com/intl/en/download/skype/linux/" target="_blank">官方下载页面</a>.
 
  
 
 > 硬软件要求:
-> 
+>
 > ### Hardware requirements
-> 
->   * 400 Mhz processor or faster. 
->   * 256 MB RAM. 
->   * 20 MB free disk space on your hard drive. 
->   * Microphone and speakers or headset. 
->   * Internet connection (broadband is best, GPRS is not supported for voice calls, and results may vary on a satellite connection). 
-> 
+>
+>   * 400 Mhz processor or faster.
+>   * 256 MB RAM.
+>   * 20 MB free disk space on your hard drive.
+>   * Microphone and speakers or headset.
+>   * Internet connection (broadband is best, GPRS is not supported for voice calls, and results may vary on a satellite connection).
+>
 > ### Software requirements
-> 
->   * Qt 4.2.1+ 
->   * D-Bus 1.0.0 
->   * libsigc++ 2.0.2 
+>
+>   * Qt 4.2.1+
+>   * D-Bus 1.0.0
+>   * libsigc++ 2.0.2
 >   * libasound2 1.0.12

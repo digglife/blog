@@ -1,6 +1,5 @@
 ---
 title: Windows Mobile设备中心6.1发布.
-  - Windows Mobile设备中心6.1发布.
 author: 摩摩诘
 type: post
 date: 2007-06-08T08:45:51+00:00

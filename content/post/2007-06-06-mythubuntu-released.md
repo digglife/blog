@@ -1,6 +1,5 @@
 ---
 title: Ubuntu:Ubuntu媒体中心发行版Mythubuntu 7.04
-  - Ubuntu:Ubuntu媒体中心发行版Mythubuntu 7.04
 author: 摩摩诘
 type: post
 date: 2007-06-06T09:36:55+00:00
@@ -26,7 +25,7 @@ tags:
 
 ---
 最近似乎每个月都有一个基于<a target="_blank" href="http://www.ubuntu.org.cn">Ubuntu</a>的新发行版出现.上个月是为专业媒体编辑人员设计的[Ubuntu Studio][1].现在是这个Alpha版本的[Mythbuntu][2](那个7.10暂且不谈).和Ubuntu Studio正好相对,这个发行版针对的是媒体消费者而不是媒体编辑人员.
-  
+
 [Mythbuntu][2]里面整合了媒体中心软件,当然,Windows Vista里面也有,但是这个是开源的,而且是免费的.
 
 <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mythfrontend-thumb.png"><img width="400" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/mythfrontend-thumb-thumb.png" alt="mythfrontend_thumb" height="300" /></a>

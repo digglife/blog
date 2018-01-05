@@ -1,6 +1,5 @@
 ---
 title: SlideShow:Gmail推出PowerPoint预览功能
-  - SlideShow:Gmail推出PowerPoint预览功能
 author: 摩摩诘
 type: post
 date: 2007-06-12T13:50:06+00:00
@@ -33,7 +32,7 @@ tags:
 <!--more-->
 
 
-  
+
 页面上方的两个箭头可以进行翻页操作,右上方显示第几张.图片中有3个长方形,那个是摩摩诘三个字的乱码.看来目前还没有良好的中文支持(<a target="_blank" href="https://www.digglife.net/articles/safari-30-alpha-for-windows%e4%bd%93%e9%aa%8c%e4%b8%a4%e4%b8%aa%e5%ad%97%e7%b3%9f%e7%b3%95.html">今天对国外大公司对中文的支持已经彻底不爽了</a>),所以对于我们的大部分文件来说目前这个功能还没有太大意义.
 
 <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ppt1.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/ppt1-thumb.png" alt="ppt1" height="262" /></a>

@@ -1,6 +1,5 @@
 ---
 title: 十个你可能从未见过的Google Logo
-  - 十个你可能从未见过的Google Logo
 author: 摩摩诘
 type: post
 date: 2007-06-04T05:26:45+00:00
@@ -38,7 +37,7 @@ Google总会为纪念某个节日设计一些有着独特创意的Logo放在首�
 
 <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/google-netscape.jpg"><img width="200" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/google-netscape-thumb.jpg" alt="google-netscape" height="39" /></a>
 
-**3. Google Yahoo** 
+**3. Google Yahoo**
 
 <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/google-yahoo.jpg"><img width="175" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/google-yahoo-thumb.jpg" alt="google-yahoo" height="38" /></a>
 

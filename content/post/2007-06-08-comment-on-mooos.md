@@ -1,6 +1,5 @@
 ---
 title: 给无法评论的网站强行写上评论--MOOOS
-  - 给无法评论的网站强行写上评论--MOOOS
 author: 摩摩诘
 type: post
 date: 2007-06-08T02:59:04+00:00
@@ -33,19 +32,19 @@ tags:
 <!--more-->
 
 首先输入网页地址.
-  
+
 [<img src="http://digglife.qiniudn.com/qiniu/975/image/65512a6caaab22919f1d19c020522e63.png" border="0" />][1]
-  
+
 然后写上评论.
-  
+
 [<img src="http://digglife.qiniudn.com/qiniu/975/image/2dab92cfd4d1c00da22de8384520764c.png" border="0" />][2]
-  
+
 最后发布.
-  
+
 [<img src="http://digglife.qiniudn.com/qiniu/975/image/7eab11ad8f14f4f36d157080894b388c.png" border="0" />][3]
-  
+
 订阅评论RSS.
-  
+
 [<img src="http://digglife.qiniudn.com/qiniu/975/image/f3aa423bcf9f1655c7f37604ee99f662.png" border="0" />][4]
 
 当然,你的评论不能显示在原网页上(废话).尽管本身的想法还是有点创意的,非常符合Web2.0的宗旨.但是问题在于,如果评论无法显示在原网页上,那么评论的意义到底能有多大.第二,如果原网页允许评论,那么下面无论出现什么样的评论都只关原网站主的事,但是现在如果MOOOS上出现严重损坏原网站名誉的评论,该由谁负责?

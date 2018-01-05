@@ -1,6 +1,5 @@
 ---
 title: Safari 3.0 Alpha For Windows体验,两个字:糟糕.
-  - Safari 3.0 Alpha For Windows体验,两个字:糟糕.
 author: 摩摩诘
 type: post
 date: 2007-06-12T07:39:27+00:00
@@ -12,8 +11,6 @@ comment_count:
   - 12
 trackback_count:
   - 1
-related_posts:
-  - 'a:2:{s:4:"time";i:1224883889;s:13:"related_posts";s:1406:"<h3>相关日志</h3><ul class="related_post"><li><a href="http://www.digglife.cn/articles/firefox3-beta5.html" title="Firefox 3 Beta 5发布,绿色便携版下载">Firefox 3 Beta 5发布,绿色便携版下载</a></li><li><a href="http://www.digglife.cn/articles/vista-theme-visual-style-download.html" title="7个漂亮的Vista主题(视觉样式)下载">7个漂亮的Vista主题(视觉样式)下载</a></li><li><a href="http://www.digglife.cn/articles/custom-windows-interface-tools.html" title="9个工具打造焕然一新的Windows界面">9个工具打造焕然一新的Windows界面</a></li><li><a href="http://www.digglife.cn/articles/enjoy-wlw-technical-preview.html" title="Window Live Writer技术预览版下载和体验">Window Live Writer技术预览版下载和体验</a></li><li><a href="http://www.digglife.cn/articles/firefox3rc1-download-improvements.html" title="Firefox 3 RC1发布,绿色便携版下载">Firefox 3 RC1发布,绿色便携版下载</a></li><li><a href="http://www.digglife.cn/articles/clean-up-desktop-improve-productivity-2.html" title="彻底清空桌面,让启动程序更加高效Part.2">彻底清空桌面,让启动程序更加高效Part.2</a></li><li><a href="http://www.digglife.cn/articles/clean-up-desktop-improve-productivity-1.html" title="彻底清空桌面,让启动程序更加高效Part.1">彻底清空桌面,让启动程序更加高效Part.1</a></li></ul>";}'
 bot_views:
   - 2326
 views:
