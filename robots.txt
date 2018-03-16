@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /page/
+
+Sitemap: http://www.digglife.net/sitemap.xml
