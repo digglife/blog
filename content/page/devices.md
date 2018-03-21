@@ -6,6 +6,15 @@ url: /devices
 date: 2011-05-03T11:19:11+00:00
 
 ---
+![nintendo switch](/wp-content/uploads/switch.jpg)
+
+### Nintendo Switch
+
+2018 年 3 月在某电玩店买入，港行。
+
+始终无法抵抗开放世界塞尔达的吸引，又一次啪啪打脸了。这也是我的第一台任天堂电视主机，离我第一次接触 Famicon 已有二十多年。
+
+
 <img title="PlayStation4" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/iphone7.jpeg" alt="iPhone7" width="400" height="400" class="alignright" />
 
 ### iPhone 7 Black 256GB
