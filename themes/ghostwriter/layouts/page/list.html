@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ if gt $pag.PageNumber 1 }}{{ .Title }} &#45; 第 {{ $pag.PageNumber }} 页 &#45; {{ .Site.Title }}{{ else }}{{ if .IsHome }}{{ .Title }} &#45; {{ .Site.Params.subtitle }}{{ else }}{{ .Title }} &#45; {{ .Site.Title }}{{ end }}{{ end }}</title>
-        <meta name="description" content="{{ with .Description }}NOT EMPTY{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+        <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.Description }}{{ else if .IsPage }}{{ .Summary }}{{ else }}{{ with .Description }}{{ . }}{{ end }}{{ end }}">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
         {{ .Hugo.Generator }}
