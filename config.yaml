@@ -1,7 +1,6 @@
 ---
 url: https://www.digglife.net
 title : DiggLife
-description: DiggLife 是一个有关互联网服务和实用软件技巧的博客
 baseURL: https://www.digglife.net/
 defaultContentLanguage: zh
 language: zh
@@ -25,13 +24,16 @@ Taxonomies:
   category: categories
 
 Params:
-  intro: true
+  intro: false
   subtitle: 有关网络和软件技巧
+  description: DiggLife 是一个有关互联网服务和实用软件技巧的博客
+  headline: 
   github: https://github.com/digglife
   linkedin: https://linkedin.com/in/digglife/
   stackoverflow: https://stackoverflow.com/users/1350657/zsl
   fanfou: http://fanfou.com/momojie
   psn: https://psnine.com/psnid/hajimuz
+  baidutongji: b5322f4f14ea8094a32218bc1c34f770
   email: digglife@gmail.com
   weiboComment: true
   opengraph: true
