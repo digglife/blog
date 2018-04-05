@@ -6,6 +6,7 @@
         <title>{{ if .IsHome }}{{ .Title }} &#45; {{ .Site.Params.subtitle }}{{ else }}{{ .Title }} &#45; {{ .Site.Title }}{{ end }}</title>
 <!--         <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"> -->
         <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.Description }}{{ else if .IsPage }}{{ .Summary }}{{ else }}{{ with .Description }}{{ . }}{{ end }}{{ end }}">
+        <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
         {{ .Hugo.Generator }}
