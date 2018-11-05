@@ -94,7 +94,4 @@ audiofile.tag.save()
 
 分割出来的原声 一共 25 个 MP3 文件，上传到了百度盘。
 
-```
-链接:https://pan.baidu.com/s/1pSIasGiUJpN8fOYbf6hRRg
-密码:lmkq
-```
+[荒野大镖客救赎 2 原声音乐 下载](https://pan.baidu.com/s/1pSIasGiUJpN8fOYbf6hRRg) | 提取码: `lmkq`
