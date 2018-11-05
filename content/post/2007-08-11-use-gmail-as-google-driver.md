@@ -33,13 +33,13 @@ tags:
   - 网络硬盘
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gmail.gif"><img align="right" width="143" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/gmail-thumb.gif" alt="Gmail" height="59" /></a>尽管Google的<a target="_blank" href="http://www.gseeker.com/50226711/googleaee_110109.php">收费存储共享计划</a>让我们进一步看到了<a target="_blank" href="https://www.digglife.net/articles/category/about-google/">Google</a>在线存储服务出现的希望,但是到目前为止,Google还是没有透露半点乳摸已久的GDriver的消息.但是我们可以使用下面的5个小工具实现Gmail的在线存储功能.我曾经在<a target="_blank" href="https://www.digglife.net/articles/gmail7%e5%a4%a7%e6%9c%89%e5%85%b3%e9%99%84%e4%bb%b6%e7%9a%84%e6%8a%80%e5%b7%a7.html">Gmail:7大有关附件的技巧</a>中提到过其中的两个,所以下面的这些也许你也许都见过,这里只是一个总结.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gmail.gif"><img align="right" width="143" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gmail-thumb.gif" alt="Gmail" height="59" /></a>尽管Google的<a target="_blank" href="http://www.gseeker.com/50226711/googleaee_110109.php">收费存储共享计划</a>让我们进一步看到了<a target="_blank" href="https://www.digglife.net/articles/category/about-google/">Google</a>在线存储服务出现的希望,但是到目前为止,Google还是没有透露半点乳摸已久的GDriver的消息.但是我们可以使用下面的5个小工具实现Gmail的在线存储功能.我曾经在<a target="_blank" href="https://www.digglife.net/articles/gmail7%e5%a4%a7%e6%9c%89%e5%85%b3%e9%99%84%e4%bb%b6%e7%9a%84%e6%8a%80%e5%b7%a7.html">Gmail:7大有关附件的技巧</a>中提到过其中的两个,所以下面的这些也许你也许都见过,这里只是一个总结.
 
 <!--more-->
 
 **1. GMail Drive**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gspacelogo.png"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/gspacelogo-thumb.png" alt="gspacelogo" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gspacelogo.png"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gspacelogo-thumb.png" alt="gspacelogo" /></a>
 
 Gmail Drive能够将Gmail空间作为一个硬盘分区的形式挂载在&#8221;我的电脑&#8221;里.所以你可以直接使用复制粘贴等操作来实现上传下载,非常方便.
 
@@ -47,7 +47,7 @@ Gmail Drive能够将Gmail空间作为一个硬盘分区的形式挂载在&#8221;
 
 **2. GSpace**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gspace2.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/gspace2-thumb.png" alt="gspace2" height="226" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gspace2.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gspace2-thumb.png" alt="gspace2" height="226" /></a>
 
 GSpace是一个能够将Gmail变成在线存储的Firefox扩展.通过GSpace你可以管理无限个Gmail账户,并可以在一个非常友好的界面下简单地存储所有格式的文件.你甚至可以在线听GSpace里面的音乐,查看照片.
 
@@ -55,13 +55,13 @@ GSpace是一个能够将Gmail变成在线存储的Firefox扩展.通过GSpace你�
 
 **3. GmailFS(Linux)**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gmailfs.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/gmailfs-thumb.png" alt="gmailfs" height="341" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gmailfs.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gmailfs-thumb.png" alt="gmailfs" height="341" /></a>
 
 GmailFS=Gmail File System.从名字上我们就可以看出,GmailFS同样是将Gmail空间转换为本地硬盘的软件.GmailFS是为Linux编写,Windows和Mac版本目前还没有.上传时单个文件不限大小,这些文件将会最为附件(分割后)存储在Gmail空间里.
 
 **4. G-Share**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gshare.jpg"><img width="312" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/gshare-thumb.jpg" alt="gshare" height="94" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gshare.jpg"><img width="312" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gshare-thumb.jpg" alt="gshare" height="94" /></a>
 
 G-Share是一个PHP脚本,通过这个脚本你可以在网页上分享Gmail附件,相当于一个Gmail附件的下载中心.你需要一个MySQL数据库来存储一些数据,比如下载统计器,访问者等等.
 
@@ -69,7 +69,7 @@ G-Share是一个PHP脚本,通过这个脚本你可以在网页上分享Gmail附�
 
 **5. PHP Gmail Drive&nbsp;**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/php-gmail-drive.gif"><img width="425" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/php-gmail-drive-thumb.gif" alt="php-gmail-drive" height="355" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/php-gmail-drive.gif"><img width="425" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/php-gmail-drive-thumb.gif" alt="php-gmail-drive" height="355" /></a>
 
 PhpGmailDrive,也叫PGD,是一个使用PHP语言编写的开源软件.通过它可以在网上分享Gmail附件.
 

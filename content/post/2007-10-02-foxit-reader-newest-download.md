@@ -40,7 +40,7 @@ tags:
 
 <!--more-->
 
-[<img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/foxitreader-thumb.png" alt="Foxitreader" height="356" />][1]
+[<img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/foxitreader-thumb.png" alt="Foxitreader" height="356" />][1]
 
 基础版的Foxit Reader是免费的,而且对于大多数用户这个免费版已经足够,如果你希望通过Foxit Reader对PDF文档进行编辑和注解,需要升级到专业版.不过国内的习惯大家应该了解的,所以如果特别有需要,Google一下不花钱的吧,呃,<a target="_blank" href="http://search.greendown.cn/" title="绿色下载站">绿色下载站</a>已经有多国语言绿色版本下载.
 

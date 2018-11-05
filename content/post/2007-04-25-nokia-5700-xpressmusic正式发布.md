@@ -31,5 +31,5 @@ OK,这款混血手机终于上市了,喜欢5300的外观设计和3250的双面�
 
 目前该款手机出呛红与酷黑两种款式，并且**随机附赠了1GB的MicroSD卡**，建议售价大约是**RMB3,725**元，预计在五月份起开始销售；若有兴趣想知道更详细的功能，可以连上<a href="http://www.nokia.com.tw/nokia/0,,101181,00.html" target="_blank">Nokia官方网站</a>去点选观看。
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/nokia5700-01.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/nokia5700-01.jpg
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/nokia5700-01.jpg "nokia5700-01.jpg"

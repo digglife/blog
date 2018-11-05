@@ -47,5 +47,5 @@ tags:
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/edit-interface.png "edit-interface"
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/share.png "share.png"
- [3]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/edit-interface.thumbnail.png
- [4]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/share.thumbnail.png
+ [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/edit-interface.thumbnail.png
+ [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/share.thumbnail.png

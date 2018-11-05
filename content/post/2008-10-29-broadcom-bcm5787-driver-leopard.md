@@ -43,7 +43,7 @@ Kext Helper是一个能够自动化Kext安装的工具，让普通用户也能�
 
 解压缩保存在硬盘的驱动，将名为AppleBCM5787MEthernet.kext的文件拖放到Kext Helper B7的窗口中，输入Leopard的帐户密码，点击Easy Install。如果一切顺利，应该会有一个弹出窗口让你”双手合十并重启“（Cross Your Fingers and Reboot）。
 
-<img class="alignnone" title="Kext Helper B7 初始状态" src="http://digglife.qiniudn.com/wp-content/uploads/archive/Kext%20Helper%200.7.jpg" alt="" width="400" height="209" />
+<img class="alignnone" title="Kext Helper B7 初始状态" src="https://www.digglife.net/wp-content/uploads/archive/Kext%20Helper%200.7.jpg" alt="" width="400" height="209" />
   
 重启之后可以点开”系统偏好设置“，查看”网络“，这个时候以太网前面的那个小球应该变绿了，这表示Leopard已经识别出网卡；如果还是红的，表示系统尚未网卡，你可以尝试重新安装驱动。我的情况是第二次安装才成功，而且第二次安装后并没有重启系统即可正常工作。
 
@@ -53,7 +53,7 @@ Kext Helper是一个能够自动化Kext安装的工具，让普通用户也能�
 
 在终端中输入sudo tcpdump -i enX，其中X是网卡的编号，一般情况下有线网卡都是0。输入帐户密码执行命令后，你可以看到网卡的活动信息，到这里你就可以打开Safari光顾一下Apple的主页了。
 
-<img class="alignnone" title="Mac OS X Leopard有线网卡状态" src="http://digglife.qiniudn.com/wp-content/uploads/archive/Ethernet.jpg" alt="" width="400" height="322" />
+<img class="alignnone" title="Mac OS X Leopard有线网卡状态" src="https://www.digglife.net/wp-content/uploads/archive/Ethernet.jpg" alt="" width="400" height="322" />
 
 ### 4.自动激活网卡
 

@@ -26,7 +26,7 @@ Google正计划将Adsense广告整合到<a href="http://maps.google.com/" target
 
 Google还表示,这种广告也将集成到刚刚发布的<a href="http://www.google.com/apis/maps/documentation/mapplets/" target="_blank">Mapplets</a>中去,从而让广告利益分享.用户将会和目前的Adsense一样按点击量获利,同时还可以限制出现在Mappets赞助商广告数量或者彻底关闭他们.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/googlemapads-mockup.jpg" atomicselection="true"><img title="googlemapads-mockup" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; width: 450px; height: 300px; border-right-width: 0px" height="300" alt="googlemapads-mockup" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/googlemapads-mockup-thumb.jpg" width="450" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/googlemapads-mockup.jpg" atomicselection="true"><img title="googlemapads-mockup" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; width: 450px; height: 300px; border-right-width: 0px" height="300" alt="googlemapads-mockup" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/googlemapads-mockup-thumb.jpg" width="450" border="0" /></a>
 
 以上是假想中的地图广告,但是其样式不一定类似于目前的Adsense文字广告,可能会和Google地图服务的样式与风格更加灵活地结合.
 

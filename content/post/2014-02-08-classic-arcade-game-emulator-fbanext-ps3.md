@@ -35,7 +35,7 @@ tags:
 
 [官方的 XMB][1] 是一个完全封闭的系统，所以要安装FBAnext，前提是**PS3上已经是自制系统（CFW）**。特别要提到的是，安装自制系统并不意味着玩盗版，只是能够可以获取对PS3的完全控制权，安装未经 SONY 认证的第三方软件，在这个意义上和 iPhone 的 Jailbreak 是一样的。我的PS3上安装的是[Rebug][2] CFW 4.3，因此以下所有内容都以此为前提。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/02/ps3-fbanext-game-menu-500x281.jpg" alt="PS3街机模拟器FBAnext的图标" width="500" height="281" class="alignnone size-medium wp-image-3752" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/02/ps3-fbanext-game-menu-500x281.jpg" alt="PS3街机模拟器FBAnext的图标" width="500" height="281" class="alignnone size-medium wp-image-3752" />
 
 ### 安装FBAnext For PS3
 
@@ -66,7 +66,7 @@ REBUG CFG 在XMB的游戏菜单下有 Install Package目录，选中 fba-mm-ps3-
 在FBAnext主界面下按 `SELECT` 键可以对视频和声音进行详细设定。据我的经验，**软件加速**和**三倍缓冲**是要开的，不然会很卡。因为配置是即时生效，所以如果对实际效果不满意，可以逐个尝试直到音视频都完美为止。
 
 <div id="attachment_3754" style="width: 510px" class="wp-caption alignnone">
-  <img src="http://digglife.qiniudn.com/wp-content/uploads/2014/02/ps3-fbanext-main-interface-500x281.jpg" alt="PS3街机模拟器FBAnext的主界面" width="500" height="281" class="size-medium wp-image-3754" />
+  <img src="https://www.digglife.net/wp-content/uploads/2014/02/ps3-fbanext-main-interface-500x281.jpg" alt="PS3街机模拟器FBAnext的主界面" width="500" height="281" class="size-medium wp-image-3754" />
   
   <p class="wp-caption-text">
     PS3街机模拟器FBAnext的主界面
@@ -84,7 +84,7 @@ REBUG CFG 在XMB的游戏菜单下有 Install Package目录，选中 fba-mm-ps3-
             如果默认的键设定不合自己的习惯，可以在游戏中呼出上下文菜单选择 `Map Gamepad Buttons` 来自定义，其中SQUARE/CROSS/CIRCLE/TRIANGLE分别代表 □ × ○ ▲。
             
             <div id="attachment_3751" style="width: 510px" class="wp-caption alignnone">
-              <img src="http://digglife.qiniudn.com/wp-content/uploads/2014/02/ps3-fbanext-context-menu-500x281.jpg" alt="FBAnext在游戏中的设定菜单" width="500" height="281" class="size-medium wp-image-3751" />
+              <img src="https://www.digglife.net/wp-content/uploads/2014/02/ps3-fbanext-context-menu-500x281.jpg" alt="FBAnext在游戏中的设定菜单" width="500" height="281" class="size-medium wp-image-3751" />
               
               <p class="wp-caption-text">
                 FBAnext在游戏中的设定菜单
@@ -98,7 +98,7 @@ REBUG CFG 在XMB的游戏菜单下有 Install Package目录，选中 fba-mm-ps3-
             [经典街机游戏ROMS百度盘下载][3]
             
             <div id="attachment_3753" style="width: 510px" class="wp-caption alignnone">
-              <img src="http://digglife.qiniudn.com/wp-content/uploads/2014/02/ps3-fbanext-game-play-sankoku-500x281.jpg" alt="PS3上玩街机游戏三国战记" width="500" height="281" class="size-medium wp-image-3753" />
+              <img src="https://www.digglife.net/wp-content/uploads/2014/02/ps3-fbanext-game-play-sankoku-500x281.jpg" alt="PS3上玩街机游戏三国战记" width="500" height="281" class="size-medium wp-image-3753" />
               
               <p class="wp-caption-text">
                 PS3上玩街机游戏三国战记

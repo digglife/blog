@@ -34,5 +34,5 @@ tags:
 Crosstips地址：<http://en-gb.crosstips.org/>
 
  [1]: http://en-gb.crosstips.org/
- [2]: http://digglife.qiniudn.com/wp-content/uploads/archive/crosstips.png
+ [2]: https://www.digglife.net/wp-content/uploads/archive/crosstips.png
  [3]: https://www.digglife.net/articles/solve-crossword-puzzle-crosstips.html

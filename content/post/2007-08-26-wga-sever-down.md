@@ -45,7 +45,7 @@ tags:
   - 错误
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wgalogo.png"><img align="right" width="138" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/wgalogo-thumb.png" alt="wgalogo" height="80" /></a> WGA挂了,Vista用户愤怒了.从8月24日(美国时间)开始一些正版<a target="_blank" href="https://www.digglife.net/articles/category/windows-tricks/">Windows</a> Vista被WGA标记为盗版,而且重新验证的唯一方法只能是在工作日直接联系微软客服.这个问题在用户试图运行升级的时候产生.其主要的症状为,Aero效果失效并伴随一些其他功能丢失.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wgalogo.png"><img align="right" width="138" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wgalogo-thumb.png" alt="wgalogo" height="80" /></a> WGA挂了,Vista用户愤怒了.从8月24日(美国时间)开始一些正版<a target="_blank" href="https://www.digglife.net/articles/category/windows-tricks/">Windows</a> Vista被WGA标记为盗版,而且重新验证的唯一方法只能是在工作日直接联系微软客服.这个问题在用户试图运行升级的时候产生.其主要的症状为,Aero效果失效并伴随一些其他功能丢失.
 
 <!--more-->
 

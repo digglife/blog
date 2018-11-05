@@ -32,7 +32,7 @@ tags:
 
 阿童木是我最早接触的日本动漫.还在伟大的武汉台播放《圣斗士》《北斗神拳》之前我就在已经忘记姓名的某地方台看过这部动漫,小时候的激动和兴奋还能清晰的记得,能够有一个阿童木的喷火鞋是我当时最大的梦想,哈哈.童年的激动想必这一辈子都无法体会到了.下面是阿童木的简介(右边是琦玉县的阿童木铜像):
 
- <img src="http://digglife.qiniudn.com/qiniu/2489/image/486d5ddfe4b143ba5ac1af90411d83aa.jpg" align="right" />
+ <img src="https://www.digglife.net/qiniu/2489/image/486d5ddfe4b143ba5ac1af90411d83aa.jpg" align="right" />
 
 <font color="#400000">阿童木诞生于</font>[<font color="#400000">2003年</font>][2][<font color="#400000">4月7日</font>][3]<font color="#400000">。制作者是天马博士，因为儿子飞雄（トビオ，</font>[<font color="#400000">华视</font>][4]<font color="#400000">旧译为<b>陶比</b>、中国译<b>飞马</b>）在交通意外中死亡，因为无法忍受失子之痛而制造了阿童木，并将其当作儿子一样疼爱以自我慰藉。可是，当天马博士发现阿童木不会长高时，就悟到了和真人的不同，因而开始厌恶阿童木，最后将他卖至马戏团。</font>
 
@@ -64,4 +64,4 @@ tags:
  [2]: https://secure.wikimedia.org/wikipedia/zh/w/index.php?title=2003%E5%B9%B4&variant=zh-cn
  [3]: https://secure.wikimedia.org/wikipedia/zh/w/index.php?title=4%E6%9C%887%E6%97%A5&variant=zh-cn
  [4]: https://secure.wikimedia.org/wikipedia/zh/w/index.php?title=%E8%8F%AF%E8%A6%96&variant=zh-cn
- [5]: http://digglife.qiniudn.com/qiniu/2489/image/6bf58824f2f292420ab22b2465180495.jpg
+ [5]: https://www.digglife.net/qiniu/2489/image/6bf58824f2f292420ab22b2465180495.jpg

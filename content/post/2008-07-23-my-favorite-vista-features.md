@@ -40,7 +40,7 @@ Vista的地址栏导航起来比XP下舒服了不止一点半点，非常有效�
 可以几个常用的文件夹自定义文件夹图标之后拖拽到导航侧栏的收藏夹链接，方便快速打开。
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5226185643779296274"><img title="Vista即时搜索,收藏夹链接,功能菜单" src="http://digglife.qiniudn.com/wp-content/uploads/archive/Vista-explorer.png" alt="" width="400" height="278" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5226185643779296274"><img title="Vista即时搜索,收藏夹链接,功能菜单" src="https://www.digglife.net/wp-content/uploads/archive/Vista-explorer.png" alt="" width="400" height="278" /></a>
   
   <p class="wp-caption-text">
     Vista在文件管理上的改进是我最喜欢的

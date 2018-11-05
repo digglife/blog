@@ -45,6 +45,6 @@ WordPress下已经有漂亮强大的AudioPlayer了,但是Google的这个主要�
   
 如果还想使用这个播放器播放任何在线MP3文件,可以安装<a href="http://lifehacker.com/assets/resources/2006/08/google-player.user.js" target="_blank">一个Greasemonkey代码</a>(必须在安装有<a href="http://www.greasespot.net/" target="_blank">Greasemonkey</a>的Firefox下安装),它会在每一个MP3链接旁显示该播放器.
   
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/embeddedgoogleplayer5-thumb.png" style="border-width: 0px" alt="embeddedgoogleplayer5" border="0" height="121" width="240" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/embeddedgoogleplayer5-thumb.png" style="border-width: 0px" alt="embeddedgoogleplayer5" border="0" height="121" width="240" />][1]
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/07/embeddedgoogleplayer5.png "embedded-google-player.png"

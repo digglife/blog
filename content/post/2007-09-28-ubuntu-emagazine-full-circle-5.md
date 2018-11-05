@@ -37,7 +37,7 @@ tags:
   - 电子杂志
 
 ---
- <img id="id" src="http://digglife.qiniudn.com/qiniu/1942/image/061ddf72ca5004828e459ab73ca04567.png" align="right" />《Full Circle》杂志于美国时间9月27日发布了<a title="Ubuntu电子杂志Full Circle第5期" href="http://fullcirclemagazine.org/2007/09/27/issue-5-is-out/" target="_blank">第5期</a>.<a title="Full Circle官方博客" href="http://www.fullcirclemagazine.org/" target="_blank">Full Circle</a>是<a title="我的Ubuntu心得" href="https://www.digglife.net/articles/category/about_ubuntu/" target="_blank">Ubuntu</a>社区共同撰写发布的电子杂志,内容包括Ubuntu操作系统,开源技术等内容.更多详细信息看另外一篇日志:<a title="Ubuntu电子杂志《Full Circle》第1期上线" href="https://www.digglife.net/articles/ubuntu-emagazine-full-circle-1.html" target="_blank">Ubuntu电子杂志《Full Circle》第1期上线</a>.
+ <img id="id" src="https://www.digglife.net/qiniu/1942/image/061ddf72ca5004828e459ab73ca04567.png" align="right" />《Full Circle》杂志于美国时间9月27日发布了<a title="Ubuntu电子杂志Full Circle第5期" href="http://fullcirclemagazine.org/2007/09/27/issue-5-is-out/" target="_blank">第5期</a>.<a title="Full Circle官方博客" href="http://www.fullcirclemagazine.org/" target="_blank">Full Circle</a>是<a title="我的Ubuntu心得" href="https://www.digglife.net/articles/category/about_ubuntu/" target="_blank">Ubuntu</a>社区共同撰写发布的电子杂志,内容包括Ubuntu操作系统,开源技术等内容.更多详细信息看另外一篇日志:<a title="Ubuntu电子杂志《Full Circle》第1期上线" href="https://www.digglife.net/articles/ubuntu-emagazine-full-circle-1.html" target="_blank">Ubuntu电子杂志《Full Circle》第1期上线</a>.
 
 第五期的主要内容有:
 
@@ -55,7 +55,7 @@ tags:
 
 **Full Circle 第5期封面:**(Gusty Gibbon现真身了,哈哈)
 
-[<img id="id" height="319" alt="Full-circle-issue5" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/full-circle-issue5-thumb.png" width="450" />][1] 
+[<img id="id" height="319" alt="Full-circle-issue5" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/full-circle-issue5-thumb.png" width="450" />][1] 
 
 **下载:**
 

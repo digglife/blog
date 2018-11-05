@@ -39,15 +39,15 @@ tags:
 
 &#160;
 
-&#160;<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vx878-list2-big.jpg" target="_blank"><img height="299" alt="vx878_list2_big" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/vx878-list2-big-thumb.jpg" width="450" border="0" /></a> 
+&#160;<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vx878-list2-big.jpg" target="_blank"><img height="299" alt="vx878_list2_big" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vx878-list2-big-thumb.jpg" width="450" border="0" /></a> 
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vx878-bevel-big.jpg" target="_blank"><img height="318" alt="vx878_bevel_big" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/vx878-bevel-big-thumb.jpg" width="424" border="0" /></a>&#160;</p> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vx878-bevel-big.jpg" target="_blank"><img height="318" alt="vx878_bevel_big" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vx878-bevel-big-thumb.jpg" width="424" border="0" /></a>&#160;</p> 
 
 以下是该店9月下旬样品展示的产品。在黑颜色的实体周围配置银颜色的框架，使得更加具有触摸屏式的颜色液晶面板(320&#215;240)的样式着实与iPod touch相似。
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/stip1.jpg" target="_blank"><img height="120" alt="stip1" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/stip1-thumb.jpg" width="160" border="0" /></a><a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/stip2.jpg" target="_blank"><img height="120" alt="stip2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/stip2-thumb.jpg" width="160" border="0" /></a><a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/stip3.jpg" target="_blank"><img height="120" alt="stip3" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/stip3-thumb.jpg" width="160" border="0" /></a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/stip1.jpg" target="_blank"><img height="120" alt="stip1" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/stip1-thumb.jpg" width="160" border="0" /></a><a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/stip2.jpg" target="_blank"><img height="120" alt="stip2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/stip2-thumb.jpg" width="160" border="0" /></a><a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/stip3.jpg" target="_blank"><img height="120" alt="stip3" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/stip3-thumb.jpg" width="160" border="0" /></a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 
 
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 
 
@@ -59,7 +59,7 @@ tags:
 
 &#160;
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vx878-list3-big.jpg" target="_blank"><img height="299" alt="vx878_list3_big" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/vx878-list3-big-thumb.jpg" width="450" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vx878-list3-big.jpg" target="_blank"><img height="299" alt="vx878_list3_big" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vx878-list3-big-thumb.jpg" width="450" border="0" /></a>
 
 &#160;
 

@@ -32,6 +32,6 @@ Cario将会包含全新的开始菜单/任务栏,更加方便的资源管理器�
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2008/02/cairo-desktop.jpg" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/cairo-desktop-thumb.jpg" style="border: 0px none " alt="cairo-desktop" border="0" height="281" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2008/02/cairo-desktop.jpg" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/cairo-desktop-thumb.jpg" style="border: 0px none " alt="cairo-desktop" border="0" height="281" width="450" /></a>
 
 相比那些模拟Mac OS的方法,Cario更加专业和全面.Cario支持Windows XP和Windows Vista,目前还没有发布.内测报名已经于<a href="http://cairoshell.com/2008/02/06/cairo-milestone-1-testing-signup/" target="_blank">2.13日结束</a>,还好我在此前已经注册,不过不知道能不能收到邀请函.

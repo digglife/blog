@@ -39,7 +39,7 @@ tags:
 
 相信熟悉MP3的都知道国产里面有一个很强的品牌叫<a target="_blank" href="http://www.meizu.com">魅族</a>,此子靠过硬的品质和完美的枪手传播以及对苹果别出心裁地模仿招揽了一大批粉丝.iPhone的消息传出后,魅族立即推出了自己的超级模仿作品M8(暂定名为MiniOne)的设计图,期间小修小改,最后在外观上还是跟iPhone没有什么区别.<a target="_blank" href="http://cn.engadget.com/2007/06/18/meizus-latest-minione-m8-incarnation/">前天又爆出了新的外观和机器参数</a>.图片和配置如下:
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8.jpg"><img width="400" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/meizum8-thumb.jpg" alt="MeizuM8" height="223" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8.jpg"><img width="400" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8-thumb.jpg" alt="MeizuM8" height="223" /></a>
 
 <!--more-->
 
@@ -72,29 +72,29 @@ tags:
 
 **最开始放出的图片,被N多人指责为PS作品.**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8feb.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/meizum8feb-thumb.jpg" alt="meizum8Feb" height="580" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8feb.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8feb-thumb.jpg" alt="meizum8Feb" height="580" /></a>
 
 **后来放出了设计蓝图,并宣称比iPhone的发布早.**
 
 尽管草图有模有样，但是等于承认了在iPhone发布后进行了大规模的修改和抄袭工作.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/some-m8-design-blueprint.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/some-m8-design-blueprint-thumb.jpg" alt="some_m8_design_blueprint" height="380" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/some-m8-design-blueprint.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/some-m8-design-blueprint-thumb.jpg" alt="some_m8_design_blueprint" height="380" /></a>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizudesign-vs-iphone.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/meizudesign-vs-iphone-thumb.jpg" alt="meizudesign_vs_iphone" height="372" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizudesign-vs-iphone.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizudesign-vs-iphone-thumb.jpg" alt="meizudesign_vs_iphone" height="372" /></a>
 
 **紧接着传说中的真机曝光.**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/realminione.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/realminione-thumb.jpg" alt="RealMinione" height="360" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/realminione.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/realminione-thumb.jpg" alt="RealMinione" height="360" /></a>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/m8keyboard.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/m8keyboard-thumb.jpg" alt="M8keyboard" height="361" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/m8keyboard.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/m8keyboard-thumb.jpg" alt="M8keyboard" height="361" /></a>
 
 **4月的更新设计图**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8apr.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/meizum8apr-thumb.jpg" alt="meizum8apr" height="465" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8apr.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8apr-thumb.jpg" alt="meizum8apr" height="465" /></a>
 
 **最新的图片:**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum81.jpg"><img width="400" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/meizum8-thumb1.jpg" alt="MeizuM8" height="223" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum81.jpg"><img width="400" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/meizum8-thumb1.jpg" alt="MeizuM8" height="223" /></a>
 
 以上图片皆来自<a target="_blank" href="http://cn.engadget.com">瘾科技(Engadgets CN)</a>
 

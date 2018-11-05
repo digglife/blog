@@ -46,11 +46,11 @@ tags:
   - 风格
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-logo.png"><img align="right" width="90" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/digg-logo-thumb.png" alt="digg-logo" height="52" /></a> 酝酿已久的<a target="_blank" href="http://digg.com">Digg</a>新设计风格今天终于上线.新设计的变化主要包括一个新的&#8221;All&#8221;标签和更加清晰简洁的导航栏.万众期待的图片板块还是没有出现,不过根据Digg.com老大Kevin Rose的博客,图片板块最迟将会于10月推出.而被Digger诟病已久的评论系统也还是保持原样.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-logo.png"><img align="right" width="90" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-logo-thumb.png" alt="digg-logo" height="52" /></a> 酝酿已久的<a target="_blank" href="http://digg.com">Digg</a>新设计风格今天终于上线.新设计的变化主要包括一个新的&#8221;All&#8221;标签和更加清晰简洁的导航栏.万众期待的图片板块还是没有出现,不过根据Digg.com老大Kevin Rose的博客,图片板块最迟将会于10月推出.而被Digger诟病已久的评论系统也还是保持原样.
 
 我们首先回顾一下旧版的风格:(来自Google缓存,点击看大图)
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-old.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/digg-old-thumb.png" alt="digg-old" height="282" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-old.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-old-thumb.png" alt="digg-old" height="282" /></a>
 
 **下面看看新设计风格的截图.**(点击看大图)
 
@@ -60,14 +60,14 @@ tags:
 
 **首页:**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-new.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/digg-new-thumb.png" alt="digg-new" height="275" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-new.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-new-thumb.png" alt="digg-new" height="275" /></a>
 
 **播客栏目:**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-new-postcasts.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/digg-new-postcasts-thumb.png" alt="digg-new-postcasts" height="327" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-new-postcasts.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-new-postcasts-thumb.png" alt="digg-new-postcasts" height="327" /></a>
 
 **文章页.**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-new-topics.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/digg-new-topics-thumb.png" alt="digg-new-topics" height="312" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-new-topics.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digg-new-topics-thumb.png" alt="digg-new-topics" height="312" /></a>
 
 来源:<a target="_blank" href="http://digg.com/design/Digg_New_Design">Digg</a>

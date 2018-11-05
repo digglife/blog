@@ -34,7 +34,7 @@ tags:
   - 配置
 
 ---
-<img height="144" alt="firetune" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/firetune.png" width="240" align="right" />FireTune是一个非常不错的Firefox免费优化软件,它能够根据你的电脑环境自动配置Firefox以达到最佳性能,非常适合不愿意通过About:config命令自己修改的新手使用.FireTune的特点就是不用手动配置,一键优化,明显的速度提升以及自动速度优化.
+<img height="144" alt="firetune" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/firetune.png" width="240" align="right" />FireTune是一个非常不错的Firefox免费优化软件,它能够根据你的电脑环境自动配置Firefox以达到最佳性能,非常适合不愿意通过About:config命令自己修改的新手使用.FireTune的特点就是不用手动配置,一键优化,明显的速度提升以及自动速度优化.
 
 &nbsp;
 
@@ -46,7 +46,7 @@ tags:
 
 <!--more-->
 
- <img height="414" alt="firetuneOption" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/firetuneoption.png" width="450" />
+ <img height="414" alt="firetuneOption" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/firetuneoption.png" width="450" />
 
 **注意:**
 

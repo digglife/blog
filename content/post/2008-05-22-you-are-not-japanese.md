@@ -61,4 +61,4 @@ Google翻译的准确性尽管越来越好,但是机器人毕竟是机器人,很
 
 PS:网站顶部色调恢复了彩色,但是我的哀悼和祝福仍在继续&#8230;
 
- [1]: http://digglife.qiniudn.com/qiniu/2538/image/0c9625a4baec758cd3c16ec6f453678b.jpg
+ [1]: https://www.digglife.net/qiniu/2538/image/0c9625a4baec758cd3c16ec6f453678b.jpg

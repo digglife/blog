@@ -40,5 +40,5 @@ tags:
 
 所以尝试**重新安装NVIDIA显卡驱动**,果然问题解决.
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/beryl.thumbnail.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/beryl.thumbnail.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/beryl.png "beryl.png"

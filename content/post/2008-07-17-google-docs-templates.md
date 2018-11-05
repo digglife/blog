@@ -32,7 +32,7 @@ tags:
 <!--more-->
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223794866519213538"><img title="Google Docs模板" src="http://digglife.qiniudn.com/wp-content/uploads/archive/gdocs-templates.png" alt="Google文件模板目录中不乏非常美观精致的选择" width="400" height="300" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223794866519213538"><img title="Google Docs模板" src="https://www.digglife.net/wp-content/uploads/archive/gdocs-templates.png" alt="Google文件模板目录中不乏非常美观精致的选择" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Google文件模板目录中不乏非常美观精致的选择

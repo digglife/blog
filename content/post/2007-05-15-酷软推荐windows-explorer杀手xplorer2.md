@@ -51,7 +51,7 @@ Xplorer2能在一个窗口同时显示两个文件夹的文件.我们经常会�
 
 &nbsp; 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4xplorerpreview3.png" atomicselection="true"><img height="490" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4xplorerpreview-thumb1.png" width="450" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4xplorerpreview3.png" atomicselection="true"><img height="490" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4xplorerpreview-thumb1.png" width="450" /></a> 
 
 &nbsp; 
 
@@ -65,7 +65,7 @@ Xplorer2能在一个窗口同时显示两个文件夹的文件.我们经常会�
 
 &nbsp; 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4tab6.png" atomicselection="true"><img height="71" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4tab-thumb4.png" width="437" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4tab6.png" atomicselection="true"><img height="71" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4tab-thumb4.png" width="437" /></a> 
 
 标签名看不清楚?右键点击标签重命名就可以了(不会改变原有文件夹名称). 
 
@@ -81,7 +81,7 @@ Xplorer2还允许你给文件夹和文件添加标签并设置关键字以便快
 
 你可能已经注意到了在书签管理菜单下有一个Ftp服务器收藏.这正是Xplorer的另外一个功能:管理FTP服务器上的文件. 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4ftp3.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="211" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4ftp-thumb1.png" width="320" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4ftp3.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="211" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4ftp-thumb1.png" width="320" border="0" /></a> 
 
 > **注意:**Xplorer2只支持未加密的Ftp服务器,你需要手动加上用户名和密码.格式类似于:ftp://you:password@yourserver.com.这并不是一个安全的FTP管理方式,不推荐使用.
 
@@ -89,7 +89,7 @@ Xplorer2还允许你给文件夹和文件添加标签并设置关键字以便快
 
 ### **过滤文件** </p> 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4filter3.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="105" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4filter-thumb1.png" width="215" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4filter3.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="105" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterwindowsexplorerxplorer2-e9f4filter-thumb1.png" width="215" border="0" /></a> 
 
 Xplorer2的过滤功能非常方便而且简单.你只需要在地址栏(或者打开标记菜单,选择&#8221;成组选择&#8221;)输入过滤文字(比如&#8221;.txt&#8221;),然后点击过滤按钮就可以迅速看到你想找到的文件了. 
 

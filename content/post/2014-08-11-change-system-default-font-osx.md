@@ -46,7 +46,7 @@ tags:
 这两个文件是二进制的 plist，所以普通的文本编辑器，比如 vi、Sublime 之类的无法识别，而 Mac 下的<a href="https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12" title="OS X 下的免费文本编辑器 TextWrangler" target="_blank">免费编辑器 TextWrangler</a> 可以正常编辑（当然 XCode 也可以）。
 
   * 替换 `DefaultFontFallbacks.plist` 和 `CTPresetFallbacks.plist` 中所有的 `STHeitiSC-Light` 为 `HiraginoSansGB-W3` 。
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/08/osx-change-font.png" alt="OSX替换系统中文字体为冬青黑体" width="500" height="167" class="alignnone size-full wp-image-3844" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/08/osx-change-font.png" alt="OSX替换系统中文字体为冬青黑体" width="500" height="167" class="alignnone size-full wp-image-3844" />
 
   * 替换 `CTPresetFallbacks.plist` 中的 `STHeitiSC-Medium` 为 `HiraginoSansGB-W6`。
 其中第一步更改的是常规体，第二步则是粗体。
@@ -56,7 +56,7 @@ tags:
 
 可能因为冬青黑体是日本的字游工房制作的原因，日文显示也非常棒，所以替换之后[中日混排][4]的效果也远远比之前的漂亮，可以看下图中假名，华文黑体的假名完全不能看。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/08/zh-ja-text-500x312.png" alt="冬青黑体华文黑体中日混排的比较" width="500" height="312" class="alignnone size-medium wp-image-3849" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/08/zh-ja-text-500x312.png" alt="冬青黑体华文黑体中日混排的比较" width="500" height="312" class="alignnone size-medium wp-image-3849" />
 
 其实通过相同的步骤也可以将系统的默认西文字体更改为和 Yosemite 一样的 Helvetica Neue ，只是我实在不喜欢这个字体，还是 Lucida Grande 看着更舒服。
 

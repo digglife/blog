@@ -26,7 +26,7 @@ tags:
 ---
 <a href="http://www.fullcirclemagazine.org" target="_blank">Full Circle</a>第二期官方的正式发布时间是明天,也就是6月29日(和iphone一个时间哈).但是Wiki页面上已经出现下载.
 
-<font color="#ff0080"><strong>6.29 Update:官方已发布,地址更新.<img height="182" alt="full_circle_logo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/full-circle-logo1.png" width="150" align="right" /></strong></font>
+<font color="#ff0080"><strong>6.29 Update:官方已发布,地址更新.<img height="182" alt="full_circle_logo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/full-circle-logo1.png" width="150" align="right" /></strong></font>
 
 Full Circle是<a href="https://www.digglife.net/articles/category/about_ubuntu/" target="_blank">Ubuntu</a>社区共同撰写发布的电子杂志,内容包括Ubuntu操作系统,开源技术等内容.更多详细信息看另外一篇日志:<a href="https://www.digglife.net/articles/ubuntu-emagazine-full-circle-1.html" target="_blank">Ubuntu电子杂志《Full Circle》第1期上线</a>
 
@@ -50,7 +50,7 @@ Full Circle是<a href="https://www.digglife.net/articles/category/about_ubuntu/"
 
 **第二期封面:**
 
-<img height="562" alt="full-circle-issue2-cover" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/full-circle-issue2-cover.png" width="397" />
+<img height="562" alt="full-circle-issue2-cover" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/full-circle-issue2-cover.png" width="397" />
 
 这一期的封面很有意思.M$最近频频和Linux的几个发行版签署协议,不过Ubuntu官方表示绝对不会和M$合作,希望如此.
 

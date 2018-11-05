@@ -35,7 +35,7 @@ tags:
   - 桌面
 
 ---
- <img align="right" width="179" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/runme.png" alt="runme" height="278" />免费软件<a target="_blank" href="http://www.osx-e.com/downloads/applications/runme.html">Runme</a>可以给你的桌面加上一个漂亮的侧边栏,你可以添加快捷方式并更改图标样式,自定义Runme的主题,显示位置和特效等.
+ <img align="right" width="179" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/runme.png" alt="runme" height="278" />免费软件<a target="_blank" href="http://www.osx-e.com/downloads/applications/runme.html">Runme</a>可以给你的桌面加上一个漂亮的侧边栏,你可以添加快捷方式并更改图标样式,自定义Runme的主题,显示位置和特效等.
 
 这是一个类似OSX下Dock的东东,可以让你快速启动程序,而不用进入桌面或者打开开始菜单打断当前的工作.
 
@@ -49,13 +49,13 @@ tags:
 
 你可以自己给快捷方式分类后放到各自的群组里面,方便管理,节约空间.另外,也可以使用分割线来进行分组.
 
-<img width="341" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/runmegroup.png" alt="runmeGroup" height="228" />
+<img width="341" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/runmegroup.png" alt="runmeGroup" height="228" />
 
 **2.悬停位置.**
 
 Runme可以独立地放在桌面的左右和上方,没有下方是因为Runme有一个替代开始菜单的功能.
 
-<img width="361" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/runme-position.png" alt="runme_position" height="260" />
+<img width="361" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/runme-position.png" alt="runme_position" height="260" />
 
 **3.多种主题.**
 

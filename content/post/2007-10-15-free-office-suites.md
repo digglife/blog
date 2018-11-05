@@ -49,15 +49,15 @@ tags:
 
 **在线版免费办公套件**
 
-[<img height="60" alt="google-docs-logo-thumb" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/google-docs-logo-thumb-thumb.png" width="60" align="left" />][1] **1.**<a title="Google Docs" href="http://docs.google.com/" target="_blank"><strong>Google Docs</strong></a>
+[<img height="60" alt="google-docs-logo-thumb" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/google-docs-logo-thumb-thumb.png" width="60" align="left" />][1] **1.**<a title="Google Docs" href="http://docs.google.com/" target="_blank"><strong>Google Docs</strong></a>
 
 Google的在线Office套件也许是MS Office最大的竞争对手,在<a href="https://www.digglife.net/articles/google-presentation-competition.html" target="_blank">Google前不久发布了Google Presentation</a>之后,电子文档,电子表格和演示文稿三大套件悉数到齐,可谓一个里程碑.Google Docs也可以说是目前质量最好的在线Office套件.
 
-[<img height="27" alt="soho-thumb" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/soho-thumb-thumb.png" width="61" align="left" />][2] **2.**<a title="Zoho" href="http://www.zoho.com/" target="_blank"><strong>Zoho</strong></a>
+[<img height="27" alt="soho-thumb" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/soho-thumb-thumb.png" width="61" align="left" />][2] **2.**<a title="Zoho" href="http://www.zoho.com/" target="_blank"><strong>Zoho</strong></a>
 
 Zoho是一个专注在线办公应用程序的网站,旗下的产品是几大在线办公软件提供商中最完整的一个.前不久还<a title="Zoho发布在线数据库应用程序" href="https://www.digglife.net/articles/zoho-database-launched.html" target="_blank">发布了Zoho DB</a>,一个在线数据库管理软件.
 
-**[<img height="68" alt="thinkfree-thumb" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/thinkfree-thumb-thumb.png" width="60" align="left" />][3] 3.**<a title="ThinkFree" href="http://www.thinkfree.com/" target="_blank"><strong>ThinkFree</strong></a>
+**[<img height="68" alt="thinkfree-thumb" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/thinkfree-thumb-thumb.png" width="60" align="left" />][3] 3.**<a title="ThinkFree" href="http://www.thinkfree.com/" target="_blank"><strong>ThinkFree</strong></a>
 
 ThinkFree最大的特点是和MS Office的兼容性和界面的相似性.同时具有非常不错的协作功能.
 
@@ -65,17 +65,17 @@ ThinkFree最大的特点是和MS Office的兼容性和界面的相似性.同时�
 
 **桌面版免费办公套件**
 
-**[<img height="31" alt="staroffice-thumb" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/staroffice-thumb-thumb.png" width="59" align="left" />][4] 4.**<a title="StarOffice" href="http://www.sun.com/software/star/staroffice/index.jsp" target="_blank"><strong>StarOffice</strong></a>
+**[<img height="31" alt="staroffice-thumb" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/staroffice-thumb-thumb.png" width="59" align="left" />][4] 4.**<a title="StarOffice" href="http://www.sun.com/software/star/staroffice/index.jsp" target="_blank"><strong>StarOffice</strong></a>
 
 Sun出品的Office办公套件,能够通过Google Pack下载免费版本.StarOffice支持Windows,Linux和Solaris,Mac下需要下载StarOffice的师兄Open Office.
 
-**[<img height="58" alt="ibm-symphony-thumb" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/ibm-symphony-thumb-thumb.png" width="59" align="left" />][5] 5.**<a title="IBM Lotus Symphony" href="http://symphony.lotus.com/software/lotus/symphony/home.jspa" target="_blank"><strong>IBM Lotus Symphony</strong></a>
+**[<img height="58" alt="ibm-symphony-thumb" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/ibm-symphony-thumb-thumb.png" width="59" align="left" />][5] 5.**<a title="IBM Lotus Symphony" href="http://symphony.lotus.com/software/lotus/symphony/home.jspa" target="_blank"><strong>IBM Lotus Symphony</strong></a>
 
 IBM前不久发布的Office办公套件,针对个人和企业用户.拥有Office最常见的三大套件.
 
 ****&nbsp;
 
-**[<img height="20" alt="openoffice-thumb" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/openoffice-thumb-thumb.png" width="59" align="left" />][6] 6.**<a title="OpenOffice" href="http://www.openoffice.org/" target="_blank"><strong>OpenOffice</strong></a>
+**[<img height="20" alt="openoffice-thumb" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/openoffice-thumb-thumb.png" width="59" align="left" />][6] 6.**<a title="OpenOffice" href="http://www.openoffice.org/" target="_blank"><strong>OpenOffice</strong></a>
 
 <a title="Linux" href="https://www.digglife.net/articles/category/about_ubuntu/" target="_blank">Linux</a>下最流行的OpenOffice是一个跨平台多语言的Office套件,和MS Office有着较好的兼容性,包括Writer,Impress(演示文稿),Math,Draw,Calc(电子表格)和Base(数据库).StarOffice和IBM Lotus Symphony都是基于OpenOffice的源代码开发而成.
 

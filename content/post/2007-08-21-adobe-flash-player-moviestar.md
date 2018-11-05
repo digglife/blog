@@ -36,7 +36,7 @@ tags:
   - 视频
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/flash-logo.png"><img align="right" width="100" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/flash-logo-thumb.png" alt="flash_logo" height="100" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/flash-logo.png"><img align="right" width="100" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/flash-logo-thumb.png" alt="flash_logo" height="100" /></a>
 
 \****升级版的Flash Player将会于今天晚些时候推出,可以去<a target="_blank" href="http://labs.adobe.com/">Adobe实验室</a>下载.
 

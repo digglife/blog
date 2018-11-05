@@ -50,6 +50,6 @@ Google Adsense4月份的西联快汇付款终于于昨天抵达,话说Google还�
 
 下面是邮局&#8221;**收汇申请书**&#8220;的样本,有问题的朋友可以对照这个看(点击放大),基本上没有什么问题:
 
-<a title="Adsense西联快汇收汇申请" href="http://pic.yupoo.com/digglife/2521157ea2eb/wkxnagb9.jpg" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2522/image/519664144190cb7707ce5a9da1b9326e.jpg" alt="" /></a>
+<a title="Adsense西联快汇收汇申请" href="http://pic.yupoo.com/digglife/2521157ea2eb/wkxnagb9.jpg" target="_blank"><img src="https://www.digglife.net/qiniu/2522/image/519664144190cb7707ce5a9da1b9326e.jpg" alt="" /></a>
 
 我从DiggLife开博后不久就放上了Google Adsense,不过中途因为收入太低曾经撤下过一两次,直到今年开始才有点起色,2月和3月份的收入占了这次付款的一大半,所以,流量才是王道啊!!!

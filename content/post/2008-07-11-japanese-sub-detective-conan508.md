@@ -41,7 +41,7 @@ tags:
 
 **名侦探柯南第508集日文字幕下载:**
 
-<a title="名侦探柯南第508话日文字幕下载" href="https://www.digglife.net/wp-content/uploads/files/konan508-jpsub.zip" target="_self"><img class="alignnone size-full wp-image-2565" title="下载" src="http://digglife.qiniudn.com/wp-content/uploads/2008/07/download.gif" alt="下载" width="64" height="64" /></a>
+<a title="名侦探柯南第508话日文字幕下载" href="https://www.digglife.net/wp-content/uploads/files/konan508-jpsub.zip" target="_self"><img class="alignnone size-full wp-image-2565" title="下载" src="https://www.digglife.net/wp-content/uploads/2008/07/download.gif" alt="下载" width="64" height="64" /></a>
 
 顺便提一下,有兴趣下载日文片源来锻炼下听力的同学可以访问如下几个网站,基本上所有流行的动漫和日剧都有,而且质量比内嵌字幕后的版本要好许多,大部分为高清画质的AVI.有一点不方便的是,标题都是罗马字或者英文,比如<span class="jp">《携帯捜査官》</span>的标题会是keitai_Sousakan刚开始辨别起来可能会有点困难,不过熟悉了之后就好了.
 
@@ -49,7 +49,7 @@ tags:
   * <a title="Saiyaman片源" href="http://bt.saiyaman.info/" target="_blank"><span class="jp">サイヤマン</span></a>
   * <a title="Nyaa片源" href="http://www.nyaatorrents.org/" target="_blank">NyaaTorrents</a>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/konan-jpsub508-1.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/archive/konan-jpsub508-1.jpg
  [2]: http://picasaweb.google.com/digglifeshow/GYewOD/photo#5221753261477491618
- [3]: http://digglife.qiniudn.com/wp-content/uploads/archive/konan-jpsub508-2.jpg
+ [3]: https://www.digglife.net/wp-content/uploads/archive/konan-jpsub508-2.jpg
  [4]: http://picasaweb.google.com/digglifeshow/GYewOD/photo#5221753258198555474

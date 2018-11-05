@@ -45,7 +45,7 @@ tags:
   - 特效
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/cameriod-logo.png"><img align="right" width="284" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/cameriod-logo-thumb.png" alt="cameriod_logo" height="45" /></a> 现在的摄像头通常都有不错的分辨率,如果只把它拿来视频聊天就太浪费了,你还可以充分利用它来拍照,录制视频等等.下面是4个在线拍大头贴的网站,除了拍摄普通的照片之外还能够实现许多有趣的效果,就像Mac下的Photobooth那样.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/cameriod-logo.png"><img align="right" width="284" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/cameriod-logo-thumb.png" alt="cameriod_logo" height="45" /></a> 现在的摄像头通常都有不错的分辨率,如果只把它拿来视频聊天就太浪费了,你还可以充分利用它来拍照,录制视频等等.下面是4个在线拍大头贴的网站,除了拍摄普通的照片之外还能够实现许多有趣的效果,就像Mac下的Photobooth那样.
 
 <!--more-->
 
@@ -53,25 +53,25 @@ tags:
 
 提供了9种滤镜特效(炭笔画,底片等),哈哈镜,还有3个有趣的背景(总统,蒙娜丽莎,猩猩)
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/cameriod.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/cameriod-thumb.png" alt="cameriod" height="246" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/cameriod.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/cameriod-thumb.png" alt="cameriod" height="246" /></a>
 
 2.[Seenly][2]
 
 提供了9种不同的特效,包括柔光,黑白,X光等.界面更加简洁.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/seenly.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/seenly-thumb.png" alt="seenly" height="293" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/seenly.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/seenly-thumb.png" alt="seenly" height="293" /></a>
 
 3.[SIGOST][3]
 
 支持6中色彩效果和6种滤镜,还提供照片保存空间.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/sigost-small.png"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/sigost-small-thumb.png" alt="sigost-small" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/sigost-small.png"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/sigost-small-thumb.png" alt="sigost-small" /></a>
 
 4.[Phozi][4]
 
 特点在于提供非常多的背景和个性化标签,同时还支持上传图片处理以及从手机发送.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/phozi-small.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/phozi-small-thumb.png" alt="phozi-small" height="468" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/phozi-small.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/phozi-small-thumb.png" alt="phozi-small" height="468" /></a>
 
 个人比较喜欢[Cameroid][1]和[Phozi][4],给各种网站上传档案图片的时候用得着哦.
 

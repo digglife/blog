@@ -29,7 +29,7 @@ Google经常测试不同布局的页面，收集有用的数据。如果你想�
 
 &nbsp;
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritergooglegoogle-13aa3googleui4.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="253" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewritergooglegoogle-13aa3googleui-thumb2.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritergooglegoogle-13aa3googleui4.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="253" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritergooglegoogle-13aa3googleui-thumb2.png" width="450" border="0" /></a> 
 
 跟往常一样，想要回到旧的Google版本的话，只需删除Google的Cookies. 
 

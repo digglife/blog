@@ -33,7 +33,7 @@ tags:
 
 <a title="点击进入Office 2007模板下载页面" href="http://www.microsoft.com/smallbusiness/office2007templates/" target="_blank"><strong>点击进入Office 2007模板下载页面</strong></a>,在这里你可以选择主题和配色,然后点击下载主题即可:
 
-<a title="Office 2007模板下载页面" href="http://photo1.bababian.com/upload11/20080516/117B2A374C208EE6768B0341A083625B.jpg" target="_blank"><img alt="Office 2007模板下载页面" src="http://digglife.qiniudn.com/qiniu/2533/image/42c415d6464ad059483953890e230c57.jpg" /></a> 
+<a title="Office 2007模板下载页面" href="http://photo1.bababian.com/upload11/20080516/117B2A374C208EE6768B0341A083625B.jpg" target="_blank"><img alt="Office 2007模板下载页面" src="https://www.digglife.net/qiniu/2533/image/42c415d6464ad059483953890e230c57.jpg" /></a> 
 
 **安装方法:**
 
@@ -41,12 +41,12 @@ tags:
   * 打开Word,Powerpoint,Excel或者Publish 
   * 在设计工具栏下的主题群组内选择更多,点击"浏览主题" 
 
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <a title="在设计工具栏下选择浏览主题" href="http://www.bababian.com/photozoom.sl?pictureid=F7B65C19CE968FFC963A03A6BEE81042DT&size=5&viewID=B1E9FC10C6126F1235669209174F8D53UR" target="_blank"><img alt="在设计工具栏下选择浏览主题" src="http://digglife.qiniudn.com/qiniu/2533/image/77510092753af9d2161e38b1d7ecbd8b.jpg" /></a> 
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <a title="在设计工具栏下选择浏览主题" href="http://www.bababian.com/photozoom.sl?pictureid=F7B65C19CE968FFC963A03A6BEE81042DT&size=5&viewID=B1E9FC10C6126F1235669209174F8D53UR" target="_blank"><img alt="在设计工具栏下选择浏览主题" src="https://www.digglife.net/qiniu/2533/image/77510092753af9d2161e38b1d7ecbd8b.jpg" /></a> 
 
   * 在弹出对话框中定位到刚刚解压出来的文件夹,然后选择对应的模板文件 
 
 随便下载了一个主题在Powerpoint中的测试效果如下:
 
-<a title="主题演示效果" href="http://photo1.bababian.com/upload11/20080516/42D34B7A7FAC570D4079B780DF45244C.jpg" target="_blank"><img alt="主题演示效果" src="http://digglife.qiniudn.com/qiniu/2533/image/d6b4e3fb7482f34a1dba49d2d0ba0d33.jpg" /></a> 
+<a title="主题演示效果" href="http://photo1.bababian.com/upload11/20080516/42D34B7A7FAC570D4079B780DF45244C.jpg" target="_blank"><img alt="主题演示效果" src="https://www.digglife.net/qiniu/2533/image/d6b4e3fb7482f34a1dba49d2d0ba0d33.jpg" /></a> 
 
 这样的主题相信微软会不时发放,以后会有更多.

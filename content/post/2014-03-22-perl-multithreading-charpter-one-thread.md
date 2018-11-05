@@ -90,7 +90,7 @@ Perl 内置有一个多线程模块 <a href="http://perldoc.perl.org/threads.htm
   
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/03/multithread.jpg" alt="Perl多线程处理" width="600" height="330" class="alignnone size-full wp-image-3864" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/03/multithread.jpg" alt="Perl多线程处理" width="600" height="330" class="alignnone size-full wp-image-3864" />
 
 要实现的目的是，收集本机 ping 多个远程 IP 产生的数据，写入到 csv 文件，然后上传的远程FTP上做后期处理。有关多线程的代码如下。其中 `$cnip` 是通过另一个 sub获取到的本机地址，`@snip`是配置文件中读取（或者参数中）读取到的目标地址。
 
@@ -128,7 +128,7 @@ Perl 内置有一个多线程模块 <a href="http://perldoc.perl.org/threads.htm
   
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/03/multithread.jpg" alt="Perl多线程处理" width="600" height="330" class="alignnone size-full wp-image-3864" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/03/multithread.jpg" alt="Perl多线程处理" width="600" height="330" class="alignnone size-full wp-image-3864" />
 
 要实现的目的是，收集本机 ping 多个远程 IP 产生的数据，写入到 csv 文件，然后上传的远程FTP上做后期处理。有关多线程的代码如下。其中 `$cnip` 是通过另一个 sub获取到的本机地址，`@snip`是配置文件中读取（或者参数中）读取到的目标地址。
 
@@ -169,7 +169,7 @@ Perl 内置有一个多线程模块 <a href="http://perldoc.perl.org/threads.htm
   
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/03/multithread.jpg" alt="Perl多线程处理" width="600" height="330" class="alignnone size-full wp-image-3864" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/03/multithread.jpg" alt="Perl多线程处理" width="600" height="330" class="alignnone size-full wp-image-3864" />
 
 要实现的目的是，收集本机 ping 多个远程 IP 产生的数据，写入到 csv 文件，然后上传的远程FTP上做后期处理。有关多线程的代码如下。其中 `$cnip` 是通过另一个 sub获取到的本机地址，`@snip`是配置文件中读取（或者参数中）读取到的目标地址。
 
@@ -207,7 +207,7 @@ Perl 内置有一个多线程模块 <a href="http://perldoc.perl.org/threads.htm
   
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/03/multithread.jpg" alt="Perl多线程处理" width="600" height="330" class="alignnone size-full wp-image-3864" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/03/multithread.jpg" alt="Perl多线程处理" width="600" height="330" class="alignnone size-full wp-image-3864" />
 
 要实现的目的是，收集本机 ping 多个远程 IP 产生的数据，写入到 csv 文件，然后上传的远程FTP上做后期处理。有关多线程的代码如下。其中 `$cnip` 是通过另一个 sub获取到的本机地址，`@snip`是配置文件中读取（或者参数中）读取到的目标地址。
 

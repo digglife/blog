@@ -34,7 +34,7 @@ tags:
 ---
 <a title="UserInterface.com" href="http://www.userinterfaceicons.com/" target="_blank"><strong>UserInterface.com</strong></a>是一个给应用程序和<a title="网站推荐" href="https://www.digglife.net/articles/category/website-intro/" target="_blank">网站</a>提供免费图标的新网站.这个网站上的图标全部免费而且没有附送任何水印之类烦人的东西.大部分的图标都是橙色风格,其中不乏设计优良的精品.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/interface-icon.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/interface-icon-thumb.png" border="0" alt="interface-icon" width="382" height="318" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/interface-icon.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/interface-icon-thumb.png" border="0" alt="interface-icon" width="382" height="318" /></a>
 
 <!--more-->
 

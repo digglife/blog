@@ -38,11 +38,11 @@ tags:
 
 **英文推荐:(**记得原来没有这么多的**)**
 
-[<img alt="group-en" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/group-en-thumb.png" width="450" height="246" />][1]
+[<img alt="group-en" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/group-en-thumb.png" width="450" height="246" />][1]
 
 **中文推荐:**
 
-[<img alt="group" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/group-thumb.png" width="450" height="249" />][2]
+[<img alt="group" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/group-thumb.png" width="450" height="249" />][2]
 
 Google Reader简体中文版的推荐Feed一共有4大类:
 

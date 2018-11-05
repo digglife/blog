@@ -25,7 +25,7 @@ tags:
 
 一图胜千言，下图是脚本处理后的《<a rel="nofollow" href="http://yun.baidu.com/pcloud/album/file?album_id=725645255657617385&#038;uk=2835490832&#038;fsid=2240115363" title="《三国志》裴松之注 繁体EPUB" target="_blank">三国志</a>》在 iPad 版 iBooks 下的效果。（原本是像[日文电子书那样的竖排EPUB][3]，我把 CSS 里和竖排相关的定义注释掉了）
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/10/epub-pop-up-footnote.png" alt="三国志 EPUB 弹出窗口式脚注" width="600" height="800" class="alignnone size-full wp-image-3910" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/10/epub-pop-up-footnote.png" alt="三国志 EPUB 弹出窗口式脚注" width="600" height="800" class="alignnone size-full wp-image-3910" />
 
 ### 如何实现EPUB弹出窗口式脚注
 
@@ -123,7 +123,7 @@ tags:
 
 
 <p>
-  <img src="http://digglife.qiniudn.com/wp-content/uploads/2014/10/epub-original-footnote.png" alt="三国志 EPUB 正文脚注混排" width="563" height="841" class="alignnone size-full wp-image-3909" />
+  <img src="https://www.digglife.net/wp-content/uploads/2014/10/epub-original-footnote.png" alt="三国志 EPUB 正文脚注混排" width="563" height="841" class="alignnone size-full wp-image-3909" />
 </p>
 
 

@@ -35,7 +35,7 @@ tags:
 
 当然,这个网站好像没有什么实用性,仅仅是很有趣而已,站长估计自己找了一堆人来拍照,哈哈.在日历下方可以设置每周的第一天,日历大小和时区.下图就是12月4日的截图.
 
-[<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="347" alt="04_logo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/04-logo-thumb.gif" width="350" border="0" />][1] 
+[<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="347" alt="04_logo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/04-logo-thumb.gif" width="350" border="0" />][1] 
 
 <!--more-->
 

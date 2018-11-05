@@ -21,7 +21,7 @@ tags:
   - 日本
 
 ---
-日本的<a target="_blank" href="http://www.dragonfield.com/">Dragonfield</a>通过旗下博客服务网站<a target="_blank" href="http://mogo2.jp/top">Mogo2(もごもご)</a>发起了一项要求苹果的iPhone在日本发售的署名运动. 为此该网站还专门开辟了一个iPhone风格的网页,用户能够通过iPhone风格的<a target="_blank" href="http://mogo2.jp/iphone/home.html">「もごフォン」(MogoPhone)</a>组件使用Mogo2的服务.<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mogologo.gif"><img align="right" width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/mogologo-thumb.gif" alt="Mogologo" height="85" /></a>
+日本的<a target="_blank" href="http://www.dragonfield.com/">Dragonfield</a>通过旗下博客服务网站<a target="_blank" href="http://mogo2.jp/top">Mogo2(もごもご)</a>发起了一项要求苹果的iPhone在日本发售的署名运动. 为此该网站还专门开辟了一个iPhone风格的网页,用户能够通过iPhone风格的<a target="_blank" href="http://mogo2.jp/iphone/home.html">「もごフォン」(MogoPhone)</a>组件使用Mogo2的服务.<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mogologo.gif"><img align="right" width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mogologo-thumb.gif" alt="Mogologo" height="85" /></a>
 
 尽管iPhone将在6月29日在美国正式发售,但是在日本的发售日期同样未定.因此DragonField决定发动希望能够在日本使用iPhone的网民在Mogo2署名,并号称收集到5000条署名后发送给美国的苹果公司.
 
@@ -31,7 +31,7 @@ MogoPhone模拟了iPhone的触摸屏拖拽滚动效果,用户用鼠标拖动屏�
 
 <font color="#ff0080">其实整体界面还是像模像样的,而且和本身的服务整合的很好.</font>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mogophone.png"><img width="387" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/mogophone-thumb.png" alt="mogophone" height="721" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mogophone.png"><img width="387" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mogophone-thumb.png" alt="mogophone" height="721" /></a>
 
 另据消息,日本的移动通信运营商DoCoMo(ドコモ)正和苹果谈判,希望将iPhone引进国内.同时另外一家移动巨头Sofebank(ソフトバンク,国内一般叫&#8221;软银&#8221;)也有此意向,因此可能会引起剧烈的争夺战.在记者采访中DoCoMo的产品服务部长和社长都表示了对iPhone强烈的兴趣,并表示可能在一年之后引进.由于日本移动网络采用的是W-CDMA网,而iPhone只支持GSM,所以引进的首要任务就是让iPhone支持W-CDMA.
 

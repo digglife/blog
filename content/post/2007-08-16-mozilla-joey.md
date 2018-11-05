@@ -32,7 +32,7 @@ tags:
   - 移动应用
 
 ---
-[ <img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/joeylogo-thumb.png" alt="joeylogo" align="right" height="95" width="185" />Project Joey][1]是Mozilla实验室于<a href="http://labs.mozilla.com/2007/05/introducing-joey/" target="_blank">今年5月向外推出</a>的一个非常酷的移动应用,简单说来就是让你能够在电脑上给重要内容做上标记并上传到Joey的服务器,以便在移动设备上随时浏览,这些内容包括**文本,音频,视频,图像,RSS**等等.在8月13日(美国时间)Mozilla 实验室发布了一段如何使用Joey的演示视频,号召大家使用这个服务并给他们反馈.之前注册的帐号全部销毁,现在使用需要重新注册.
+[ <img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/joeylogo-thumb.png" alt="joeylogo" align="right" height="95" width="185" />Project Joey][1]是Mozilla实验室于<a href="http://labs.mozilla.com/2007/05/introducing-joey/" target="_blank">今年5月向外推出</a>的一个非常酷的移动应用,简单说来就是让你能够在电脑上给重要内容做上标记并上传到Joey的服务器,以便在移动设备上随时浏览,这些内容包括**文本,音频,视频,图像,RSS**等等.在8月13日(美国时间)Mozilla 实验室发布了一段如何使用Joey的演示视频,号召大家使用这个服务并给他们反馈.之前注册的帐号全部销毁,现在使用需要重新注册.
 
 <!--more-->
 
@@ -40,19 +40,19 @@ Joey**最大的意义在于**你能过通过手机访问许多目前只能在电
 
 Firefox扩展:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/joey-addon.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/joey-addon-thumb.png" alt="joey_addon" height="115" width="220" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/joey-addon.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/joey-addon-thumb.png" alt="joey_addon" height="115" width="220" /></a>
 
 上传Youtube视频到Joey服务器:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/mediadownload.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/mediadownload-thumb.png" alt="mediadownload" height="25" width="150" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/mediadownload.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/mediadownload-thumb.png" alt="mediadownload" height="25" width="150" /></a>
 
 我的Joey账户:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/myjoey.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/myjoey-thumb.png" alt="Myjoey" height="336" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/myjoey.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/myjoey-thumb.png" alt="Myjoey" height="336" width="450" /></a>
 
 查看Youtube视频:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/joeyvideo.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/joeyvideo-thumb.png" alt="joeyVideo" height="281" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/joeyvideo.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/joeyvideo-thumb.png" alt="joeyVideo" height="281" width="450" /></a>
 
 官方演示视频如下:(原视频访问太慢,我下载后上传到土豆上的)
 

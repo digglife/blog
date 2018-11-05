@@ -22,7 +22,7 @@ tags:
 ---
 </p> 
 
-戴尔预装Ubuntu的PC终于要推出了.预装Ubuntu系统的细节在戴尔英文官方博客上正式公布.从下面的细节看,戴尔并没有对Ubuntu7.04做出太大的改动,涉及到的主要是硬件驱动的问题. <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntu-14e29dell-ubuntu4.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="174" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntu-14e29dell-ubuntu-thumb2.jpg" width="240" align="right" border="0" /></a> 
+戴尔预装Ubuntu的PC终于要推出了.预装Ubuntu系统的细节在戴尔英文官方博客上正式公布.从下面的细节看,戴尔并没有对Ubuntu7.04做出太大的改动,涉及到的主要是硬件驱动的问题. <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntu-14e29dell-ubuntu4.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="174" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntu-14e29dell-ubuntu-thumb2.jpg" width="240" align="right" border="0" /></a> 
 
 **已提供的硬件和软件.** 
 

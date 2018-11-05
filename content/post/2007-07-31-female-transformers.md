@@ -24,18 +24,18 @@ tags:
 
 **Hello Kitty缝纫机**
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-01.jpg" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/transformers-robots-01-thumb.jpg" alt="transformers-robots-01" height="330" width="440" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-01.jpg" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-01-thumb.jpg" alt="transformers-robots-01" height="330" width="440" /></a>
 
 **长尾小马**.没有得到变形金刚的精髓,因为那个极不协调的马头.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-02.jpg" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/transformers-robots-02-thumb.jpg" alt="transformers-robots-02" height="221" width="440" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-02.jpg" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-02-thumb.jpg" alt="transformers-robots-02" height="221" width="440" /></a>
 
 **吹风机.**热力大炮~!
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-03.jpg" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/transformers-robots-03-thumb.jpg" alt="transformers-robots-03" height="447" width="440" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-03.jpg" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-03-thumb.jpg" alt="transformers-robots-03" height="447" width="440" /></a>
 
 **擎天柱女士.**兵器是梳子.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-04.jpg" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/transformers-robots-04-thumb.jpg" alt="transformers-robots-04" height="655" width="440" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-04.jpg" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/transformers-robots-04-thumb.jpg" alt="transformers-robots-04" height="655" width="440" /></a>
 
  [1]: http://www.somethingawful.com

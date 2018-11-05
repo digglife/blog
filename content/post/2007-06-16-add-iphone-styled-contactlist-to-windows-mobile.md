@@ -27,7 +27,7 @@ tags:
 ---
 如果你看过iPhone的宣传广告,大致应该知道这个效果是怎样的.为了让大家更清楚地了解,我还是在下面贴一段视频.这个效果的特点是,当你手指上下滑动时,页面有一个惯性滑动效果.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/icontact.png" atomicselection="true"><img height="266" alt="icontact" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/icontact-thumb.png" width="200" /></a>  <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/sscontact-v1-1-0.jpg" atomicselection="true"><img height="266" alt="sscontact-v1-1-0" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/sscontact-v1-1-0-thumb.jpg" width="200" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/icontact.png" atomicselection="true"><img height="266" alt="icontact" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/icontact-thumb.png" width="200" /></a>  <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/sscontact-v1-1-0.jpg" atomicselection="true"><img height="266" alt="sscontact-v1-1-0" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/sscontact-v1-1-0-thumb.jpg" width="200" /></a>
 
 <!--more-->
 

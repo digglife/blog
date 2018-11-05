@@ -123,14 +123,14 @@ Gooogle IG max代码,通过多种途径来挤出空间:移除标题栏,移除页
 原文来自<a target="_blank" href="http://mashable.com/2007/05/11/igoogle/"><font color="#669966">Mashable</font></a>
 
  [1]: http://www.google.com/ig
- [2]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/igoogle.jpg
+ [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/igoogle.jpg
  [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/igoogle.jpg "igoogle.jpg"
- [4]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/bluetheme.png
+ [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/bluetheme.png
  [5]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/bluetheme.png "bluetheme.png"
  [6]: http://userscripts.org/scripts/show/8953
  [7]: http://userstyles.org/style/show/1327
- [8]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/resizable.jpg
+ [8]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/resizable.jpg
  [9]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/resizable.jpg "resizable.jpg"
  [10]: http://userscripts.org/scripts/show/8162
- [11]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/maximize.png
+ [11]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/maximize.png
  [12]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/maximize.png "maximize.png"

@@ -37,7 +37,7 @@ tags:
 3、输入某些特定单词按空格转换后你会看到大量对应颜文字，对应列表如下：
 
 <div style="width: 275px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5232018871685759202"><img title="日文颜文字对应输入" src="http://digglife.qiniudn.com/wp-content/uploads/archive/emoticons-part.png" alt="这只是日语颜文字的部分，点击看全部" width="265" height="400" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5232018871685759202"><img title="日文颜文字对应输入" src="https://www.digglife.net/wp-content/uploads/archive/emoticons-part.png" alt="这只是日语颜文字的部分，点击看全部" width="265" height="400" /></a>
   
   <p class="wp-caption-text">
     这只是日语颜文字的部分，点击看完整版，建议保存
@@ -51,4 +51,4 @@ tags:
 ![验证][2]
 
  [1]: http://www.relief.jp/itnote/archives/000996.php
- [2]: http://digglife.qiniudn.com/qiniu/2628/image/22cb1986f81f4bdd1702ccac5d4f3e58.jpg
+ [2]: https://www.digglife.net/qiniu/2628/image/22cb1986f81f4bdd1702ccac5d4f3e58.jpg

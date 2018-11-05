@@ -35,17 +35,17 @@ tags:
   - 资源
 
 ---
-[<img id="id" height="134" alt="National-day" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/national-day-thumb.png" width="450" />][1] 
+[<img id="id" height="134" alt="National-day" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/national-day-thumb.png" width="450" />][1] 
 
 (以上拙劣的图片和标题无关&#8230;^_^)首先祝<a title="订阅DiggLife" href="http://feed.digglife.cn" target="_blank">DiggLife</a>的读者们国庆节快乐,祝伟大的共和国五十八岁生日快乐!!!!!Happy National Day~!最近身体状况和心理状态都有点混乱,所以更新比较少,也没有什么规律.希望能够尽快改善.下面是来自<a title="Liron Tocker" href="http://www.liron.de/blog/?p=478" target="_blank">Liron Tocker</a>的一些奇客手机壁纸,比较有意思.
 
 <!--more-->
 
-[<img id="id" height="320" alt="facebook" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/facebook-thumb.jpg" width="240" />][2] [<img id="id" height="320" alt="pownce" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/pownce-thumb.jpg" width="240" />][3] 
+[<img id="id" height="320" alt="facebook" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/facebook-thumb.jpg" width="240" />][2] [<img id="id" height="320" alt="pownce" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/pownce-thumb.jpg" width="240" />][3] 
 
-[<img id="id" height="320" alt="linkedin" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/linkedin-thumb.jpg" width="240" />][4] [<img id="id" height="320" alt="twitter" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/twitter-thumb.jpg" width="240" />][5] 
+[<img id="id" height="320" alt="linkedin" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/linkedin-thumb.jpg" width="240" />][4] [<img id="id" height="320" alt="twitter" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/twitter-thumb.jpg" width="240" />][5] 
 
-[<img id="id" height="320" alt="lastfm" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/lastfm-thumb.jpg" width="240" />][6] [<img id="id" height="320" alt="del" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/del-thumb.jpg" width="240" />][7] 
+[<img id="id" height="320" alt="lastfm" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/lastfm-thumb.jpg" width="240" />][6] [<img id="id" height="320" alt="del" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/del-thumb.jpg" width="240" />][7] 
 
 我手头上还有一些<a title="Pownce" href="http://www.pownce.com" target="_blank"><strong>Pownce</strong></a>**的邀请**,需要的朋友可以在下面留下邮箱地址.
 

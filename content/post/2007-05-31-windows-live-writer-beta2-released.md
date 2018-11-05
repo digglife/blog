@@ -29,7 +29,7 @@ tags:
 
 ### **编辑功能更新:**
 
-  * 拼写检查 <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/spellchecking-table3.gif"><img align="right" width="227" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/spellchecking-table-thumb3.gif" alt="spellchecking_table" height="139" /></a>                                                 <font color="#ff0080">表格编辑和拼写检查</font>
+  * 拼写检查 <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/spellchecking-table3.gif"><img align="right" width="227" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/spellchecking-table-thumb3.gif" alt="spellchecking_table" height="139" /></a>                                                 <font color="#ff0080">表格编辑和拼写检查</font>
   * 表格编辑
   * 添加分类功能
   * WordPress和TypePad的页面撰写功能
@@ -42,7 +42,7 @@ tags:
 
 ### **集成性和兼容性更新.**                            
 
-  * 添加SharePoint支持<font color="#ff0080"><a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/catagory3.gif"><img align="right" width="227" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/catagory-thumb3.gif" alt="catagory" height="188" /></a> </font><font color="#ff0080">                                添加分类功能</font>
+  * 添加SharePoint支持<font color="#ff0080"><a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/catagory3.gif"><img align="right" width="227" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/catagory-thumb3.gif" alt="catagory" height="188" /></a> </font><font color="#ff0080">                                添加分类功能</font>
   * 新的API接口,支持博客服务商的第三方插件
   * 自动同步本地和服务器上的编辑文档
   * 和Windows Live Gallery的无缝集成
@@ -50,14 +50,14 @@ tags:
 
 ### **更多&#8230;**
 
-  * 全新的界面(和其他的Live产品终于统一了) <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/pageauthoring3.gif"><img align="right" width="226" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/pageauthoring-thumb3.gif" alt="pageauthoring" height="101" /></a> 　　　　　　　　　　　　　　　　 <font color="#ff0080">页面编辑功能</font>
+  * 全新的界面(和其他的Live产品终于统一了) <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/pageauthoring3.gif"><img align="right" width="226" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/pageauthoring-thumb3.gif" alt="pageauthoring" height="101" /></a> 　　　　　　　　　　　　　　　　 <font color="#ff0080">页面编辑功能</font>
   * 支持6种语言.
   * 增强的可接入性和键盘支持
   * 许多被多次要求的功能
 
 Windows Live Space,WordPress和TypePad都能够充分利用新的<a target="_blank" href="http://msdn2.microsoft.com/en-us/library/bb463266.aspx">博客提供商自定义接口</a>来开发额外的特别功能集成到WLW的界面中.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/blogsupport3.gif"><img width="316" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/blogsupport-thumb3.gif" alt="blogsupport" height="221" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/blogsupport3.gif"><img width="316" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/blogsupport-thumb3.gif" alt="blogsupport" height="221" /></a>
 
 具体的API开发文档在<a target="_blank" href="http://msdn2.microsoft.com/en-us/library/bb463266.aspx">这里</a>.
 

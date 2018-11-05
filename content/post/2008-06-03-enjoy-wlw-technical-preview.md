@@ -75,8 +75,8 @@ tags:
 
  [1]: ../articles/windows-live-writer-tricks-and-tips.html "我的Windows Live Writer使用心得 Part.1 (2007-09-16)"
  [2]: https://www.digglife.net/articles/windows-live-writer-tricks-and-tips-2.html "我的Windows Live Writer使用心得Part.2"
- [3]: http://digglife.qiniudn.com/qiniu/2542/image/92ab93767e36c95400fa28ae686df7fd.jpg "windows live writer图片裁剪"
- [4]: http://digglife.qiniudn.com/qiniu/2542/image/a65987ebbe15bb9183a09df864f83e76.jpg "windows live writer图片翻转"
- [5]: http://digglife.qiniudn.com/qiniu/2542/image/c4cff375a909011763214b888fe0aaf9.jpg "windows live writer图片边框特效"
- [6]: http://digglife.qiniudn.com/qiniu/2542/image/9df3e32dedd22051076e3a5f58b95a7b.jpg "Windows Live Writer用户界面更新"
- [7]: http://digglife.qiniudn.com/qiniu/2542/image/f387948ab3ddf9445a91dd03fa8af657.jpg "Windows Live Writer类别过滤"
+ [3]: https://www.digglife.net/qiniu/2542/image/92ab93767e36c95400fa28ae686df7fd.jpg "windows live writer图片裁剪"
+ [4]: https://www.digglife.net/qiniu/2542/image/a65987ebbe15bb9183a09df864f83e76.jpg "windows live writer图片翻转"
+ [5]: https://www.digglife.net/qiniu/2542/image/c4cff375a909011763214b888fe0aaf9.jpg "windows live writer图片边框特效"
+ [6]: https://www.digglife.net/qiniu/2542/image/9df3e32dedd22051076e3a5f58b95a7b.jpg "Windows Live Writer用户界面更新"
+ [7]: https://www.digglife.net/qiniu/2542/image/f387948ab3ddf9445a91dd03fa8af657.jpg "Windows Live Writer类别过滤"

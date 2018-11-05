@@ -19,7 +19,7 @@ tags:
   - ubuntu
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterubuntuubuntu7.04feistyfawn-dcf3ubuntu-logo7.png" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="70" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterubuntuubuntu7.04feistyfawn-dcf3ubuntu-logo-thumb5.png" width="240" align="right" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterubuntuubuntu7.04feistyfawn-dcf3ubuntu-logo7.png" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="70" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterubuntuubuntu7.04feistyfawn-dcf3ubuntu-logo-thumb5.png" width="240" align="right" border="0" /></a> 
 
 饱受期待的Ubuntu7.04终于发布了.我已经下载并刻录了,相信这个版本比6.10要更加令人兴奋.
 

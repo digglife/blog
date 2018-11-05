@@ -81,7 +81,7 @@ Django只内置了几个 Database Backend，默认并不支持 `Microsoft SQL Se
 
 实现模式：`MSSQL Server -> MSSQL Server ODBC Driver -> pyodbc -> django-pyodbc -> django frontend` 。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/04/mssql-django.jpg" alt="Linux上使用MSSQL Server作为Django的Database Backend" width="484" height="187" class="alignnone size-full wp-image-3921" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/04/mssql-django.jpg" alt="Linux上使用MSSQL Server作为Django的Database Backend" width="484" height="187" class="alignnone size-full wp-image-3921" />
 
 ### 安装MSSQL Server ODBC Driver 1.0
 

@@ -34,7 +34,7 @@ tags:
 
 <font color="#800080">刀锋女王(Kerrigan)</font>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/2Starcraft2_11F89/Starcraft-Sarah-Kerrigan%5B10%5D.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="350" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/2Starcraft2_11F89/Starcraft-Sarah-Kerrigan_thumb%5B8%5D.jpg" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/2Starcraft2_11F89/Starcraft-Sarah-Kerrigan%5B10%5D.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="350" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/2Starcraft2_11F89/Starcraft-Sarah-Kerrigan_thumb%5B8%5D.jpg" width="450" border="0" /></a> 
 
 &nbsp;
 
@@ -42,7 +42,7 @@ tags:
 
 <font color="#800080">赛而那加(Xel&#8217;Naga)</font>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/2Starcraft2_11F89/xelnaga%5B6%5D.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="350" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/2Starcraft2_11F89/xelnaga_thumb%5B4%5D.jpg" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/2Starcraft2_11F89/xelnaga%5B6%5D.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="350" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/2Starcraft2_11F89/xelnaga_thumb%5B4%5D.jpg" width="450" border="0" /></a> 
 
 &nbsp;
 

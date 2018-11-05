@@ -47,4 +47,4 @@ avp.exe木马的主要特征是:
 
 这个木马的破坏性极大,已经好久没有碰到类似的垃圾了.大家用电脑还是小心为妙啊,重在防御,等你发现已经中标的时候,大部分时候都为时已晚.
 
- [1]: http://digglife.qiniudn.com/qiniu/2495/image/3b009e6139b85b9a23736da05cf115f6.jpg
+ [1]: https://www.digglife.net/qiniu/2495/image/3b009e6139b85b9a23736da05cf115f6.jpg

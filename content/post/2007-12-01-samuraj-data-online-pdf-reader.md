@@ -44,5 +44,5 @@ tags:
 
 来自<a target="_blank" href="http://cybernetnews.com/" title="CyberNet">CyberNet</a>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/online-pdf-reader.thumbnail.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/online-pdf-reader.thumbnail.jpg
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/online-pdf-reader.jpg "Online-pdf-reader"

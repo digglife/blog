@@ -22,7 +22,7 @@ tags:
   - 十大
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-toolbar.gif" atomicselection="true"><img height="59" alt="Google_toolbar" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/google-toolbar-thumb.gif" width="143" align="right" /></a> 厌恶<a href="http://toolbar.google.com" target="_blank">Google工具栏</a>的通常有一个强悍到无人能反驳的理由:我从不用工具栏.的确够强大,而且即便有人列出一万条安装工具栏的好处也无法抵抗这个万能理由.我开始对Google工具栏同样十分反感,一方面因为网友无微不至地&#8221;宣传&#8221;,一方面Google的初期隐形捆绑无意识安装的政策令我非常鄙视.后来有一次为了测试几大工具栏的功能,比如是否实用,是否能够正常彻底卸载等.经过仔细比较我发现只有Google工具栏真正能够称之为&#8221;上网助手&#8221;(这个词被某些人搞臭了),其他的都不值一哂.
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-toolbar.gif" atomicselection="true"><img height="59" alt="Google_toolbar" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-toolbar-thumb.gif" width="143" align="right" /></a> 厌恶<a href="http://toolbar.google.com" target="_blank">Google工具栏</a>的通常有一个强悍到无人能反驳的理由:我从不用工具栏.的确够强大,而且即便有人列出一万条安装工具栏的好处也无法抵抗这个万能理由.我开始对Google工具栏同样十分反感,一方面因为网友无微不至地&#8221;宣传&#8221;,一方面Google的初期隐形捆绑无意识安装的政策令我非常鄙视.后来有一次为了测试几大工具栏的功能,比如是否实用,是否能够正常彻底卸载等.经过仔细比较我发现只有Google工具栏真正能够称之为&#8221;上网助手&#8221;(这个词被某些人搞臭了),其他的都不值一哂.
 
 以下只是我个人使用这么长时间以来的感受,没有丝毫说服任何人使用Google工具栏的意思.
 
@@ -44,4 +44,4 @@ tags:
   1. **翻译失效**.某些网页自动翻译功能无效,并且不是一时的. 
   2. **无法收藏.**主要出现在IE下.&#8221;此网页不适合加入收藏&#8221;弹出窗口. 
   3. **浏览历史丢失.**有时候无法找到某些浏览记录. 
-  4. **按钮图标.**自定义搜索按钮有时无法抓取图标,经常只有一个<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-button.png" atomicselection="true"><img height="23" alt="google_button" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/google-button-thumb.png" width="23" /></a> ,造成识别困难.
+  4. **按钮图标.**自定义搜索按钮有时无法抓取图标,经常只有一个<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-button.png" atomicselection="true"><img height="23" alt="google_button" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-button-thumb.png" width="23" /></a> ,造成识别困难.

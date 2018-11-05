@@ -33,7 +33,7 @@ tags:
 > 
 > XPS 410N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<font color="#ff0000">$899</font>**
 > 
-> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1xps410-2007fp-131x145110.jpg" atomicselection="true"><img height="145" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1xps410-2007fp-131x1451-thumb8.jpg" width="131" align="left" /></a> 
+> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1xps410-2007fp-131x145110.jpg" atomicselection="true"><img height="145" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1xps410-2007fp-131x1451-thumb8.jpg" width="131" align="left" /></a> 
 > 
 >   * Intel® Core™ 2 Duo Processor E4300 (2MB L2 Cache,1.8GHz,800FSB) 
 >     Ubuntu Desktop Edition version 7.04 
@@ -48,7 +48,7 @@ tags:
 > 
 > Dimension E520N&nbsp;&nbsp;&nbsp;&nbsp; **<font color="#ff0000">$599</font>**
 > 
-> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1e520-e177fp-131x14514.jpg" atomicselection="true"><img height="145" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1e520-e177fp-131x1451-thumb2.jpg" width="131" align="left" /></a> 
+> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1e520-e177fp-131x14514.jpg" atomicselection="true"><img height="145" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1e520-e177fp-131x1451-thumb2.jpg" width="131" align="left" /></a> 
 > 
 > Intel® Core™2 Duo Processor E4300 (1.8GHz, 800 FSB)
 > 
@@ -66,7 +66,7 @@ tags:
 > 
 > Inspiron E1505n&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; **<font color="#ff0000">$599</font>**
 > 
-> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1e1505-front-131x145-ss14.jpg" atomicselection="true"><img height="145" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1e1505-front-131x145-ss1-thumb2.jpg" width="131" align="left" /></a> </p> 
+> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1e1505-front-131x145-ss14.jpg" atomicselection="true"><img height="145" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuvistavsubuntu-edd1e1505-front-131x145-ss1-thumb2.jpg" width="131" align="left" /></a> </p> 
 > 
 > Intel® Pentium® dual-core proc T2080(1MB Cache/1.73GHz/533MHz FSB 
 > 

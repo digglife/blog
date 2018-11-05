@@ -36,7 +36,7 @@ tags:
   - 网络营销
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/blogviz.gif"><img align="right" width="211" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/blogviz-thumb.gif" alt="blogviz" height="70" /></a> 今天我看Google日本新闻的时候发现了这个概念比较新的博客分析服务网站<a target="_blank" href="http://viz.nikkei-r.co.jp/">BlogViz Sensor</a>,特拿出来和大家研究研究.<a target="_blank" href="http://koubei.blogool.com">博狗口碑</a>和这个服务有着类似之处,不过前者是一种被动的情报搜集,它依靠发放数量有限的某一特定话题广告,然后搜集数据.但是BlogViz却是主动的全面的,它主动地分析网络上的所有博客文章,并建立起数据庞大的数据库,然后根据客户登录的关键字进行多角度分析.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/blogviz.gif"><img align="right" width="211" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/blogviz-thumb.gif" alt="blogviz" height="70" /></a> 今天我看Google日本新闻的时候发现了这个概念比较新的博客分析服务网站<a target="_blank" href="http://viz.nikkei-r.co.jp/">BlogViz Sensor</a>,特拿出来和大家研究研究.<a target="_blank" href="http://koubei.blogool.com">博狗口碑</a>和这个服务有着类似之处,不过前者是一种被动的情报搜集,它依靠发放数量有限的某一特定话题广告,然后搜集数据.但是BlogViz却是主动的全面的,它主动地分析网络上的所有博客文章,并建立起数据庞大的数据库,然后根据客户登录的关键字进行多角度分析.
 
 <a target="_blank" href="http://viz.nikkei-r.co.jp/">BlogViz Sensor</a>(blogViz センサー)是日本<a target="_blank" href="http://www.nikkei-r.co.jp/">日经Research</a>(Nikkei Research)旗下的一家专门分析全日本博客对于某种商品和服务评价的系统,能够更快地对博客主的反应和最原始地声音进行多角度的分析.
 
@@ -46,13 +46,13 @@ tags:
 
 下面是Blogviz对当前网络媒体传播模式变化的分析,即便懂日语也看得明白,这就是我们经常说的Web1.0到Web2.0转变的核心所在.以博客和SNS为代表的CGM(Consumer Generated Media,国内普遍译作&#8221;**自媒体**&#8220;)成为信息流的主要来源,颠覆了之前电视报纸杂志为主要信息来源的所谓Top Tower Hierarchy(日文生造英语词汇:トップダウン・ヒエラルキ)模式.因此,对于这些信息的分析和整理就显得非常重要了.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/concept-cut1.gif"><img width="370" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/concept-cut1-thumb.gif" alt="concept_cut1" height="195" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/concept-cut1.gif"><img width="370" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/concept-cut1-thumb.gif" alt="concept_cut1" height="195" /></a>
 
 BlogViz Sensor正是一个从广大博客空间中通过消费者的言论来提取有效的信息,并将其与企业的各种行为联系起来的**ASP服务**(Applications Service Provider Service 应用服务提供商服务).
 
 **BlogViz Sensor的分析示意图.博客Buzz&#8211;分析过滤&#8211;企业客户参考**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/concept-cut2.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/concept-cut2-thumb.png" alt="concept_cut2" height="144" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/concept-cut2.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/concept-cut2-thumb.png" alt="concept_cut2" height="144" /></a>
 
 ### **二.使用范例**
 
@@ -95,7 +95,7 @@ BlogViz不仅分析博客日志,同时还分析博客日志上的评论和引用
 
 **1.博客关系网.**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut1.gif"><img width="200" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/graph-cut1-thumb.gif" alt="graph_cut1" height="170" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut1.gif"><img width="200" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut1-thumb.gif" alt="graph_cut1" height="170" /></a>
 
 通过分析包含有登录关键字的博客日志上的评论和引用,制作成关系图表.有了这个图表,用户可以了解关键字热度,影响力大的博客以及这些博客在写哪些内容.解读这些影响力强大的博客日志,可以在一定程度上预测评价将如何传播.
 
@@ -107,7 +107,7 @@ BlogViz不仅分析博客日志,同时还分析博客日志上的评论和引用
 
 **2.积极评价和消极评价分析.**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut2.gif"><img width="200" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/graph-cut2-thumb.gif" alt="graph_cut2" height="170" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut2.gif"><img width="200" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut2-thumb.gif" alt="graph_cut2" height="170" /></a>
 
 自动判定含有登录关键字的博客日志的评价方向,并通过图表表示.点击柱状图积极评价和消极评价的部分时会显示具体日志的链接.另外**还能够判断日志是在说明产品的功能还是只是单纯地表达自己的感受**,并能直接显示这些日志.
 
@@ -119,13 +119,13 @@ BlogViz不仅分析博客日志,同时还分析博客日志上的评论和引用
 
 **3.关键字比较.(与竞争对手的品牌和商品相比较)**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut3.gif"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/graph-cut3-thumb.gif" alt="graph_cut3" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut3.gif"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut3-thumb.gif" alt="graph_cut3" /></a>
 
 在登录的多个关键字中选择一个用图表表示.用来把握和竞争对手品牌/商品的比较,各种指标的变化.一共有3中数据:曝光率,传播量,密集度.
 
 **4.单一关键字图表.(某个关键字在一定时间内的表现)**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut4.gif"><img width="200" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/graph-cut4-thumb.gif" alt="graph_cut4" height="170" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut4.gif"><img width="200" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/graph-cut4-thumb.gif" alt="graph_cut4" height="170" /></a>
 
 对于登录的某一关键字,通过&#8221;日志数量(曝光率)&#8221; &#8220;日志数量和评论数(传播量)&#8221;&#8221;博客主的密集度(密集度)&#8221;来进行某一时间段的分析.
 

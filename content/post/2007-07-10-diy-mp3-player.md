@@ -48,7 +48,7 @@ tags:
 ---
 在崇尚个性化的年代,似乎所有的东西都无法逃脱个性化的魔爪.既然电脑可以组装,为什么MP3不可以?来自日本的<a target="_blank" href="http://www.everg.co.jp/">EverGreen</a>公司在直销网站**上海問屋**上于7月6日开始发售个性化的MP3播放器<a target="_blank" href="http://donya.jp/everg/7.1/4547479558800/">MP3DIY-256</a>.内存为256MB的零售价为4999日元(大概为350RMB).
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/everg2-2.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/everg2-2-thumb.jpg" alt="everg2_2" height="337" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/everg2-2.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/everg2-2-thumb.jpg" alt="everg2_2" height="337" /></a>
 
 MP3DIY-256和传统式的MP3不同的地方在于,它仅仅是把MP3最基本的部件单位:内存,电池,解码芯片等组合在一起制作成为一个简单的播放器单元,连同一个控制棒放在一个纸质的盒子里面直接销售,而不提供外壳.这样的播放器单元的规格为:28×25×18mm.当然,这样的MP3放在如图所示的纸质盒子里面也同样可以正常使用,不过你也可以选择自己喜欢的设计风格的外壳,比如把他们放到小公仔,朋友坏掉的iPod等里面去,从而得到一个全新的MP3.如果你想完全DIY自己的外壳的话,还必须给他们挖出控制键孔和耳机孔.
 
@@ -56,17 +56,17 @@ MP3DIY-256和传统式的MP3不同的地方在于,它仅仅是把MP3最基本的
 
 **<font color="#ff0080">MP3真身.</font>**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/everg2-3.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/everg2-3-thumb.jpg" alt="everg2_3" height="337" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/everg2-3.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/everg2-3-thumb.jpg" alt="everg2_3" height="337" /></a>
 
 Evergreen同样提供了一些配套的外壳,比如专用的木质外壳,售价2499日元.<font color="#0000ff">MP3DIY-256没有电源按钮,取而代之的是:接上耳机就开始开机播放,取下耳机停止(这个还真是有够变态,不过挺有创意的).通过控制棒可以调成音量和前进后退歌曲.</font>支持MP3/WMA/OGG三种音乐格式.通过USB充电.充电4小时之后可以连续播放3小时.
 
 **<font color="#ff0080">所有部件</font>**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mp303-s.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/mp303-s-thumb.jpg" alt="mp303_s" height="337" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mp303-s.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mp303-s-thumb.jpg" alt="mp303_s" height="337" /></a> 
 
 **各式各样的外壳.**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/everg2-8.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/everg2-8-thumb.jpg" alt="everg2_8" height="335" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/everg2-8.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/everg2-8-thumb.jpg" alt="everg2_8" height="335" /></a>
 
 总体说来还是小有创意的,尽管只是在外壳上做文章,但是毕竟的确是个性化了一把.
 

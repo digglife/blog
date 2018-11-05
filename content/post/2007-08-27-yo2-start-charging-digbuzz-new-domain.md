@@ -79,7 +79,7 @@ tags:
   - 博客提供商
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/yo21.gif" atomicselection="true"><img height="88" alt="yo2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/yo2-thumb.gif" width="195" /></a>  <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/5dig.png" atomicselection="true"><img height="88" alt="5dig" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/5dig-thumb.png" width="195" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/yo21.gif" atomicselection="true"><img height="88" alt="yo2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/yo2-thumb.gif" width="195" /></a>  <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/5dig.png" atomicselection="true"><img height="88" alt="5dig" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/5dig-thumb.png" width="195" /></a> 
 
 我们亲爱的博客服务商<a href="http://yo2.cn" target="_blank">Yo2</a>酝酿已久跳票多次的收费程序终于启动,决定在9月15日针对绑定域名的用户开始收费,基础价格为36.5元,具体价格表见附文.这个价格我曾经在5月和大家在Yo2QQ群上讨论的时候猜到过,记得当时<a href="http://www.oneoo.com" target="_blank">ONeOo</a>的回应是:&#8221;如果真如摩摩诘所说是36.5,大家觉得怎么样?&#8221;,可见这个价格早已决定,老大们只是在等待收费的最好时机而已.
 

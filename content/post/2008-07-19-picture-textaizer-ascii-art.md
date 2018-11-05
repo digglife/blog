@@ -34,7 +34,7 @@ tags:
 现在如果你想制作自定义文本的字符拼图,可以试试<a title="字符和ASCII码拼图生成工具Textaizer" href="http://www.mosaizer.com/Textaizer/" target="_blank">Textaizer</a>这款软件.它有3个主要功能:制作字符拼图(Text Mosaic),制作ASCII码艺术图(ASCII Art),用ASCII码组成字符(Text Art).
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5224627721517804674"><img title="字符拼图制作工具Textaizer" src="http://digglife.qiniudn.com/wp-content/uploads/archive/textaizer.png" alt="色彩对比鲜明的图片效果会很好" width="400" height="313" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5224627721517804674"><img title="字符拼图制作工具Textaizer" src="https://www.digglife.net/wp-content/uploads/archive/textaizer.png" alt="色彩对比鲜明的图片效果会很好" width="400" height="313" /></a>
   
   <p class="wp-caption-text">
     色彩对比鲜明的图片效果会很好,上图由52981个字符生成
@@ -46,7 +46,7 @@ tags:
 ASCII码拼图制作和ASCII码组合字符同样也非常强大,在生成图片的同时,还能输出为txt文本和HTML,方便在网络上使用.
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5224636114684802578"><img title="ASCII码拼图制作和组合字符" src="http://digglife.qiniudn.com/wp-content/uploads/archive/textaizer-ascii.png" alt="要有ASCII码的效果还是Courier New字体比较好" width="400" height="277" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5224636114684802578"><img title="ASCII码拼图制作和组合字符" src="https://www.digglife.net/wp-content/uploads/archive/textaizer-ascii.png" alt="要有ASCII码的效果还是Courier New字体比较好" width="400" height="277" /></a>
   
   <p class="wp-caption-text">
     要有ASCII码的效果还是Courier New字体比较好

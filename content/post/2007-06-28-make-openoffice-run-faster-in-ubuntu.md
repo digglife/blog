@@ -37,7 +37,7 @@ tags:
 
 3.定位到内存选项.将参数改为如下设置.
 
-<img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/memory1.png" alt="memory" height="195" /> 
+<img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/memory1.png" alt="memory" height="195" /> 
 
 >   * **撤销命令**下的**步数**:20-30
 >   * **图形缓冲区下**的**用于OpenOffice.org**:128MB(原始值为6MB)
@@ -47,7 +47,7 @@ tags:
 
 4.定位到Java选项.把**使用Java运行时的环境**前的勾去掉
 
-<img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/java.png" alt="java" height="195" />
+<img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/java.png" alt="java" height="195" />
 
 5.点击确定保存.重启体验一下吧.
 

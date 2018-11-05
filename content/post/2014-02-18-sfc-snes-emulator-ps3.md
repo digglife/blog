@@ -28,7 +28,7 @@ tags:
 
 
   
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/02/ps3-snes9x-game-menu-500x281.jpg" alt="PS3用超任模拟器SNES9x图标" width="500" height="281" class="alignnone size-medium wp-image-3756" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/02/ps3-snes9x-game-menu-500x281.jpg" alt="PS3用超任模拟器SNES9x图标" width="500" height="281" class="alignnone size-medium wp-image-3756" />
 
 ### 安装SNES9x For PS3
 
@@ -40,7 +40,7 @@ tags:
 
 ### SNES9x的配置和使用
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/02/ps3-snes9x-set-game-path-500x281.jpg" alt="PS3用超任模拟器SNES9x游戏目录设置界面" width="500" height="281" class="alignnone size-medium wp-image-3757" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/02/ps3-snes9x-set-game-path-500x281.jpg" alt="PS3用超任模拟器SNES9x游戏目录设置界面" width="500" height="281" class="alignnone size-medium wp-image-3757" />
 
 进入SNES9x之后可以直接根据实际情况导航到ROM目录，选择ROM按下 X 即可进入游戏。或者使用 `L1/R1` 切换到 PATH 选项（如上图）定义ROM目录，下次启动SNEX9x会自动进入指定目录。
 
@@ -54,7 +54,7 @@ tags:
 ### 经典SFC游戏ROM下载
 
 <div id="attachment_3755" style="width: 510px" class="wp-caption alignnone">
-  <img src="http://digglife.qiniudn.com/wp-content/uploads/2014/02/ps3-snes9x-dragon-quest-500x281.jpg" alt="PS3上玩超任经典游戏勇者斗恶龙之天空的新娘" width="500" height="281" class="size-medium wp-image-3755" />
+  <img src="https://www.digglife.net/wp-content/uploads/2014/02/ps3-snes9x-dragon-quest-500x281.jpg" alt="PS3上玩超任经典游戏勇者斗恶龙之天空的新娘" width="500" height="281" class="size-medium wp-image-3755" />
   
   <p class="wp-caption-text">
     PS3上玩超任经典游戏勇者斗恶龙之天空的新娘

@@ -33,7 +33,7 @@ tags:
 
 **3.** [RSS+Atom Feed Subscribe Button Generator][5] :有了这个扩展你就可以不用在网页里面寻找RSS连接了.GreaseMonkey会自动寻找RSS和Atom订阅链接,并嵌入订阅图标(![][6])到网页的左上角.
 
-[<img border="0" width="400" src="http://digglife.qiniudn.com/qiniu/22/image/d687d60dfe150360f573817756504d74.jpg" height="112" style="border-width: 0px" />][7]
+[<img border="0" width="400" src="https://www.digglife.net/qiniu/22/image/d687d60dfe150360f573817756504d74.jpg" height="112" style="border-width: 0px" />][7]
 
  4.[Textarea Backup][8] -.你再也不用辛辛苦苦输入的邮件,回复,评论不幸丢失苦恼了.这个扩展能够在你每输入十个字后自动保存.所以你的网页无论有什么原因自动刷新了还是浏览器崩溃了,它都会自动恢复保存的文字.
 
@@ -52,11 +52,11 @@ tags:
 
 **8.** [Apple Trailer Download][13] &#8211; 让你可以下载Apple网站里面的所有电影预告片.进入[movie trailers From apple.com][14]. 之后,点击任何一部电影,它会在网页右下角显示各种清晰度的下载链接.
 
-[<img border="0" width="122" src="http://digglife.qiniudn.com/qiniu/22/image/19d50e2f7c36ee5f87f5a7fead90d0ce.jpg" height="131" style="border-width: 0px" />][15]
+[<img border="0" width="122" src="https://www.digglife.net/qiniu/22/image/19d50e2f7c36ee5f87f5a7fead90d0ce.jpg" height="131" style="border-width: 0px" />][15]
 
 **9.** [Download Video][16] &#8211; 让你可以下载Youtube,Google Video,Myspace,Metacafe,Break,Putfile,Dailymotion,Sevenload上的任何视频.这个Script会显示一个下载目录在网页顶部.你可以直接点击下载Flv格式的视频.
 
- [<img border="0" width="233" src="http://digglife.qiniudn.com/qiniu/22/image/9cc5003c38cf047c557a2f26ee8623cf.jpg" height="23" style="border-width: 0px" />][17]
+ [<img border="0" width="233" src="https://www.digglife.net/qiniu/22/image/9cc5003c38cf047c557a2f26ee8623cf.jpg" height="23" style="border-width: 0px" />][17]
 
 ### **<font color="#000080">Gmail辅助:</font>**
 
@@ -85,7 +85,7 @@ tags:
  [3]: http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/12GreaseMonkey_CF94/google-tag-big%5B16%5D.jpg
  [4]: http://userscripts.org/scripts/show/3637
  [5]: http://userscripts.org/scripts/show/688
- [6]: http://digglife.qiniudn.com/qiniu/22/image/ffe3016b4b8c600269093c87890733d2.jpg
+ [6]: https://www.digglife.net/qiniu/22/image/ffe3016b4b8c600269093c87890733d2.jpg
  [7]: http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/12GreaseMonkey_CF94/greasemonkey-feed-subscribe%5B2%5D.jpg
  [8]: http://userscripts.org/scripts/show/7671
  [9]: http://userscripts.org/scripts/show/7715
@@ -99,6 +99,6 @@ tags:
  [17]: http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/12GreaseMonkey_CF94/video-download%5B6%5D.jpg
  [18]: http://userscripts.org/scripts/show/7646
  [19]: http://userscripts.org/scripts/show/7435
- [20]: http://digglife.qiniudn.com/qiniu/22/image/a5f17eaf3de0cb88e3fe3e6a5807bb7f.jpg
+ [20]: https://www.digglife.net/qiniu/22/image/a5f17eaf3de0cb88e3fe3e6a5807bb7f.jpg
  [21]: http://i157.photobucket.com/albums/t56/esengulov/greader-to-gmail.jpg
  [22]: http://userscripts.org/scripts/show/2210

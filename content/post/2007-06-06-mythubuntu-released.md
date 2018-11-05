@@ -28,7 +28,7 @@ tags:
 
 [Mythbuntu][2]里面整合了媒体中心软件,当然,Windows Vista里面也有,但是这个是开源的,而且是免费的.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mythfrontend-thumb.png"><img width="400" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/mythfrontend-thumb-thumb.png" alt="mythfrontend_thumb" height="300" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mythfrontend-thumb.png"><img width="400" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mythfrontend-thumb-thumb.png" alt="mythfrontend_thumb" height="300" /></a>
 
 目前还是Alpha版本,所以在运行中可能会有一些问题.[Mythbuntu][2]里面集成了很多媒体相关软件,你可以用它来烧录CD镜像,录制电视节目等等.另外,使用MythUbuntu的LiveCD你不用对硬盘做任何操作就可以看MythTV是如何运作的.
 

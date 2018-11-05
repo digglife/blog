@@ -31,7 +31,7 @@ tags:
   - 话题营销
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/header-right.gif"><img width="396" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/header-right-thumb.gif" alt="header_right" height="243" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/header-right.gif"><img width="396" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/header-right-thumb.gif" alt="header_right" height="243" /></a>
 
 ![][1]
 
@@ -65,4 +65,4 @@ tags:
 
 本文参与活动为时尚起义网站赞助.
 
- [1]: http://digglife.qiniudn.com/qiniu/1588/image/dbea923db7fce81433794d25b6e38bcb.jpg
+ [1]: https://www.digglife.net/qiniu/1588/image/dbea923db7fce81433794d25b6e38bcb.jpg

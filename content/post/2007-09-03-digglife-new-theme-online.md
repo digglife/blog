@@ -70,7 +70,7 @@ tags:
   - 主题
 
 ---
- <img src="http://digglife.qiniudn.com/qiniu/1755/image/9e80445d91d2bec10f185bb292fbc478.png" align="right" />前些天说过在考虑换一个主题的,思来想去还是决定更换了试试效果再说.
+ <img src="https://www.digglife.net/qiniu/1755/image/9e80445d91d2bec10f185bb292fbc478.png" align="right" />前些天说过在考虑换一个主题的,思来想去还是决定更换了试试效果再说.
 
 首先要感谢来自巴基斯坦牛博**<a href="http://www.sizlopedia.com/" target="_blank">Dj Flush</a>**,这个芳名为<a href="http://www.sizlopedia.com/tigopedia/" target="_blank">Tigopedia</a>的主题就是他花了接近5个月做出来的.
 

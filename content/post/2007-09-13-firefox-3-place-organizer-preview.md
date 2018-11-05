@@ -45,7 +45,7 @@ tags:
   - 评论
 
 ---
-&#xA0;<img id="id" height="132" alt="Gran-Paradiso" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/gran-paradiso-thumb.png" width="132" align="right" border="0" />Mozilla的开发人员发布了一个有关Firefox 3.0中最重要的改进&#8212;Places功能的截图.因为这仅仅是一个开发中的原型,所以最终出来的结果可能并非如此,但是我们可以从这次泄露的截图中看到Place功能大致包含的内容和运作机制.这个原型的代号为i5,从图中和i3,i4的对比我们可以了解到,关于Places功能,Firefox开发团队已经做出了许多改进.
+&#xA0;<img id="id" height="132" alt="Gran-Paradiso" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/gran-paradiso-thumb.png" width="132" align="right" border="0" />Mozilla的开发人员发布了一个有关Firefox 3.0中最重要的改进&#8212;Places功能的截图.因为这仅仅是一个开发中的原型,所以最终出来的结果可能并非如此,但是我们可以从这次泄露的截图中看到Place功能大致包含的内容和运作机制.这个原型的代号为i5,从图中和i3,i4的对比我们可以了解到,关于Places功能,Firefox开发团队已经做出了许多改进.
 
 下面就这个巨幅截图简单地说明一下重要部分:
 
@@ -65,6 +65,6 @@ tags:
 
 &#xA0;
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/foxplacemock.png" target="_blank"><img id="id" height="424" alt="foxplacemock" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/foxplacemock-thumb.png" width="450" border="0" /></a>&#xA0;
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/foxplacemock.png" target="_blank"><img id="id" height="424" alt="foxplacemock" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/foxplacemock-thumb.png" width="450" border="0" /></a>&#xA0;
 
 来自<a href="http://lifehacker.com/software/sneak-preview/firefox-30-places-organizer-mockup-299004.php" target="_blank">Lifehacker</a>

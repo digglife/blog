@@ -38,11 +38,11 @@ tags:
 
 典型的欠扁型.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/takeseat-thumb.jpg" alt="Takeseat" border="0" height="562" width="450" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/takeseat-thumb.jpg" alt="Takeseat" border="0" height="562" width="450" />][1]
 
 更加欠扁.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/takeseat2-thumb.jpg" alt="TakeSeat2" border="0" height="562" width="450" />][2]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/takeseat2-thumb.jpg" alt="TakeSeat2" border="0" height="562" width="450" />][2]
 
 最后直接被两个没有找到座位而气急败坏的两位兄弟扔掉了&#8230;
 

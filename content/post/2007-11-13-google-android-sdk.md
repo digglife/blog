@@ -59,32 +59,32 @@ Google的移动平台操作系统Android<a target="_blank" href="http://code.goo
 
 首页:
 
-[<img border="0" width="332" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/android-home-thumb.png" alt="android-home" height="253" />][1]
+[<img border="0" width="332" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-home-thumb.png" alt="android-home" height="253" />][1]
 
 浏览器:
 
 [![android-digglife.png][2]][3]
 
-[<img border="0" width="334" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/android-browser2-thumb.png" alt="android-browser2" height="253" />][4]
+[<img border="0" width="334" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-browser2-thumb.png" alt="android-browser2" height="253" />][4]
 
 地图:
 
-[<img border="0" width="334" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/android-maps-thumb.png" alt="android-maps" height="253" />][5]
+[<img border="0" width="334" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-maps-thumb.png" alt="android-maps" height="253" />][5]
 
 几乎和iPhone一样的Call界面:
 
-[<img border="0" width="334" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/android-call-thumb.png" alt="android-call" height="253" />][6]
+[<img border="0" width="334" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-call-thumb.png" alt="android-call" height="253" />][6]
 
 联系人:
 
-[<img border="0" width="334" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/android-contact-thumb.png" alt="android-contact" height="254" />][7]
+[<img border="0" width="334" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-contact-thumb.png" alt="android-contact" height="254" />][7]
 
 因为这只是一个初期的版本,所以感觉上没有太多激动人心的地方,不过Google Android的迷人之处在于它的开放,而不是其界面风格的美观.至于模仿iPhone,嗯,这个是难以避免的.
 
 来自<a target="_blank" href="http://googlesystem.blogspot.com/2007/11/androids-sdk-now-available.html">Google OS</a>
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-home.png
- [2]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/android-digglife.png
+ [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-digglife.png
  [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-digglife.png "android-digglife.png"
  [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-browser2.png
  [5]: https://www.digglife.net/wp-content/uploads/3/379/2007/11/android-maps.png

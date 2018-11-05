@@ -29,7 +29,7 @@ tags:
   - 视频
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/unleashedstream1.png" atomicselection="true"><img height="41" alt="unleashedstream" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/unleashedstream-thumb.png" width="240" align="right" /></a>前不久YouTube推出了个性化播放器功能,但是给的修改选项太少,和默认的相比也没有多大的改变.<a href="http://www.unleashedstream.com" target="_blank">Unleashed Stream</a>则提供了一个更加自由的解决方案,你甚至可以给Flv视频烙上自己的Logo,而且你只需找到该Flv视频的Url就可以了.
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/unleashedstream1.png" atomicselection="true"><img height="41" alt="unleashedstream" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/unleashedstream-thumb.png" width="240" align="right" /></a>前不久YouTube推出了个性化播放器功能,但是给的修改选项太少,和默认的相比也没有多大的改变.<a href="http://www.unleashedstream.com" target="_blank">Unleashed Stream</a>则提供了一个更加自由的解决方案,你甚至可以给Flv视频烙上自己的Logo,而且你只需找到该Flv视频的Url就可以了.
 
 **&nbsp;如何使用:**
 

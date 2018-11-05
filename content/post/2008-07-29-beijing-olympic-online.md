@@ -30,7 +30,7 @@ tags:
 既然是国家性的盛会，CCTV自然当仁不让成为最最官方的媒体，所以这里看奥运直播还是灰常靠谱滴。界面用的是Flash，特效花里胡哨的，很能唬人，不过感觉上浏览器的负载太大，运行起来有些迟滞的感觉。这里的频道比较丰富，专题节目也较多，还算不错。只需安装一个播放插件即可观看。 如果你不喜欢这个奥运台，也可以直接看传统的<a title="CCTV奥运直播" href="http://2008.cctv.com/05/index.shtml" target="_blank">CCTV直播</a>。
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5228348091015590098"><img title="CCTV网络电视奥运台" src="http://digglife.qiniudn.com/wp-content/uploads/archive/cctv-olympic.png" alt="CCTV的奥运台特效做的很漂亮，很有直播间的感觉" width="400" height="205" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5228348091015590098"><img title="CCTV网络电视奥运台" src="https://www.digglife.net/wp-content/uploads/archive/cctv-olympic.png" alt="CCTV的奥运台特效做的很漂亮，很有直播间的感觉" width="400" height="205" /></a>
   
   <p class="wp-caption-text">
     CCTV的奥运台特效做的很漂亮，很有直播间的感觉
@@ -42,7 +42,7 @@ tags:
 PPS是我原来唯一常用的网络电视软件，这次和CCTV合作推出奥运全程直播，界面比较干净，一共同步播出CCTV-1，2，5，7四个频道，有详细的节目单，可以直接选择节目单进入直播间观看。我原来使用的时候对PPS的速度还是很满意的，不知道现在怎么样。尽管号称是网页中直接播放，但是还是要安装PPS网络视频软件。
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5228354495551606082"><img title="PPS奥运视频直播网站" src="http://digglife.qiniudn.com/wp-content/uploads/archive/pps-olympic.png" alt="PPS的奥运直播站做的比较完善" width="400" height="230" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5228354495551606082"><img title="PPS奥运视频直播网站" src="https://www.digglife.net/wp-content/uploads/archive/pps-olympic.png" alt="PPS的奥运直播站做的比较完善" width="400" height="230" /></a>
   
   <p class="wp-caption-text">
     PPS的奥运直播站做的比较完善
@@ -54,7 +54,7 @@ PPS是我原来唯一常用的网络电视软件，这次和CCTV合作推出奥�
 悠视网也是CCTV的奥运合作伙伴之一，旗下的奥运站做的也非常简洁，包括直播间和点播间，直播台包括上述央视的4个频道。在线观看需要安装悠视网的视频软件。
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5228348092018926930"><img title="悠视网的奥运直播站" src="http://digglife.qiniudn.com/wp-content/uploads/archive/uusee-olympic.png" alt="悠视网在线观看也需要下载视频软件" width="400" height="247" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5228348092018926930"><img title="悠视网的奥运直播站" src="https://www.digglife.net/wp-content/uploads/archive/uusee-olympic.png" alt="悠视网在线观看也需要下载视频软件" width="400" height="247" /></a>
   
   <p class="wp-caption-text">
     悠视网在线观看也需要下载视频软件

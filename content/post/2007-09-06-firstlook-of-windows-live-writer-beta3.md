@@ -71,7 +71,7 @@ tags:
   - 试用
 
 ---
- <img src="http://digglife.qiniudn.com/qiniu/1776/image/6d246f0e075c7dd6f889412c352c17e7.png" align="right" /><a href="http://get.live.com/wl/all" target="_blank">Windows Live Suite Beta</a>里面我就对Windows Live Writer的更新有点兴趣,所以就下来试试看.首先对微软这个无耻的发布方式表示鄙视,你必须下载新版本的Windows Live Installer才能下载你想要的产品,尽管能够定制下载项目,但是加载和下载速度都奇慢无比,让人无法忍受.升级WLW就用了我接近半个小时的时间.Live团队估计是想利用这种安装方式来推广旗下的所有产品,造成品牌和捆绑效应,但是这种做法实在是太不人性化了.
+ <img src="https://www.digglife.net/qiniu/1776/image/6d246f0e075c7dd6f889412c352c17e7.png" align="right" /><a href="http://get.live.com/wl/all" target="_blank">Windows Live Suite Beta</a>里面我就对Windows Live Writer的更新有点兴趣,所以就下来试试看.首先对微软这个无耻的发布方式表示鄙视,你必须下载新版本的Windows Live Installer才能下载你想要的产品,尽管能够定制下载项目,但是加载和下载速度都奇慢无比,让人无法忍受.升级WLW就用了我接近半个小时的时间.Live团队估计是想利用这种安装方式来推广旗下的所有产品,造成品牌和捆绑效应,但是这种做法实在是太不人性化了.
 
 <!--more-->
 
@@ -97,13 +97,13 @@ tags:
 
 启动Windows Live Installer后,应该会出现以下画面.我建议你自己去做点别的事情,因为就我的经验,这个检查过程将会极为漫长. 
 
-  <img height="402" alt="live installer" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/live-installer.png" width="450" />
+  <img height="402" alt="live installer" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/live-installer.png" width="450" />
 
 下载和安装的过程同样非常缓慢,该死的Live团队.
 
 版本信息.
 
- <img height="194" alt="version-info" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/version-info.png" width="316" />
+ <img height="194" alt="version-info" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/version-info.png" width="316" />
 
 &nbsp;
 
@@ -116,7 +116,7 @@ tags:
   * **增强插入视频功能,增加支持 MSN Soapbox**   
     WLW能够自动识别从网页插入的Youtube视频,但是无法识别国内的视频服务商.既然我们能够直接复制嵌入代码,要这个功能到底有多大用处呢?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="207" alt="video-insert_cr" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/video-insert-cr.png" width="456" />&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="207" alt="video-insert_cr" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/video-insert-cr.png" width="456" />&nbsp; 
 
   * **改进XHTML 标记语言和文字对齐** 
   * **允许Blogger用户上传图片至 PicasaWeb 相册** 
@@ -124,11 +124,11 @@ tags:
     
       * **允许打印文章(鸡肋~)**</ul> 
     
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img height="121" alt="print" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/print.png" width="232" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img height="121" alt="print" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/print.png" width="232" />
     
       * **支持不同市场和语言的特定tag服务提供商**
     
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="300" alt="tag" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/tag.png" width="376" />&nbsp; 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="300" alt="tag" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/tag.png" width="376" />&nbsp; 
     
       * **增强性能** 
       * **优化插入图片质量，插入图片更清晰.(**这个暂时没有发现有多大的变化)

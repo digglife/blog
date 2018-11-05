@@ -29,7 +29,7 @@ tags:
 
 <!--more-->
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="200" alt="happy-digglife" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/happy-digglife-thumb.png" width="400" border="0" />][1]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="200" alt="happy-digglife" src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/happy-digglife-thumb.png" width="400" border="0" />][1]
 
 DiggLife在农历新年的第一件大事就是转换门庭,我决定在近期从<a title="Yo2" href="http://yo2.cn/" target="_blank">Yo2</a>独立出去,至于中间的各项问题,我会请教比较熟悉这方面注意事项的<a title="zEUS" href="http://zeuscn.net/" target="_blank">zEUS</a>和<a title="Fiorano" href="http://www.gtalkme.com/" target="_blank">Fiorano</a>.
 

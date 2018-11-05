@@ -43,6 +43,6 @@ tags:
 
 [][3]
 
- [1]: http://digglife.qiniudn.com/qiniu/2523/image/53660249beb0827997550c1f63c44eb3.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2523/image/27e21a499cd7fadb42f876aa34a31f29.jpg
+ [1]: https://www.digglife.net/qiniu/2523/image/53660249beb0827997550c1f63c44eb3.jpg
+ [2]: https://www.digglife.net/qiniu/2523/image/27e21a499cd7fadb42f876aa34a31f29.jpg
  [3]: http://www.snubbyland.com/pop.php?type=games&ID=10 "http://www.snubbyland.com/pop.php?type=games&ID=10"

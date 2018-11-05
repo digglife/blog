@@ -36,7 +36,7 @@ Dock的概念来自Mac OSX,本来是模拟Mac OSX界面的产物,能够让你拖
 
 ObjectDock是StarDock旗下一款非常著名的Dock程序,除了能够将桌面快捷方式整合进来之外,还能够实现许多Mac OS下的华丽效果,如动态缩放等,各种自定义设置也非常多,基本上能够照顾到大部分需要.ObjectDock有免费版和收费的Plus版.官方不提供简体中文版,不过我们还是可以下载到汉化版本.
 
-<a href="https://www.digglife.net/" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2518/image/ddf117de22de3dc7d163e3320f44c86b.jpg" alt="" /></a>
+<a href="https://www.digglife.net/" target="_blank"><img src="https://www.digglife.net/qiniu/2518/image/ddf117de22de3dc7d163e3320f44c86b.jpg" alt="" /></a>
 
 <a title="ObjectDock汉化免费版下载" href="http://www.orsoon.com/Soft/2837.html" target="_blank">ObjectDock汉化免费版下载</a>
 
@@ -60,7 +60,7 @@ Rocket Dock和ObjectDock的功能大部分一致,只是精简了一些我们一�
 
 在Linux下,我们还可以使用大名鼎鼎的AWN来实现,具体效果和介绍可以查看我之前的日志:<a title="Ubuntu Compiz Fusion安装和常见问题解决 Part.2" href="https://www.digglife.net/articles/install-compiz-fusion-and-trouble-shooting-part2-2.html" target="_blank">Ubuntu Compiz Fusion安装和常见问题解决 Part.2</a>
 
-<a href="https://www.digglife.net/articles/clean-up-desktop-improve-productivity-1.html" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2518/image/76ad583b26ba6cf5ab39893cdc333e37.jpg" alt="" /></a>
+<a href="https://www.digglife.net/articles/clean-up-desktop-improve-productivity-1.html" target="_blank"><img src="https://www.digglife.net/qiniu/2518/image/76ad583b26ba6cf5ab39893cdc333e37.jpg" alt="" /></a>
 
 ### <span style="color: #000000;">二.使用Windows开始菜单</span>
 
@@ -90,18 +90,18 @@ Windows XP下模拟Vista开始菜单的软件,最重要的当然是下面那个�
 
 免费软件[Runme][9]可以给你的桌面加上一个漂亮的侧边栏,你可以添加快捷方式并更改图标样式,自定义Runme的主题,显示位置和特效等.详细介绍可以查看:<a title="酷软推荐:使用Runme制作自定义桌面侧边栏" href="https://www.digglife.net/articles/creat-sidebar-laucher-with-runme.html" target="_blank">酷软推荐:使用Runme制作自定义桌面侧边栏</a>.不过其实这款软件本质上和上面的Dock程序一样,不过是外观很像开始菜单而已.
 
-<a href="https://www.digglife.net/articles/clean-up-desktop-improve-productivity-1.html" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2518/image/1251ddba29f302d3a1637d7ebf0b7083.jpg" alt="" /></a>
+<a href="https://www.digglife.net/articles/clean-up-desktop-improve-productivity-1.html" target="_blank"><img src="https://www.digglife.net/qiniu/2518/image/1251ddba29f302d3a1637d7ebf0b7083.jpg" alt="" /></a>
 
 <a title="Runme下载" href="http://ksoft.nm.ru/runme0.9.zip" target="_blank">Runme下载</a>
 
 <a title="彻底清空桌面,让启动程序更加高效Part.2" href="https://www.digglife.net/articles/clean-up-desktop-improve-productivity-2.html" target="_blank">第二部分</a>将介绍使用命令行和Windows自带的运行(Run Win+R)控制程序启动,键盘快捷键爱好者必备.习惯了鼠标操作的朋友们也可以尝试一下,习惯之后会非常有效率.
 
- [1]: http://digglife.qiniudn.com/qiniu/2518/image/8a3359d96f962e527fa0e66c2a559f63.jpg
+ [1]: https://www.digglife.net/qiniu/2518/image/8a3359d96f962e527fa0e66c2a559f63.jpg
  [2]: http://www.flyakiteosx.com/download/
- [3]: http://digglife.qiniudn.com/qiniu/2518/image/7c825b82bbde7037339b46d1e3577d6a.jpg
- [4]: http://digglife.qiniudn.com/qiniu/2518/image/0b1002aa6f3df2bce9580e0c601f1c51.jpg
+ [3]: https://www.digglife.net/qiniu/2518/image/7c825b82bbde7037339b46d1e3577d6a.jpg
+ [4]: https://www.digglife.net/qiniu/2518/image/0b1002aa6f3df2bce9580e0c601f1c51.jpg
  [5]: http://www.codesector.com/jetstart.php
- [6]: http://digglife.qiniudn.com/qiniu/2518/image/57c4607ddb603233a5d409a0041ed43b.jpg
+ [6]: https://www.digglife.net/qiniu/2518/image/57c4607ddb603233a5d409a0041ed43b.jpg
  [7]: http://vseproject.extra.hu/
- [8]: http://digglife.qiniudn.com/qiniu/2518/image/fef2e7dcc5ef7c7faf897d3987c2f56a.jpg
+ [8]: https://www.digglife.net/qiniu/2518/image/fef2e7dcc5ef7c7faf897d3987c2f56a.jpg
  [9]: http://www.osx-e.com/downloads/applications/runme.html

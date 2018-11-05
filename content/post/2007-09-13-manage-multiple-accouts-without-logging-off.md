@@ -42,7 +42,7 @@ tags:
 ---
 <a title="Firefox扩展CookieSwap下载" href="https://addons.mozilla.org/en-US/firefox/addon/3255" target="_blank">CookieSwap</a>是一个能够让你通过切换Cookies同时管理多个帐户的<a title="火狐技巧" href="https://www.digglife.net/articles/category/firefox/" target="_blank">Firefox</a>扩展.比如,你有两个Gmail帐号,但是Gmail的Cookies机制让用户必须退出之后重新登录才能切换到另外一个帐户,使用CookieSwap可以让你同时登录两个帐户而不互相影响.
 
-[<img id="id" height="145" alt="cookieswap" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/cookieswap-thumb.png" width="245" border="0" />][1] 
+[<img id="id" height="145" alt="cookieswap" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/cookieswap-thumb.png" width="245" border="0" />][1] 
 
 <!--more-->
 

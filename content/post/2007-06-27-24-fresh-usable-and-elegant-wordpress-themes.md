@@ -37,107 +37,107 @@ tags:
 
 **1.** [**Copyblogger Theme**][1]
 
-**<img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-11.gif" alt="beautiful-wordpress-themes-11" height="237" /> **
+**<img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-11.gif" alt="beautiful-wordpress-themes-11" height="237" /> **
 
 **2.** [**Dark_Black**][2]
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-10.gif" alt="beautiful-wordpress-themes-10" height="237" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-10.gif" alt="beautiful-wordpress-themes-10" height="237" />**
 
 <!--more-->
 
 **3.** [**HemingwayEx**][3]
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-03.jpg" alt="beautiful-wordpress-themes-03" height="239" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-03.jpg" alt="beautiful-wordpress-themes-03" height="239" />**
 
 **4.** [**Deep Blue**][4]
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-19.gif" alt="beautiful-wordpress-themes-19" height="237" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-19.gif" alt="beautiful-wordpress-themes-19" height="237" />**
 
 **5.** [**i3Theme brothers, Left and Right!**][5]
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-00.jpg" alt="beautiful-wordpress-themes-00" height="237" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-00.jpg" alt="beautiful-wordpress-themes-00" height="237" />**
 
 **6.** [**Bus Full of Hippies**][6]
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-08.gif" alt="beautiful-wordpress-themes-08" height="144" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-08.gif" alt="beautiful-wordpress-themes-08" height="144" />**
 
 **7.** [**PinkLove**][7]
 
-**<img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-17.gif" alt="beautiful-wordpress-themes-17" height="237" />**
+**<img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-17.gif" alt="beautiful-wordpress-themes-17" height="237" />**
 
 **8.** [**Swiss Cool WordPress Theme**][8]
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-28.gif" alt="beautiful-wordpress-themes-28" height="504" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-28.gif" alt="beautiful-wordpress-themes-28" height="504" />**
 
 **9.** [**School&#8217;s in Session**][9]
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-20.gif" alt="beautiful-wordpress-themes-20" height="238" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-20.gif" alt="beautiful-wordpress-themes-20" height="238" />**
 
 **10.** [**Xenoria**][9]
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-20-2.gif" alt="beautiful-wordpress-themes-20-2" height="237" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-20-2.gif" alt="beautiful-wordpress-themes-20-2" height="237" />**
 
 **11.** [**Autumn Concept 1.0**][10]
 
-** <img width="409" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-01.jpg" alt="beautiful-wordpress-themes-01" height="288" />**
+** <img width="409" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-01.jpg" alt="beautiful-wordpress-themes-01" height="288" />**
 
 **12.** [**Blue Idea**][11] ****
 
-** <img width="317" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-39.gif" alt="beautiful-wordpress-themes-39" height="262" />**
+** <img width="317" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-39.gif" alt="beautiful-wordpress-themes-39" height="262" />**
 
 **13.** [**Illacrimo**][12]
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-06.jpg" alt="beautiful-wordpress-themes-06" height="285" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-06.jpg" alt="beautiful-wordpress-themes-06" height="285" />**
 
 ### **简洁型Wordpress主题**
 
 **14.** [**Upstart Blogger Modicus**][13] ****
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-36.gif" alt="beautiful-wordpress-themes-36" height="217" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-36.gif" alt="beautiful-wordpress-themes-36" height="217" />**
 
 **15.** [**Upstart Blogger Modio**][14] ****
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-37.gif" alt="beautiful-wordpress-themes-37" height="340" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-37.gif" alt="beautiful-wordpress-themes-37" height="340" />**
 
 **16.** [**Alexified**][15] ****
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-31.gif" alt="beautiful-wordpress-themes-31" height="285" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-31.gif" alt="beautiful-wordpress-themes-31" height="285" />**
 
 **17.** [**Cutline Theme for WordPress**][16] ****
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-03.gif" alt="beautiful-wordpress-themes-03" height="238" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-03.gif" alt="beautiful-wordpress-themes-03" height="238" />**
 
 **18.** [**Photopress**][17] ****
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-04.gif" alt="beautiful-wordpress-themes-04" height="238" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-04.gif" alt="beautiful-wordpress-themes-04" height="238" />**
 
 **19.** [**aslampHC 1.0 / Osmium 1.0**][18] ****
 
-**  <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-25-2.gif" alt="beautiful-wordpress-themes-25-2" height="144" />**
+**  <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-25-2.gif" alt="beautiful-wordpress-themes-25-2" height="144" />**
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-25.gif" alt="beautiful-wordpress-themes-25" height="144" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-25.gif" alt="beautiful-wordpress-themes-25" height="144" />**
 
 **20.** [**Experimental**][19] ****
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-38.gif" alt="beautiful-wordpress-themes-38" height="189" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-38.gif" alt="beautiful-wordpress-themes-38" height="189" />**
 
 **21.** [**Simplicity**][20] ****
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-40.gif" alt="beautiful-wordpress-themes-40" height="334" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-40.gif" alt="beautiful-wordpress-themes-40" height="334" />**
 
 **22.** [**Deliciously Blue**][21] ****
 
-** <img width="380" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-35.gif" alt="beautiful-wordpress-themes-35" height="559" />**
+** <img width="380" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-35.gif" alt="beautiful-wordpress-themes-35" height="559" />**
 
 ##### 
 
 **23.** [**Sharpfolio**][22] ****
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-04.jpg" alt="beautiful-wordpress-themes-04" height="237" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-04.jpg" alt="beautiful-wordpress-themes-04" height="237" />**
 
 **24.** [**Coldblue**][23] ****
 
-** <img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-05.jpg" alt="beautiful-wordpress-themes-05" height="461" />**
+** <img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/beautiful-wordpress-themes-05.jpg" alt="beautiful-wordpress-themes-05" height="461" />**
 
 来自<a target="_blank" href="http://www.smashingmagazine.com/"><strong>Smashing Magazine</strong></a>
 

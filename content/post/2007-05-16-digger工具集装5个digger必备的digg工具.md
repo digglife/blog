@@ -28,13 +28,13 @@ tags:
 
 **(1)** [Digg &#8211; Add Mirror][1] &#8211; 极佳的<a href="https://www.digglife.net/articles/12%e4%b8%aa%e5%80%bc%e5%be%97%e5%ae%89%e8%a3%85%e7%9a%84greasemonkey%e6%89%a9%e5%b1%95.html" target="_blank">GreaseMonkey扩展</a>.它能在文章的Digg图标下添加DuggMirror, Coral Cache, Google Cache&nbsp;和 [Archive.org][2],以便你能直接点击快速浏览缓存网页.如果文章来源失效,你依然可以通过这些链接查看网页镜像.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggmirrors5.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="76" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggmirrors-thumb3.jpg" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggmirrors5.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="76" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggmirrors-thumb3.jpg" width="450" border="0" /></a> 
 
 &nbsp;
 
 **(2)** [Smart Digg Button][3] (Firefox 1.5 &#8211; 2.0.0.*) -这个<a href="https://www.digglife.net/articles/category/firefox/" target="_blank">Firefox插件</a>会在Firefox右下角的状态栏添加一个Digg按钮.如果你正在浏览的网页已经被提交到了Digg,它会显示该文章被Digg的次数,否则会显示Digg this以便你直接点击提交. 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fsmartdigg4.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="97" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fsmartdigg-thumb2.jpg" width="299" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fsmartdigg4.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="97" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fsmartdigg-thumb2.jpg" width="299" border="0" /></a> 
 
 **(3)** [Digg Navigation][4] (Firefox 1.5 &#8211; 2.0) &#8211; 给你的右键菜单添加一个Digg navigation选项,让你能随时定位到任何Digg网页.你可以从任何网页直接跳转到任意专题或分类.其他功能包括: 
 
@@ -43,13 +43,13 @@ tags:
   * 检测链接是在当前标签打开还是在新标签中打开. 
   * &#8230;&#8230;..
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggnavigationsmall2.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="221" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggnavigationsmall-thumb.jpg" width="340" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggnavigationsmall2.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="221" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggnavigationsmall-thumb.jpg" width="340" border="0" /></a> 
 
 &nbsp;
 
 **(4)** [DiggNotify][5] (Windows) &#8211; 这个Windows 软件能够实时监测你(或者其他人)提交文章的状态.每当文章被Digg一次,屏幕下方就会显示一个小窗口提示.当然你还可以自定义开始提示需要的最小digg数.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggnotify2.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="149" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggnotify-thumb.jpg" width="293" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggnotify2.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="149" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigger5digg-11d4fdiggnotify-thumb.jpg" width="293" border="0" /></a> 
 
 &nbsp;
 

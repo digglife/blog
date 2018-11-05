@@ -32,7 +32,7 @@ tags:
 
 Wordpad 2009是一个绿色程序，无需安装，解压之后即可使用。不过很遗憾的是，该程序需要[.Net FrameWork][2]支持。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2008/12/wordpad2009.jpg" alt="Ribbon风格的记事本程序" width="500" height="320" />
+<img src="https://www.digglife.net/wp-content/uploads/2008/12/wordpad2009.jpg" alt="Ribbon风格的记事本程序" width="500" height="320" />
 
 Wordpad 2009的功能特色：
 

@@ -53,7 +53,7 @@ Fusion Drive创建的原理和 LVM 基本类似，同样也是PV->VG->LV的模�
 
 `diskutil cs create Fusion disk0 disk1`
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/02/osx-create-fusion-drive.jpg" alt="创建Fusion Drive命令" width="500" height="281" class="alignnone size-full wp-image-3741" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/02/osx-create-fusion-drive.jpg" alt="创建Fusion Drive命令" width="500" height="281" class="alignnone size-full wp-image-3741" />
 
 创建出来的磁盘UUID会在下面的命令中用到。
 

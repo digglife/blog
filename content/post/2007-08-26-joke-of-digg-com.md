@@ -45,7 +45,7 @@ tags:
   - 操作系统
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/goobuntulogo.jpg"><img align="right" width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/goobuntulogo-thumb.jpg" alt="goobuntulogo" height="46" /></a>这个应该可以载入<a target="_blank" href="http://digg.com">Digg.com</a>的编年史,并将永远成为Digger的笑话. 一条2006年1月份的一条<a target="_blank" href="http://digg.com/linux_unix/Google_is_preparing_its_own_distribution_of_Linux">有关Google操作系统的乳摸</a>竟然登上了Digg的首页,并被挖了886次(截至写这句话为止).这条新闻的内容是<a target="_blank" href="http://www.theregister.co.uk/2006/01/31/google_goes_desktop_linux/">Google正在开发自己的Linux发行版Goobuntu</a>,问题是该新闻早已被Google矢口否认,何况今天是2007年8月26日.其他内容还好,这样的一条距今已经一年半的假消息竟然登上Digg首页实在让人有点费解.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/goobuntulogo.jpg"><img align="right" width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/goobuntulogo-thumb.jpg" alt="goobuntulogo" height="46" /></a>这个应该可以载入<a target="_blank" href="http://digg.com">Digg.com</a>的编年史,并将永远成为Digger的笑话. 一条2006年1月份的一条<a target="_blank" href="http://digg.com/linux_unix/Google_is_preparing_its_own_distribution_of_Linux">有关Google操作系统的乳摸</a>竟然登上了Digg的首页,并被挖了886次(截至写这句话为止).这条新闻的内容是<a target="_blank" href="http://www.theregister.co.uk/2006/01/31/google_goes_desktop_linux/">Google正在开发自己的Linux发行版Goobuntu</a>,问题是该新闻早已被Google矢口否认,何况今天是2007年8月26日.其他内容还好,这样的一条距今已经一年半的假消息竟然登上Digg首页实在让人有点费解.
 
 <!--more-->
 

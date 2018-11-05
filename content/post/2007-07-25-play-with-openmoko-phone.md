@@ -32,7 +32,7 @@ tags:
   - 数码
 
 ---
-<p goog\_ds\_charIndex="4" style="padding-right: 0px; padding-left: 0px; padding-bottom: 1em; padding-top: 1em; text-align: left">[<img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/openmoko_neo.jpg" alt="openmoko_neo.jpg" height="300" />][1]<img border="0" width="450" src="http://digglife.qiniudn.com/qiniu/1290/image/9e451619861c80b53d7fe721ea09ff4c.jpg" height="1" /></p> 
+<p goog\_ds\_charIndex="4" style="padding-right: 0px; padding-left: 0px; padding-bottom: 1em; padding-top: 1em; text-align: left">[<img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/openmoko_neo.jpg" alt="openmoko_neo.jpg" height="300" />][1]<img border="0" width="450" src="http://digglife.qiniudn.com/qiniu/1290/image/9e451619861c80b53d7fe721ea09ff4c.jpg" height="1" /></p> 
 
 这个曾经被冠以iPhone杀手(比较蛋疼的叫法)名号的世界上第一款开源操作系统手机一直都只有照片以及非常简单的介绍.现在<a target="_blank" href="http://www.openmoko.org/" title="OpenMoko">OpenMoko</a> 终于为了测试分发了部分样机给开发人员.上图就是Neo 1973的真机照片,如图所示的,还有两块电池,一条数据线,一个Debug卡,一块SD卡以及一些说明打印稿.当软件让手机崩溃的时候可以将Debug卡接入以便测试和修复.注意Debug卡上的接入插槽和绿色的重置按钮.
 

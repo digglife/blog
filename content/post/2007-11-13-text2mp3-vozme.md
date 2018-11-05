@@ -47,11 +47,11 @@ tags:
 
 <!--more-->
 
-[<img height="396" alt="vozme" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/vozme-thumb.png" width="450" border="0" />][1] 
+[<img height="396" alt="vozme" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/vozme-thumb.png" width="450" border="0" />][1] 
 
 很显然的就是,既然是拼凑的人声,效果一定不太妙,不过和金山词霸单词朗读功能中的声音相比,或许这个还好一点.记得类似的网站我还见到过一个**将输入文字转换为歌声**的,<a href="http://www.sr.se/p1/src/sing/#" target="_blank">Let Them Sing It For You</a>.只是将你输入的文字和一些经典歌曲相符的地方匹配后窜连起来而已,不过听起来也很搞笑.
 
-[<img height="521" alt="text-song" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/text-song-thumb.png" width="427" border="0" />][2] 
+[<img height="521" alt="text-song" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/text-song-thumb.png" width="427" border="0" />][2] 
 
 其实文字转换为MP3还有很多桌面应用程序,这里有一个<a href="http://text-to-mp3.softalizer.com/" target="_blank">Text-to-mp3软件集装</a>,有兴趣的可以去看看.
 
@@ -61,4 +61,4 @@ tags:
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/11/vozme1.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/11/text-song.png
- [3]: http://digglife.qiniudn.com/qiniu/2148/image/7d538d2bb8fc89b1d163be67c5e15258.jpg
+ [3]: https://www.digglife.net/qiniu/2148/image/7d538d2bb8fc89b1d163be67c5e15258.jpg

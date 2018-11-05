@@ -47,7 +47,7 @@ tags:
 
 下载安装TeraCopy后,右键菜单里会出现一个TeraCopy的功能菜单,点击后即可开始快速文件复制.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/windowslivewriterwindowsteracopy-1331ateracopy-interface-thumb-1.png" alt="teracopy-interface" border="0" height="341" width="450" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/windowslivewriterwindowsteracopy-1331ateracopy-interface-thumb-1.png" alt="teracopy-interface" border="0" height="341" width="450" />][1]
 
 Copy To或者Move To分别对应复制和移动操作,点击Browse选择目标路径,然后TeraCopy就开始复制操作了.
 

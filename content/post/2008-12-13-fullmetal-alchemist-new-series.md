@@ -24,7 +24,7 @@ tags:
 钢之炼金术师是我近年来最喜欢的动漫，不是之一。在我看来，和一直非常火爆的《海贼王》、《火影忍者》等动漫相比，钢炼在背景设定、情节、画风、音乐都全面超越，所以自从大一看完钢炼之后我就再也没有静下心来看另外的TV动漫，再也没有动漫里的感情深入到自己心底深处的那种感觉。
 
 <div style="width: 410px" class="wp-caption alignnone">
-  <img title="钢之炼金术师动漫化重开" src="http://digglife.qiniudn.com/wp-content/uploads/archive/hagane01.gif" alt="" width="400" height="251" />
+  <img title="钢之炼金术师动漫化重开" src="https://www.digglife.net/wp-content/uploads/archive/hagane01.gif" alt="" width="400" height="251" />
   
   <p class="wp-caption-text">
     宣传词：掌中的是希望还是绝望？
@@ -33,7 +33,7 @@ tags:
 
 [官方网站][1]上没有透露一点关于情节发展的信息，但是画风似乎有所变化，人物的形象更加接近漫画的风格，据传导演也不是上次的水鸟精二，实在是遗憾之至，因为我非常喜欢这个导演。4年前的TV动画中Edward最终为炼成Alphonse而离开炼金术的世界来到了第一次世界大战后的德国，从此两兄弟阴阳相隔（从炼金术世界的角度讲，Edward的确是死了）。漫画中是没有这段情节的，人造人（Homunculus）的头领大总统也没有挂，我对漫画的了解也仅限于此，一直没有耐下心来看，因为在电脑上看漫画完全没有感觉。
 
-[<img class="alignnone" title="钢炼动画重开" src="http://digglife.qiniudn.com/wp-content/uploads/archive/hagaren_04.jpg" alt="" width="400" height="300" />][2]
+[<img class="alignnone" title="钢炼动画重开" src="https://www.digglife.net/wp-content/uploads/archive/hagaren_04.jpg" alt="" width="400" height="300" />][2]
 
 希望这个全新的系列能够给我带来新的惊喜!想重温经典的可以<a title="钢之炼金术师在线观看" href="http://www.youku.com/playlist_show/id_2585610.html" target="_blank">到Youku凑活一下</a>。
 

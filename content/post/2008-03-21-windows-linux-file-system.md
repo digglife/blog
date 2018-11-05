@@ -54,6 +54,6 @@ Linux Reader最大的特点在于功能简单,界面和Windows文件管理器类
 
 以上这些比较起来Ext2 IFS还是最强的,无论是从易用还是性能上看都是另外三款不可比拟的,不过如果你只需要读取,Linux Reader和Explore2fs这两款也非常值得一试.其实在Windows下对Linux分区进行写操作有可能造成不可挽回的损失,当然,熟悉Linux的不在此列.
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/linux-reader-thumb.png
- [2]: http://digglife.qiniudn.com/qiniu/2481/image/6152cf1c0be3f1a97197e39d92047eca.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2481/image/8d1b1222779f5a38eb7190cd92c11d57.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/linux-reader-thumb.png
+ [2]: https://www.digglife.net/qiniu/2481/image/6152cf1c0be3f1a97197e39d92047eca.jpg
+ [3]: https://www.digglife.net/qiniu/2481/image/8d1b1222779f5a38eb7190cd92c11d57.jpg

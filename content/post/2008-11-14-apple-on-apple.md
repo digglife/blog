@@ -29,7 +29,7 @@ tags:
 首先，他制作了许多张刻有苹果Logo，仿苹果Logo的❤和iPod形状的贴纸：
 
 <div id="attachment_2741" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_01.jpg"><img class="size-medium wp-image-2741" title="Apple苹果贴纸" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/appleonapple_01-300x225.jpg" alt="被镂空后的贴纸,博主的手工活很不错" width="300" height="225" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_01.jpg"><img class="size-medium wp-image-2741" title="Apple苹果贴纸" src="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_01-300x225.jpg" alt="被镂空后的贴纸,博主的手工活很不错" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     被镂空后的贴纸,博主的手工活很不错
@@ -39,7 +39,7 @@ tags:
 然后将它们贴到了苹果上:
 
 <div id="attachment_2742" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_02.jpg"><img class="size-medium wp-image-2742" title="贴上苹果Logo贴纸的苹果" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/appleonapple_02-300x225.jpg" alt="贴上苹果Logo贴纸的苹果" width="300" height="225" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_02.jpg"><img class="size-medium wp-image-2742" title="贴上苹果Logo贴纸的苹果" src="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_02-300x225.jpg" alt="贴上苹果Logo贴纸的苹果" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     贴上苹果Logo贴纸的苹果
@@ -47,7 +47,7 @@ tags:
 </div>
 
 <div id="attachment_2744" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_031.jpg"><img class="size-medium wp-image-2744" title="贴有iPod贴纸的苹果" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/appleonapple_031-300x225.jpg" alt="iPod样式的贴纸" width="300" height="225" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_031.jpg"><img class="size-medium wp-image-2744" title="贴有iPod贴纸的苹果" src="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_031-300x225.jpg" alt="iPod样式的贴纸" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     iPod样式的贴纸
@@ -57,7 +57,7 @@ tags:
 过了一个月之后，苹果成熟啦：
 
 <div id="attachment_2745" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_05.jpg"><img class="size-medium wp-image-2745" title="成熟后的苹果" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/appleonapple_05-300x225.jpg" alt="这贴纸的质量不是一般的好" width="300" height="225" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_05.jpg"><img class="size-medium wp-image-2745" title="成熟后的苹果" src="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_05-300x225.jpg" alt="这贴纸的质量不是一般的好" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     这贴纸的质量不是一般的好
@@ -67,7 +67,7 @@ tags:
 撕掉贴纸之后，原生的苹果牌苹果诞生了：
 
 <div id="attachment_2746" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_07.jpg"><img class="size-medium wp-image-2746" title="苹果牌苹果" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/appleonapple_07-300x225.jpg" alt="苹果牌苹果诞生了！iPod Apple和Apple Apple" width="300" height="225" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_07.jpg"><img class="size-medium wp-image-2746" title="苹果牌苹果" src="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_07-300x225.jpg" alt="苹果牌苹果诞生了！iPod Apple和Apple Apple" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     苹果牌苹果诞生了！iPod Apple和Apple Apple
@@ -77,7 +77,7 @@ tags:
 我记得将商标印在苹果皮上这个主意似乎也是日本人首先发明的，不过应该不是这种方法，后来貌似也得到了推广，我还在超市见过。嗯，上面这样的苹果乔布斯大叔应该尝尝看，最好还要吃被别人咬过一口的：
 
 <div id="attachment_2747" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_15_2.jpg"><img class="size-medium wp-image-2747" title="被咬了一口的苹果" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/appleonapple_15_2-300x297.jpg" alt="被咬了一口的苹果" width="300" height="297" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_15_2.jpg"><img class="size-medium wp-image-2747" title="被咬了一口的苹果" src="https://www.digglife.net/wp-content/uploads/2008/11/appleonapple_15_2-300x297.jpg" alt="被咬了一口的苹果" width="300" height="297" /></a>
   
   <p class="wp-caption-text">
     被咬了一口的苹果

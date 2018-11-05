@@ -42,5 +42,5 @@ tags:
 
 个人继续期待Windows XP SP3,4月21日我们应该能够下载到官方正式版.
 
- [1]: http://digglife.qiniudn.com/qiniu/2493/image/73a7c4b178b74672bfcd6906fce8354a.jpg
+ [1]: https://www.digglife.net/qiniu/2493/image/73a7c4b178b74672bfcd6906fce8354a.jpg
  [2]: http://windowsupdate.microsoft.com

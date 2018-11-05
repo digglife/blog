@@ -23,7 +23,7 @@ tags:
   - 软件
 
 ---
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbbettergmail-thumb1.png" border="0" alt="" width="470" height="94" />][1] 尽管Gmail非常棒,但是我们还可以通过下载安装一个小扩展让他更加符合你的需要.Better Gmail扩展整合了目前网络上所有加强Gmail功能的GreaseMonkey Scipts代码,让你可以一次安装实现所有这些十分有趣的功能,而不用安装Greasemonkey之后费神逐个安装. 这些功能包括:
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbbettergmail-thumb1.png" border="0" alt="" width="470" height="94" />][1] 尽管Gmail非常棒,但是我们还可以通过下载安装一个小扩展让他更加符合你的需要.Better Gmail扩展整合了目前网络上所有加强Gmail功能的GreaseMonkey Scipts代码,让你可以一次安装实现所有这些十分有趣的功能,而不用安装Greasemonkey之后费神逐个安装. 这些功能包括:
 
   * 更加漂亮的Gmail界面
   * 加强的键盘快捷键
@@ -34,7 +34,7 @@ tags:
   * 点击右键预览邮件
   * &#8230;&#8230;&#8230;.
 
-虽然目前这个扩展还只有英文版,但是并不影响基本的使用. [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbbettergmail1-thumb1.png" border="0" alt="" width="450" height="560" />][2]
+虽然目前这个扩展还只有英文版,但是并不影响基本的使用. [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbbettergmail1-thumb1.png" border="0" alt="" width="450" height="560" />][2]
 
 > Better Gmail Firefox扩展 **Version:** 0.3 **Released:** April 16, 2007 **Updated:** April 19, 2007 **Creator:** Gina Trapani, using scripts by Mihai Parparita and others, compiled using Anthony Lieuallen&#8217;s Greasemonkey Compiler.
 
@@ -42,7 +42,7 @@ tags:
 
 ### 截图:
 
-Gmail Super Clean皮肤: [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbsurface-thumb1.png" border="0" alt="" width="475" height="265" />][4] 右键预览: [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbpreview-thumb2.png" border="0" alt="" width="475" height="218" />][5] 附件图标: [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbattachment-thumb5.png" border="0" alt="" width="475" height="81" />][6] 自定义搜索: [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbsearch-thumb.png" border="0" alt="" width="184" height="161" />][7] [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbsearch2-thumb3.png" border="0" alt="" width="475" height="670" />][8]
+Gmail Super Clean皮肤: [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbsurface-thumb1.png" border="0" alt="" width="475" height="265" />][4] 右键预览: [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbpreview-thumb2.png" border="0" alt="" width="475" height="218" />][5] 附件图标: [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbattachment-thumb5.png" border="0" alt="" width="475" height="81" />][6] 自定义搜索: [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbsearch-thumb.png" border="0" alt="" width="184" height="161" />][7] [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbsearch2-thumb3.png" border="0" alt="" width="475" height="670" />][8]
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbbettergmail3.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterfirefoxgmailbettergmail-efcbbettergmail13.png

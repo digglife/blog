@@ -75,10 +75,10 @@ ThreatFire最大的特色是它独有的行为监控技术.ThreatFire利用专�
 
 来自<a title="LifeRocks!" href="http://www.nirmaltv.com/2007/09/24/7-free-anti-virus-software-for-windows/" target="_blank">Life Rocks!</a>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/2008/03/avg.jpg
- [2]: http://digglife.qiniudn.com/wp-content/uploads/2008/03/avast.jpg
- [3]: http://digglife.qiniudn.com/wp-content/uploads/2008/03/avira.jpg
- [4]: http://digglife.qiniudn.com/wp-content/uploads/2008/03/Clamwin.jpg
- [5]: http://digglife.qiniudn.com/wp-content/uploads/2008/03/comodo.jpg
- [6]: http://digglife.qiniudn.com/wp-content/uploads/2008/03/pctools.jpg
- [7]: http://digglife.qiniudn.com/qiniu/2482/image/2e3b658128de6e569ec32f0344d441d3.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/2008/03/avg.jpg
+ [2]: https://www.digglife.net/wp-content/uploads/2008/03/avast.jpg
+ [3]: https://www.digglife.net/wp-content/uploads/2008/03/avira.jpg
+ [4]: https://www.digglife.net/wp-content/uploads/2008/03/Clamwin.jpg
+ [5]: https://www.digglife.net/wp-content/uploads/2008/03/comodo.jpg
+ [6]: https://www.digglife.net/wp-content/uploads/2008/03/pctools.jpg
+ [7]: https://www.digglife.net/qiniu/2482/image/2e3b658128de6e569ec32f0344d441d3.jpg

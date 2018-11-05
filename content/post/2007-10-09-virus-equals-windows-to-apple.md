@@ -52,7 +52,7 @@ tags:
   - 苹果
 
 ---
-[<img height="250" alt="more_pc_software" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/more-pc-software.gif" width="447" />][1] 
+[<img height="250" alt="more_pc_software" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/more-pc-software.gif" width="447" />][1] 
 
 苹果对<a title="Windows技巧" href="https://www.digglife.net/articles/category/windows-tricks/" target="_blank">Windows</a>的揶揄和讽刺真是无处不在,就连官网上小小的搜索条都不放.苹果认为<a title="主题大变脸:Windows XP模拟苹果Mac OSX" href="https://www.digglife.net/articles/transform-windows-to-osx.html" target="_blank">Mac OS X</a>优于Windows的一个重要理由就是所谓的&#8221;完全病毒免疫&#8221;,而<a title="Windows上却已经发现有114000多种病毒" href="http://www.apple.com.cn/getamac/viruses.html" target="_blank">Windows上却已经发现有114000多种病毒</a>.所以,他们在官网的搜索提示上做了一点手脚.进入<a title="Apple全球官方主页" href="http://www.apple.com/" target="_blank">Apple全球官方主页</a>,在右上的搜索框中输入&#8221;**virus&#8221;**,然后你会看到弹出一个笑脸提示:&#8221;**Windows.Why you&#8217;ll love a Ｍac.View the latest TV ads to find out more&#8221;**.点击之后会直接进入<a title="Get A Mac" href="http://www.apple.com/getamac/" target="_blank">Get A Mac</a>页面.
 
@@ -60,11 +60,11 @@ tags:
 
 <!--more-->
 
-[<img height="144" alt="virus-windows" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/virus-windows-thumb.png" width="394" />][2] 
+[<img height="144" alt="virus-windows" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/virus-windows-thumb.png" width="394" />][2] 
 
 如果你直接Enter,苹果不会给你任何搜索结果.
 
-[<img height="128" alt="virus-search-result" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/virus-search-result-thumb.png" width="450" />][3] 
+[<img height="128" alt="virus-search-result" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/virus-search-result-thumb.png" width="450" />][3] 
 
 Mac OS X有没有病毒呢?Google一下就知道了.只是Mac OSX的用户群远远没有Windows的多,因此病毒制造者从影响力方面着想,一定会选择目标更为庞大的Windows而已.不过这样的恶搞还是非常有意思的.
 

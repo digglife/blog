@@ -49,10 +49,10 @@ tags:
   
 ** 
 
-<a title="免费Powerpoint转Flash软件iSpring下载" href="http://www.ispringsolutions.com/download/ispring_free_3_2.exe" target="_self"><img class="alignnone size-full wp-image-2565" title="下载图标" src="http://digglife.qiniudn.com/wp-content/uploads/2008/07/download.gif" alt="下载" width="64" height="64" /></a>
+<a title="免费Powerpoint转Flash软件iSpring下载" href="http://www.ispringsolutions.com/download/ispring_free_3_2.exe" target="_self"><img class="alignnone size-full wp-image-2565" title="下载图标" src="https://www.digglife.net/wp-content/uploads/2008/07/download.gif" alt="下载" width="64" height="64" /></a>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/iSpring-toolbar.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/archive/iSpring-toolbar.jpg
  [2]: http://picasaweb.google.co.uk/digglifeshow/oCzYfC/photo#5219618298442801090
- [3]: http://digglife.qiniudn.com/wp-content/uploads/archive/ispring-demo.jpg
+ [3]: https://www.digglife.net/wp-content/uploads/archive/ispring-demo.jpg
  [4]: http://picasaweb.google.co.uk/digglifeshow/oCzYfC/photo#5219617683227774514
  [5]: http://www.slideboom.com/ "SlideBoom Powerpoint上传分享"

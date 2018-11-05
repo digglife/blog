@@ -23,11 +23,11 @@ tags:
 
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/09/moedict-web.png" alt="萌典WEB版查字" width="627" height="698" class="alignnone size-full wp-image-3901" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/09/moedict-web.png" alt="萌典WEB版查字" width="627" height="698" class="alignnone size-full wp-image-3901" />
 
 因为萌典的结构化数据是开放的，所以衍生出各种格式的离线字典资料库、插件和客户端APP。离线资料库现支持 OS X内置词典应用、Kindle、StarDict等。桌面APP全平台覆盖，手机APP也有 <a href="https://itunes.apple.com/tw/app/meng-dian/id599429224" title="中文电子词典萌典iOS客户端" target="_blank">iOS</a>, <a href="https://play.google.com/store/apps/details?id=org.audreyt.dict.moe" title="中文电子词典萌典Android客户端" target="_blank">Andoird</a> 和 <a href="https://marketplace.firefox.com/app/%E8%90%8C%E5%85%B8" title="中文电子词典萌典Firefox OS客户端" target="_blank">Firefox OS</a> 版本。当然，这些客户端多数都是 HTML5 APP 封装的，不是原生APP，但是已经足够好用。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/09/moedit-ios-576x1024.png" alt="萌典iOS客户端" width="576" height="1024" class="alignnone size-large wp-image-3900" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/09/moedit-ios-576x1024.png" alt="萌典iOS客户端" width="576" height="1024" class="alignnone size-large wp-image-3900" />
 
 “萌典”是台湾 “<a href="http://g0v.tw" title="零时政府" target="_blank">零时政府</a>” 最成功的项目之一。所谓 “零时政府”，是以 [唐凤][2] （万万没想到这个也有他一份，Perl社区的奇人）等一批程序员为主体的，以透明化台湾政府信息和自由化线上公共资源为核心目的社区，旗下包括[中央政府预算视觉化][3]，[开放政治献金][4]，萌典等项目。其共同的特点是，将台湾政府发布的老旧的，混乱的数据，通过程序和众包的方式转换成结构化的数据，然后将其包装成直观的易用的在线或者客户端程序，一些用来加强普通人在政治上的影响力，一些用来方便普通人使用政府公共资源。这些成果的源代码全部都公布在Github上。
 

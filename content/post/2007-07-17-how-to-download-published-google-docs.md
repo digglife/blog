@@ -20,7 +20,7 @@ tags:
   - 电子表格
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/dns.gif"><img align="right" width="35" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/dns-thumb.gif" alt="dns" height="35" /></a> 如果有人给你发送了一个只读[Google文档][1]或电子表格,你需要将其保存为PDF文件并从你的网站上链接到该PDF下载地址,该怎么做呢?这里有一个简单实用的方法.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/dns.gif"><img align="right" width="35" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/dns-thumb.gif" alt="dns" height="35" /></a> 如果有人给你发送了一个只读[Google文档][1]或电子表格,你需要将其保存为PDF文件并从你的网站上链接到该PDF下载地址,该怎么做呢?这里有一个简单实用的方法.
 
 **1.电子表格**
 

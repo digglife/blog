@@ -41,7 +41,7 @@ tags:
   - 链接
 
 ---
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/scrollover21.gif" alt="scrollover21.gif" align="right" />][1]为了让大家明白这是一个怎样的效果,首先给个例子:<a href="https://www.digglife.net" class="scrollover" target="_blank" type="scrollover">DiggLife</a>.鼠标悬停到前面的链接,看看有什么变化.<strike>如果你用RSS阅读器是无法看到效果的,所以阅读器里的标题给我增加点点击率吧</strike>.(添加了GIF图片,应该能够看到)
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/scrollover21.gif" alt="scrollover21.gif" align="right" />][1]为了让大家明白这是一个怎样的效果,首先给个例子:<a href="https://www.digglife.net" class="scrollover" target="_blank" type="scrollover">DiggLife</a>.鼠标悬停到前面的链接,看看有什么变化.<strike>如果你用RSS阅读器是无法看到效果的,所以阅读器里的标题给我增加点点击率吧</strike>.(添加了GIF图片,应该能够看到)
 
 这个效果就叫做<a href="http://www.scrollovers.com/" class="scrollover" target="_blank" type="scrollover">Scrollover</a>.下面介绍一下**实现方法**.
 

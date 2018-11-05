@@ -49,11 +49,11 @@ tags:
 
 **名侦探柯南第507话日文字幕版下载:**(.zip 9.43 kb)
 
-<a title="名侦探柯南第507话日文字幕版下载" href="https://www.digglife.net/wp-content/uploads/files/konan507-jpsub.zip" target="_self"><img class="alignnone size-full wp-image-2565" title="下载" src="http://digglife.qiniudn.com/wp-content/uploads/2008/07/download.gif" alt="下载" width="64" height="64" /></a>
+<a title="名侦探柯南第507话日文字幕版下载" href="https://www.digglife.net/wp-content/uploads/files/konan507-jpsub.zip" target="_self"><img class="alignnone size-full wp-image-2565" title="下载" src="https://www.digglife.net/wp-content/uploads/2008/07/download.gif" alt="下载" width="64" height="64" /></a>
 
 使用方法:随便在哪里下载一个中文字幕版然后直接挂载这个字幕就可以了,字体最好设置成日文字体(Mincho,Meiryo之类的),不然显示效果会不好.另外,我是用24分54秒的片源做的时间轴,不排除某些字幕组压制的时候砍头去尾过,这时可能会出现字幕不匹配的情况.
 
  [1]: http://bbs.jumpcn.com/read.php?tid-4620772.html "柯南507集无字幕片源下载"
- [2]: http://digglife.qiniudn.com/wp-content/uploads/archive/konan50701.jpg
+ [2]: https://www.digglife.net/wp-content/uploads/archive/konan50701.jpg
  [3]: http://picasaweb.google.com/digglifeshow/GYewOD/photo#5220218135876100882
- [4]: http://digglife.qiniudn.com/wp-content/uploads/archive/konan50702.jpg
+ [4]: https://www.digglife.net/wp-content/uploads/archive/konan50702.jpg

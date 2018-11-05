@@ -27,11 +27,11 @@ tags:
 
 Fairey制作的奥巴马海报:
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2009/02/barack-obama.jpg" alt="奥巴马风格海报" width="450" height="336" class="alignnone size-full wp-image-3905" />
+<img src="https://www.digglife.net/wp-content/uploads/2009/02/barack-obama.jpg" alt="奥巴马风格海报" width="450" height="336" class="alignnone size-full wp-image-3905" />
 
 只需上传图片或者通过摄像头即时拍摄之后就可以开始Obamize你的照片了.Obamicon.me提供了色彩平衡调节,缩放,旋转,自定义文字等功能.最好能够选一张背景单纯的大头贴,效果会好一点.下面这张是一个反面例子:
 
-<img class="alignnone size-full wp-image-2916" title="obamicon" src="http://digglife.qiniudn.com/wp-content/uploads/2009/02/obamicon.jpg" alt="obamicon" width="519" height="512" />
+<img class="alignnone size-full wp-image-2916" title="obamicon" src="https://www.digglife.net/wp-content/uploads/2009/02/obamicon.jpg" alt="obamicon" width="519" height="512" />
 
 实际成像效果可能和Feirey的海报有一定的差距,不过有那个意思就已经不错了.
 

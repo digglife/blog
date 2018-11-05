@@ -25,7 +25,7 @@ tags:
 **然而，在我看来，前一个索然无味，后一个意趣盎然。**以前在玩《神秘海域3》和《战神3》的时候就有一种很躁动的感觉，却没弄清楚到底是为什么，现在终于明白了。**这些所谓的大作，过分追求高性能主机能带来的视听享受，却似乎把游戏的核心放在了次重要的位置，这个核心就是操控的趣味和愉悦。**
 
 <div style="width: 510px" class="wp-caption alignnone">
-  <img alt="超凡双生截图" src="http://digglife.qiniudn.com/wp-content/uploads/2013/12/beyond.jpg" width="500" height="212" />
+  <img alt="超凡双生截图" src="https://www.digglife.net/wp-content/uploads/2013/12/beyond.jpg" width="500" height="212" />
   
   <p class="wp-caption-text">
     超凡双生的画面做到了一个极致
@@ -61,7 +61,7 @@ NPC 问的各种问题，我都可以给出负面的回答（违背常识且偏�
 迷宫不是用来拖长游戏时间，而是提高游戏趣味性的一种手段。玩家需要考虑到各种环境因素，配合手上的道具才能触发新的机关进而推进剧情。
 
 <div id="attachment_3729" style="width: 510px" class="wp-caption alignnone">
-  <img class="size-full wp-image-3729" alt="塞尔达操作" src="http://digglife.qiniudn.com/wp-content/uploads/2013/12/zelda-control.jpg" width="500" height="362" />
+  <img class="size-full wp-image-3729" alt="塞尔达操作" src="https://www.digglife.net/wp-content/uploads/2013/12/zelda-control.jpg" width="500" height="362" />
   
   <p class="wp-caption-text">
     在大地的汽笛中，有时需要同时操控两个人配合才能打开机关

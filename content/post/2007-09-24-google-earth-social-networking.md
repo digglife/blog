@@ -46,7 +46,7 @@ tags:
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/myworld-asu-form.png" target="_blank"><img id="id" height="177" alt="myworld-asu-form" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/myworld-asu-form-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/myworld-asu-form.png" target="_blank"><img id="id" height="177" alt="myworld-asu-form" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/myworld-asu-form-thumb.png" width="450" border="0" /></a> 
 
 另外亚利桑那州立大学和Google公司也一直有着紧密的关系,它是美国<a title="第一个使用Google Apps的大学" href="http://www.asu.edu/news/stories/200610/20061010_asugmail.htm" target="_blank">第一个使用Google Apps的大学</a>,大学官方网站的<a title="亚利桑那州立大学的搜索引擎" href="http://www.asu.edu/search/gsa/" target="_blank">搜索引擎</a>由Google提供,这个大学还一直使用Google Maps,而且亚利桑那大学在Google Earth里面也已经有了完整的3D建筑模型.事实上他们的关系还远远不止如此:该大学曾经<a title="亚利桑那大学的Mars计划" href="http://themis.asu.edu/projects/googlemars" target="_blank">提供图片</a>给Google Mars计划,Google有很多雇员在该大学开展过演讲或者任职付讲师.另外,Google在亚利桑那州立大学的临时学院还有一个办公室.
 
@@ -54,7 +54,7 @@ tags:
 
 调查问卷截图如下:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/myworld-asu.png" target="_blank"><img id="id" height="255" alt="myworld-asu" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/myworld-asu-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/myworld-asu.png" target="_blank"><img id="id" height="255" alt="myworld-asu" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/myworld-asu-thumb.png" width="450" border="0" /></a> 
 
 希望这的确是Google Metaverse走出的第一步&#8230;
 

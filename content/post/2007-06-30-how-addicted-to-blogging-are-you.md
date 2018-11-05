@@ -59,6 +59,6 @@ tags:
 ---
 在线交友网站<a target="_blank" href="http://mingle2.com/blog-addiction">Mingle2</a>通过13个问题来测试你的博客上瘾综合症的病况.这13个问题包括博客更新频率,博客数量,博客阅读时间等等,最后我的上瘾度是60%.看来有点严重了.默念三声:节制节制节制~~~~~~~~
 
-<img width="420" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/addicted-to-blog.png" alt="addicted_to_blog" height="265" />
+<img width="420" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/addicted-to-blog.png" alt="addicted_to_blog" height="265" />
 
 有博客的朋友都<a target="_blank" href="http://mingle2.com/blog-addiction">测试一下</a>吧.

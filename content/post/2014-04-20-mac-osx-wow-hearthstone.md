@@ -28,10 +28,10 @@ tags:
 
 战网Mac版客户端的魔兽世界。
   
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/04/battle-world-of-warcraft.png" alt="Mac版战网客户端-魔兽世界-网易国服" width="500" height="364" class="alignnone size-full wp-image-3797" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/04/battle-world-of-warcraft.png" alt="Mac版战网客户端-魔兽世界-网易国服" width="500" height="364" class="alignnone size-full wp-image-3797" />
 
 如果你之前没有安装过，点击免费试玩会弹出一个安装窗口。下面的示例虽然是星际争霸II，但是魔兽和炉石也是一样的。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/04/battle-game-install.png" alt="Mac版战网客户端-游戏安装" width="500" height="342" class="alignnone size-full wp-image-3799" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/04/battle-game-install.png" alt="Mac版战网客户端-游戏安装" width="500" height="342" class="alignnone size-full wp-image-3799" />
 
 以前要在Mac上玩魔兽，还得拷贝Windows版的文件，然后用美服的Mac版魔兽客户端的部分文件覆盖，现在一个战网客户端就直接搞定了。暴雪把该做的都做了，黄易你好歹更新一下主页吧？难道是为了逃避一部分技术支持的责任？

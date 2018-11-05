@@ -30,21 +30,21 @@ Openhands的<a href="http://pokylinux.org/" target="_blank">Poky Linux</a>是一
 
 Blinky和Nokia赞助的Maemo.org计划非常相似,但是和它的Hilton图形用户界面不同的是,它使用了全新的Sato1.0组件.截图如下:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-web-2.png" atomicselection="true"><img height="337" alt="poky_web-2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/poky-web-2-thumb.png" width="450" /></a></p> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-web-2.png" atomicselection="true"><img height="337" alt="poky_web-2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-web-2-thumb.png" width="450" /></a></p> 
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-desktop.png" atomicselection="true"><img height="337" alt="poky_desktop" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/poky-desktop-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-desktop.png" atomicselection="true"><img height="337" alt="poky_desktop" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-desktop-thumb.png" width="450" /></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-contacts.png" atomicselection="true"><img height="337" alt="poky_contacts" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/poky-contacts-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-contacts.png" atomicselection="true"><img height="337" alt="poky_contacts" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-contacts-thumb.png" width="450" /></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-dates.png" atomicselection="true"><img height="337" alt="poky_dates" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/poky-dates-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-dates.png" atomicselection="true"><img height="337" alt="poky_dates" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-dates-thumb.png" width="450" /></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-large-fonts.png" atomicselection="true"><img height="337" alt="poky_large-fonts" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/poky-large-fonts-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-large-fonts.png" atomicselection="true"><img height="337" alt="poky_large-fonts" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-large-fonts-thumb.png" width="450" /></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-web-1.png" atomicselection="true"><img height="337" alt="poky_web-1" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/poky-web-1-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-web-1.png" atomicselection="true"><img height="337" alt="poky_web-1" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-web-1-thumb.png" width="450" /></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-mines.png" atomicselection="true"><img height="337" alt="poky_mines" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/poky-mines-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-mines.png" atomicselection="true"><img height="337" alt="poky_mines" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/poky-mines-thumb.png" width="450" /></a>
 
 poky目前支持的开发平台包括:<a href="https://www.digglife.net/articles/play-with-openmoko-phone.html" target="_blank">OpenMoko</a>的Neo1973,Nokia的N800 Web Tablet以及多种Sharp Zauri系列.
 

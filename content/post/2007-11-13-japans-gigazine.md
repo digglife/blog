@@ -50,7 +50,7 @@ Gigazine(ギガジン)这个名字来自Giga(千兆)和Magazine(杂志),也就�
 
 Gigazine自2000年4月1日开站以来(话说他们还真会选日子),已经发布了5000多篇日志,目前一个月的PV约2568万,独立访问者908万,已经成为<a href="http://www.technorati.jp/pop/blogs/" target="_blank">日本博客第一</a>.
 
-[<img height="118" alt="Gigazine" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/gigazine-thumb.png" width="416" border="0" />][2] 
+[<img height="118" alt="Gigazine" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/gigazine-thumb.png" width="416" border="0" />][2] 
 
 可能大家进入Gigazine的第一印象就是:这个博客真TM乱.其实这也许是日本互联网文化的一个特点,他们的网站风格和我们耳濡目染已久的欧美风有很大的区别,大多架构简单至极,排版粗糙甚至混乱.资深日本互联网专家<a href="http://doggsalmon.yo2.cn/" target="_blank">Dogg Salmon</a>曾经给我的解释是:便于放广告.不过我倒是觉得,即使是放广告,也可以将页面元素做得更加整洁一点的.
 
@@ -66,5 +66,5 @@ Gigazine自2000年4月1日开站以来(话说他们还真会选日子),已经发
 
 **还是那句话,大家喜欢的话就**<a href="http://www.feedsky.com/challenge/user.html?u=49ecb67b" target="_blank"><strong>投我一票</strong></a>**吧!~~~**
 
- [1]: http://digglife.qiniudn.com/qiniu/2151/image/ea5c64367e22bbe6b3859a8fa5f60559.jpg
+ [1]: https://www.digglife.net/qiniu/2151/image/ea5c64367e22bbe6b3859a8fa5f60559.jpg
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/11/gigazine.png

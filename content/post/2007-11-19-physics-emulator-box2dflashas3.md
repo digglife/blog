@@ -37,7 +37,7 @@ tags:
 
 这个模拟物理运动的Flash算是我见过的比较有创意的一个了.<a title="Box2DFlashAS3,物理运动模拟器" href="http://box2dflash.sourceforge.net/" target="_blank">Box2DFlashAS3</a>是借助Erin Catto开发的物理模拟引擎**[Box2D][2]**制作的开源Flash物理运动模拟器.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/box2dflashas3.png" target="_blank"><img height="250" alt="box2dflashas3" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/box2dflashas3-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/box2dflashas3.png" target="_blank"><img height="250" alt="box2dflashas3" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/box2dflashas3-thumb.png" width="450" border="0" /></a> 
 
 <!--more-->
 
@@ -47,11 +47,11 @@ tags:
 
 尸横遍野,Ragdolls在这里还是叫扯线木偶来的准确.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/box2dflashas3-2.png" target="_blank"><img height="250" alt="box2dflashas3-2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/box2dflashas3-2-thumb.png" width="450" border="0" /></a>&#160;
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/box2dflashas3-2.png" target="_blank"><img height="250" alt="box2dflashas3-2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/box2dflashas3-2-thumb.png" width="450" border="0" /></a>&#160;
 
 传说中的牵一发而动全身.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/box2dflashas3-brige.png" target="_blank"><img height="250" alt="box2dflashas3-brige" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/box2dflashas3-brige-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/box2dflashas3-brige.png" target="_blank"><img height="250" alt="box2dflashas3-brige" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/box2dflashas3-brige-thumb.png" width="450" border="0" /></a> 
 
 我倒是非常佩服开发出这个引擎的人,嗯,甚是强巨.
 
@@ -65,5 +65,5 @@ tags:
 
 来自<a title="Flashで物理演算シミュレーションを可能にする「Box2DFlashAS3」" href="http://gigazine.net/index.php?/news/comments/20071118_box2dflashas3/" target="_blank">GIGAZINE</a>
 
- [1]: http://digglife.qiniudn.com/qiniu/2202/image/0b276089108271cc39cdcca8adade5c1.jpg
+ [1]: https://www.digglife.net/qiniu/2202/image/0b276089108271cc39cdcca8adade5c1.jpg
  [2]: http://www.box2d.org/

@@ -53,6 +53,6 @@ tags:
 
 值得一提的是,现在Google Adsense会在付款签发之后给发布商一封提醒邮件,当天我就是在收到邮件之后才知道可以提款的,非常人性化的改进:
   
-[<img src="http://digglife.qiniudn.com/qiniu/2559/image/466cbc23e71b46703fdb66af2d3dc0b3.jpg" alt="adsense-notifer" width="455" height="365" />][1]
+[<img src="https://www.digglife.net/qiniu/2559/image/466cbc23e71b46703fdb66af2d3dc0b3.jpg" alt="adsense-notifer" width="455" height="365" />][1]
 
  [1]: http://www.flickr.com/photos/27826165@N03/2627047332/ "Flickr 上 DiggLife.cn 的 adsense-notifer"

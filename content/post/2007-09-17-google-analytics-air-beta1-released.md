@@ -43,17 +43,17 @@ Google Analytics Reporting Suite在很早之前就[开始接受注册][1](刚刚
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/analytics-reporting-suite-overview.png" target="_blank"><img id="id" height="342" alt="Analytics-Reporting-Suite-Overview" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/analytics-reporting-suite-overview-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/analytics-reporting-suite-overview.png" target="_blank"><img id="id" height="342" alt="Analytics-Reporting-Suite-Overview" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/analytics-reporting-suite-overview-thumb.png" width="450" border="0" /></a> 
 
 如图所示的,该AIR程序涵盖了Google分析报告的所有内容,主要分为访问者,点击量来源和内容三大部分.其下拉菜单内容也和Google分析并无二致,如果你不习惯类Flash的报告界面,还可以选择导出PDF或者Excel版本.电脑里安装有Adobe Acrobat Reader 8.1以上版本的可以直接在程序内预览,貌似使用Foxit Reader不行.
 
 你可以通过顶部菜单的Manage Profiles新建多个网站管理帐户.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/profiles.png" target="_blank"><img id="id" height="306" alt="Profiles" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/profiles-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/profiles.png" target="_blank"><img id="id" height="306" alt="Profiles" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/profiles-thumb.png" width="450" border="0" /></a> 
 
 在这个程序下同样显示网站覆盖图.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/site-overlay.png" target="_blank"><img id="id" height="324" alt="Site-overlay" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/site-overlay-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/site-overlay.png" target="_blank"><img id="id" height="324" alt="Site-overlay" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/site-overlay-thumb.png" width="450" border="0" /></a> 
 
 &#xA0;
 
@@ -67,7 +67,7 @@ Google Analytics Reporting Suite在很早之前就[开始接受注册][1](刚刚
 
 **中文无法正常显示.**
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/chinese-error.png" target="_blank"><img id="id" height="230" alt="Chinese-error" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/chinese-error-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/chinese-error.png" target="_blank"><img id="id" height="230" alt="Chinese-error" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/chinese-error-thumb.png" width="450" border="0" /></a> 
 
 因为关闭了注册,所以现在不可能从开发者的博客[AboutNico][2]上获取下载地址,不过我已经将它上传了,大家可以在下面下载.
 

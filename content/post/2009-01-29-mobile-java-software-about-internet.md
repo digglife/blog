@@ -28,7 +28,7 @@ tags:
 <!--more-->
 
 <div id="attachment_2905" style="width: 238px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2905" title="手机上网必备的Java软件" src="http://digglife.qiniudn.com/wp-content/uploads/2009/01/mobile-java.jpg" alt="手机上网必备的Java软件" width="228" height="250" />
+  <img class="size-full wp-image-2905" title="手机上网必备的Java软件" src="https://www.digglife.net/wp-content/uploads/2009/01/mobile-java.jpg" alt="手机上网必备的Java软件" width="228" height="250" />
   
   <p class="wp-caption-text">
     手机上网必备的Java软件,AnyView友情出场

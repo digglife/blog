@@ -43,7 +43,7 @@ tags:
 
 PS：前天<a title="幸福收藏夹" href="http://www.happinesz.cn/" target="_blank">幸福收藏夹</a>的Sofish同学给DiggLife定制了一个专属主题DiggBox，我决定在近期上线，大家可以去<a title="Sofish给DiggLife定制的主题DiggBox" href="http://www.happinesz.cn/archives/473/" target="_blank">看看先</a>。在此再次感谢Sofish !!!
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/Adsense-for-feed.gif
+ [1]: https://www.digglife.net/wp-content/uploads/archive/Adsense-for-feed.gif
  [2]: http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5234633168996443618
- [3]: http://digglife.qiniudn.com/wp-content/uploads/archive//make-ad.gif
+ [3]: https://www.digglife.net/wp-content/uploads/archive//make-ad.gif
  [4]: http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5234631413831320402

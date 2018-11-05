@@ -63,7 +63,7 @@ tags:
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/sumatra-thumb.png" alt="Sumatra" width="450" height="429" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/sumatra-thumb.png" alt="Sumatra" width="450" height="429" />][1]
 
 所以,对于**只是单纯的阅读PDF文档的用户**来说,Sumatra PDF无疑是最好的选择.体积小,启动快,够干净,还便于携带,还需要什么呢?
 

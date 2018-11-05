@@ -26,7 +26,7 @@ tags:
 
 国内的现实是，专业学外语的一般都很难做好专业领域的翻译，更不用说外语到外语的专业翻译了。就好像计算机技术类的翻译，与其找一个稍懂计算机的日语专业人才，不如找一个在业界侵淫多年的同时日语也不错的人来翻译，顾全文笔真心不如顾全内部逻辑，思维方式和术语表达来得有意义。
 
-[<img title="spring-chicken" src="http://digglife.qiniudn.com/wp-content/uploads/2012/03/spring-chicken.jpg" alt="" width="500" height="431" />][1]
+[<img title="spring-chicken" src="https://www.digglife.net/wp-content/uploads/2012/03/spring-chicken.jpg" alt="" width="500" height="431" />][1]
 
 所以一家专业的翻译公司，必需拥有很多有资深行业背景，而且以目标语言为母语的翻译人才，唯此才能保证翻译的质量。于是才会有类似于[上海翻译公司][2]这样致力于专业[口译][3]和笔译的跨国翻译公司存在。
 

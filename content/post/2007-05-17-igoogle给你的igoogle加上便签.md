@@ -39,7 +39,7 @@ tags:
 
 <span>原文来自<a target="_blank" href="http://www.lifehacker.com">Lifehacker</a></span>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/stickies.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/stickies.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/stickies.png "stickies.png"
- [3]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/options.png
+ [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/options.png
  [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/options.png "options.png"

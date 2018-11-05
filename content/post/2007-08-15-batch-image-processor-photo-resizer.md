@@ -40,7 +40,7 @@ tags:
   - 软件
 
 ---
-<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/fpr-logo.png"><img align="right" width="96" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/fpr-logo-thumb.png" alt="fpr_logo" height="96" /> Faststone</a>的大名相信很多人都听说过,我们中的很多人估计都使用过短小精悍的截屏工具Faststone capture或者功能强大的图片浏览器Faststone Viewer,其实Faststone旗下还有一款非常实用的图片批量处理软件<a target="_blank" href="http://www.faststone.org/FSResizerDetail.htm">Faststone Photo Resizer</a>.
+<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/fpr-logo.png"><img align="right" width="96" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/fpr-logo-thumb.png" alt="fpr_logo" height="96" /> Faststone</a>的大名相信很多人都听说过,我们中的很多人估计都使用过短小精悍的截屏工具Faststone capture或者功能强大的图片浏览器Faststone Viewer,其实Faststone旗下还有一款非常实用的图片批量处理软件<a target="_blank" href="http://www.faststone.org/FSResizerDetail.htm">Faststone Photo Resizer</a>.
 
 <!--more-->
 
@@ -50,7 +50,7 @@ tags:
   * 变形,裁剪,更改色深,应用色彩特效,添加文字和水印
   * 重命名图片.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/faststone-photo-resizer.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/faststone-photo-resizer-thumb.png" alt="Faststone_photo_resizer" height="313" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/faststone-photo-resizer.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/faststone-photo-resizer-thumb.png" alt="Faststone_photo_resizer" height="313" /></a>
 
 当然,这些中的大部分功能都可以使用Photoshop达成,但是使用FPR更加简单和快捷,非常适合平时经常有大量照片要处理的用户.FPR是一款免费的Windows软件.
 

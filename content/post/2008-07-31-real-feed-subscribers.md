@@ -34,7 +34,7 @@ tags:
 下面这个是DiggLife Feed在7月30日的统计：
 
 <div style="width:410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5229187779045824098"><img title="DiggLife的Feed访问数统计" src="http://digglife.qiniudn.com/wp-content/uploads/archive/feedview.png" alt="DiggLife的Feed访问数统计" width="400" height="258" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5229187779045824098"><img title="DiggLife的Feed访问数统计" src="https://www.digglife.net/wp-content/uploads/archive/feedview.png" alt="DiggLife的Feed访问数统计" width="400" height="258" /></a>
   
   <p class="wp-caption-text">
     DiggLife的Feed访问数统计，10时-15点时左右比较集中
@@ -46,7 +46,7 @@ tags:
 所以我马上查看了一下被访主机的数据，结果发现来自_xianguo.space.sina.com.cn_的访问占了总数的95%以上，从地址中的xianguo和sina，我马上联想到了海内集成的鲜果热文，所以估计这是鲜果和新浪合作的结果，可是输入上面这个地址无法访问，于是删掉前面的xianguo，真相大白，原来是<a title="新浪空间" href="http://space.sina.com" target="_blank">新浪空间</a>（从来没听说过）里面集成了鲜果阅读器（比和海内的合作要更加深入啊），而且默认的一个订阅为”每日鲜果精选“， 果然在这个个性化阅读器的首页看到了[网上在线观看北京奥运会直播的几种方法][1]这篇文章。
 
 <div style="width:410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5229187784071013986"><img title="DiggLife的Feed访问来源统计" src="http://digglife.qiniudn.com/wp-content/uploads/archive/feedsource.png" alt="真正直接来自阅读器的访问并不多" width="400" height="275" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5229187784071013986"><img title="DiggLife的Feed访问来源统计" src="https://www.digglife.net/wp-content/uploads/archive/feedsource.png" alt="真正直接来自阅读器的访问并不多" width="400" height="275" /></a>
   
   <p class="wp-caption-text">
     Feed访问量真正直接来自阅读器的并不多

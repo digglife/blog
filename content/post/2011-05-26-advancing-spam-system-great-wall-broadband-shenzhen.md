@@ -24,7 +24,7 @@ tags:
 
 <!--more-->很无奈的是，几天之后，我发现除了自己在地址栏输入网址的时候会被劫持之外，随机点击链接也会不时跳转到广告。我实在是出离地愤怒了，于是给深圳长宽的客服小姐打了个电话发泄。
 
-<img class="alignnone size-full wp-image-3095" title="深圳长城宽带劫持浏览器的跳转广告" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/furenguo-szgw-ad.png" alt="深圳长城宽带劫持浏览器的跳转广告" width="600" height="461" />
+<img class="alignnone size-full wp-image-3095" title="深圳长城宽带劫持浏览器的跳转广告" src="https://www.digglife.net/wp-content/uploads/2011/05/furenguo-szgw-ad.png" alt="深圳长城宽带劫持浏览器的跳转广告" width="600" height="461" />
 
 客服小姐的中心意思如下：
 
@@ -44,7 +44,7 @@ tags:
 
 没有想到的是，5月26日，也就是今天，养精蓄锐近一个月的长宽卷土重来，而且还换了一种体位。
 
-<img title="深圳长城宽带的嵌入式Frame广告" src="http://digglife.qiniudn.com/qiniu/3094/image/b51043127edbca00c1bd8aa42486addc.jpg" alt="深圳长城宽带的嵌入式Frame广告" width="600" height="466" />
+<img title="深圳长城宽带的嵌入式Frame广告" src="https://www.digglife.net/qiniu/3094/image/b51043127edbca00c1bd8aa42486addc.jpg" alt="深圳长城宽带的嵌入式Frame广告" width="600" height="466" />
 
 如上图所示的，现在是在网页中嵌入一个iframe，悬停在页面的右边，而且给出了一个关闭按钮。我想长宽的服务中心应该是收到了无数次投诉，暂时将广告下线，但是又不忍心不赚这笔钱，所以找来一群技术人员研究对策，最终推出了这个伟大成果。营业部的人也许还会挺起胸膛自豪地对用户说，看，我们还是很照顾你们的上网体验的，现在你们可以一边正常地浏览网页一边看我们的广告啦！
 

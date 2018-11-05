@@ -47,15 +47,15 @@ tags:
 
 **概述:**(呃,同志们不要笑话,出现1000多个无法访问的网址这种情况已经持续了好长一段时间了,原因调查中)
 
-[<img id="id" height="246" alt="overview" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/overview-thumb.png" width="450" border="0" />][1] 
+[<img id="id" height="246" alt="overview" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/overview-thumb.png" width="450" border="0" />][1] 
 
 **订阅用户统计:**
 
-[<img id="id" height="217" alt="subscribers" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/subscribers-thumb.png" width="450" border="0" />][2] 
+[<img id="id" height="217" alt="subscribers" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/subscribers-thumb.png" width="450" border="0" />][2] 
 
 **工具栏菜单:**
 
-[<img id="id" height="221" alt="tools" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/tools-thumb.png" width="450" border="0" />][3]
+[<img id="id" height="221" alt="tools" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/tools-thumb.png" width="450" border="0" />][3]
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/overview.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/subscribers.png

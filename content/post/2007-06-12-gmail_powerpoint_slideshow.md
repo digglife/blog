@@ -27,7 +27,7 @@ tags:
 
 可能有很多用户在此之前就已经在使用该功能了,因为早些时候Google已经在部分用户中在做测试.如下图所示的,只要Gmail邮件里面含有PPT文件,你就可以通过点击附件下方的View As Slideshow链接来预览该幻灯片.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/gpptslideshow.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/gpptslideshow-thumb.png" alt="GpptSlideshow" height="243" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/gpptslideshow.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/gpptslideshow-thumb.png" alt="GpptSlideshow" height="243" /></a>
 
 <!--more-->
 
@@ -35,11 +35,11 @@ tags:
 
 页面上方的两个箭头可以进行翻页操作,右上方显示第几张.图片中有3个长方形,那个是摩摩诘三个字的乱码.看来目前还没有良好的中文支持(<a target="_blank" href="https://www.digglife.net/articles/safari-30-alpha-for-windows%e4%bd%93%e9%aa%8c%e4%b8%a4%e4%b8%aa%e5%ad%97%e7%b3%9f%e7%b3%95.html">今天对国外大公司对中文的支持已经彻底不爽了</a>),所以对于我们的大部分文件来说目前这个功能还没有太大意义.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ppt1.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/ppt1-thumb.png" alt="ppt1" height="262" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ppt1.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ppt1-thumb.png" alt="ppt1" height="262" /></a>
 
 另外,Mp3在线试听功能前些日子我也发现可以在线预览了.这个功能很早已在美国实现,不过当时国外新闻网站提起的时候我专门试过,发现没有作用.不知道大家最近试过没有&#8230;(不会火星了吧,^_^)
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mp3review2.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/mp3review2-thumb.png" alt="mp3Review2" height="135" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mp3review2.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mp3review2-thumb.png" alt="mp3Review2" height="135" /></a>
 
 那么现在Gmail可以在线处理的附件有多少呢?什么时候是不是还要利用现有的Google Video搞个Flv视频在线预览呢?
 

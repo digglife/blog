@@ -27,7 +27,7 @@ tags:
   - Google文件
 
 ---
-<img height="65" alt="logo_docs" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/logo-docs.gif" width="143" align="right" />Google已经计划在<a href="http://docs.google.com" target="_blank">Google Docs</a>中加入字典功能,但是目前还未正式发布.幸运的是我们可以通过小技巧激活这项功能. 
+<img height="65" alt="logo_docs" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/logo-docs.gif" width="143" align="right" />Google已经计划在<a href="http://docs.google.com" target="_blank">Google Docs</a>中加入字典功能,但是目前还未正式发布.幸运的是我们可以通过小技巧激活这项功能. 
 
 **方法一:** 
 
@@ -43,11 +43,11 @@ tags:
 
 效果图:
 
-<img height="315" alt="google_doc_dictionary" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/google-doc-dictionary.png" width="255" />
+<img height="315" alt="google_doc_dictionary" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/google-doc-dictionary.png" width="255" />
 
 为什么会有汉字出现?是因为我的浏览器默认语言的问题么?
 
- <img height="370" alt="definition" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/definition.png" width="450" />
+ <img height="370" alt="definition" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/definition.png" width="450" />
 
 很遗憾,目前似乎不支持英文之外的其他语言,不过这个功能对于经常阅读和编辑英文文章的国内用户来说还是很有意义的.另外&#8221;百科文章&#8221;选项现在还不起作用,另外两项工作正常,而且貌似很强大.
 
@@ -55,4 +55,4 @@ tags:
 
 **PS:**<a href="http://gmailblog.blogspot.com/" target="_blank"><strong>Gmail的官方博客</strong></a>终于出现了,大家可以去看看,目前只有可怜的3篇文章&#8230;
 
-<img height="101" alt="gmail_office_blog" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/gmail-office-blog.png" width="450" />
+<img height="101" alt="gmail_office_blog" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/gmail-office-blog.png" width="450" />

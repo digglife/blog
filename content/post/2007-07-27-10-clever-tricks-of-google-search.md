@@ -24,7 +24,7 @@ tags:
   - 搜索
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/googlelogo.gif"><img align="right" width="276" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/googlelogo-thumb.gif" alt="GoogleLogo" height="132" /></a> 以下7个Google搜索技巧你也许见过,这只是一个总结.使用这些技巧能够大大加强你的搜索效率和准确度．
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/googlelogo.gif"><img align="right" width="276" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/googlelogo-thumb.gif" alt="GoogleLogo" height="132" /></a> 以下7个Google搜索技巧你也许见过,这只是一个总结.使用这些技巧能够大大加强你的搜索效率和准确度．
 
 **1.Google脸部搜索**. 
 
@@ -102,7 +102,7 @@ _[][12]_
   
 Examples (notice the added variety between search results):
 
-  * [allinanchor:”google hacks”][24] vs. [<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/googlelogo.gif"><img align="right" width="276" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/googlelogo-thumb.gif" alt="GoogleLogo" height="132" /></a> 以下7个Google搜索技巧你也许见过,这只是一个总结.使用这些技巧能够大大加强你的搜索效率和准确度．
+  * [allinanchor:”google hacks”][24] vs. [<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/googlelogo.gif"><img align="right" width="276" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/googlelogo-thumb.gif" alt="GoogleLogo" height="132" /></a> 以下7个Google搜索技巧你也许见过,这只是一个总结.使用这些技巧能够大大加强你的搜索效率和准确度．
 
 **1.Google脸部搜索**. 
 

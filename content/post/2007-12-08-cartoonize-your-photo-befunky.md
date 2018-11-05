@@ -341,17 +341,17 @@ Update:Befunky已经开放注册,无需邀请,有兴趣的直接点击上面的�
 
 <!--more-->
 
-[<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/befunky-avatar-cartoon-thumb.jpg" border="0" alt="befunky-avatar-cartoon" width="450" height="339" />][1]
+[<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/befunky-avatar-cartoon-thumb.jpg" border="0" alt="befunky-avatar-cartoon" width="450" height="339" />][1]
 
 使用起来很简单,你可以上传本地照片,或者填入照片URL,甚至可以即时启动摄像头拍摄,完成后进行一下简单的剪切就可以开始运行卡通化进程了.可惜这个网站在我这里访问龟速,所以没有亲自做出一张来.
 
-[<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/befunky-cartoon-thumb.png" border="0" alt="befunky-cartoon" width="450" height="285" />][2]
+[<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/befunky-cartoon-thumb.png" border="0" alt="befunky-cartoon" width="450" height="285" />][2]
 
 由于Befunky还在内测当中,所以首先必须得到一个邀请函.首页上填入你的Email地址即可,通常1天之后就会收到邀请.如果你等不及也可以在**下面留下你的Email地址**,我会在第一时间发出邀请.
 
 微软MSN也曾经发布过一个卡通头像制作工具<a title="MSN Cartoon" href="http://cartoon.msn.com.cn/" target="_blank">MSN Cartoon</a>,能够根据你上传的头像制作出非常神似的卡通头像,效果也非常不错,非常适合拿来当网络个人资料上的头像.
 
-[<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/msn-cartoon-thumb.png" border="0" alt="msn-cartoon" width="450" height="271" />][3]
+[<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/msn-cartoon-thumb.png" border="0" alt="msn-cartoon" width="450" height="271" />][3]
 
 Befunky主页:[http://www.befunky.com/][4]
 

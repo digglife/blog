@@ -33,7 +33,7 @@ tags:
 其实早在今年早些时候，日本已经有<a href="http://blog.kansai.com/hirorin/1181" target="_blank">网友</a>拍到过日本街景拍摄专车的身影:
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5231058824846169586"><img title="Google日本街景拍摄用车" src="http://digglife.qiniudn.com/wp-content/uploads/archive/google-car.jpg" alt="这是日本网友2月份在一家便利店停车场发现的Google街景拍摄用车" width="400" height="300" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5231058824846169586"><img title="Google日本街景拍摄用车" src="https://www.digglife.net/wp-content/uploads/archive/google-car.jpg" alt="这是日本网友2月份在一家便利店停车场发现的Google街景拍摄用车" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     这是日本网友2月份在一家便利店停车场发现的Google街景拍摄用车
@@ -43,7 +43,7 @@ tags:
 Gizimodo日本今天也收到了网友的来信，[在北海道发现Google街景拍摄用车][1]：
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5231058825548238562"><img title="Google日本街景拍摄用车2" src="http://digglife.qiniudn.com/wp-content/uploads/archive/google-car2.jpg" alt="Google的Logo非常清楚,当然还有街景小人" width="400" height="300" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5231058825548238562"><img title="Google日本街景拍摄用车2" src="https://www.digglife.net/wp-content/uploads/archive/google-car2.jpg" alt="Google的Logo非常清楚,当然还有街景小人" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Google的Logo非常清楚,当然还有街景小人
@@ -53,7 +53,7 @@ Gizimodo日本今天也收到了网友的来信，[在北海道发现Google街�
 我在Google地图日本版搜索了一下<a title="软银表参道店Google地图" href="http://maps.google.co.jp/maps?f=q&#038;hl=en&#038;geocode=&#038;q=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E8%A1%A8%E5%8F%82%E9%81%93&#038;sll=36.5626,136.362305&#038;sspn=33.308155,79.101563&#038;ie=UTF8&#038;ll=35.699686,139.704208&#038;spn=0.066217,0.154495&#038;z=13&#038;layer=c&#038;cbll=35.669024,139.704206&#038;panoid=YrafDmsXpUTyqaj5INFRig&#038;cbp=1,24.995110881641438,,0,-21.813196268783432" target="_blank">软银表参道店</a>（也就是7月11日在日本发售iPhone的店铺），结果在路旁的镜子里看到了Google的车子：
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5231063921742311298"><img title="Softbank表参道店附近的Google街景拍摄用车" src="http://digglife.qiniudn.com/wp-content/uploads/archive/softbank-omote.jpg" alt="Google街景车上面的摄像机貌似很简陋啊" width="400" height="213" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5231063921742311298"><img title="Softbank表参道店附近的Google街景拍摄用车" src="https://www.digglife.net/wp-content/uploads/archive/softbank-omote.jpg" alt="Google街景车上面的摄像机貌似很简陋啊" width="400" height="213" /></a>
   
   <p class="wp-caption-text">
     Google街景车上面的摄像机貌似很简陋啊

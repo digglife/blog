@@ -35,11 +35,11 @@ tags:
   - 安装
 
 ---
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/windowslivewriterubuntu7.10kde4.0-1437bkdelogo-thumb.png" alt="kdelogo" align="right" border="0" height="100" width="100" />][1] 备受瞩目的KDE 4的第一个稳定版KDE 4.0.0前几天终于<a href="http://linuxtoy.org/archives/kde-400-released.html" title="KDE 4.0.0 发布" target="_blank">正式发布</a>.&#8221;KDE 4 不仅带来了一系列新的技术，包括 Solid、Phonon、Decibel 等，而且具有全新的桌面外观，如桌面外壳 Plasma、外观界面 Oxygen。同时，KDE 4 也引入了一些新的应用程序，像文件管理器 Dolphin、文档查看器 Okular、桌面地球仪 Marble、图片查看器 Gwenview，等等。另外，一些 KDE 程序在 KDE 4 中得到了显著地增强，如窗口管理器 KWin 获得了复合特性、对 Konsole 控制台进行了整修等。而更多的 KDE 程序或已移植到 KDE 4 平台 (如 Amarok 2、Ktorrent)，或正在向 KDE 4 平台移植。&#8221;
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/windowslivewriterubuntu7.10kde4.0-1437bkdelogo-thumb.png" alt="kdelogo" align="right" border="0" height="100" width="100" />][1] 备受瞩目的KDE 4的第一个稳定版KDE 4.0.0前几天终于<a href="http://linuxtoy.org/archives/kde-400-released.html" title="KDE 4.0.0 发布" target="_blank">正式发布</a>.&#8221;KDE 4 不仅带来了一系列新的技术，包括 Solid、Phonon、Decibel 等，而且具有全新的桌面外观，如桌面外壳 Plasma、外观界面 Oxygen。同时，KDE 4 也引入了一些新的应用程序，像文件管理器 Dolphin、文档查看器 Okular、桌面地球仪 Marble、图片查看器 Gwenview，等等。另外，一些 KDE 程序在 KDE 4 中得到了显著地增强，如窗口管理器 KWin 获得了复合特性、对 Konsole 控制台进行了整修等。而更多的 KDE 程序或已移植到 KDE 4 平台 (如 Amarok 2、Ktorrent)，或正在向 KDE 4 平台移植。&#8221;
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/windowslivewriterubuntu7.10kde4.0-1437bkde-4-0-thumb.png" alt="kde-4_0" border="0" height="220" width="400" />][2]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/windowslivewriterubuntu7.10kde4.0-1437bkde-4-0-thumb.png" alt="kde-4_0" border="0" height="220" width="400" />][2]
 
 现在网上已经有预装有KDE 4.0.0的Linux发行版下载,不过对于<a href="https://www.digglife.net/articles/category/about_ubuntu" title="Ubuntu技巧" target="_blank">Ubuntu</a>用户来说,更加实际的问题是如何直接在现有的Ubuntu下体验全新的KDE 4.0.下面提供安装方法,其实和之前安装KDE的方法没有什么区别,只需要添加一个软件源即可.
 

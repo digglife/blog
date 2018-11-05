@@ -30,7 +30,7 @@ tags:
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/blyk.png" target="_blank"><img height="275" alt="blyk" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/blyk-thumb.png" width="355" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/blyk.png" target="_blank"><img height="275" alt="blyk" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/blyk-thumb.png" width="355" border="0" /></a> 
 
 希望获得Blyk这项服务的用户只需要在网上填写自己的生日,兴趣等信息,Blyk就会将包含有电话号码等个人信息的SIM卡邮寄到家.将这个SIM卡插入手机后,每天回答来自广告主的**6条**广告或者调查问卷就可以免费通话和发短信.调查问卷的内容都非常简单.当然,超过限定的时间和数额之后,只要支付超出的资费同样可以继续使用.如果市场反应良好,Blyk将会将这项服务扩展到整个欧洲.
 

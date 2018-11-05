@@ -35,7 +35,7 @@ tags:
   - 苹果
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/first-guy0-iphone.jpg" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/first-guy0-iphone-thumb.jpg" border="0" alt="first-guy0-iphone" width="434" height="324" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/first-guy0-iphone.jpg" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/first-guy0-iphone-thumb.jpg" border="0" alt="first-guy0-iphone" width="434" height="324" /></a>
 
 苹果有一大批忠实的Fanboy,对苹果的品牌和产品有一种近乎宗教狂热的盲目信任.在很多苹果用户的眼里,同类型的其他产品全部应该从地球上抹去,只有iPod才是MP3,只有Mac才是电脑,也只有Mac OS才能称为人类使用的操作系统.如果仅仅把原因归结为其产品的优秀是不可能的,这同时也是苹果经营多年的品牌战略所达成的必然结果.
 
@@ -45,7 +45,7 @@ tags:
 
 苹果曾经一度因为常规零售商对自家商品知识的匮乏而头痛不已,他们无法将苹果产品的魅力所在很清楚地向客户传达.为了解决这个问题,苹果不惜花大代价创建了专卖苹果产品的Apple Store.除了这个目的之外,直销商店还能够唤起顾客对品牌的忠诚心.在苹果刻意创造的氛围里,Mac和PC用户都可以在这里尽情享受和发现苹果所提供的技术.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/apple-store.jpg" target="_blank"><img id="id" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/apple-store-thumb.jpg" border="0" alt="apple-store" width="434" height="324" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/apple-store.jpg" target="_blank"><img id="id" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/apple-store-thumb.jpg" border="0" alt="apple-store" width="434" height="324" /></a>
 
 **2.成套的解决方案**
 
@@ -55,7 +55,7 @@ tags:
 
 苹果多年刻意的宣传给旗下的所有产品都制造了一种时尚,年轻化,更新换代快,超级智能的印象.就拿I&#8217;m Mac系列广告来说,代表Mac的都是清爽而自信的年轻人,而代表PC的则是笨拙而局促的中年人.这一系列广告被很多人津津乐道,经常拿出来笑话PC用户.(话说其实我是觉得Mac很酷,但是我觉得这个系列的广告还是太夸张了&#8230;)
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/im-mac.png" target="_blank"><img id="id" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/im-mac-thumb.png" border="0" alt="im-mac" width="383" height="324" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/im-mac.png" target="_blank"><img id="id" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/im-mac-thumb.png" border="0" alt="im-mac" width="383" height="324" /></a>
 
 **4.多样化的产品线**
 
@@ -89,7 +89,7 @@ tags:
 
 尽管苹果的产品在结构和设计上有着绝佳的一致性,但是这个公司每次都能通过一些小创意给用户带来完全不同的产品体验.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/apple-innovation.png" target="_blank"><img id="id" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/apple-innovation-thumb.png" border="0" alt="apple-innovation" width="450" height="234" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/apple-innovation.png" target="_blank"><img id="id" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/apple-innovation-thumb.png" border="0" alt="apple-innovation" width="450" height="234" /></a>
 
 **12.迷人的魅力**
 

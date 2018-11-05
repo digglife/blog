@@ -29,11 +29,11 @@ tags:
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/firefox-3-add-ons-thumb.png" style="border: 0px none " alt="firefox-3-add-ons" border="0" height="240" width="450" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/firefox-3-add-ons-thumb.png" style="border: 0px none " alt="firefox-3-add-ons" border="0" height="240" width="450" />][1]
 
 现在处于试验阶段的扩展(也就是在Sandbox里的扩展)也直接整合到了搜索结果里面,以红色的Experimental的记号标出,和原版一样的是,你需要登陆才能下载这一类扩展.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/search-thumb.png" style="border: 0px none " alt="search" border="0" height="231" width="450" />][2]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/search-thumb.png" style="border: 0px none " alt="search" border="0" height="231" width="450" />][2]
 
 遗憾的是,搜索结果还是无法像分类浏览那样根据日期,下载数量,得分高低等参数来排序,希望能在正式发布的时候推出.
 

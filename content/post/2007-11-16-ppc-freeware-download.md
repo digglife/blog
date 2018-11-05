@@ -48,7 +48,7 @@ tags:
 ---
 <a title="PPC Freeware" href="http://www.freewarepocketpc.net/" target="_blank">PPC Freeware</a>是一个专注Windows Mobile软件下载的网站,每天都会更新很多有用的免费软件,囊括了Windows Mobile软件的所有类别,目前已经有6300多个软件可供下载,喜欢尝试各种新鲜软件的朋友可以跟进一下这个网站,一定会有收获的.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ppc-freeware.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/ppc-freeware-thumb.png" border="0" alt="ppc-freeware" width="450" height="56" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ppc-freeware.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ppc-freeware-thumb.png" border="0" alt="ppc-freeware" width="450" height="56" /></a>
 
 现在的Windows Mobile手机价格已经趋于合理,喜欢玩机的朋友们大可在买手机的时候考虑一下入手一部Windows Mobile系统的手机.相对开放的Windows Mobile操作系统已经非常成熟,旗下软件众多,可自定义性也非常强.尽管iPhone有着性感的界面和人性化的操作系统,但是价格高昂,平台下的软件还是比较匮乏,何况在中国这个神奇的国度,iPhone的威力也无法充分施展.
 
@@ -58,7 +58,7 @@ tags:
 
 PPC Freeware有一个让人不爽的地方就是Google Adsense广告和内容&#8221;融合&#8221;得太好,以至于刚刚去的时候你有可能会找不到下载地址,注意一下橘红色的Download即可.不过鉴于该网站为我们提供了如此多的好软件,点击广告表示支持也不过分.
   
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ppc-freeware-download.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/ppc-freeware-download-thumb.png" border="0" alt="ppc-freeware-download" width="340" height="105" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ppc-freeware-download.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ppc-freeware-download-thumb.png" border="0" alt="ppc-freeware-download" width="340" height="105" /></a>
 
 **相关链接:**
 

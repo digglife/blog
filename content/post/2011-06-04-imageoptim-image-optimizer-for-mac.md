@@ -27,11 +27,11 @@ tags:
 
 [OptiPNG][3] 的主页介绍了一款有图形界面的 Mac 软件 [ImageOptim][4]，内置有包括上面提到的4种在内的6种压缩算法，用户可以根据自己的需要选择。操作起来也非常简单，拖拽需要压缩的图片到 ImageOptim窗口即开始压缩，甚至不需要按其他按钮。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2011/06/imageoptim.png" alt="ImageOptim的图形界面" width="600" height="284" />
+<img src="https://www.digglife.net/wp-content/uploads/2011/06/imageoptim.png" alt="ImageOptim的图形界面" width="600" height="284" />
 
 ImageOptim默认会用压缩后的图片覆盖原图片，如果希望保留备份，可以在“偏好设置”里更改。此外，为了达到最佳压缩想过，ImageOptim 会用已经勾选的压缩工具逐个压缩对象图片，所以如果无法接收最终图片的质量，可以酌情去掉几个压缩工具。如上图就有肉眼可感的损失。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2011/06/imageoptim-preferences.png" alt="ImageOptim的偏好设置" width="600" height="364" />
+<img src="https://www.digglife.net/wp-content/uploads/2011/06/imageoptim-preferences.png" alt="ImageOptim的偏好设置" width="600" height="364" />
 
 这两天使用下来觉得压缩比还是非常高的，苹果自带的截图工具可能为了保证图片质量，生成的PNG图片普遍很大，所以有非常可观的压缩空间。在经过神器全开的ImageOptim压缩之后，Google 的 Page Speed 依然提示图片有压缩的可能，真不知道Google采用的是神马压缩算法。
 

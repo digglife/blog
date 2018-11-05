@@ -91,10 +91,10 @@ FinalBurner是一款完全免费的刻录软件.它支持数据,语音和视频�
 
 <a title="FinalBurner官方下载" href="http://www.protectedsoft.com/download_fbpro.php" target="_blank">FinalBurner官方下载</a>|<a title="直接下载" href="http://www.protectedsoft.com/download/fb_free.exe" target="_blank">直接下载</a>(8 MB)
 
- [1]: http://digglife.qiniudn.com/qiniu/2451/image/9936326ef7161372ed9b4fc6a550d253.png
- [2]: http://digglife.qiniudn.com/qiniu/2451/image/9d8d9e68a0f3b684d0c4efdbd95556da.png
- [3]: http://digglife.qiniudn.com/qiniu/2451/image/bbb647226a8e9e6dcec5c8f655f9d984.png
- [4]: http://digglife.qiniudn.com/qiniu/2451/image/1d47e2ebfbe7ec6e0481cd3ed4e5fed0.png
- [5]: http://digglife.qiniudn.com/qiniu/2451/image/37997d59fee1d87a3a644841bb9c73f1.png
- [6]: http://digglife.qiniudn.com/qiniu/2451/image/63aa538abca2073f8d9d67ee01a92d2a.png
- [7]: http://digglife.qiniudn.com/qiniu/2451/image/106eafd6f39de0beec1fab069d9b5b96.png
+ [1]: https://www.digglife.net/qiniu/2451/image/9936326ef7161372ed9b4fc6a550d253.png
+ [2]: https://www.digglife.net/qiniu/2451/image/9d8d9e68a0f3b684d0c4efdbd95556da.png
+ [3]: https://www.digglife.net/qiniu/2451/image/bbb647226a8e9e6dcec5c8f655f9d984.png
+ [4]: https://www.digglife.net/qiniu/2451/image/1d47e2ebfbe7ec6e0481cd3ed4e5fed0.png
+ [5]: https://www.digglife.net/qiniu/2451/image/37997d59fee1d87a3a644841bb9c73f1.png
+ [6]: https://www.digglife.net/qiniu/2451/image/63aa538abca2073f8d9d67ee01a92d2a.png
+ [7]: https://www.digglife.net/qiniu/2451/image/106eafd6f39de0beec1fab069d9b5b96.png

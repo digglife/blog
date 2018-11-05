@@ -34,7 +34,7 @@ tags:
 
 ### **1.前期准备工作.**
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/logo-ie%5B3%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="96" src="http://digglife.qiniudn.com/qiniu/36/image/d5524a0d670789e487ad0c32d6077823.jpg" width="100" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/logo-ie%5B3%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="96" src="https://www.digglife.net/qiniu/36/image/d5524a0d670789e487ad0c32d6077823.jpg" width="100" border="0" /></a> 
 
 网上有一个叫做[IEs4Linux][1] 的安装包提供了一个安装多个版本IE到Linux桌面的简单方法.在安装之前,你必须阅读[这个页面][2]中的协议.Es4Linux是一个开源软件,但是IE不是.如果你想在Linux平台下安装IE,你必须有一个合法的Windows许可证.否则,安装IE就是违法的.(这个在目前的中国基本不用担心).同时,你还要接受Adobe Flash [EULA][3]以便IEs4Linux安装Adobe Flash. 
 
@@ -148,17 +148,17 @@ sudo apt-get install wine cabextract
 
 关闭终端,在桌面上可以看到图片所示图标:
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/1%5B9%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="379" src="http://digglife.qiniudn.com/qiniu/36/image/24be6cfef10fca8f4ff4eadcb6f295e7.jpg" width="381" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/1%5B9%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="379" src="https://www.digglife.net/qiniu/36/image/24be6cfef10fca8f4ff4eadcb6f295e7.jpg" width="381" border="0" /></a> 
 
 &nbsp;
 
 &nbsp;分别打开6.0,5.5和5.0并在帮助菜单中选择关于,你会看到:
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/3%5B7%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="410" src="http://digglife.qiniudn.com/qiniu/36/image/3b1383f3e47036b9a89f469841e03f96.png" width="453" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/3%5B7%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="410" src="https://www.digglife.net/qiniu/36/image/3b1383f3e47036b9a89f469841e03f96.png" width="453" border="0" /></a> 
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/4%5B9%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="410" src="http://digglife.qiniudn.com/qiniu/36/image/2cd1cfd373241977a48a699fad0d45ef.png" width="453" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/4%5B9%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="410" src="https://www.digglife.net/qiniu/36/image/2cd1cfd373241977a48a699fad0d45ef.png" width="453" border="0" /></a> 
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/5%5B9%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="410" src="http://digglife.qiniudn.com/qiniu/36/image/b035e0dfd8bbd3c1b65944977d9df0e6.png" width="453" border="0" /></a>
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/UbuntuUbuntuIEFeistyFawnEdgyEftDapperDra_DBA0/5%5B9%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="410" src="https://www.digglife.net/qiniu/36/image/b035e0dfd8bbd3c1b65944977d9df0e6.png" width="453" border="0" /></a>
 
  [1]: http://www.tatanka.com.br/ies4linux/page/Main_Page
  [2]: http://www.tatanka.com.br/ies4linux/page/Legal_notices

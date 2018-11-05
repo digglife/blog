@@ -28,7 +28,7 @@ tags:
 
 ### **一.基本概况**
 
-Digg类网站的始祖相信很多人都知道,就是典型的web2.0网站digg.com,它开创了一个崭新的资讯交流平台,颠覆了传统媒体传播的模式,其民主开放的机制和全新的网站架构为吸引了来自全世界的网民在这里发布和分享各色各样的资讯.其主要特点是信息由用户提交等待评选，但不是由编辑决定是否发表在首页，而是由用户投票决定.<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b95diglogo25.png"><img border="0" align="right" width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b95diglogo-thumb5.png" height="66" style="border-width: 0px" /></a>
+Digg类网站的始祖相信很多人都知道,就是典型的web2.0网站digg.com,它开创了一个崭新的资讯交流平台,颠覆了传统媒体传播的模式,其民主开放的机制和全新的网站架构为吸引了来自全世界的网民在这里发布和分享各色各样的资讯.其主要特点是信息由用户提交等待评选，但不是由编辑决定是否发表在首页，而是由用户投票决定.<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b95diglogo25.png"><img border="0" align="right" width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b95diglogo-thumb5.png" height="66" style="border-width: 0px" /></a>
 
 <a target="_blank" href="http://www.5dig.net/">我挖网</a>采取正式这种崭新的模式建立的综合新闻网站和社会网络社区.不同的是,我挖网使用的是开源的pligg程序.我挖网综合了社会书签(Social Bookmarking),博客(Blogging),内容同步(RSS), 不分级别的编辑管理等 Web 2.0 的网站元素,让你能够充分享受到分享资讯的乐趣.
 
@@ -38,17 +38,17 @@ Digg类网站的始祖相信很多人都知道,就是典型的web2.0网站digg.c
 
 我挖网包括<a target="_blank" href="http://www.5dig.net">资讯</a>,<a target="_blank" href="http://videos.5dig.net">视频</a>,<a target="_blank" href="http://forums.5dig.net/">论坛</a>三个板块.资讯是网友提交的文字资讯,显示在首页;
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9digg64.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9digg-thumb44.png" height="112" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9digg64.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9digg-thumb44.png" height="112" /></a>
 
 视频是视频媒体,通过AJAX技术可以直接在网页内部弹出窗口中播放,十分方便;
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9video33.png"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9video-thumb13.png" height="99" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9video33.png"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9video-thumb13.png" height="99" style="border-width: 0px" /></a>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9video223.png"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9video2-thumb3.png" height="380" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9video223.png"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9video2-thumb3.png" height="380" style="border-width: 0px" /></a>
 
 论坛是我挖网为网友讨论相关话题开放的板块,个人认为这个板块没有多大的作用,建议改为意见区或者内部讨论我挖网发展的板块.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9forum23.gif"><img width="172" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9forum-thumb3.gif" height="72" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9forum23.gif"><img width="172" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9forum-thumb3.gif" height="72" /></a> 
 
 ### **三.用户功能.**
 
@@ -60,11 +60,11 @@ Digg类网站的始祖相信很多人都知道,就是典型的web2.0网站digg.c
 
 在首页点击提交新文章,输入原文链接，文章标题，简介，并选择分类或输入标签（tag）即可.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9first53.png"><img border="0" width="455" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9first-thumb33.png" height="192" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9first53.png"><img border="0" width="455" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9first-thumb33.png" height="192" style="border-width: 0px" /></a>
 
 2).通过书签栏一键提交工具提交.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b95digie21.jpg"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b95digie-thumb1.jpg" height="226" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b95digie21.jpg"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b95digie-thumb1.jpg" height="226" style="border-width: 0px" /></a>
 
 只需将<a target="_blank" href="javascript:q=(document.location.href);void(open('http://www.5dig.net/submit.php?url='+escape(q),'','resizable,location,menubar,toolbar,scrollbars,status'));">我挖网</a>加入收藏夹,加入后链接将显示在你的浏览器书签栏，然后浏览任何文章时，就可以点击你的书签栏的&#8221;我挖网&#8221;链接直接提交.
 
@@ -72,7 +72,7 @@ Digg类网站的始祖相信很多人都知道,就是典型的web2.0网站digg.c
 
 如果你有博客,可以通过<a target="_blank" href="http://www.5dig.net/tools.php#integrate">加入一段简单的HTML代码</a>,方便自己和读者提交.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9logo21.png"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9logo-thumb1.png" height="286" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9logo21.png"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9logo-thumb1.png" height="286" style="border-width: 0px" /></a>
 
 我挖网已经提供了<a target="_blank" href="http://www.5dig.net/tools.php#integrate">详细的指南</a>.效果看本文标题右边(Logo是自己乱画的一个,技术太烂,见笑了.)
 
@@ -80,17 +80,17 @@ Digg类网站的始祖相信很多人都知道,就是典型的web2.0网站digg.c
 
 <font color="#ff0080">目前升级到首页的关键数字</font>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9button21.png"><img border="0" width="80" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9button-thumb1.png" height="90" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9button21.png"><img border="0" width="80" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9button-thumb1.png" height="90" style="border-width: 0px" /></a>
 
 在首页和排队待挖文章看到你喜欢的文章,你只需点击数字图标下的&#8221;挖一下&#8221;就可以支持它了.你还可以把喜欢的文章直接通过邮件的方式发送给好友.
 
 **3.订阅功能.**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9rss21.png"><img border="0" width="255" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9rss-thumb1.png" height="111" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9rss21.png"><img border="0" width="255" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9rss-thumb1.png" height="111" style="border-width: 0px" /></a>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9vrss21.png"><img border="0" width="255" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9vrss-thumb1.png" height="118" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9vrss21.png"><img border="0" width="255" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9vrss-thumb1.png" height="118" style="border-width: 0px" /></a>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9rss22.png"><img border="0" width="200" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9rss2-thumb.png" height="24" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9rss22.png"><img border="0" width="200" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9rss2-thumb.png" height="24" style="border-width: 0px" /></a>
 
  你可以通过首页的RSS订阅按钮订阅<a target="_blank" href="http://feeds.feedburner.com/5dig">所有挖到首页的文章</a>(热门文章当然是最有价值的,推荐!).当然,为了迅速发掘好文章,你也可以订阅<a target="_blank" href="http://www.5dig.net/rss2/queued/">排队中的文章</a>或<a target="_blank" href="http://feeds.feedburner.com/5dig-all">所有文章</a>.(视频同样有这样的分类.)如果你觉得某个用户提交的文章一直很有趣,那么你还可以通过查看用户资料订阅<a target="_blank" href="http://www.5dig.net/rss2/user/摩摩诘/published">某个特定用户提交的文章</a>.
 
@@ -100,7 +100,7 @@ Digg类网站的始祖相信很多人都知道,就是典型的web2.0网站digg.c
 
 **5.个人资料页管理.**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9profiles7.png"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9profiles-thumb3.png" height="369" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9profiles7.png"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9profiles-thumb3.png" height="369" style="border-width: 0px" /></a>
 
 在这里,你可以清楚的看到你提交过的,被挖到首页的,评论过的等分类统计信息,以及个人状态的统计信息.方便个人回顾和其他用户查看.
 
@@ -138,7 +138,7 @@ Digg类网站的始祖相信很多人都知道,就是典型的web2.0网站digg.c
 > 
 > 我在5月6日给博客添加的Google分析代码,曾经在5月15日创造了访问数631,综合访问量1061的最高记录(对DiggLife目前的状况来说已经算很高了),其中74%来自我挖网.14日和15日提交的全部文章都被挖到首页.
 > 
-> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9statics2.png"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9statics-thumb.png" height="524" style="border-width: 0px" /></a>
+> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9statics2.png"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterdigg-48b9statics-thumb.png" height="524" style="border-width: 0px" /></a>
 
 ### 
 

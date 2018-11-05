@@ -20,7 +20,7 @@ tags:
 
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2016/03/break-500x316.jpg" alt="让程序绕过百度运价速浏览器安全检查" width="500" height="316" />
+<img src="https://www.digglife.net/wp-content/uploads/2016/03/break-500x316.jpg" alt="让程序绕过百度运价速浏览器安全检查" width="500" height="316" />
 
 这个安全检查的原理其实很简单。用户在访问网站的时候，服务器首先发回一个返回码为 503 的页面，核心是页面中一个隐藏的 Form 和一段 Javascript 代码，后者负责生成 form 中的某一个输入值，然后提交，服务器对提交的各项值进行校检，通过则跳转到正常网站，并生成一个 Cookie 保证后续正常访问。因为有一个关键的校检值是由 Javascript 生成的，所以能一定程度上能保证访问者是通过正常的浏览器访问的，而不是机器程序。
 

@@ -31,7 +31,7 @@ tags:
 
 折纸技术是中国的传统民间艺术,但是在现代却由日本人发扬光大,我们从一个事实就可以看出日本人的折纸在世界上的影响,那就是折纸的英文:<span style="font-family: Impact,Algerian,'Lucida Grand',fantasy;"><span style="font-family: Impact,fantasy;"><span style="font-family: 'Courier New',Courier,monospace;">origami</span>,</span></span>这个词是直接从日文おりがみ的音译过来的.
 
-<img src="http://digglife.qiniudn.com/qiniu/8/image/eb7dcdb88fa4b1f22f51958b429c309d.jpg" alt="" width="400" height="360" />
+<img src="https://www.digglife.net/qiniu/8/image/eb7dcdb88fa4b1f22f51958b429c309d.jpg" alt="" width="400" height="360" />
 
 Youtube视频:
 

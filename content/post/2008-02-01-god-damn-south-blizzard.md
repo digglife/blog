@@ -32,7 +32,7 @@ tags:
 
 这是今天的谷歌春运图截图,南方还是一片雨雪,停运的机场和车站仍然不少，抗灾形式还是非常严峻.
 
-<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2008/02/windowslivewriterb573e5374d71-13c58chunyun-map-2.png"><img border="0" width="430" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/windowslivewriterb573e5374d71-13c58chunyun-map-thumb.png" alt="chunyun-map" height="287" style="border-width: 0px" /></a>
+<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2008/02/windowslivewriterb573e5374d71-13c58chunyun-map-2.png"><img border="0" width="430" src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/windowslivewriterb573e5374d71-13c58chunyun-map-thumb.png" alt="chunyun-map" height="287" style="border-width: 0px" /></a>
 
 谷歌的这个产品还是非常不错的,无论是从技术还是从它所反应的社会责任感上.我倒是希望谷歌借此机会开发出一个**完整的长期性的产品**,目前似乎还需要网友投递信息并进行人肉审核,如果能够实现完全的自动化就好了.
 
@@ -42,4 +42,4 @@ tags:
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2008/02/cbn-xuezai.jpg "cbn-xuezai.jpg"
  [2]: http://review.feedsky.com/review/feedsky/diggliferss/~/img/151/cw.gif
- [3]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/cbn-xuezai.thumbnail.jpg
+ [3]: https://www.digglife.net/wp-content/uploads/3/379/2008/02/cbn-xuezai.thumbnail.jpg

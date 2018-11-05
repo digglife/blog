@@ -49,6 +49,6 @@ Firefox 3的最后一个Beta版本前天发布,正式版将于6月份正式公�
 
 <a title="Firefox 3 Beta 5中文语言文件下载" href="http://www.91files.com/?P4P7AQ1G1KS481J47WFL" target="_blank">中文语言文件下载</a>.
 
- [1]: http://digglife.qiniudn.com/qiniu/2487/image/37344557caac7eadf1aa50c70a1b2f55.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2487/image/9a16610c3a86208d6f9cf64ecc70e254.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2487/image/03bd59a0601e5851b1869b4b438176ce.jpg
+ [1]: https://www.digglife.net/qiniu/2487/image/37344557caac7eadf1aa50c70a1b2f55.jpg
+ [2]: https://www.digglife.net/qiniu/2487/image/9a16610c3a86208d6f9cf64ecc70e254.jpg
+ [3]: https://www.digglife.net/qiniu/2487/image/03bd59a0601e5851b1869b4b438176ce.jpg

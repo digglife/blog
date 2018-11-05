@@ -33,11 +33,11 @@ Task Killer会在系统托盘添加一个骷髅图标,单击这个图标即可�
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/task-killer.png" target="_blank"><img height="167" alt="task-killer" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/task-killer-thumb.png" width="271" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/task-killer.png" target="_blank"><img height="167" alt="task-killer" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/task-killer-thumb.png" width="271" border="0" /></a> 
 
 在设定中你可以进行各种设定,包括外观,快捷键,例外程序等等.
 
-[<img height="330" alt="task-killer-settings" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/task-killer-settings-thumb.png" width="450" border="0" />][1] 
+[<img height="330" alt="task-killer-settings" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/task-killer-settings-thumb.png" width="450" border="0" />][1] 
 
 总体来说这个小软件还是不错的,但是内存占用稍微有点大,在我的电脑上有3MB左右.
 

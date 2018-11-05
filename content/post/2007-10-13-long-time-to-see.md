@@ -56,7 +56,7 @@ tags:
   - 摩摩诘
 
 ---
-[<img height="600" alt="WantedPoster2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/wantedposter2-thumb.jpg" width="450" />][1] 
+[<img height="600" alt="WantedPoster2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/wantedposter2-thumb.jpg" width="450" />][1] 
 
 3天没有怎么上网,因为安静的生活出了点波澜.结果发现这3天的事情还真不少.
 

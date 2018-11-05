@@ -50,7 +50,7 @@ tags:
 
  [1]: http://www.websiteoptimization.com/services/analyze/index.html
  [2]: http://www.webslug.info/ "WebSlug"
- [3]: http://digglife.qiniudn.com/wp-content/uploads/archive/laoding-compare.jpg
+ [3]: https://www.digglife.net/wp-content/uploads/archive/laoding-compare.jpg
  [4]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5221292928681487586
  [5]: http://www.webwait.com/
  [6]: http://internetsupervision.com/scripts/urlcheck/

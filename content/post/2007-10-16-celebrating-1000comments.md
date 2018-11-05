@@ -87,13 +87,13 @@ tags:
   - 评论
 
 ---
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/comments-thumb.png" alt="comments" width="376" height="77" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/comments-thumb.png" alt="comments" width="376" height="77" />][1]
 
 多谢各位朋友的捧场,DiggLife于昨天达成1000条评论,<a href="http://dang.yo2.cn " target="_blank">Dang</a>同学成为第1000条评论的制造者,评论内容为:&#8221;都让你们说了。。。WPS确实很不错。&#8221;很可惜没有捕捉到这一&#8221;历史性&#8221;的时刻,遗憾啊&#8230;
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/dang-comment-thumb.png" alt="dang-comment" width="320" height="85" />][2]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/dang-comment-thumb.png" alt="dang-comment" width="320" height="85" />][2]
 
 下面是评论数最多的前20位,表示特别感谢(不包括偶自己&#8230;^_^)&#8230;啪啪~~~
 

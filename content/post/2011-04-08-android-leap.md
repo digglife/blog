@@ -163,12 +163,12 @@ Android将所有连接过的WiFi热点信息都保存在/data/misc/wifi/wpa_supp
   1. [Full WiFi][4]
 支持LEAP WiFi, PEAP, TKIP, CCMP等等，设定选项也很全面。
 
-<img title="full-wifi" src="http://digglife.qiniudn.com/wp-content/uploads/2011/04/full-wifi.png" alt="支持配置 LEAP 无线网络的 Android 应用 Full WiFi" width="320" height="480" />
+<img title="full-wifi" src="https://www.digglife.net/wp-content/uploads/2011/04/full-wifi.png" alt="支持配置 LEAP 无线网络的 Android 应用 Full WiFi" width="320" height="480" />
 
   2. [LEAP WiFi Free][5]
 只针对LEAP WiFi的Android App，设定简单，输入SSID、用户名和密码，保存之后就可以在系统的WiFi设置里连接了。
 
-<img title="leap-wifi-free" src="http://digglife.qiniudn.com/wp-content/uploads/2011/04/leap-wifi-free.png" alt="支持 LEAP 无线网络的 Android 应用 LEAP WiFi Free" width="320" height="480" /></ol> 
+<img title="leap-wifi-free" src="https://www.digglife.net/wp-content/uploads/2011/04/leap-wifi-free.png" alt="支持 LEAP 无线网络的 Android 应用 LEAP WiFi Free" width="320" height="480" /></ol> 
 
 如果你手机已经获得Root权限，我还是建议使用第一种方法，不安装APP就能解决，何乐而不为？
 

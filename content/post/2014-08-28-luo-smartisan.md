@@ -23,11 +23,11 @@ tags:
 
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/08/smartisan-500x269.png" alt="锤子手机所谓的世界第二好用" width="500" height="269" class="alignnone size-medium wp-image-3873" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/08/smartisan-500x269.png" alt="锤子手机所谓的世界第二好用" width="500" height="269" class="alignnone size-medium wp-image-3873" />
 
 可是其实这是一个两败俱伤的结局。就锤子手机这个话题来说，罗永浩几乎把自己之前标榜的格调抹煞得干干净净。一个号称“**全世界第二好用的手机**”，一个号称“**一切都是顶配**”的手机，为什么在屏幕、相机等指标上都要将三星和苹果排除在外？而为什么说到屏幕易碎问题的时候，又把苹果拿来当挡箭牌？前半段很多关键的事实争论，因为罗永浩打七伤拳，排除了苹果和三星，方向扭曲很大。反过来说，如果基于锤子手机主页的各种称号，王自如指出的不好是理所应当的，这个比较基准太重要了。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/08/smartisan-spec.png" alt="锤子号称一切都是顶配" width="574" height="308" class="alignnone size-full wp-image-3874" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/08/smartisan-spec.png" alt="锤子号称一切都是顶配" width="574" height="308" class="alignnone size-full wp-image-3874" />
 
 看完这个视频，对锤子手机的感受就是，这是一个名不副实的手机。对 Zealer 的感受是，这也是一家名不副实的评测机构。
 

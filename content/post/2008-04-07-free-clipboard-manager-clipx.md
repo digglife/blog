@@ -42,6 +42,6 @@ tags:
 
 ClipX的最新版本是<a title="1.0.3.9 Beta 3" href="http://www.bluemars.org/clipx/clipx-1.0.3.9c-setup.exe" target="_blank">1.0.3.9 Beta 3</a>(目前只有英文版),稳定版为1.0.3.8,大家可以下载<a title="ClipX1.0.3.8的汉化绿色版" href="http://www.xdowns.com/soft/6/164/2006/Soft_23101.html" target="_blank">ClipX1.0.3.8的汉化绿色版</a>.
 
- [1]: http://digglife.qiniudn.com/qiniu/2488/image/cb6eb6d893325d5773af92ab22eb1d95.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2488/image/5a9477d283a5fd7871f4745c45c9589b.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2488/image/7948212dfa1e0c7432fa66842b1e5fbe.jpg
+ [1]: https://www.digglife.net/qiniu/2488/image/cb6eb6d893325d5773af92ab22eb1d95.jpg
+ [2]: https://www.digglife.net/qiniu/2488/image/5a9477d283a5fd7871f4745c45c9589b.jpg
+ [3]: https://www.digglife.net/qiniu/2488/image/7948212dfa1e0c7432fa66842b1e5fbe.jpg

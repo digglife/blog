@@ -50,7 +50,7 @@ tags:
 
 ![][1]
 
-<a title="firefox 3 rc1之书签管理器" href="http://www.bababian.com/photozoom.sl?pictureid=81946391A7DAB5E3C8716900314A46DBDT&size=5&viewID=B1E9FC10C6126F1235669209174F8D53UR" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2536/image/9174e4c67730596ebac0f8ac02653291.jpg" alt="" /></a>
+<a title="firefox 3 rc1之书签管理器" href="http://www.bababian.com/photozoom.sl?pictureid=81946391A7DAB5E3C8716900314A46DBDT&size=5&viewID=B1E9FC10C6126F1235669209174F8D53UR" target="_blank"><img src="https://www.digglife.net/qiniu/2536/image/9174e4c67730596ebac0f8ac02653291.jpg" alt="" /></a>
 
 <a href="http://www.bababian.com/photozoom.sl?pictureid=5C36FAE755AAA19EB7E73DEB8367BE62DT&size=5&viewID=B1E9FC10C6126F1235669209174F8D53UR" target="_blank">原来的截图看这里</a>.
 
@@ -90,9 +90,9 @@ Google官方插件更新的步伐实在太慢,Firefox版Google工具栏已经很
 
 <a title="Firefox最新插件包下载" href="http://www.namipan.com/d/786c913d97530fb9113a2d291159750f12f4ebff79402d00" target="_blank">Fireofox最新插件包下载</a>(来自<a href="http://www.wangtam.com/50226711/mozilla_firefox_30_rc1_caeaeciee_portable_cie_148505.php" target="_blank">网谈</a>)
 
- [1]: http://digglife.qiniudn.com/qiniu/2536/image/e15e9a5ae63dffd6e4666383e64506cf.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2536/image/f798f3b2b2798986c5a61aa3d36496f7.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2536/image/dc1f012a01c34175a9f5c3c8b8b910ad.jpg
- [4]: http://digglife.qiniudn.com/qiniu/2536/image/0ba15bb113803f782459b2bea095e63a.jpg
- [5]: http://digglife.qiniudn.com/qiniu/2536/image/477bec14f08c9013ebce1df71d1b2105.jpg
- [6]: http://digglife.qiniudn.com/qiniu/2536/image/87c5b1574ef7ecacdba3e641c02a7223.jpg
+ [1]: https://www.digglife.net/qiniu/2536/image/e15e9a5ae63dffd6e4666383e64506cf.jpg
+ [2]: https://www.digglife.net/qiniu/2536/image/f798f3b2b2798986c5a61aa3d36496f7.jpg
+ [3]: https://www.digglife.net/qiniu/2536/image/dc1f012a01c34175a9f5c3c8b8b910ad.jpg
+ [4]: https://www.digglife.net/qiniu/2536/image/0ba15bb113803f782459b2bea095e63a.jpg
+ [5]: https://www.digglife.net/qiniu/2536/image/477bec14f08c9013ebce1df71d1b2105.jpg
+ [6]: https://www.digglife.net/qiniu/2536/image/87c5b1574ef7ecacdba3e641c02a7223.jpg

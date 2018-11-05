@@ -19,7 +19,7 @@ tags:
 
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2016/05/squid-git.jpg" alt="配置Squid代理Git协议" width="500" height="118" />
+<img src="https://www.digglife.net/wp-content/uploads/2016/05/squid-git.jpg" alt="配置Squid代理Git协议" width="500" height="118" />
 
 ### 1. Squid 添加 Git 端口
 

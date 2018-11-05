@@ -29,7 +29,7 @@ ToYcon是我见过最好的的图片转ico图标工具。免费、短小、绿�
 <!--more-->
 
 <div id="attachment_2720" style="width: 510px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2720" title="toycon-免费绿色的图片转图标工具" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/toycon.gif" alt="拖拽转换非常方便" width="500" height="244" />
+  <img class="size-full wp-image-2720" title="toycon-免费绿色的图片转图标工具" src="https://www.digglife.net/wp-content/uploads/2008/11/toycon.gif" alt="拖拽转换非常方便" width="500" height="244" />
   
   <p class="wp-caption-text">
     ToYcon的拖拽转换非常方便
@@ -42,7 +42,7 @@ ToYcon的界面非常简单，只有一个Mac风的悬浮图标，只需将图�
   * 图标样式：包括位色和大小，ToYcon还提供了几种常用快速选项，即Vista、XP和Dock三种用途的样式
 
 <div id="attachment_2722" style="width: 346px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2722" title="toycon-自定义图标样式" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/toycon-format.gif" alt="ToYcon支持各种图标样式，我们能够充分自定义" width="336" height="284" />
+  <img class="size-full wp-image-2722" title="toycon-自定义图标样式" src="https://www.digglife.net/wp-content/uploads/2008/11/toycon-format.gif" alt="ToYcon支持各种图标样式，我们能够充分自定义" width="336" height="284" />
   
   <p class="wp-caption-text">
     ToYcon支持各种图标样式，我们能够充分自定义，上图为Dock模式

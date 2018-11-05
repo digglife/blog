@@ -26,12 +26,12 @@ tags:
 
 <!--more-->
 
-<img class="alignnone size-full wp-image-3723" alt="AozoraEPUB3主界面" src="http://digglife.qiniudn.com/wp-content/uploads/2013/12/aozoraepub3.png" width="671" height="477" />
+<img class="alignnone size-full wp-image-3723" alt="AozoraEPUB3主界面" src="https://www.digglife.net/wp-content/uploads/2013/12/aozoraepub3.png" width="671" height="477" />
 
 基本上如果没有什么特殊要求的话，预设值直接输出的EPUB就已经非常完美了。封面，目录，<a title="ルビ" href="http://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%93" target="_blank">Ruby</a>，<a href="http://ja.wikipedia.org/wiki/%E5%82%8D%E7%82%B9" target="_blank">傍点</a>都能非常精准地识别。默认输出为縦文字，可自定义为横版。下面是预设值导出的EPUB在iPad上的效果：
 
 <p style="text-align: center;">
-  <a href="https://www.digglife.net/wp-content/uploads/2013/12/tazaki-epub-ipad.jpg"><img class="size-medium wp-image-3724 aligncenter" title="tazaki-epub-ipad" alt="AozoraEPUB3的导出效果" src="http://digglife.qiniudn.com/wp-content/uploads/2013/12/tazaki-epub-ipad-375x500.jpg" width="375" height="500" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2013/12/tazaki-epub-ipad.jpg"><img class="size-medium wp-image-3724 aligncenter" title="tazaki-epub-ipad" alt="AozoraEPUB3的导出效果" src="https://www.digglife.net/wp-content/uploads/2013/12/tazaki-epub-ipad-375x500.jpg" width="375" height="500" /></a>
 </p>
 
 青空文库里有海量版权过期的日文小说，网上流传的很多有版权问题的纯文本电子书也大部分都以青空文库的编排方式编辑，所以几乎都可以用这个小软件来打包成EPUB。闲暇时看看还是挺不错的。

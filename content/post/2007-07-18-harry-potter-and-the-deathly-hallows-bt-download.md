@@ -34,19 +34,19 @@ tags:
   - 罗琳
 
 ---
-<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/hp7-cover.jpg"><img border="0" align="right" width="158" src="http://digglife.qiniudn.com/qiniu/1266/image/72709b20b062d7b732482fabf2aa075b.jpg" alt="hp7-cover" height="240" style="border-width: 0px" /></a>人民群众的力量是伟大的.尽管出版商如同护送女王一样重兵把守,尽管离官方发售还只有短短的3天,但是粉丝们迫不及待的心情还是让这部全球瞩目的小说提前&#8221;出版&#8221;.**哈利波特7:《哈利波特与死圣》**是<a target="_blank" href="http://harrypotter.warnerbros.com/">哈利波特</a>系列的最后一集,所以和前几部相比,这一部的吸引力可能更加大,全球发布的时间定在7月21日.出版商为了保护该书不被提前泄漏,调用了荷枪实弹的保安,并动用了卫星跟踪系统保证在送至零售商途中不被抢劫,整个保安工作花费了近1000万英镑(英国人真会烧钱啊).
+<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/hp7-cover.jpg"><img border="0" align="right" width="158" src="https://www.digglife.net/qiniu/1266/image/72709b20b062d7b732482fabf2aa075b.jpg" alt="hp7-cover" height="240" style="border-width: 0px" /></a>人民群众的力量是伟大的.尽管出版商如同护送女王一样重兵把守,尽管离官方发售还只有短短的3天,但是粉丝们迫不及待的心情还是让这部全球瞩目的小说提前&#8221;出版&#8221;.**哈利波特7:《哈利波特与死圣》**是<a target="_blank" href="http://harrypotter.warnerbros.com/">哈利波特</a>系列的最后一集,所以和前几部相比,这一部的吸引力可能更加大,全球发布的时间定在7月21日.出版商为了保护该书不被提前泄漏,调用了荷枪实弹的保安,并动用了卫星跟踪系统保证在送至零售商途中不被抢劫,整个保安工作花费了近1000万英镑(英国人真会烧钱啊).
 
 这个版本已经在曾经妄图购买一个小岛建立盗版帝国的<a target="_blank" href="http://thepiratebay.org/">Pirate Bay</a>上出现,尽管我不知道<a target="_blank" href="http://www.zendurl.com/h/hallows/">发布者</a>(Url似乎已经失效,没有试过使用代理服务器)是如何得来的,但是可以确信,这个版本是如假包换的哈利波特7:《哈利波特与死圣》.而更加恐怖的是,已经有人把大部分图片文件上传到<a target="_blank" href="http://bayimg.com">Bayimg</a>(一个图片分享网站),所以你甚至可以在线浏览.这个版本的电子书都是原书的扫描图,为了让大家相信,下面有章节目录的截图:
 
-<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/hp-3.jpg"><img border="0" width="174" src="http://digglife.qiniudn.com/qiniu/1266/image/65b3368d848d85b91b9a009027199260.jpg" alt="hp-3" height="240" style="border-width: 0px" /></a> <a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/hp-2.jpg"><img border="0" width="174" src="http://digglife.qiniudn.com/qiniu/1266/image/c896e7c6286eab342b0b043f653cc29a.jpg" alt="hp-2" height="240" style="border-width: 0px" /></a>
+<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/hp-3.jpg"><img border="0" width="174" src="https://www.digglife.net/qiniu/1266/image/65b3368d848d85b91b9a009027199260.jpg" alt="hp-3" height="240" style="border-width: 0px" /></a> <a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/hp-2.jpg"><img border="0" width="174" src="http://digglife.qiniudn.com/qiniu/1266/image/c896e7c6286eab342b0b043f653cc29a.jpg" alt="hp-2" height="240" style="border-width: 0px" /></a>
 
 下面是来自Bayimg的图片文件(压缩後):首页和尾页
 
 <!--more-->
 
-<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/firstpage.jpg"><img width="450" src="http://digglife.qiniudn.com/qiniu/1266/image/5389e330cb8ac2bc859889e9b1bd7db7.jpg" alt="firstpage" height="298" /></a>
+<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/firstpage.jpg"><img width="450" src="https://www.digglife.net/qiniu/1266/image/5389e330cb8ac2bc859889e9b1bd7db7.jpg" alt="firstpage" height="298" /></a>
 
-<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/lastpage.jpg"><img width="450" src="http://digglife.qiniudn.com/qiniu/1266/image/593ce4bd8d5d21f4bb5e58c994c2834f.jpg" alt="lastpage" height="290" /></a>
+<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/lastpage.jpg"><img width="450" src="https://www.digglife.net/qiniu/1266/image/593ce4bd8d5d21f4bb5e58c994c2834f.jpg" alt="lastpage" height="290" /></a>
 
 **BT下载:**
 

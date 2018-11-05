@@ -18,7 +18,7 @@ tags:
 
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2016/05/bank-cards.jpg" alt="各种银行卡" width="468" height="286" class="alignnone size-full wp-image-4062" />
+<img src="https://www.digglife.net/wp-content/uploads/2016/05/bank-cards.jpg" alt="各种银行卡" width="468" height="286" class="alignnone size-full wp-image-4062" />
 
 把以下URL中的银行卡卡号替换成需要查询的真实卡号即可。
 

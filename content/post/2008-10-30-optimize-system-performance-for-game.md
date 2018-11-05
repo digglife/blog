@@ -28,7 +28,7 @@ tags:
 
 详细的优化项目在<a title="优化游戏时的系统性能:GameXP" href="http://www.theorica.net/gamexp.htm" target="_blank">GameXP</a>的帮助文档中有具体说明，包括优化磁盘缓存，给前台程序更高的资源等级，优化CPU二级缓存的使用，更改DirectX和Direct3D的设置等等，同时对显卡和网络设置，系统服务都有不同程度的优化。
 
-<img class="aligncenter" title="优化电脑的游戏性能 GameXP" src="http://digglife.qiniudn.com/wp-content/uploads/archive/gamexp.gif" alt="" width="400" height="255" />
+<img class="aligncenter" title="优化电脑的游戏性能 GameXP" src="https://www.digglife.net/wp-content/uploads/archive/gamexp.gif" alt="" width="400" height="255" />
 
 GameXP使用起来非常简单，无需安装，整个程序只有一个exe文件，只需要点击Wrap Speed然后重启即可。在这之前，GameXP会提示保存现有的设置以便随时恢复，建议大家在使用的时候注意，防止天灾人祸。
 

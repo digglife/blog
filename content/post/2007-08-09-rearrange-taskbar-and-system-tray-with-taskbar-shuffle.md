@@ -38,13 +38,13 @@ tags:
   - 软件
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/taskbar-shuffle-launch.png"><img align="right" width="150" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/taskbar-shuffle-launch-thumb.png" alt="Taskbar_shuffle_launch" height="80" /></a>有时候我们为了操作方便,需要对任务栏窗口和系统托盘图标进行位置上的调整,但是Windows并没有提供这个功能.使用<a target="_blank" href="http://www.freewebs.com/nerdcave/taskbarshuffle.htm">Taskbar Shuffle</a>能够让你通过简单的拖拽来重排任务栏窗口和系统托盘图标,正如你在浏览器中为了便于查看对标签栏进行的随意拖拽一样.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/taskbar-shuffle-launch.png"><img align="right" width="150" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/taskbar-shuffle-launch-thumb.png" alt="Taskbar_shuffle_launch" height="80" /></a>有时候我们为了操作方便,需要对任务栏窗口和系统托盘图标进行位置上的调整,但是Windows并没有提供这个功能.使用<a target="_blank" href="http://www.freewebs.com/nerdcave/taskbarshuffle.htm">Taskbar Shuffle</a>能够让你通过简单的拖拽来重排任务栏窗口和系统托盘图标,正如你在浏览器中为了便于查看对标签栏进行的随意拖拽一样.
 
 其具体效果如下:
 
 <!--more-->
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/taskbar-shuffle-rearrange.png"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/taskbar-shuffle-rearrange-thumb.png" alt="Taskbar_shuffle_Rearrange" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/taskbar-shuffle-rearrange.png"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/taskbar-shuffle-rearrange-thumb.png" alt="Taskbar_shuffle_Rearrange" /></a>
 
 Taskbar Shuffle的操作非常简单:
 
@@ -52,6 +52,6 @@ Taskbar Shuffle的操作非常简单:
 
 对于系统托盘图标,你需要按下CTRL键并同时进行与上面相同的操作.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/taskbar-shuffle-icon.png"><img width="160" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/taskbar-shuffle-icon-thumb.png" alt="Taskbar_shuffle_icon" height="55" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/taskbar-shuffle-icon.png"><img width="160" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/taskbar-shuffle-icon-thumb.png" alt="Taskbar_shuffle_icon" height="55" /></a> 
 
 <a target="_blank" href="http://webzoom.freewebs.com/nerdcave/downloads/taskbar_shuffle_2.2.zip">Taskbar Shuffle 2.2下载</a>(.zip,504KB 免安装)

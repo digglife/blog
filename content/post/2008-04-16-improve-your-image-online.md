@@ -32,4 +32,4 @@ tags:
 
 PS:昨天Yupoo的新帐号终于通过审核,一共申请了4遍,Yupoo的员工一定是被我感动了&#8230;
 
- [1]: http://digglife.qiniudn.com/qiniu/2494/image/be685dc11df84b79b9537e0dd8910086.jpg
+ [1]: https://www.digglife.net/qiniu/2494/image/be685dc11df84b79b9537e0dd8910086.jpg

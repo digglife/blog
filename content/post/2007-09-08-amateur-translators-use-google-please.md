@@ -65,7 +65,7 @@ tags:
   - 评论
 
 ---
-[<img id="id" height="159" alt="please-google-it" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/please-google-it-thumb.png" width="450" />][1] 
+[<img id="id" height="159" alt="please-google-it" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/please-google-it-thumb.png" width="450" />][1] 
 
 今天看了一个根据真人真事改编的间谍电影《双面特工》,本来电影还不错,不过里面的中文翻译却极其糟糕,严重影响了对电影情节的理解和感受.下面首先举出和电脑有关的.
 
@@ -75,13 +75,13 @@ tags:
 
 我估计来自悠悠鸟的这位翻译还是考虑了一会儿的,但是弄巧成拙啊,直译成红帽子不就好了&#8230;
 
-[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误翻译之Red Hat" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/ret-hat-thumb.jpg" width="454" border="0" />][2] 
+[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误翻译之Red Hat" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/ret-hat-thumb.jpg" width="454" border="0" />][2] 
 
 **2.Bandwidth＝宽度.**
 
 这个就有点匪夷所思了.Robert Hanssen一直在说明FBI内部服务器的情况,所以至少应该知道这里的Bandwidth和电脑有关啊.何况你在任何一个在线词典查找Bandwidth都不会给"宽度"这个解释的.
 
-[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误的翻译之Bandwidth" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/bandwidth-thumb.jpg" width="454" border="0" />][3] 
+[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误的翻译之Bandwidth" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/bandwidth-thumb.jpg" width="454" border="0" />][3] 
 
 &#xA0;
 
@@ -95,15 +95,15 @@ tags:
 
 联邦探员把俄罗斯间谍Robert Hanssen(身份为FBI高层探员)的汽车拆开检查,结果得知他马上就要回来,所以图片上的头儿对手下说:Sew It Up.很显然,意思是让他们把汽车装还原,只不过用了一个非常形象的词语而已."控制它"????Bull*&$#~!
 
-[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误翻译之SEW" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/sew-thumb.jpg" width="454" border="0" />][4] 
+[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误翻译之SEW" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/sew-thumb.jpg" width="454" border="0" />][4] 
 
 下面这句翻译让我彻底愤怒了.丫的简直就是敷衍了事,完全不顾上下文来直译.镜子里面的这位老兄为了拖延Robert Hanssen的时间,让上图中的那位好继续办事,所以找他去靶场比枪法,打完一梭子弹之后说了这句话"Double Or Nothing".很清楚是"再来一盘么?"的意思啊.
 
-[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误翻译之double" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/double-thumb.jpg" width="454" border="0" />][5] 
+[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误翻译之double" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/double-thumb.jpg" width="454" border="0" />][5] 
 
 下面这么长一句话,直接就翻译成"好的"就完了,实在让人佩服不已.SSG不知道可以Google一下啊,SSG=Special Surveillance Group,特别监督小组,隶属FBI.知道这个下面一句话不就很明朗了么?
 
-[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误翻译之SSG" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/ssg-thumb.jpg" width="454" border="0" />][6] 
+[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="252" alt="错误翻译之SSG" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/ssg-thumb.jpg" width="454" border="0" />][6] 
 
 既然知道这部电影是真人真事改编的,作为一个知名BT论坛的翻译,花30分钟去了解一下背景知识不是更好么?话说Robert Hanssen此人是美国史上大名鼎鼎的间谍,给美国造成的损失仅仅用钱算就数亿美元,可以说是FBI的一大耻辱,到现在<a title="Robert Hanssen记录" href="http://www.fbi.gov/libref/historic/famcases/hanssen/hanssen.htm" target="_blank">FBI官方网站上还有记录</a>,还附有和电影内容几乎完全吻合的照片.而Eric O&#8217;Neill的资料在维基百科也能够查到.如果查看了这些资料,相信能够翻译的得心应手,而这个翻译我怀疑甚至电影情节都没有弄清除就开始猛敲键盘.
 

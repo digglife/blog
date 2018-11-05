@@ -75,7 +75,7 @@ tags:
   - 软件
 
 ---
-<img height="80" alt="operalogo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/operalogo.gif" width="136" align="right" />&nbsp;Opera今天<a href="http://www.opera.com/products/desktop/next/index.dml" target="_blank">释出了具有里程碑意义的9.5 Alpha版本</a>,这个Alpha版本在9.23版本的基础上新增加了许多新特性,在性能上也有很大的提升.一直以来我使用Opera的平均时间少于IE和<a href="https://www.digglife.net/articles/category/firefox/" target="_blank">Firefox</a>,不过我从内心是非常喜欢这个浏览器的,和另外两个浏览器相比,它给我最大的感受是轻巧,敏捷,人性化.下面我说说使用感受.
+<img height="80" alt="operalogo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/operalogo.gif" width="136" align="right" />&nbsp;Opera今天<a href="http://www.opera.com/products/desktop/next/index.dml" target="_blank">释出了具有里程碑意义的9.5 Alpha版本</a>,这个Alpha版本在9.23版本的基础上新增加了许多新特性,在性能上也有很大的提升.一直以来我使用Opera的平均时间少于IE和<a href="https://www.digglife.net/articles/category/firefox/" target="_blank">Firefox</a>,不过我从内心是非常喜欢这个浏览器的,和另外两个浏览器相比,它给我最大的感受是轻巧,敏捷,人性化.下面我说说使用感受.
 
 &nbsp;
 
@@ -101,7 +101,7 @@ tags:
 
 不过这里还是有个9.23版本就已经出现问题,就是Google Reader里面如果有Youtube视频,当你拖动页面的时候,整个视频会漂浮起来,影响阅读.如下图(上下各一个,点击可查看大图)
 
- <img height="268" alt="Youtube-float" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/youtube-float.png" width="450" />
+ <img height="268" alt="Youtube-float" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/youtube-float.png" width="450" />
 
 ### **三.功能细节.**
 
@@ -109,9 +109,9 @@ tags:
 
 这个功能早就应该添加了,实在想不通为什么Opera到现在才想到要加入.Firefox似乎也有考虑在Firefox 3加上官方的同步功能,目前的Google Browser Sync等扩展都还是使用第三方数据存储,主要还是因为Firefox的社区化不如Opera做的好.具体位置在文件菜单下,因为是新加入功能,所以原语言文件中没有对应中文,可以在登录界面看到有两个不伦不类的中文&#8221;取消&#8221;和&#8221;密码&#8221;.
 
- <img height="234" alt="opera-sync" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/opera-sync.png" width="231" />
+ <img height="234" alt="opera-sync" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/opera-sync.png" width="231" />
 
- <img height="384" alt="my-opera-sync" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/my-opera-sync.png" width="413" />
+ <img height="384" alt="my-opera-sync" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/my-opera-sync.png" width="413" />
 
 &nbsp;
 
@@ -121,9 +121,9 @@ tags:
 
 Opera的历史搜索可以说是一个增强版的历史记录功能,原来的地址栏下拉只是单纯地显示网页地址和标题,但是现在新增了**时间记录和网页内容摘要**.如图:
 
- <img height="130" alt="opera-history-search" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/opera-history-search.png" width="450" />
+ <img height="130" alt="opera-history-search" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/opera-history-search.png" width="450" />
 
-在地址栏输入<font color="#ff0000">Opera:searchhistory</font>即可开启类似搜索引擎风格的搜索页面:(为什么9.23的语言文件里就有这个标题呢?) <img height="181" alt="opera-history-search2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/opera-history-search2.png" width="450" />
+在地址栏输入<font color="#ff0000">Opera:searchhistory</font>即可开启类似搜索引擎风格的搜索页面:(为什么9.23的语言文件里就有这个标题呢?) <img height="181" alt="opera-history-search2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/opera-history-search2.png" width="450" />
 
 &nbsp;
 
@@ -131,7 +131,7 @@ Opera的历史搜索可以说是一个增强版的历史记录功能,原来的�
 
 类似Firefox的IE Tab扩展,不过比它强大许多.它能够自动检测到电脑上所有的浏览器(如图),连自家的上一个版本都监测出来了.不解的是,既然以字母顺序排列,为什么Firefox和下面的浏览器要隔开呢?
 
- <img height="111" alt="opera-openwith" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/opera-openwith.png" width="422" />
+ <img height="111" alt="opera-openwith" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/opera-openwith.png" width="422" />
 
 &nbsp;
 
@@ -139,7 +139,7 @@ Opera的历史搜索可以说是一个增强版的历史记录功能,原来的�
 
 这个功能原本就有,不过Opera终于把他们放在了状态栏的右下角,而不只是在该死的查看菜单.
 
-<img height="85" alt="zoom-image" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/zoom-image.png" width="330" />&nbsp;
+<img height="85" alt="zoom-image" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/zoom-image.png" width="330" />&nbsp;
 
 **5.页面拖拽功能.**
 
@@ -153,7 +153,7 @@ Opera的历史搜索可以说是一个增强版的历史记录功能,原来的�
 
 Opera之前的版本是完全不支持Google文件的,如果使用Opera打开会出现以下提示:
 
- <img height="189" alt="opera-gdocs1" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/opera-gdocs1.png" width="440" />
+ <img height="189" alt="opera-gdocs1" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/opera-gdocs1.png" width="440" />
 
 你需要使用一个<a href="http://docs.google.com/?browserok=true" target="_blank">特殊的URL</a>才能正常.尽管9.5的问题依然存在,但是这是Google的错,不是Opera的.使用9.23打开上文提到的特殊链接,页面会显示两个重复的操作界面(大家可以尝试),但是在9.5下不会.都不知道Google在做些什么,无视Opera用户?
 

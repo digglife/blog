@@ -58,14 +58,14 @@ tags:
 
 来自<a title="Digimaga" href="http://digimaga.net/picture/200807/7-picture-by-coincidence-of-japan.html" target="_blank"><span class="jp">デジタルマガジン</span></a>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/7-picture-by-coincidence-of-japan01.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/archive/7-picture-by-coincidence-of-japan01.jpg
  [2]: http://picasaweb.google.com/digglifeshow/tsWuIG/photo#5222036130349802930
- [3]: http://digglife.qiniudn.com/qiniu/2573/image/6e17c751450ef22ed92325ccb4d143ab.jpg
+ [3]: https://www.digglife.net/qiniu/2573/image/6e17c751450ef22ed92325ccb4d143ab.jpg
  [4]: http://picasaweb.google.com/digglifeshow/tsWuIG/photo#5222036134532745234
- [5]: http://digglife.qiniudn.com/wp-content/uploads/archive/7-picture-by-coincidence-of-japan03.jpg
+ [5]: https://www.digglife.net/wp-content/uploads/archive/7-picture-by-coincidence-of-japan03.jpg
  [6]: http://picasaweb.google.com/digglifeshow/tsWuIG/photo#5222036132990498066
- [7]: http://digglife.qiniudn.com/wp-content/uploads/archive/7-picture-by-coincidence-of-japan04.jpg
+ [7]: https://www.digglife.net/wp-content/uploads/archive/7-picture-by-coincidence-of-japan04.jpg
  [8]: http://picasaweb.google.com/digglifeshow/tsWuIG/photo#5222036138694323938
- [9]: http://digglife.qiniudn.com/qiniu/2573/image/851b779815b34ca20fe7facb8ad65cde.jpg
+ [9]: https://www.digglife.net/qiniu/2573/image/851b779815b34ca20fe7facb8ad65cde.jpg
  [10]: http://picasaweb.google.com/digglifeshow/tsWuIG/photo#5222036138610952914
- [11]: http://digglife.qiniudn.com/wp-content/uploads/archive/7-picture-by-coincidence-of-japan07.jpg
+ [11]: https://www.digglife.net/wp-content/uploads/archive/7-picture-by-coincidence-of-japan07.jpg

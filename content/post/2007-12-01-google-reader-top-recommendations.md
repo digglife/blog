@@ -56,8 +56,8 @@ tags:
 不过貌似并不是那么好操作,拖拽的时候一不小心就会当成链接在新窗口打开了.
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/greader-top-recommedations.png "Google-reader-recommendations"
- [2]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/greader-top-recommedations.png
- [3]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/not-subscribed.thumbnail.png
+ [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/greader-top-recommedations.png
+ [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/not-subscribed.thumbnail.png
  [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/not-subscribed.png "not-subscribed"
- [5]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/greader-drag-go.png
+ [5]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/greader-drag-go.png
  [6]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/greader-drag-go.png "GReader-drag-go"

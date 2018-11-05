@@ -22,7 +22,7 @@ tags:
 
 你需要做的只是输入你想要展示的Flickr相册,用户名,或者群组的URL就可以了.当然,你还可以自定义标签,展示宽度和高度,是否预览等等选项.最后会产生一段代码,只需要将其复制到你的博客就行了.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterflickrslidrflickrblog-13b89flickr3.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterflickrslidrflickrblog-13b89flickr-thumb1.png" height="352" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterflickrslidrflickrblog-13b89flickr3.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterflickrslidrflickrblog-13b89flickr-thumb1.png" height="352" /></a>
 
 **效果如下(很少使用Flickr,只有一张不知道什么时候传上去的照片,^_^)**
 

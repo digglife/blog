@@ -26,7 +26,7 @@ tags:
   
 <!--more-->
 
-<img class="alignnone size-medium wp-image-3816" src="http://digglife.qiniudn.com/wp-content/uploads/2014/07/qmusic-m4a-500x170.png" alt="Ubuntu下的Firefox无法解码QQ音乐提供的AAC编码的m4a音频文件" width="500" height="170" />
+<img class="alignnone size-medium wp-image-3816" src="https://www.digglife.net/wp-content/uploads/2014/07/qmusic-m4a-500x170.png" alt="Ubuntu下的Firefox无法解码QQ音乐提供的AAC编码的m4a音频文件" width="500" height="170" />
 
 一条命令可以安装大多数音视频解码器：
 

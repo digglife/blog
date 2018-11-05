@@ -55,5 +55,5 @@ tags:
 
 不知道什么时候李彦宏同学能够跑来湖大逛逛呢?
 
- [1]: http://digglife.qiniudn.com/qiniu/2460/image/7ca748ac636d771d6f2fc93b75d49866.jpg
+ [1]: https://www.digglife.net/qiniu/2460/image/7ca748ac636d771d6f2fc93b75d49866.jpg
  [2]: https://www.digglife.net/wp-content/uploads/2008/03/windowslivewriter763f06efe7a5-e88ckaifu-2.jpg

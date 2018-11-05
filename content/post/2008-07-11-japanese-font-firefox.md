@@ -76,15 +76,15 @@ tags:
 
 <span style="color: #ff0000;">2009年1月2日更新字体下载链接.</span>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/jfont-ff.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/archive/jfont-ff.jpg
  [2]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5221428927879359490
- [3]: http://digglife.qiniudn.com/wp-content/uploads/archive/jfont-ie.jpg
+ [3]: https://www.digglife.net/wp-content/uploads/archive/jfont-ie.jpg
  [4]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5221428929347822002
- [5]: http://digglife.qiniudn.com/wp-content/uploads/archive/firefox-gdi%2B%2B.png
+ [5]: https://www.digglife.net/wp-content/uploads/archive/firefox-gdi%2B%2B.png
  [6]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5221714050451851490
- [7]: http://digglife.qiniudn.com/wp-content/uploads/archive/lihei.png
+ [7]: https://www.digglife.net/wp-content/uploads/archive/lihei.png
  [8]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5221704418296133026
- [9]: http://digglife.qiniudn.com/wp-content/uploads/archive/wenquanyi.png
+ [9]: https://www.digglife.net/wp-content/uploads/archive/wenquanyi.png
  [10]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5221704419846810834
- [11]: http://digglife.qiniudn.com/wp-content/uploads/archive/zhenghei.png
+ [11]: https://www.digglife.net/wp-content/uploads/archive/zhenghei.png
  [12]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5221704423913468114

@@ -51,6 +51,6 @@ tags:
 
 ![][3]
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/yamelo.thumbnail.gif
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/yamelo.thumbnail.gif
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/yamelo.gif "Yamelo"
- [3]: http://digglife.qiniudn.com/qiniu/2323/image/08080fa297a63f7eb39a6837e23bdf63.jpg
+ [3]: https://www.digglife.net/qiniu/2323/image/08080fa297a63f7eb39a6837e23bdf63.jpg

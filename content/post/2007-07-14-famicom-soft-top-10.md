@@ -35,11 +35,11 @@ tags:
   - 纪念
 
 ---
- <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/supermario.jpg"><img align="right" width="120" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/supermario-thumb.jpg" alt="supermario" height="120" /></a>明天,也就是七月十五日,是<a target="_blank" href="http://www.nintendo.com/home">任天堂公司</a>风靡全球的Family Computer(ファミリーコンピューター)发售的日子.这款在中国俗称<a target="_blank" href="http://en.wikipedia.org/wiki/Nintendo_Entertainment_System"><strong>红白机</strong></a>的游戏机于1983年开卖后,给全世界的游戏娱乐带来了前所未有的新体验.为了纪念这个革命性的游戏机,很多粉丝把这一天称作&#8221;红白机日&#8221;(ファミコンの日).日本网站<a target="_blank" href="http://www.oricon.co.jp/">Oricon</a>今天在网站上发布了一个题为&#8221;<a target="_blank" href="http://www.oricon.co.jp/news/life/46361/">留在你记忆里的红白机游戏有哪些</a>&#8220;的调查.
+ <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/supermario.jpg"><img align="right" width="120" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/supermario-thumb.jpg" alt="supermario" height="120" /></a>明天,也就是七月十五日,是<a target="_blank" href="http://www.nintendo.com/home">任天堂公司</a>风靡全球的Family Computer(ファミリーコンピューター)发售的日子.这款在中国俗称<a target="_blank" href="http://en.wikipedia.org/wiki/Nintendo_Entertainment_System"><strong>红白机</strong></a>的游戏机于1983年开卖后,给全世界的游戏娱乐带来了前所未有的新体验.为了纪念这个革命性的游戏机,很多粉丝把这一天称作&#8221;红白机日&#8221;(ファミコンの日).日本网站<a target="_blank" href="http://www.oricon.co.jp/">Oricon</a>今天在网站上发布了一个题为&#8221;<a target="_blank" href="http://www.oricon.co.jp/news/life/46361/">留在你记忆里的红白机游戏有哪些</a>&#8220;的调查.
 
 TOP 10 如下:
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/famicontop10.gif"><img width="391" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/famicontop10-thumb.gif" alt="FamiConTop10" height="387" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/famicontop10.gif"><img width="391" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/famicontop10-thumb.gif" alt="FamiConTop10" height="387" /></a>
 
 翻译过来就是以下这些耳熟能详的名号:
 
@@ -149,11 +149,11 @@ TOP 10 如下:
 
 基本上以上的这些,只要是小时候玩过一点<a target="_blank" href="http://en.wikipedia.org/wiki/Nintendo_Entertainment_System">红白机</a>的兄弟都应该知道.我最爱的有超级马里奥,勇者斗恶龙,炸弹超人和雪人敲冰块.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/family-computer.jpg"><img width="400" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/family-computer-thumb.jpg" alt="family_computer" height="336" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/family-computer.jpg"><img width="400" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/family-computer-thumb.jpg" alt="family_computer" height="336" /></a>
 
 超级马里奥毫无悬念的成为首位.事实也是如此,能够代表引起动作游戏界革命创下传奇记录的任天堂的也就是那两个水管工了,不然<a target="_blank" href="http://www.nintendo.co.jp">任天堂日本官方网页</a>上的favicon也不会是那个马里奥在8位游戏时期的角色设定图片.到今天,马里奥的相关作品依然在各个游戏平台上屡出佳作,丝毫没有衰落的迹象,这可以算是游戏史上难以复制的奇迹了吧.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/super-paper-mario.jpg"><img width="390" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/super-paper-mario-thumb.jpg" alt="super_paper_mario" height="308" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/super-paper-mario.jpg"><img width="390" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/super-paper-mario-thumb.jpg" alt="super_paper_mario" height="308" /></a>
 
 和纪念很多经典不同的是,我们不用因为怀念往日的快乐而表达今不如昔的感慨,因为2006年发布的Wii继承了红白机的光荣传统,它的革命性更加令全世界惊叹.而我们也有充分理由相信,在23年以后,同样有人像今天一样在12月2日(日本)纪念Wii的发售日.
 

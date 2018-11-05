@@ -24,7 +24,7 @@ tags:
 ---
 这个和<a target="_blank" href="https://www.digglife.net/articles/psp_text.html">英国一学校使用PSP教学</a>有异曲同工之妙.
 
-京都府的八幡市的一家中学使<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriternds.-e7ffnds5.jpg"><img border="0" align="right" width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriternds.-e7ffnds-thumb3.jpg" height="180" style="border: 0px" /></a>用安装有英语单词学习软件的任天堂DS用于英语教学试验,竟然取得了惊人的良好效果. 该学校在上课的前10分钟,让学生边玩游戏边学英语单词,五个月后,他们的平均词汇量增加了35%-40%之多.
+京都府的八幡市的一家中学使<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriternds.-e7ffnds5.jpg"><img border="0" align="right" width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriternds.-e7ffnds-thumb3.jpg" height="180" style="border: 0px" /></a>用安装有英语单词学习软件的任天堂DS用于英语教学试验,竟然取得了惊人的良好效果. 该学校在上课的前10分钟,让学生边玩游戏边学英语单词,五个月后,他们的平均词汇量增加了35%-40%之多.
 
 接受调查的学生9成以上都觉得这样学习很快乐(废话,我都不知道那1成的学生是怎么想的.NDS不足为奇?无聊?).
 
@@ -32,6 +32,6 @@ tags:
 
 著名脑力锻炼游戏:脑力锻炼DS
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriternds.-e7ffnou4.gif"><img width="414" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriternds.-e7ffnou-thumb2.gif" height="241" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriternds.-e7ffnou4.gif"><img width="414" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriternds.-e7ffnou-thumb2.gif" height="241" /></a>
 
 如何提高学生学习的积极性,中国的教育机构也老在讨论这个问题,但是讨论来讨论去都没个解决办法,或者虎头蛇尾.日本的教育虽然也饱受社会舆论批评,但是人家至少在大胆的尝试,可是中国呢?

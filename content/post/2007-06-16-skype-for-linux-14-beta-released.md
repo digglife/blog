@@ -24,7 +24,7 @@ tags:
 ---
 Skype在14日发布了<a href="http://www.skype.com/intl/en/download/skype/linux/" target="_blank">Linux版本的 1.4 beta</a>.从更新日志上看,Skype的确对这个被人忽视的Linux版本做了很多改进,但是在功能上依然落后Windows和Mac版本.最受关注得摄像头功能还是没有加入.遗憾,其实我在Linux下还一次都没有用过摄像头,主要是驱动装不上,不过既然已经<a href="http://www.cnbeta.com/articles/26339.htm" target="_blank">有个热心的法国人为中国300多种摄像头开发了Linux驱动</a>,相信这也不会成为什么问题.
 
- <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/linux-14-shot.png" atomicselection="true"><img height="190" alt="linux_14_shot" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/linux-14-shot-thumb.png" width="450" /></a> 
+ <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/linux-14-shot.png" atomicselection="true"><img height="190" alt="linux_14_shot" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/linux-14-shot-thumb.png" width="450" /></a> 
 
 <!--more-->
 

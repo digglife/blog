@@ -52,17 +52,17 @@ tags:
 
 Google Notebook的这次更新导入了<a href="http://www.google.com/bookmarks/" target="_blank">Google Bookmark</a>的所有标签和网页,并将其放在名为"未归档"(Unfiled)的笔记本下.如果你在这个栏目下加入笔记,内容将会同时显示到Google书签中.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-notbook-lable.png" target="_blank"><img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="302" alt="Google-notbook-lable" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/google-notbook-lable-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-notbook-lable.png" target="_blank"><img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="302" alt="Google-notbook-lable" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-notbook-lable-thumb.png" width="450" border="0" /></a> 
 
 <!--more-->
 
 组织笔记也变得更加灵活,所有的笔记可以根据创建时间和标签来分类,同时也可以通过标签过滤显示.
 
-[<img id="id" height="308" alt="Google-notbook-organization" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/google-notbook-organization-thumb.png" width="450" />][1] 
+[<img id="id" height="308" alt="Google-notbook-organization" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-notbook-organization-thumb.png" width="450" />][1] 
 
 另外,Google Notebook的浏览器扩展也随之更新:现在你可以选择网页中的内容,并按下扩展弹出窗口中的星号来添加笔记.因为整合了Google书签,所以你也可以通过添加笔记到"未归档"笔记本下来收藏书签.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-notbook-extention.png" target="_blank"><img id="id" height="428" alt="Google-notbook-extention" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/google-notbook-extention-thumb.png" width="450" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-notbook-extention.png" target="_blank"><img id="id" height="428" alt="Google-notbook-extention" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-notbook-extention-thumb.png" width="450" /></a> 
 
 Google Notebook和Google Bookmark的整合对于我这种同时高频率使用两种服务的用户来说非常不错,如果能够再改进一下网页的响应速度就更完美了.在不远的将来,Google Notebook将通过<a href="https://www.digglife.net/articles/google-gears-released.html" target="_blank">Google Gears</a>实现离线接入功能,到时我们就可以在没有网络链接的情况下接入Google Notebook了,非常期待.
 

@@ -36,7 +36,7 @@ tags:
 
 下面我总结了可以在Firefox侧边栏载入的Google应用,包括Gtalk,Google笔记本,Google日历,Google地图,Google文档,Google个性化主页和Youtube,其中一些只需要收藏一个链接,一些需要安装对应的Firefox扩展程序.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/google-apps-firefox-sidebar-thumb.png" style="border: 0px none " alt="google-apps-firefox-sidebar" border="0" height="143" width="400" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/google-apps-firefox-sidebar-thumb.png" style="border: 0px none " alt="google-apps-firefox-sidebar" border="0" height="143" width="400" />][1]
 
 <!--more-->
 
@@ -48,7 +48,7 @@ tags:
 
 2.打开书签管理工具,找到刚刚收藏的链接,右键点击后选择属性,勾选&#8221;在侧栏载入此书签&#8221;.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/load-in-sidebar-thumb.png" style="border: 0px none " alt="load-in-sidebar" border="0" height="269" width="367" />][2]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/load-in-sidebar-thumb.png" style="border: 0px none " alt="load-in-sidebar" border="0" height="269" width="367" />][2]
 
 3.直接打开该书签即可在侧栏载入.
 
@@ -66,7 +66,7 @@ tags:
 
 需要安装<a href="https://addons.mozilla.org/en-US/firefox/addon/5203" title="Mini Map Sidebar" target="_blank">Mini Map Sidebar</a>扩展,功能非常强大,按钮和设定都比较全面,使用起来也非常方便,你还可以自定义Google Maps的链接以符合自己的所在,这样就可以使用Google的路线区划了.效果如下:
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/maps-in-sidebar-thumb.png" style="border: 0px none " alt="Maps-in-sidebar" border="0" height="458" width="256" />][4]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/maps-in-sidebar-thumb.png" style="border: 0px none " alt="Maps-in-sidebar" border="0" height="458" width="256" />][4]
 
 <a href="https://addons.mozilla.org/en-US/firefox/downloads/file/20055/mini_map_sidebar-0.1.4.11-fx+fl.xpi" title="直接下载Mini Map Sidebar" target="_blank">直接下载Mini Map Sidebar</a>
 
@@ -74,7 +74,7 @@ tags:
 
 <a href="http://www.gdocsbar.com/" title="gDocsBar" target="_blank">gDocsBar</a>扩展可以让你随时在侧栏接入到Google文档,界面非常美观,除了可以查看和搜索文档之外,还可以拖拽上传文档.效果如下:
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/gdocs-in-sidebar-thumb.png" style="border: 0px none " alt="gdocs-in-sidebar" border="0" height="458" width="212" />][5]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/gdocs-in-sidebar-thumb.png" style="border: 0px none " alt="gdocs-in-sidebar" border="0" height="458" width="212" />][5]
 
 <a href="http://www.gdocsbar.com/files/releases/gdocsbar-0.5.2.xpi" title="直接下载gDocsBar" target="_blank">直接下载gDocsBar</a>
 
@@ -88,7 +88,7 @@ iGoogle Sidebar可以将Google个性化主页中的模块从上至下排列,方�
 
 一边浏览网页一边观看视频也是一件很惬意的事.YouPlayer扩展支持来自Google Video,Youtube,Metacafe和Myspace的视频文件,并能实现连续播放多个文件,管理播放列表和视频下载功能.效果如下:
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/youtube-in-sidebar-thumb.png" style="border: 0px none " alt="youtube-in-sidebar" border="0" height="341" width="200" />][6]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/youtube-in-sidebar-thumb.png" style="border: 0px none " alt="youtube-in-sidebar" border="0" height="341" width="200" />][6]
 
 通过安装扩展的方式我们也可以在Firefox侧栏使用很多方便的应用,比如<a href="http://www.wappblog.com/50226711/meebofirefoxaeeeae_121831.php" title="继承了主流IM的网络应用Meebo" target="_blank">继承了主流IM的网络应用Meebo</a>等.
 

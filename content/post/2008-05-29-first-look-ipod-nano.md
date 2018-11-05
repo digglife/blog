@@ -30,7 +30,7 @@ tags:
 
 iPod Nano的图片和视频看到不少,拿在手上把玩还是第一次,比想象中要轻薄短小,操作界面比想象中华丽许多,各种设计的确和传说中一样,和Mac OS保持着高度的一致.触摸轮盘玩起来也非常有感觉,开始有点不习惯,但是用了一会之后就得心应手,感叹这个设计实在是天才的想法.
 
-<a href="http://www.bababian.com/photozoom.sl?pictureid=E902EDF635691907E6C393A7491E4E7CDT&size=5&viewID=B1E9FC10C6126F1235669209174F8D53UR" target="_blank"><img class="alignnone" src="http://digglife.qiniudn.com/qiniu/2539/image/c39c12fd00ab501e949799172a07dc94.jpg" alt="ipod nano和包装盒" /></a>
+<a href="http://www.bababian.com/photozoom.sl?pictureid=E902EDF635691907E6C393A7491E4E7CDT&size=5&viewID=B1E9FC10C6126F1235669209174F8D53UR" target="_blank"><img class="alignnone" src="https://www.digglife.net/qiniu/2539/image/c39c12fd00ab501e949799172a07dc94.jpg" alt="ipod nano和包装盒" /></a>
 
 iPod Nano采取通过iTunes智能同步的方式进行文件传输,这一点仁者见仁智者见智,可以说非常麻烦,但是从它能够同步音乐评级,智能播放列表,日历等来看,其实这种方式还是不错的,从长远看,也许比直接传送到磁盘更加便于管理.但是如果经常在不同的电脑上进行同步的话,这些所谓的优势可能只会成为麻烦.在Mac和PC之间切换更是绝对不可能,因为据我的亲身体验,<a title="OS X" href="https://www.digglife.net/articles/install-leopard-on-pc.html" target="_blank">OS X</a>下会将iPod格式化成专有的磁盘格式,如果转到Windows下需要进行恢复,也就是重新格式化,反之估计也是一样.
 
@@ -42,7 +42,7 @@ iPod Nano采取通过iTunes智能同步的方式进行文件传输,这一点仁�
 
 玩了一天之后给了女朋友,我对MP3早已经没有什么念想,iPod Nano这种东西再如何NB也只是一个视频MP3而已,目前的最想入手的是一个BlackBerry,希望能够早日实现.
 
-[<img class="alignnone" src="http://digglife.qiniudn.com/qiniu/2539/image/2713afc2f8dcb338fadf0b9cbbe0f419.jpg" alt="ipod nano未开封" />][1][<img class="alignnone" src="http://digglife.qiniudn.com/qiniu/2539/image/2aac8a63bad8d8d4010747adea23f21c.jpg" alt="ipod nano cover flow" />][2]
+[<img class="alignnone" src="https://www.digglife.net/qiniu/2539/image/2713afc2f8dcb338fadf0b9cbbe0f419.jpg" alt="ipod nano未开封" />][1][<img class="alignnone" src="http://digglife.qiniudn.com/qiniu/2539/image/2aac8a63bad8d8d4010747adea23f21c.jpg" alt="ipod nano cover flow" />][2]
 
  [1]: http://photo1.bababian.com/upload11/20080602/4871BE694062B3372AC258D2E29D8D2D.jpg
  [2]: http://photo1.bababian.com/upload11/20080602/A06D8927329323C063592BE05F23FC3F.jpg

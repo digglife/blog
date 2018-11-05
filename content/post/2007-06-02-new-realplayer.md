@@ -20,13 +20,13 @@ tags:
   - 新闻
 
 ---
-可能是RealPlayer终于意识到网络视频分享网站<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/real-player.png"><img align="right" width="90" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/real-player-thumb.png" alt="real-player" height="49" /></a>大大削弱了Real格式在线视频市场的份额,所以不得不发布一系列迁就在线视频分享网站的功能了.
+可能是RealPlayer终于意识到网络视频分享网站<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/real-player.png"><img align="right" width="90" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/real-player-thumb.png" alt="real-player" height="49" /></a>大大削弱了Real格式在线视频市场的份额,所以不得不发布一系列迁就在线视频分享网站的功能了.
 
 [RealNetworks][1]宣布新版本的<a target="_blank" href="http://www.realplayer.com/">RealPlayer</a>将于今年6月初发布,主要增添一键下载在线视频功能.
 
 <!--more-->
 
-新版本的RealPlayer将会增添对在线视频的控制和选项,<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/real1.jpg"><img align="right" width="225" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/real1-thumb.jpg" alt="real1" height="240" /></a> 包括即时下载多个在线视频功能,兼容Flash,Windows Media, Quicktime和Realmedia,并能够在IE和Firefox下工作..用户还能直接通过RealPlayer发送视频链接给好友. 当然,废话还是要说的,新的RealPlayer将只对那些没有保护的内容起作用.Mac版本将会在今年迟些时候发布.
+新版本的RealPlayer将会增添对在线视频的控制和选项,<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/real1.jpg"><img align="right" width="225" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/real1-thumb.jpg" alt="real1" height="240" /></a> 包括即时下载多个在线视频功能,兼容Flash,Windows Media, Quicktime和Realmedia,并能够在IE和Firefox下工作..用户还能直接通过RealPlayer发送视频链接给好友. 当然,废话还是要说的,新的RealPlayer将只对那些没有保护的内容起作用.Mac版本将会在今年迟些时候发布.
 
 Real格式的视频尽管还是在个人媒体文件中还是占据着压倒性的地位,但是在在线市场上的作为已经大不如前.原来采取Real视频流发布的视频现在大多采取<a target="_blank" href="http://www.youtube.com">YouTube</a>或者<a target="_blank" href="http://video.google.com">Google Video</a>等在线Flash模式发布,而且因为类似YouTube的视频分享网站的兴起和发展,提供Real格式电影在线观看的网站也日渐减少.君不见国内广大越狱爱好者都是在偶偶,土豆等视频分享网站上抢鲜,而不是跑到在线电影网站.也许原文件极有可能是Real格式,但是传播的时候看不到Real的身影估计让RealNetworks大为光火.
 

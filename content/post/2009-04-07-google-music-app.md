@@ -45,11 +45,11 @@ tags:
  [1]: http://www.google.cn/music/homepage
  [2]: https://www.digglife.net/articles/prism-extension.html "Prism扩展:将Web应用桌面化"
  [3]: http://g.top100.cn/7872775/html/player.html
- [4]: http://digglife.qiniudn.com/wp-content/uploads/archive/google-music-app.png
+ [4]: https://www.digglife.net/wp-content/uploads/archive/google-music-app.png
  [5]: https://www.digglife.net/articles/convert-image-icon-with-drag-drop.html "免费绿色的图片转ICO图标工具ToYcon"
  [6]: http://www.fileden.com/files/2008/11/6/2176503/Gmusic%20icons.zip "谷歌音乐图标文件下载"
  [7]: http://fisio.cn
  [8]: http://twitpic.com/2yazi
- [9]: http://digglife.qiniudn.com/wp-content/uploads/archive/gmusic-icons.png
+ [9]: https://www.digglife.net/wp-content/uploads/archive/gmusic-icons.png
  [10]: http://twitpic.com/2y9io
  [11]: https://www.digglife.net/articles/air-applications-for-bloggers.html

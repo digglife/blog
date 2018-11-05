@@ -67,7 +67,7 @@ tags:
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/desktopshow.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/desktopshow-thumb.png" alt="desktopshow" height="337" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/desktopshow.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/desktopshow-thumb.png" alt="desktopshow" height="337" width="450" /></a>
 
 这个活动是<a href="http://thisisfun.com.cn" target="_blank">Thisisfun</a>发起的.其内容为:
 

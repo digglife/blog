@@ -33,7 +33,7 @@ tags:
 
 这个普遍在15000RMB以上的EliteBook系列在配置和外观上组合一些广告词来说就是：薄如蝉翼，坚不可摧，极尽奢华，内外兼修。说实话15000+RMB给任何一个笔记本厂商都能整一个这样的配置出来，所以真正的不同<a href="http://review.feedsky.com/review/feedsky/diggliferss/~/txt/182/r.html" target="_blank">在于设计理念和特色软件</a>。
 
-<img class="alignnone" src="http://digglife.qiniudn.com/qiniu/2649/image/a4fb17c9ebd40008e39fd593881a74d4.jpg" alt="" width="500" height="154" />
+<img class="alignnone" src="https://www.digglife.net/qiniu/2649/image/a4fb17c9ebd40008e39fd593881a74d4.jpg" alt="" width="500" height="154" />
 
 在设计上和Thinkpad的高端机相比，这个系列强化了坚固和耐磨：最新的HP DuraCase设计具有铝镁合金掌托，并且表面经过拉丝处理的技术，最大限度地强化了机身的保护和坚固能力；手掌支撑表面采用了HP DuraFinish保护涂层做阳极氧化铝处理，使该款笔记本电脑比以往款式的防刮性能提高了六倍。
 

@@ -36,7 +36,7 @@ Content-Location: digglife.png
 邮件正文中则可以这样引用，注意src的内容。
 
 ```html
-<img src="http://digglife.qiniudn.com/qiniu/3851/image/0ee02217f49ca9475c28e137f414a71f.jpg" alt="digglife" />
+<img src="https://www.digglife.net/qiniu/3851/image/0ee02217f49ca9475c28e137f414a71f.jpg" alt="digglife" />
 ```
 
 所以，在 HTML 邮件正文中嵌入本地图片的问题就转换为，如何在程序中定义邮件头。
@@ -62,7 +62,7 @@ msg['From'] = sendfrom
 msg['To'] = sendto
 msg['CC'] = copyto
 
-content = MIMEText('<img src="http://digglife.qiniudn.com/qiniu/3851/image/0ee02217f49ca9475c28e137f414a71f.jpg" alt="digglife" />')
+content = MIMEText('<img src="https://www.digglife.net/qiniu/3851/image/0ee02217f49ca9475c28e137f414a71f.jpg" alt="digglife" />')
 msg.attach(content,'html'))
 
 #二进制模式读取图片，并绑定到邮件头
@@ -101,7 +101,7 @@ $msg->attach(
     Type => 'text/html',
     Data => qq{
 
-            <img src="http://digglife.qiniudn.com/qiniu/3851/image/0ee02217f49ca9475c28e137f414a71f.jpg" />
+            <img src="https://www.digglife.net/qiniu/3851/image/0ee02217f49ca9475c28e137f414a71f.jpg" />
 
     },
 );

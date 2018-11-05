@@ -24,13 +24,13 @@ tags:
   - 视频
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtubelogo.gif" target="_blank"><img alt="youtubelogo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/youtubelogo-thumb.gif" align="right" /> Youtube</a>视频在加载的时候显示在播放器中的预览图片通常是视频正中间的截图.比如,如果一个视频有3分钟长,那么Youtube将会在1:30的位置截图并作为预览.
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtubelogo.gif" target="_blank"><img alt="youtubelogo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtubelogo-thumb.gif" align="right" /> Youtube</a>视频在加载的时候显示在播放器中的预览图片通常是视频正中间的截图.比如,如果一个视频有3分钟长,那么Youtube将会在1:30的位置截图并作为预览.
 
 但是Youtube现在提供了一个更为自由的方式:上传视频后,选择编辑视频,系统会提供3个静止图片供你选择作为默认视频预览.如果视频长度为X秒,Youtube将会在X/4秒,X/2秒,3X/4秒处自动生成3个预览图片,鼠标点选任意一个作为默认预览.</p> 
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtubethumbnailvideo.png" atomicselection="true"><img height="450" alt="youtubethumbnailvideo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/youtubethumbnailvideo-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtubethumbnailvideo.png" atomicselection="true"><img height="450" alt="youtubethumbnailvideo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtubethumbnailvideo-thumb.png" width="450" /></a>
 
 这样的设置方便了用户选择更加有代表性的截图,对上传者和观看者都很有利.Youtube此举调动了网友的力量来提高Youtube视频的整体质量,的确是个不错的创新.不过如果支持用户自己上传就更加完美了.
 

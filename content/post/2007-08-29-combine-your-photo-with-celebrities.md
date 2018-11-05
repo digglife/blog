@@ -49,9 +49,9 @@ tags:
   - 明星
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/featured-morphs.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/featured-morphs-thumb.png" alt="featured-morphs" height="175" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/featured-morphs.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/featured-morphs-thumb.png" alt="featured-morphs" height="175" /></a>
 
-<a atomicselection="true" target="_blank" href="http://www.morphthing.com"><img align="right" width="211" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/morphthing-logo.png" alt="morphthing-logo" height="55" /></a> 上面的这些照片看着很眼熟吧,不过又有点不对劲是不是?其实它们都是在线生成的合成照.比如第三个就是科林法瑞尔(《狙击电话亭》《谍海计中计》)和贝克汉姆的合成照.网上经常看到一些古怪的合成照片,许多都是PS出来的,要合成得滴水不漏需要高超的技巧.如果你想恶搞一下,不妨试一试这个名叫<a target="_blank" href="http://www.morphthing.com/">Morphthing</a>的网站.
+<a atomicselection="true" target="_blank" href="http://www.morphthing.com"><img align="right" width="211" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/morphthing-logo.png" alt="morphthing-logo" height="55" /></a> 上面的这些照片看着很眼熟吧,不过又有点不对劲是不是?其实它们都是在线生成的合成照.比如第三个就是科林法瑞尔(《狙击电话亭》《谍海计中计》)和贝克汉姆的合成照.网上经常看到一些古怪的合成照片,许多都是PS出来的,要合成得滴水不漏需要高超的技巧.如果你想恶搞一下,不妨试一试这个名叫<a target="_blank" href="http://www.morphthing.com/">Morphthing</a>的网站.
 
 <!--more-->
 
@@ -61,6 +61,6 @@ tags:
 
 猜猜下面这些是谁和谁(嘿嘿):
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/my-morph.jpg"><img width="100" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/my-morph-thumb.jpg" alt="my-morph" height="133" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/my-morph2.jpg"><img width="100" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/my-morph2-thumb.jpg" alt="my-morph2" height="133" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/brangelina.jpg"><img width="100" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/brangelina-thumb.jpg" alt="Brangelina" height="133" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/braniston.jpg"><img width="100" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/braniston-thumb.jpg" alt="Braniston" height="133" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/my-morph.jpg"><img width="100" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/my-morph-thumb.jpg" alt="my-morph" height="133" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/my-morph2.jpg"><img width="100" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/my-morph2-thumb.jpg" alt="my-morph2" height="133" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/brangelina.jpg"><img width="100" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/brangelina-thumb.jpg" alt="Brangelina" height="133" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/braniston.jpg"><img width="100" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/braniston-thumb.jpg" alt="Braniston" height="133" /></a>
 
 消息来源:<a target="_blank" href="http://www.100shiki.com/archives/2007/08/morphthing.html">百式</a>

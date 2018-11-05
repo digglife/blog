@@ -51,6 +51,6 @@ tags:
 
 来自<a href="http://mozillalinks.org/wp/2008/03/ie-8-activities-and-webslices-for-firefox/" title="MozillaLinks" target="_blank">MozillaLinks</a>
 
- [1]: http://digglife.qiniudn.com/qiniu/2472/image/61f7084399da25dc202af07a6fbcbb87.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2472/image/0845565316f5b4e701dc7282335e3388.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2472/image/c9b90301d6ae3e2b158535207fcc66eb.jpg
+ [1]: https://www.digglife.net/qiniu/2472/image/61f7084399da25dc202af07a6fbcbb87.jpg
+ [2]: https://www.digglife.net/qiniu/2472/image/0845565316f5b4e701dc7282335e3388.jpg
+ [3]: https://www.digglife.net/qiniu/2472/image/c9b90301d6ae3e2b158535207fcc66eb.jpg

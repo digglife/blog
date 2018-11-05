@@ -55,7 +55,7 @@ tags:
   - 软件
 
 ---
-[<img height="129" alt="instantbird-logo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/instantbird-logo-thumb.png" width="394" />][1] 
+[<img height="129" alt="instantbird-logo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/instantbird-logo-thumb.png" width="394" />][1] 
 
 **Update:多谢下面朋友的提醒,**<a title="InstantBird" href="http://www.instantbird.org/" target="_blank"><strong>Instantbird</strong></a>**并不是Mozilla的产品,十分抱歉&#8230;**
 
@@ -63,15 +63,15 @@ tags:
 
 <!--more-->
 
-[<img height="295" alt="instantbird-buddylist" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/instantbird-buddylist-thumb.png" width="297" />][2] 
+[<img height="295" alt="instantbird-buddylist" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/instantbird-buddylist-thumb.png" width="297" />][2] 
 
 Instantbird的和<a title="Linux" href="https://www.digglife.net/articles/category/about_ubuntu/" target="_blank">Linux</a>下最流行的即时通讯软件<a title="Pidgin" href="http://www.pidgin.im" target="_blank">Pidgin</a>十分相似,采用的是和Pidgin一样的源码库Libpurple,它支持多种即时通讯客户端,目前支持的有AIM,MSN,GTalk,QQ,ICQ,Yahoo!,Gadu-Gadu,XMPP,Instantbird.
 
-[<img height="336" alt="instantbird-account" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/instantbird-account-thumb.png" width="417" />][3] 
+[<img height="336" alt="instantbird-account" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/instantbird-account-thumb.png" width="417" />][3] 
 
 目前还处于早期的公测中,不过<a title="Version 0.1已经可以下载" href="http://www.instantbird.com/download.html" target="_blank">Version 0.1已经可以下载</a>,他们的开发团队准备在1.0版本后加入语音和视频聊天功能,这样Instantbird也许能够成为多协议即时通讯软件的超级杀手.当然,Mozilla还有一个光荣传统,就是无限的可自定义性,相信在这款还处于襁褓中的新产品上也会有所体现.
 
-[<img height="329" alt="instantbird-addons" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/instantbird-addons-thumb.png" width="450" />][4] 
+[<img height="329" alt="instantbird-addons" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/instantbird-addons-thumb.png" width="450" />][4] 
 
 和Mozilla大部分产品一样,Instantbird有<a title="Linux" href="https://www.digglife.net/articles/category/about_ubuntu/" target="_blank">Linux</a>,<a title="Windows技巧" href="https://www.digglife.net/articles/category/windows-tricks/" target="_blank">Windows</a>和Mac三个版本.同时,你还可以下载源码进行编译.
 

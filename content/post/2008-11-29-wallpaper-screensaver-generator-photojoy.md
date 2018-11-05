@@ -32,7 +32,7 @@ PhotoJoy支持本地JPEG格式的图片，Flickr相册和PhotoJoy的网络相册
 PhotoJoy的界面：Colleges是作为桌面壁纸的拼贴画模板，PhotoToys是桌面Widget，ScreenSavers是屏保，在Photo Liburary里面可以自定义图片源。
 
 <div id="attachment_2802" style="width: 510px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2802" title="photojoy的界面" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/photojoy-interface.jpg" alt="在PhotoJoy里可以只下载自己喜欢的模板" width="500" height="372" />
+  <img class="size-full wp-image-2802" title="photojoy的界面" src="https://www.digglife.net/wp-content/uploads/2008/11/photojoy-interface.jpg" alt="在PhotoJoy里可以只下载自己喜欢的模板" width="500" height="372" />
   
   <p class="wp-caption-text">
     在PhotoJoy里可以只下载自己喜欢的模板
@@ -42,7 +42,7 @@ PhotoJoy的界面：Colleges是作为桌面壁纸的拼贴画模板，PhotoToys�
 [PhotoJoy][1]可以将某个关键字相关的Flickr照片作为照片源：
 
 <div id="attachment_2799" style="width: 498px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2799" title="photojoy的flickr搜索" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/photojoy-flickr.jpg" alt="photojoy内置的Flickr搜索" width="488" height="542" />
+  <img class="size-full wp-image-2799" title="photojoy的flickr搜索" src="https://www.digglife.net/wp-content/uploads/2008/11/photojoy-flickr.jpg" alt="photojoy内置的Flickr搜索" width="488" height="542" />
   
   <p class="wp-caption-text">
     photojoy内置的Flickr搜索

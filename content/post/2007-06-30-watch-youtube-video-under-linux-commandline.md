@@ -51,6 +51,6 @@ tags:
 
 [YouTube &#8211; Data Stream][3]
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/youtube-text.png
- [2]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/zoom-in.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/06/youtube-text.png
+ [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/06/zoom-in.png
  [3]: http://www.youtube.com/watch?v=ji0A3kOAc9U

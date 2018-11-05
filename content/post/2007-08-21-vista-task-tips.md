@@ -48,7 +48,7 @@ tags:
 ---
 可能看了标题还不知道是什么东东,贴张图先:
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/vistatask.png"><img width="451" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/vistatask-thumb.png" alt="vistatask" height="200" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/vistatask.png"><img width="451" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/vistatask-thumb.png" alt="vistatask" height="200" /></a>
 
 嗯,也就是鼠标悬停在任务栏上的时候会出现一个预览窗口.
 

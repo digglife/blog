@@ -102,14 +102,14 @@ Yahoo为Yahoo Messenger制作的一个卡通形象制作网站,比较接近于QQ
 
 来自<a href="http://www.hongkiat.com/blog/11-sites-to-create-cartoon-characters-of-yourself/" title="Hongkiat" target="_blank">Hongkiat</a>
 
- [1]: http://digglife.qiniudn.com/qiniu/2463/image/6fbc8f29c0e18881621057e034097be4.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2463/image/4705bc44d5d613592fa48c05779753f0.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2463/image/e609d833368a3e21e5d52bb0c42525a1.jpg
- [4]: http://digglife.qiniudn.com/qiniu/2463/image/da7137142ce827186ef7dd601c491f29.jpg
- [5]: http://digglife.qiniudn.com/qiniu/2463/image/6f0206ef80576f3362127a0d513e7222.jpg
- [6]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/befunky-cartoon-thumb.png
- [7]: http://digglife.qiniudn.com/qiniu/2463/image/9003abfae3704a76680bb0f8a1c5b2df.jpg
- [8]: http://digglife.qiniudn.com/qiniu/2463/image/65765967c8bd90a1d7b3a77e5a52bc89.jpg
- [9]: http://digglife.qiniudn.com/qiniu/2463/image/63c0457fbdc1f99ccc30b40254ac0b02.jpg
- [10]: http://digglife.qiniudn.com/qiniu/2463/image/f23545e260bc41d2e7d78b6e74ab66a4.jpg
- [11]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/msn-cartoon-thumb.png
+ [1]: https://www.digglife.net/qiniu/2463/image/6fbc8f29c0e18881621057e034097be4.jpg
+ [2]: https://www.digglife.net/qiniu/2463/image/4705bc44d5d613592fa48c05779753f0.jpg
+ [3]: https://www.digglife.net/qiniu/2463/image/e609d833368a3e21e5d52bb0c42525a1.jpg
+ [4]: https://www.digglife.net/qiniu/2463/image/da7137142ce827186ef7dd601c491f29.jpg
+ [5]: https://www.digglife.net/qiniu/2463/image/6f0206ef80576f3362127a0d513e7222.jpg
+ [6]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/befunky-cartoon-thumb.png
+ [7]: https://www.digglife.net/qiniu/2463/image/9003abfae3704a76680bb0f8a1c5b2df.jpg
+ [8]: https://www.digglife.net/qiniu/2463/image/65765967c8bd90a1d7b3a77e5a52bc89.jpg
+ [9]: https://www.digglife.net/qiniu/2463/image/63c0457fbdc1f99ccc30b40254ac0b02.jpg
+ [10]: https://www.digglife.net/qiniu/2463/image/f23545e260bc41d2e7d78b6e74ab66a4.jpg
+ [11]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/msn-cartoon-thumb.png

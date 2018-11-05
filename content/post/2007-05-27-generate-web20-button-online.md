@@ -24,11 +24,11 @@ tags:
 ---
 现在的Web2.0的Logo做的都很美观,个人总结一下有几个特点:色彩使用比较鲜艳时尚的纯色,喜欢使用玻璃或者倒影效果,通常是在纯色背景上放站点名,喜欢加上可爱的小图标作为修饰.当然,这仅仅是欧美风的.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2mycoolbutton2.png"><img width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2mycoolbutton-thumb.png" height="63" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2mycoolbutton2.png"><img width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2mycoolbutton-thumb.png" height="63" /></a>
 
 如果要自己制作这些图标,可能需要点PS技术.但是如果你想快速得到一个自己的个性化Web2.0图标的话,<a target="_blank" href="http://www.mycoolbutton.com/">My Cool Button</a>非常适合你.下面这个是我简单制作的一个RSS按钮:
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2digglifebutton5.png"><img width="200" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2digglifebutton-thumb3.png" height="70" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2digglifebutton5.png"><img width="200" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2digglifebutton-thumb3.png" height="70" /></a>
 
 My Cool Button提供多种选项让你自定义图标,包括:背景宽度和颜色,自定义小图标的大小和位置(已提供常用的Fickr,RSS等,支持自己上传PNG格式的图片),自定义文字的大小,字体和颜色.设置完毕后,按右上角的Apply Changs预览,点击Download按钮下载PNG格式的图片.
   
@@ -36,7 +36,7 @@ My Cool Button提供多种选项让你自定义图标,包括:背景宽度和颜�
 
 
   
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2mycoolbuttonshot5.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2mycoolbuttonshot-thumb1.png" height="361" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2mycoolbuttonshot5.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterweb2.0-145f2mycoolbuttonshot-thumb1.png" height="361" /></a>
 
 以上来自<a target="_blank" href="http://mashable.com/2007/05/25/button-generator/">Mashable!</a>
 

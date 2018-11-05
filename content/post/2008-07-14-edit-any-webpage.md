@@ -35,11 +35,11 @@ tags:
   
 实现起来很简单,把[Edit Current Page][3]这个链接拖到书签工具栏,点击一下即可编辑当前网页内容了.效果如下:
 
-[<img class="alignnone size-full wp-image-2577" title="编辑任意网页" src="http://digglife.qiniudn.com/wp-content/uploads/2008/07/web.gif" alt="" width="385" height="235" />][4]
+[<img class="alignnone size-full wp-image-2577" title="编辑任意网页" src="https://www.digglife.net/wp-content/uploads/2008/07/web.gif" alt="" width="385" height="235" />][4]
 
 嗯,以后搞假新闻就方便多了&#8230;
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/tencent.png
+ [1]: https://www.digglife.net/wp-content/uploads/archive/tencent.png
  [2]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5222740757066713570
  [3]: javascript:document.body.contentEditable%20=%20'true';%20document.designMode='on';%20void%200 "编辑当前网页"
  [4]: https://www.digglife.net/wp-content/uploads/2008/07/web.gif

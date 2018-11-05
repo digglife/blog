@@ -74,7 +74,7 @@ DiggLife从四月中旬正式开始写到现在有两个半月了.我在这上�
 
 ### **二.来自Google分析和Google网站管理工具的报告**
 
- <img height="207" alt="stastics" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/stastics.png" width="450" />
+ <img height="207" alt="stastics" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/stastics.png" width="450" />
 
 <!--more-->
 
@@ -84,21 +84,21 @@ DiggLife从四月中旬正式开始写到现在有两个半月了.我在这上�
 
 从统计数据上看,实在太依赖推介网站了,几乎一半来自<a href="http://www.5dig.net" target="_blank">我挖网</a>,<a href="http://www.diglog.com" target="_blank">Diglog</a>,以及我的博客服务商<a href="http://yo2.cn" target="_blank">yo2</a>(成为推荐博客和活跃博客果然用处很大,呵呵),还有友站<a href="http://fisio.cn" target="_blank">肥硕博客</a>,<a href="http://fire3.cn" target="_blank">星火燎原</a>,<a href="http://lifebang.com" target="_blank">生活帮</a>,<a href="http://ljhui.yo2.cn/" target="_blank">创意秀</a>等等.在此表示诚挚的感谢,啪啪~~~.搜索引擎方面大部分来自Google,还有我用得越来越少的Baidu.
 
-<img height="245" alt="source" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/source.png" width="410" />
+<img height="245" alt="source" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/source.png" width="410" />
 
- <img height="179" alt="source2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/source2.png" width="410" />
+ <img height="179" alt="source2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/source2.png" width="410" />
 
 **关键字报告:**
 
 关键字访问数统计:
 
- <img height="180" alt="keyword" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/keyword.png" width="399" />
+ <img height="180" alt="keyword" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/keyword.png" width="399" />
 
 搜索排名统计:(来自Google网站管理工具)
 
 排名第一的那篇相关文章还在我决定认真写日志之前,真是讽刺.另外,有人这么搜东西的么?这关键字也太稀罕了吧.
 
- <img height="420" alt="keywordRank" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/keywordrank.png" width="365" />
+ <img height="420" alt="keywordRank" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/keywordrank.png" width="365" />
 
 ### **三.订阅量统计:**
 

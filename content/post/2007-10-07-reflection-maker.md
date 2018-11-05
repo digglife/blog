@@ -49,11 +49,11 @@ tags:
   - 图片处理
 
 ---
-[<img height="55" alt="reflectionmaker-logo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/reflectionmaker-logo-thumb.png" width="255" align="right" />][1] 倒影效果可以说是目前所谓Web2.0 Logo的标准元素,看起来也的确非常美观.对于不熟悉Photoshop等专业图像处理<a title="酷软推荐" href="https://www.digglife.net/articles/category/software/" target="_blank">软件</a>的朋友来说,给图片制作这样的倒影效果比较困难.现在有一个名为<a title="ReflectionMaker" href="http://www.reflectionmaker.com/" target="_blank">ReflectionMaker</a>的网站能够让你简单地给图片加上这种效果,支持上传上限为200KB的图片和直接加载网络图片,可以对倒影背景和倒影大小进行配置.对于要求不太高的图片制作来说,这个在线工具足以应付大部分情况.
+[<img height="55" alt="reflectionmaker-logo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/reflectionmaker-logo-thumb.png" width="255" align="right" />][1] 倒影效果可以说是目前所谓Web2.0 Logo的标准元素,看起来也的确非常美观.对于不熟悉Photoshop等专业图像处理<a title="酷软推荐" href="https://www.digglife.net/articles/category/software/" target="_blank">软件</a>的朋友来说,给图片制作这样的倒影效果比较困难.现在有一个名为<a title="ReflectionMaker" href="http://www.reflectionmaker.com/" target="_blank">ReflectionMaker</a>的网站能够让你简单地给图片加上这种效果,支持上传上限为200KB的图片和直接加载网络图片,可以对倒影背景和倒影大小进行配置.对于要求不太高的图片制作来说,这个在线工具足以应付大部分情况.
 
 <!--more-->
 
-[<img height="343" alt="reflection-maker" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/reflection-maker-thumb.png" width="450" />][2]&nbsp;
+[<img height="343" alt="reflection-maker" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/reflection-maker-thumb.png" width="450" />][2]&nbsp;
 
 ReflectionMaker地址:<http://www.reflectionmaker.com/>
 

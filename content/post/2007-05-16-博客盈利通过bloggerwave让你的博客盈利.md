@@ -47,5 +47,5 @@ Bloggerwave和Review Me等一样,都是广告中间商.广告发布商联系Blog
 
 OK,大功告成.有兴趣的可以去看看,适合新生博客.
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/bloggerwavelogo.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/bloggerwavelogo.jpg
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/bloggerwavelogo.jpg "bloggerwavelogo.jpg"

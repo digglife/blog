@@ -26,7 +26,7 @@ tags:
 
 另外，从包名来说，照理 `urllib2` 应该是个升级版吧，结果发现有些 urllib 里用得好好的方法比如 `urlquote`、`urlencode` 在 `urllib2` 里又没了。这特么是在逗我？搜了一下发现，原来 Python 2 时代的 Best Practice 是两个模块一起用，呃&#8230;我也承认自己的智商不够，可是这种搞法是不是太乱了点。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/10/http-request.jpg" alt="吐槽一下 Python 的urllib 和 urllib2" width="600" height="309" class="alignnone size-full wp-image-3919" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/10/http-request.jpg" alt="吐槽一下 Python 的urllib 和 urllib2" width="600" height="309" class="alignnone size-full wp-image-3919" />
 
 可能也 Python 的开发者觉得这个状况太莫名奇妙，于是 Python 3 重新整合成了唯一的 `urllib`，不过<a rel="nofollow" href="https://docs.python.org/3/library/urllib.html" title="Python 3 的 urllib模块" target="_blank">分出了 4 个支模块</a>。Python 的粉丝们估计觉得这种搞法依然稀烂，简直特么不是给人用的，所以有人自己写了个 <a rel="nofollow" href="http://docs.python-requests.org/en/latest/" title="Python Request模块" target="_blank">requests</a> 模块，口号是 HTTP For Humans ，感觉简直是嘲讽全开啊。
 

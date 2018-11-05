@@ -59,4 +59,4 @@ IE 8 RC1今天发布之后有传言说<a rel="nofollow" href="http://cnbeta.com/
 我这个标题起得也不算周全,但是至少要比所谓的&#8221;Windows XP SP3用户安装IE8后将不可逆&#8221;这种误解要靠谱得多.
 
  [1]: https://www.digglife.net/articles/ie8-new-features-download.html "IE 8 Beta 1简体中文版下载和新功能介绍| DiggLife"
- [2]: http://digglife.qiniudn.com/qiniu/2892/image/f76514b5b537bae6c126c4f43ae7354f.jpg
+ [2]: https://www.digglife.net/qiniu/2892/image/f76514b5b537bae6c126c4f43ae7354f.jpg

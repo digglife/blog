@@ -38,7 +38,7 @@ Windows 从 2000 开始支持 SSL 加密 远程桌面服务，只要在远程桌
 
 通过这个命令生成证书后，我们可以在证书管理控制台的“个人”证书下找到。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/06/rdp-ssl-certificate.png" alt="查看远程桌面服务SSL自认证证书" width="484" height="352" class="alignnone size-full wp-image-3830" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/06/rdp-ssl-certificate.png" alt="查看远程桌面服务SSL自认证证书" width="484" height="352" class="alignnone size-full wp-image-3830" />
 
 记录一下一些和生成远程桌面服务SSL证书相关的参数，详细信息参考MSDN的文档。
 

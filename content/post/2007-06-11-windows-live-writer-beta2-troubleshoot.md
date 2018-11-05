@@ -27,7 +27,7 @@ tags:
   - 微软
 
 ---
-<a href="https://www.digglife.net/articles/windows-live-writer-beta2-released.html" target="_blank">Windows Live Writer Beta 2上周发布</a>后用户反应了很多问题,<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wlw-cr.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="47" alt="WLW_cr" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/wlw-cr-thumb.png" width="240" align="right" border="0" /></a>包括无法安装和造成资源占用过高导致电脑宕机.今天WLW团队在他们的博客<a href="http://windowslivewriter.spaces.live.com/" target="_blank">Writer Zone</a>上提供了官方的解决办法.
+<a href="https://www.digglife.net/articles/windows-live-writer-beta2-released.html" target="_blank">Windows Live Writer Beta 2上周发布</a>后用户反应了很多问题,<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wlw-cr.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="47" alt="WLW_cr" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wlw-cr-thumb.png" width="240" align="right" border="0" /></a>包括无法安装和造成资源占用过高导致电脑宕机.今天WLW团队在他们的博客<a href="http://windowslivewriter.spaces.live.com/" target="_blank">Writer Zone</a>上提供了官方的解决办法.
 
 &nbsp;
 
@@ -69,7 +69,7 @@ WindowsVista 用户定位到以下文件夹获取:
 
 4.保存链接指向的Zip文件到桌面.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wl-beta-remove.jpg" atomicselection="true"><img height="316" alt="Wl-beta-remove" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/wl-beta-remove-thumb.jpg" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wl-beta-remove.jpg" atomicselection="true"><img height="316" alt="Wl-beta-remove" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wl-beta-remove-thumb.jpg" width="450" /></a>
 
 5.打开**WL-Beta-remove.zip**.
 
@@ -81,7 +81,7 @@ WindowsVista 用户定位到以下文件夹获取:
 
 9. 点击执行.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/command.jpg" atomicselection="true"><img height="315" alt="command" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/command-thumb.jpg" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/command.jpg" atomicselection="true"><img height="315" alt="command" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/command-thumb.jpg" width="450" /></a>
 
 10. 重新安装Windows Live Writer.&nbsp; NOTE: 如果你还安装有Windows Live Messenger 或者Windows Live Mail ,你还需要一并重装他们:
 
@@ -110,7 +110,7 @@ WindowsVista 用户定位到以下文件夹获取:
 
 2. 输入&#8221;cmd&#8221;并运行.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/run.jpg" atomicselection="true"><img height="226" alt="run" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/run-thumb.jpg" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/run.jpg" atomicselection="true"><img height="226" alt="run" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/run-thumb.jpg" width="450" /></a>
 
 3. 在命令提示符程序中输入一下命令:
 

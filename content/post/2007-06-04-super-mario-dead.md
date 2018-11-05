@@ -24,7 +24,7 @@ tags:
 
 超多马里奥尸体堆在看不到的屏幕下面.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mario-dies-m.jpg"><img width="400" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/mario-dies-m-thumb.jpg" alt="mario_dies_m" height="301" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mario-dies-m.jpg"><img width="400" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/mario-dies-m-thumb.jpg" alt="mario_dies_m" height="301" /></a>
 
 一模一样的马里奥居然有这么多,那么,难道马里奥是传说中的克隆人??
 

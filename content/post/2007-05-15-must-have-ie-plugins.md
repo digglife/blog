@@ -32,19 +32,19 @@ tags:
 
 ##### **1.**[**LeechVideo**][1] -使用它可以<a href="https://www.digglife.net/articles/%e8%b6%85%e7%ba%a7%e9%9b%86%e8%a3%85%e7%ae%b1%e4%b8%8b%e8%bd%bdyoutube%e8%a7%86%e9%a2%91%e7%9a%8423%e7%a7%8d%e6%96%b9%e5%bc%8f.html" target="_blank">下载流行视频分享网站种的视频</a>.第二选择:[Viloader][2] | [Video Downloader][3]
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03leechvideo-thumb3.jpg" alt="" width="270" height="29" />][4]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03leechvideo-thumb3.jpg" alt="" width="270" height="29" />][4]
 
 &nbsp;
 
 **2.**[**Inline Search**][5]&#8211; 给IE加上网页内部文本搜索功能.按下快捷键CTR+F,浏览器底部就会出现如同Firefox网页内搜索一样的搜索工具条.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03inlinesearch-thumb1.jpg" alt="" width="419" height="30" />][6]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03inlinesearch-thumb1.jpg" alt="" width="419" height="30" />][6]
 
 &nbsp;
 
 **3.**[**ShareThis**][7]-让你能够迅速地将网页用Email发给朋友和联系人(<a href="https://www.digglife.net/articles/category/gmail/" target="_blank">gmail</a>,MySpace等),给Facebook和MySpace的个人档添加摘要.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03sharethis-thumb1.jpg" alt="" width="129" height="26" />][8]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03sharethis-thumb1.jpg" alt="" width="129" height="26" />][8]
 
 &nbsp;
 
@@ -52,7 +52,7 @@ tags:
 
 &nbsp;
 
-[<img style="border-width: 0px;" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03zamzarie-thumb.jpg" alt="" width="133" height="28" border="0" />][10]
+[<img style="border-width: 0px;" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03zamzarie-thumb.jpg" alt="" width="133" height="28" border="0" />][10]
 
 &nbsp;
 
@@ -64,7 +64,7 @@ tags:
 
 **6. **[**FeedsPlus**][13] (只支持IE7) &#8211; 如果你喜欢使用浏览器阅读RSS,那么这个插件很适合你.它拥有很多实用功能,比如在一个集成浏览模式下查看订阅,当有新内容可供阅读时弹出窗口提示.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03feedsplus-thumb1.jpg" alt="" width="258" height="167" />][14]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter11ie-fb03feedsplus-thumb1.jpg" alt="" width="258" height="167" />][14]
 
 &nbsp;
 

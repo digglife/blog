@@ -34,7 +34,7 @@ tags:
 
 <!--more-->
 
-[<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="356" alt="define-profiles-cards" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/define-profiles-cards-thumb.png" width="450" border="0" />][1] 
+[<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="356" alt="define-profiles-cards" src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/define-profiles-cards-thumb.png" width="450" border="0" />][1] 
 
 我的Facebook图片貌似没有导入进来,所以完全看不出效果,这该死的校园网啊&#8230;
 

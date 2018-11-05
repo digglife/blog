@@ -152,7 +152,7 @@ Yahoo!终于耐不住寂寞推出了自己的社会化网络服务<a target="_bl
 
 **1.Yahoo!Mash概览:**
 
-<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/my-mush-preview.png"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/my-mush-preview-thumb.png" alt="my-mush_preview" height="480" id="id" /></a>
+<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/my-mush-preview.png"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/my-mush-preview-thumb.png" alt="my-mush_preview" height="480" id="id" /></a>
 
 Yahoo!Mash和其他社会化社区一样,主要是提供了一个个性化的个人资料主页,你可以充分自定义你的页面,添加各种有趣的组件来表现自己的各个方面.和其他同类型的网站不同的是,Yahoo!Mash还可以让朋友修改你的资料和添加小插件.整个Mash的页面基于Ajax架构,所以大部分的页面自定义不需要刷新,操作起来非常方便.我本来以为对中文的支持可能会有问题的,后来证明这个疑虑是完全没有必要的.
 
@@ -160,19 +160,19 @@ Yahoo!Mash和其他社会化社区一样,主要是提供了一个个性化的个
 
 在登录Mash之后,你会看到一个更新记录,包含自己和好友的操作历史.
 
-<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/update-info.png"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/update-info-thumb.png" alt="Update-info" height="223" id="id" /></a>
+<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/update-info.png"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/update-info-thumb.png" alt="Update-info" height="223" id="id" /></a>
 
 主页上你可以自定义头像,根据Mash提供的问题(问题比较无聊)撰写自己的相关资料,给页面添加关键字(Tag)等等.Mash针对个人资料有一个Wiki概念,在默认设置下好友可以添加你的个人资料和页面元素.如果你不希望主页被人修改可以在设置中自定义权限.
 
 **页面自定义**
 
-<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/costumize-style.png"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/costumize-style-thumb.png" alt="costumize-style" height="140" id="id" /></a>
+<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/costumize-style.png"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/costumize-style-thumb.png" alt="costumize-style" height="140" id="id" /></a>
 
 你可以通过Style this profile组件改变页面背景,组件色彩,边框,链接和字体色彩.如果你精通CSS,还可以在高级模式下直接加入自定义CSS代码.
 
 **多样化的页面组件.**
 
-<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/pet.png"><img border="0" width="340" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/pet-thumb.png" alt="pet" height="340" id="id" /></a> 
+<a target="_blank" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/pet.png"><img border="0" width="340" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/pet-thumb.png" alt="pet" height="340" id="id" /></a> 
 
 Yahoo!Mash的<a target="_blank" href="http://mash.yahoo.com/gallery.php" title="Yahoo! Mash Module Gallery">Module Gallery</a>给用户提供了许多有趣的小玩意,默认状态下有Mash Pet(一个小宠物)和Blurt(类似Twitter)两个.在Module Gallery中你可以给主页添加很多有用的元素,比如Blog RSS,Flickr RSS,Hover(添加元素拖动功能),Pimp My Pet(自定义宠物)等等.另外,你的朋友也可以向你的页面中添加各种元素.
 

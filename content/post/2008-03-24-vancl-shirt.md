@@ -47,4 +47,4 @@ tags:
 喜欢穿衬衣的朋友们可以去<a href="http://review.feedsky.com/review/feedsky/diggliferss/%7E/txt/157/r.html" title="Vancl凡客诚品" target="_blank">Vancl凡客诚品</a>上看看,说不定会看见你非常喜欢的,几十块买一件高档的衬衣还是蛮划得来的.
 
  [1]: http://review.feedsky.com/review/feedsky/diggliferss/~/img/157/review.gif
- [2]: http://digglife.qiniudn.com/qiniu/2483/image/6517b577f9904fdf222d5d29302fded6.jpg
+ [2]: https://www.digglife.net/qiniu/2483/image/6517b577f9904fdf222d5d29302fded6.jpg

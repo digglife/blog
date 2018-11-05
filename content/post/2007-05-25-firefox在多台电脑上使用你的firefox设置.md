@@ -25,7 +25,7 @@ tags:
 ---
 Google出品的一款Firefox扩展Google Browser Sync.它能够即时同步你的浏览器设置保存到网上,并将其和你的Google帐号整合起来,以便随时使用.**这些设置包括:Firefox收藏夹,浏览历史,Cookies,保存的表单和密码,甚至你最后开启的标签栏**.你可以将这些数据同步到任何一台安装带有Google Browser Sync扩展的电脑上.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsui10.png"><img width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsui-thumb6.png" height="221" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsui10.png"><img width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsui-thumb6.png" height="221" /></a>
 
 尽管安装Google Toolbar之后也能够使用Google书签,而且能够保存浏览历史到Google History.但是这些并不能让你彻底同步所有数据,而且也不如这个扩展来得方便快捷.
 
@@ -37,18 +37,18 @@ Google出品的一款Firefox扩展Google Browser Sync.它能够即时同步你�
 
 > 第一步,一段警告,提示隐私保护问题.
 > 
-> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall3.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall-thumb1.png" height="388" /></a>
+> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall3.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall-thumb1.png" height="388" /></a>
 > 
 > 第二步,输入你的Google账户和密码
 > 
-> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall25.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall2-thumb3.png" height="330" /></a>
+> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall25.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall2-thumb3.png" height="330" /></a>
 > 
 > 第三步,设置PIN加密你的浏览器设置.
 > 
-> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall34.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall3-thumb2.png" height="330" /></a> 
+> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall34.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154gbsinstall3-thumb2.png" height="330" /></a> 
 
 安装后,你可以使用Settings里面的Full Refresh功能立即同步你目前所有的设置.你还可以自定义需要加密的浏览器设置,默认加密Cookies和已经保存的密码,收藏夹,浏览历史和标签未加密. 如果你想停止同步,在Settings里面点击Stop Syncing就可以了.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154refresh3.png"><img width="394" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154refresh-thumb1.png" height="147" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154refresh3.png"><img width="394" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxfirefox-d154refresh-thumb1.png" height="147" /></a>
 
 <a target="_blank" href="https://www.digglife.net/articles/category/firefox/">查看更多Firefox技巧</a>

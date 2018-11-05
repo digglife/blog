@@ -20,7 +20,7 @@ tags:
   - 移动设备
 
 ---
-APC杂志就<a href="http://www.mozilla.org.cn" target="_blank">Mozilla</a>开发移动版本Firefox浏览器的计划采访了Mozilla的CEO Mitchell Baker.[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/firefox-mobile.jpg" title="firefox-mobile.jpg" alt="firefox-mobile.jpg" align="right" />][1]
+APC杂志就<a href="http://www.mozilla.org.cn" target="_blank">Mozilla</a>开发移动版本Firefox浏览器的计划采访了Mozilla的CEO Mitchell Baker.[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/firefox-mobile.jpg" title="firefox-mobile.jpg" alt="firefox-mobile.jpg" align="right" />][1]
 
 Baker表示开发者们正在为移动浏览器紧张地工作中,但是,这是一个很长的过程,用户们不能期待能够在短时间内看到什么成果.尽管<a href="http://www.mozilla.org/projects/minimo/" target="_blank">Minimo Project</a>也是基于Mozilla,但是它并不是官方的产品,而且它还离Opera有一段不小的距离.
 

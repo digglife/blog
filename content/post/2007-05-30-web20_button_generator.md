@@ -35,7 +35,7 @@ tags:
 
 3.**<a target="_blank" href="http://www.mycoolbutton.com/">MyCoolButton</a>**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdigglifebutton3.png"><img width="200" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdigglifebutton-thumb1.png" height="70" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdigglifebutton3.png"><img width="200" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdigglifebutton-thumb1.png" height="70" /></a>
 
 已经在前天的文章<a target="_blank" href="https://www.digglife.net/articles/generate-web20-button-online.html">在线制作Web2.0风格按钮</a>中介绍过.
 
@@ -43,7 +43,7 @@ tags:
 
 4.**<a target="_blank" href="http://www.netdenizen.com/buttonmill/glassy.php">Glassy Buttons</a>**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fbutton-02.gif"><img width="200" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fbutton-0-thumb.gif" height="60" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fbutton-02.gif"><img width="200" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fbutton-0-thumb.gif" height="60" /></a>
 
 玻璃效果按钮生成器,自定义选项也很多,你甚至可以自己上传字体和背景图片.
 
@@ -51,7 +51,7 @@ tags:
 
 **<a target="_blank" href="http://www.ajaxload.info/">Ajax Loader</a>**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fajaxloader2.png"><img width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fajaxloader-thumb.png" height="105" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fajaxloader2.png"><img width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fajaxloader-thumb.png" height="105" /></a>
 
 当你认为访客可能会因为页面加载变得不耐烦而你又无法提高其速度时,最好的办法就是放一个动画进度条,然后&#8230;让他们更烦&#8230;^_^.
   
@@ -61,13 +61,13 @@ tags:
 
 **1.<a target="_blank" href="http://h-master.net/web2.0/index.php">Web 2.0 Logo Creatr</a>**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368freflectdigglifebeta2.png"><img width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368freflectdigglifebeta-thumb.png" height="96" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368freflectdigglifebeta2.png"><img width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368freflectdigglifebeta-thumb.png" height="96" /></a>
 
 这一款是我最喜欢的.因为它非常简单,而且效果很不错.
 
 **2.<a target="_blank" href="http://web2.0stylr.com/stylr.aspx">Web 2.0 Stylr</a>**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdigglife23.png"><img width="230" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdigglife2-thumb1.png" height="80" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdigglife23.png"><img width="230" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdigglife2-thumb1.png" height="80" /></a>
 
 这个也不错,你可以选择字体,颜色和渐变,同时还可以加上自己的图片Logo.
   
@@ -79,7 +79,7 @@ tags:
 
 **1.<a target="_blank" href="http://tools.blogflux.com/buttonmaker/">BlogFlux Button Maker</a>**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdiggliferss-random13.gif"><img width="80" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdiggliferss-random1-thumb1.gif" height="15" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdiggliferss-random13.gif"><img width="80" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368fdiggliferss-random1-thumb1.gif" height="15" /></a>
 
 **2.<a target="_blank" href="http://kalsey.com/tools/buttonmaker/">Button Maker</a>**
 
@@ -99,7 +99,7 @@ tags:
 
 **彩砖设计工具**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368ftilemachine2.png"><img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368ftilemachine-thumb.png" height="271" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368ftilemachine2.png"><img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368ftilemachine-thumb.png" height="271" style="border-width: 0px" /></a>
 
 **2.<a target="_blank" href="http://lab.rails2u.com/bgmaker/">Background image maker</a>**
 
@@ -119,12 +119,12 @@ tags:
 
 **<a target="_blank" href="http://www.web20generator.com/">Web 2.0 Generator</a>**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368flayout22.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368flayout2-thumb1.png" height="172" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368flayout22.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter15-1368flayout2-thumb1.png" height="172" /></a>
 
 其实我也没有想到还有这样的生成器.你只需要设置背景颜色,布局颜色,网站标题就可以了,整站代码提供下载.
 
 翻译改写自:<a target="_blank" href="http://mashable.com/2007/05/28/generators">Mashable!</a>
 
- [1]: http://digglife.qiniudn.com/qiniu/785/image/bdce20faed2b10f782f2591185a0a118.png
- [2]: http://digglife.qiniudn.com/qiniu/785/image/6d52cf5f65cb2cd7ee4e9eb864c571e8.png
- [3]: http://digglife.qiniudn.com/qiniu/785/image/d9072216f6c11e1c3d100d5a15351e99.png
+ [1]: https://www.digglife.net/qiniu/785/image/bdce20faed2b10f782f2591185a0a118.png
+ [2]: https://www.digglife.net/qiniu/785/image/6d52cf5f65cb2cd7ee4e9eb864c571e8.png
+ [3]: https://www.digglife.net/qiniu/785/image/d9072216f6c11e1c3d100d5a15351e99.png

@@ -48,7 +48,7 @@ tags:
   - 视频
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtubelogo1.gif"><img align="right" width="123" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/youtubelogo-thumb1.gif" alt="youtubelogo" height="63" /></a> Youtube带来了在线视频的新时代,每天都有成千上万个视频被上传和分享,下面我们来看看自Youtube开站一来播放次数最多的视频片段.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtubelogo1.gif"><img align="right" width="123" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtubelogo-thumb1.gif" alt="youtubelogo" height="63" /></a> Youtube带来了在线视频的新时代,每天都有成千上万个视频被上传和分享,下面我们来看看自Youtube开站一来播放次数最多的视频片段.
 
 **1.** <a target="_blank" href="http://www.youtube.com/watch?v=dMH0bHeiRNg"><strong>Evolution Of Dance</strong></a>
 
@@ -65,7 +65,7 @@ tags:
 
 **4.**<a target="_blank" href="http://www.youtube.com/watch?v=QjA5faZF1A8"><strong>Guitar</strong></a>**.**一个天才小伙弹吉他的视频,播放次数2千多万.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtube-topvideos.jpg"><img width="403" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/youtube-topvideos-thumb.jpg" alt="youtube_topvideos" height="232" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtube-topvideos.jpg"><img width="403" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/youtube-topvideos-thumb.jpg" alt="youtube_topvideos" height="232" /></a>
 
 **5.** [**SNL &#8211; Digital Short &#8211; A Special Christmas Box**][2] .NBC的搞笑片段
 

@@ -50,19 +50,19 @@ tags:
 
   * **可选的搜索结果查看方式:**相比之前**新增了Info View**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="319" alt="experimental" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/experimental-thumb.png" width="450" />][1] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="319" alt="experimental" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/experimental-thumb.png" width="450" />][1] 
 
   * **键盘快捷键:**使用键盘快捷键浏览搜索结果
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="299" alt="experimental2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/experimental2-thumb.png" width="450" />][2] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="299" alt="experimental2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/experimental2-thumb.png" width="450" />][2] 
 
   * **左侧栏搜索导航:**将所有搜索类型放在左侧栏.&nbsp; 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="277" alt="experimental3" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/experimental3-thumb.png" width="450" />][3] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="277" alt="experimental3" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/experimental3-thumb.png" width="450" />][3] 
 
   * **右侧栏搜索导航:**和左侧栏相比更加侧重于相关搜索,搜索分类和相关搜索链接都放在一个方形框内.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="260" alt="experimental4" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/experimental4-thumb1.png" width="450" />][4] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="260" alt="experimental4" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/experimental4-thumb1.png" width="450" />][4] 
 
 来自<a title="Google OS" href="http://googlesystem.blogspot.com/2007/10/join-google-search-experiment.html" target="_blank">Google OS</a>
 

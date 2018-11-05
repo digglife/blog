@@ -28,6 +28,6 @@ tags:
 
 **免责声明**:如果导致Google爬虫索引你脑袋里的内容,在下不负任何责任.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/geekearings.jpg"><img width="430" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/geekearings-thumb.jpg" alt="geekearings" height="346" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/geekearings.jpg"><img width="430" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/geekearings-thumb.jpg" alt="geekearings" height="346" /></a>
 
 来自于<a target="_blank" href="http://www.etsy.com/view_listing.php?listing_id=6045947">Etsy</a>.很遗憾的是,他们不提供发货到中国.不过也不要紧,这种东西还是比较好做的.我决定给我的T-shirt的两边袖子上印body标签.嗯,鞋子上贴Footer也不错.^_^

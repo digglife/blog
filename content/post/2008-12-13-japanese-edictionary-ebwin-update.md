@@ -32,7 +32,7 @@ tags:
 
 DiggLife上有一篇“经久不衰”的日志就是介绍桌面词典EBWin和移动版(PPC&WinCE)词典EBPocket的，有兴趣的朋友可以查看<a title="PPC:EBPocket(EBWin)日文字典下载安装和使用教程" href="https://www.digglife.net/articles/ebpocket-ebwin.html" target="_blank">EBPocket(EBWin)日文字典下载安装和使用教程</a>，里面详细介绍了安装注意事项和使用方法，还提供了大量日文字典文件的下载。
 
-<img class="alignnone" title="日文桌面词典EBWin" src="http://digglife.qiniudn.com/wp-content/uploads/archive/ebwin.png" alt="" width="400" height="267" />
+<img class="alignnone" title="日文桌面词典EBWin" src="https://www.digglife.net/wp-content/uploads/archive/ebwin.png" alt="" width="400" height="267" />
 
 我之前一直使用的是EBWin 2.10，现在的正式版其实是2.13，3.00目前还只是Beta版本，下面介绍一下V3.00带来的新功能：
 

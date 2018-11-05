@@ -30,7 +30,7 @@ tags:
   - 魔兽世界
 
 ---
-这样疯狂的试验性活动相信在未来会越来越多,<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/logo-top.jpg"><img align="right" width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/logo-top-thumb.jpg" alt="logo_top" height="58" /></a>在iPhone上玩WOW只是小小的开始而已.但是,如果这就是iPhone游戏的未来的话,那样用户得要多大的耐心啊,单单看这个视频就已经让人非常火大了.
+这样疯狂的试验性活动相信在未来会越来越多,<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/logo-top.jpg"><img align="right" width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/logo-top-thumb.jpg" alt="logo_top" height="58" /></a>在iPhone上玩WOW只是小小的开始而已.但是,如果这就是iPhone游戏的未来的话,那样用户得要多大的耐心啊,单单看这个视频就已经让人非常火大了.
 
 作者试图通过点击NPC对话和发送游戏内消息来证明自己的确接入了艾泽拉斯,但是游戏的操作却没有任何体现,我们甚至没有看到人物动过.至于是真是假,我们先来看看作者的实现方法:他使用了一个主要用于传送电脑视频流到iPhone的程序[Telekinesis][1],而且似乎游戏也并没有采取特殊的方式接入iPhone.至少这个说法是很难让人相信的,除非作者把所有的操作步骤作成视频或者写成文章发布.
 

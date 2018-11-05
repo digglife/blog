@@ -19,7 +19,7 @@ tags:
   - 电子杂志
 
 ---
- <img src="http://digglife.qiniudn.com/qiniu/1324/image/061ddf72ca5004828e459ab73ca04567.png" align="right" />Full Circle杂志于美国时间26日发布了第3期.[Full Circle][1]是[Ubuntu][2]社区共同撰写发布的电子杂志,内容包括Ubuntu操作系统,开源技术等内容.更多详细信息看另外一篇日志:[Ubuntu电子杂志《Full Circle》第1期上线][3].
+ <img src="https://www.digglife.net/qiniu/1324/image/061ddf72ca5004828e459ab73ca04567.png" align="right" />Full Circle杂志于美国时间26日发布了第3期.[Full Circle][1]是[Ubuntu][2]社区共同撰写发布的电子杂志,内容包括Ubuntu操作系统,开源技术等内容.更多详细信息看另外一篇日志:[Ubuntu电子杂志《Full Circle》第1期上线][3].
 
 第三期主要内容:
 
@@ -37,7 +37,7 @@ tags:
 
 
   
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/full-circle-cover3.png" atomicselection="true"><img height="584" alt="full-circle-cover3" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/full-circle-cover3-thumb.png" width="412" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/full-circle-cover3.png" atomicselection="true"><img height="584" alt="full-circle-cover3" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/full-circle-cover3-thumb.png" width="412" /></a> 
 
 封面&#8221;人物&#8221;是最近Ubuntu世界的热点话题之一Compiz Fusion.&#8221;**Compiz+Beryl=眼糖过载**&#8220;,这个标语够出色~~哈哈.(Eye Candy:多指视觉效果.<a href="http://en.wikipedia.org/wiki/Eye_candy" target="_blank">Wikipedia解释</a>)
 

@@ -27,13 +27,13 @@ tags:
   - 软件
 
 ---
-一段CSS代码是否同时兼容多个浏览器是衡量该代码设计是否成功的一个重要因素.<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/sitevista.png" atomicselection="true"><img height="29" alt="sitevista" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/sitevista-thumb.png" width="187" align="right" /></a> 因此编辑某个CSS代码的时候,即时测试兼容性就非常必要了.免费软件<a href="http://sitevista.com/cssvista/" target="_blank">CSSVista</a>能够让你在编辑CSS代码的同时,在侧边栏预览CSS代码在IE6和Firefox下的显示效果.
+一段CSS代码是否同时兼容多个浏览器是衡量该代码设计是否成功的一个重要因素.<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/sitevista.png" atomicselection="true"><img height="29" alt="sitevista" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/sitevista-thumb.png" width="187" align="right" /></a> 因此编辑某个CSS代码的时候,即时测试兼容性就非常必要了.免费软件<a href="http://sitevista.com/cssvista/" target="_blank">CSSVista</a>能够让你在编辑CSS代码的同时,在侧边栏预览CSS代码在IE6和Firefox下的显示效果.
 
 CSSVista界面内一共有三个模块,一个CSS编辑区域,IE6预览窗口和<a href="https://www.digglife.net/articles/category/firefox/" target="_blank">Firefox</a>预览窗口.在软件地址栏输入URL,点击Edit CSS,它会自动获取该网页上所有的CSS代码文件,并将界面拆分为三栏.它还支持查看在800\*600和1024\*768两种分辨率下的显示效果,并且能够高亮标记网页中的各种元素.
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/cssvista.png" atomicselection="true"><img height="373" alt="CSSVista" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/cssvista-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/cssvista.png" atomicselection="true"><img height="373" alt="CSSVista" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/cssvista-thumb.png" width="450" /></a>
 
 注意:CSSVista需要<a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=0856EACB-4362-4B0D-8EDD-AAB15C5E04F5&displaylang=zh-cn" target="_blank">.Net Framework 2.0</a>支持.
 

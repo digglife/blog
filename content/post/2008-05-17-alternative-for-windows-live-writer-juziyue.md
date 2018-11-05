@@ -131,10 +131,10 @@ tags:
 
 以上内容部分在菊子曰编辑,最终通过Windows Live Writer发布.
 
- [1]: http://digglife.qiniudn.com/qiniu/2535/image/22c22f905695a3507235d765c16c0b5f.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2535/image/c4a2281dfbe6758d9d84cdf0183d54a9.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2535/image/b770e87c7871b8a29044820315897111.jpg
- [4]: http://digglife.qiniudn.com/qiniu/2535/image/2aa536fc9d56fe0d0525306091e98acf.jpg
- [5]: http://digglife.qiniudn.com/qiniu/2535/image/c2e82783ccdd75004d4e410be57258c1.jpg
- [6]: http://digglife.qiniudn.com/qiniu/2535/image/c6f9b080685ff1e481ce71743422a5e6.jpg
- [7]: http://digglife.qiniudn.com/qiniu/2535/image/6588463404491d024865fdfb411bdaa8.jpg
+ [1]: https://www.digglife.net/qiniu/2535/image/22c22f905695a3507235d765c16c0b5f.jpg
+ [2]: https://www.digglife.net/qiniu/2535/image/c4a2281dfbe6758d9d84cdf0183d54a9.jpg
+ [3]: https://www.digglife.net/qiniu/2535/image/b770e87c7871b8a29044820315897111.jpg
+ [4]: https://www.digglife.net/qiniu/2535/image/2aa536fc9d56fe0d0525306091e98acf.jpg
+ [5]: https://www.digglife.net/qiniu/2535/image/c2e82783ccdd75004d4e410be57258c1.jpg
+ [6]: https://www.digglife.net/qiniu/2535/image/c6f9b080685ff1e481ce71743422a5e6.jpg
+ [7]: https://www.digglife.net/qiniu/2535/image/6588463404491d024865fdfb411bdaa8.jpg

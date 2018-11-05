@@ -26,7 +26,7 @@ tags:
 ---
 我算是服了美国人了.这个像来自科幻电影的坦克在[亚马逊][1]上以[19999.95美元的超高报价][2]出卖.如此东东竟然能够在网上商店公开拍卖,不愧为号称全世界最自由的国度美国.这个大家伙完全制作完成据说花费了1~2月,卖出这样的价格也算是情理当中吧.
 
-[<img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/amazon-tank-thumb.png" alt="amazon-tank" height="370" />][3]
+[<img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/amazon-tank-thumb.png" alt="amazon-tank" height="370" />][3]
 
 <!--more-->
 
@@ -36,15 +36,15 @@ tags:
 
 车身也有装饰用的彩灯,在夜里看去更加像是科幻小说里面的作品.
 
-[<img width="350" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/31gc7xaqx0l.-ss400-thumb.jpg" alt="31GC7XAQX0L._SS400_" height="280" />][4]
+[<img width="350" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/31gc7xaqx0l.-ss400-thumb.jpg" alt="31GC7XAQX0L._SS400_" height="280" />][4]
 
 内部构造,还真是简陋啊,主人竟然还像模像样地戴了一个Moto头盔
 
-[<img width="350" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/41sjsg8a0vl.-ss400-thumb.jpg" alt="41SJSG8A0VL._SS400_" height="284" />][5]
+[<img width="350" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/41sjsg8a0vl.-ss400-thumb.jpg" alt="41SJSG8A0VL._SS400_" height="284" />][5]
 
 最后,搞笑的事情来了,这个坦克的相关商品中竟然有奇基塔香蕉和加利福尼亚无籽葡萄?为什么?发挥一下你的想象力,在评论中告诉我吧.
 
-[<img width="400" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/amazon-tank02-thumb.jpg" alt="amazon_tank02" height="300" />][6]
+[<img width="400" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/amazon-tank02-thumb.jpg" alt="amazon_tank02" height="300" />][6]
 
 来自[GIGAZINE][7]
 

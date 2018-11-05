@@ -37,7 +37,7 @@ Windows 7的正式公开亮相应该是本年度底业界最有眼球吸引力�
 这个革命性的任务栏也许是Windows开发人员最能引以为豪的得意之作，尽管借鉴了<a title="Leopard" href="https://www.digglife.net/articles/tag/leopard" target="_blank">Mac OS X</a>上Dock的概念，但是在Windows上本土化得很好，并且新增了诸如**Jump List**之类的概念，所以还是比较有创意的。我们现在能够用到的，只是一个不完全版的任务栏，Jump List和桌面预览功能都无法体验到。不过这个工具栏在多窗口管理和寻找程序打开历史方面相比现有的这个任务栏还是方便不少。
 
 <div id="attachment_2698" style="width: 622px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/taskbar.gif"><img class="size-full wp-image-2698 " title="Windows 7任务栏" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/taskbar.gif" alt="Windows 7 Build 6801下的任务栏有很多功能缺失" width="612" height="180" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/taskbar.gif"><img class="size-full wp-image-2698 " title="Windows 7任务栏" src="https://www.digglife.net/wp-content/uploads/2008/11/taskbar.gif" alt="Windows 7 Build 6801下的任务栏有很多功能缺失" width="612" height="180" /></a>
   
   <p class="wp-caption-text">
     Windows 7 Build 6801下的任务栏有很多功能缺失
@@ -47,7 +47,7 @@ Windows 7的正式公开亮相应该是本年度底业界最有眼球吸引力�
  而改进后的状态栏也非常不错，我记得之前我还介绍过<a title="重排任务栏窗口和托盘图标工具Taskbar Shuffle" href="https://www.digglife.net/articles/rearrange-taskbar-and-system-tray-with-taskbar-shuffle.html" target="_blank">一个能够任意拖拽状态栏图标的软件</a>，而Windows 7已经内置了更好的状态栏管理，排列和隐藏都非常方便。
 
 <div id="attachment_2701" style="width: 206px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/statusbar.gif"><img class="size-full wp-image-2701" title="Windows 7状态栏" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/statusbar.gif" alt="可以通过拖拽来排列通知区域图标" width="196" height="155" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/statusbar.gif"><img class="size-full wp-image-2701" title="Windows 7状态栏" src="https://www.digglife.net/wp-content/uploads/2008/11/statusbar.gif" alt="可以通过拖拽来排列通知区域图标" width="196" height="155" /></a>
   
   <p class="wp-caption-text">
     可以通过拖拽来排列通知区域图标
@@ -57,7 +57,7 @@ Windows 7的正式公开亮相应该是本年度底业界最有眼球吸引力�
 Windows 7的网络连接管理的易用性相比之前是大有改善，不过和<a title="Ubuntu 8.10我体验到的新功能" href="https://www.digglife.net/articles/ubuntu-810-new-features.html" target="_blank">Ubuntu 8.10</a>相比感觉还是差了点，至少我没办法在状态栏从无线切换到有线。
 
 <div id="attachment_2705" style="width: 343px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/wireless.gif"><img class="size-full wp-image-2705" title="Windows 7的无线管理" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/wireless.gif" alt="在状态栏即可查看和切换无线网络" width="333" height="407" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/wireless.gif"><img class="size-full wp-image-2705" title="Windows 7的无线管理" src="https://www.digglife.net/wp-content/uploads/2008/11/wireless.gif" alt="在状态栏即可查看和切换无线网络" width="333" height="407" /></a>
   
   <p class="wp-caption-text">
     在状态栏即可查看和切换无线网络
@@ -71,7 +71,7 @@ Windows 7的网络连接管理的易用性相比之前是大有改善，不过�
 Windows Solution Center是Windows安全中心的升级版本，除了包含以前的安全中心之外，还添加了系统维护（Maintenance）、问题解决（Trouble Shooting）和系统恢复（Systems Restore）。其中**“问题解决”模块估计都还在开发当中**，所以其下的所有功能都无法使用（显示为This parameter is incorrect）。这些新增的功能能否有效的帮助用户解决系统故障、提高系统的稳定性还有待以后的观察，至少，这个解决中心是非常必要的。
 
 <div id="attachment_2702" style="width: 589px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/solution-center.gif"><img class="size-full wp-image-2702 " title="Windows 7的Windows Solution Center" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/solution-center.gif" alt="新增的Trouble Shooting还无法使用" width="579" height="380" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/solution-center.gif"><img class="size-full wp-image-2702 " title="Windows 7的Windows Solution Center" src="https://www.digglife.net/wp-content/uploads/2008/11/solution-center.gif" alt="新增的Trouble Shooting还无法使用" width="579" height="380" /></a>
   
   <p class="wp-caption-text">
     新增的Trouble Shooting还无法使用
@@ -81,7 +81,7 @@ Windows Solution Center是Windows安全中心的升级版本，除了包含以�
 Vista引入UAC本来是一件好事情，但是由于体验太差，最终成为一个被无数人诟病的大败笔。于是微软在Windows 7中已经了专门的UAC设置组件。
 
 <div id="attachment_2704" style="width: 614px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2704 " title="Windows 7的用户帐户管理" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/uac.gif" alt="4个UAC等级可供用户选择" width="604" height="606" />
+  <img class="size-full wp-image-2704 " title="Windows 7的用户帐户管理" src="https://www.digglife.net/wp-content/uploads/2008/11/uac.gif" alt="4个UAC等级可供用户选择" width="604" height="606" />
   
   <p class="wp-caption-text">
     4个UAC等级可供用户选择
@@ -97,7 +97,7 @@ Windows 7在默认状态下只在有程序试图对Windows设置做出改变的�
 Library文件夹和Mac OS里面的智能列表类似，方便对电脑和移动设备中文件进行**集中管理**，直接将硬盘或者移动设备中的文档、图片、视频、音乐文件夹链接到这里就可以随时进行搜索和管理了，和Home Group结合起来使局域网的分享更加方便。这是一个非常不错的改进。
 
 <div id="attachment_2708" style="width: 610px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2708 " title="Windows 7 Library和增强型全能搜索" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/search-library.gif" alt="搜索框下的过滤提示是一个很贴心的改进" width="600" height="370" />
+  <img class="size-full wp-image-2708 " title="Windows 7 Library和增强型全能搜索" src="https://www.digglife.net/wp-content/uploads/2008/11/search-library.gif" alt="搜索框下的过滤提示是一个很贴心的改进" width="600" height="370" />
   
   <p class="wp-caption-text">
     搜索框下的过滤提示是一个很贴心的改进

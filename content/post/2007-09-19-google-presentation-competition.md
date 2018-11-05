@@ -42,31 +42,31 @@ tags:
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/slideshare1.gif" target="_blank"><img id="id" height="287" alt="slideshare" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/slideshare-thumb.gif" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/slideshare1.gif" target="_blank"><img id="id" height="287" alt="slideshare" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/slideshare-thumb.gif" width="450" border="0" /></a> 
 
 **1.**<a title="演示文稿共享SlideShare" href="http://www.slideshare.net" target="_blank"><strong>SlideShare</strong></a>可以让你免注册同时上传多个PPT,PDF和Open Office的演示文稿.文件大小的上限为30MB.你可以在一个Flash中查看上传的演示文稿,但是无法切换到特定的幻灯片,也无法使用键盘快捷键.SlideShare的界面和Youtube非常相似,所以你会发现这里有很多类似视频分享网站的功能(评论,标签,群组,星标,状态,嵌入代码等),同时你也可以下载这些演示文稿.但是SlideShare不提供文稿编辑功能,所以如果你只是想给你的演示文稿添加一个在线副本以便和其他人分享的话,这个简单的在线程序是个不错的选择.
 
 &#xA0;
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/preezo.png" target="_blank"><img id="id" height="261" alt="preezo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/preezo-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/preezo.png" target="_blank"><img id="id" height="261" alt="preezo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/preezo-thumb.png" width="450" border="0" /></a> 
 
 **2.**<a title="演示文稿编辑Preezo" href="http://preezo.com" target="_blank"><strong>Preezo</strong></a>支持简单的演示文稿编辑,但是不支持导入Powerpoint文件.它的界面非常简洁,也有很多编辑选项,不过它不支持协同编辑,另外,你无法搜索演示文稿中的文本,也无法导出.不过它可以很方便地发布或者嵌入到网站上.
 
 &#xA0;
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/spresent.png" target="_blank"><img id="id" height="205" alt="spresent" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/spresent-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/spresent.png" target="_blank"><img id="id" height="205" alt="spresent" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/spresent-thumb.png" width="450" border="0" /></a> 
 
 **3.**[**Spresent**][1]提供了一个高级的矢量图动画界面,让你可以创制漂亮的图表,表格和图形.界面基于Adobe Flash开发工具.
 
 &#xA0;
 
-&#xA0;<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/zoho-show.png" target="_blank"><img id="id" height="245" alt="zoho-show" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/zoho-show-thumb.png" width="450" border="0" /></a> 
+&#xA0;<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/zoho-show.png" target="_blank"><img id="id" height="245" alt="zoho-show" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/zoho-show-thumb.png" width="450" border="0" /></a> 
 
 &#xA0;
 
 **4.**[**Zoho Show**][2]可以导入10MB以内的演示文稿,不过编辑功能却不尽如人意.Zoho Show的演示文稿功能是Zoho Office套件里面最弱的一环.你可以添加图形,箭头标记,也可以更改文档格式.尽管Zoho声称可以协同编辑,不过这个功能却并不完善.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/thinkfree-pres.png" target="_blank"><img id="id" height="270" alt="thinkfree-pres" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/thinkfree-pres-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/thinkfree-pres.png" target="_blank"><img id="id" height="270" alt="thinkfree-pres" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/thinkfree-pres-thumb.png" width="450" border="0" /></a> 
 
 **5.**[**ThinkFree Show**][3]同样支持10MB以内的文件上传,与其他在线演示文稿不同的是,它拥有快速编辑和高级编辑两种模式,后者使用了Java Applet.这个Java小程序的界面和微软的Powerpoint 2003非常相似,不过功能和响应速度却比较糟糕.你可以和其他用户协同编辑,不过无法即时看到文档的更改.
 

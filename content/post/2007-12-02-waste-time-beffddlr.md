@@ -38,7 +38,7 @@ Befuddlr已经提供了很多Flickr群组图片,你可以选择各种图片进�
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/befuddlr.png" target="_blank"><img height="318" alt="befuddlr" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/befuddlr-thumb.png" width="318" border="0" /></a>&#160;
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/befuddlr.png" target="_blank"><img height="318" alt="befuddlr" src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/befuddlr-thumb.png" width="318" border="0" /></a>&#160;
 
 这种游戏还是适合无聊的时候打发时间,平时就不要拿这种游戏考验自己的智商了.
 

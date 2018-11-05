@@ -29,7 +29,7 @@ tags:
 
 首先确认 termsrv.dll 的版本号。2014年7月微软发布了一个远程桌面服务相关的补丁，文件版本从 v6.3.9600.16384 更新到了 v6.3.9600.17095，需要修改的 code 不一样。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/08/termsrv.png" alt="远程桌面服务termsrv.dll" width="452" height="318" class="alignnone size-full wp-image-3825" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/08/termsrv.png" alt="远程桌面服务termsrv.dll" width="452" height="318" class="alignnone size-full wp-image-3825" />
 
 在修改或者替换termsrv.dll 之前，需要先停止远程桌面服务。可以通过 `services.msc` 调出服务控制台，找到 `Remote Desktop Service` 选择停止。也可以直接使用管理员权限执行命令 `net stop termservice`。系统会提示依赖服务RPC同样会被停止，确定。
 

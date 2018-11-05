@@ -30,7 +30,7 @@ tags:
 
 浏览器托盘中的NoteBook.
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/GoogleNote_CF51/LiteNote%5B26%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="199" src="http://digglife.qiniudn.com/qiniu/26/image/3ad047f2e1d9b86150c8d3e7ae0b65d1.jpg" width="350" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/GoogleNote_CF51/LiteNote%5B26%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="199" src="https://www.digglife.net/qiniu/26/image/3ad047f2e1d9b86150c8d3e7ae0b65d1.jpg" width="350" border="0" /></a> 
 
 &nbsp;
 
@@ -38,7 +38,7 @@ tags:
 
 &nbsp;
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/GoogleNote_CF51/IndeNote%5B7%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="237" src="http://digglife.qiniudn.com/qiniu/26/image/c1041e5c512e84f1c125bf335532ca64.png" width="357" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/GoogleNote_CF51/IndeNote%5B7%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="237" src="https://www.digglife.net/qiniu/26/image/c1041e5c512e84f1c125bf335532ca64.png" width="357" border="0" /></a> 
 
 &nbsp;
 

@@ -31,5 +31,5 @@ Tab Scope预览还提供导航功能(前进,后退,刷新,停止),同时还支�
   
 <a href="https://addons.mozilla.org/en-US/firefox/addon/4882" target="_blank">下载Tab Scope</a>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/tabpreview.thumbnail.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/tabpreview.thumbnail.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/tabpreview.png "tabpreview.png"

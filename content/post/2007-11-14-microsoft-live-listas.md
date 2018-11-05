@@ -49,7 +49,7 @@ tags:
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/listas.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/listas-thumb.png" border="0" alt="listas" width="450" height="307" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/listas.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/listas-thumb.png" border="0" alt="listas" width="450" height="307" /></a>
 
 Listas与Google Notebook最大的不同在于其社会性,在Listas页面下除了自己的笔记之外,你还可以看到朋友的笔记链接,Listas社区成员的笔记链接,或者通过侧边的标签云迅速查找自己感兴趣的笔记.通过设置笔记的权限(私人,公开,公开并可写)就可以和朋友进行分享并合作编辑了.
 

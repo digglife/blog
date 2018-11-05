@@ -27,13 +27,13 @@ tags:
   - google reader
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/google-reader-logo.jpg" atomicselection="true"><img height="40" alt="Google Reader logo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/google-reader-logo-thumb.jpg" width="145" align="right" /></a> 阅读RSS订阅的时候,你可以通过这个<a href="http://greasespot.net/" target="_blank">Greasemonkey</a>脚本在Google Reader内部的一个iframe中打开并查看原文,免去了每次都要在新窗口或者新标签打开的麻烦.安装<a href="http://userscripts.org/scripts/show/9455" target="_blank">这段Greasemonkey代码</a>之后,当你在Google Reader中阅读文章的时候,只需要点击文章标题或者点击文章底部功能按钮区域的**Preview**,就可以在内部进行原文预览了.当然,如果你是快捷键爱好者,还可以直接按下组合键**Shift+V**.如果你想在新标签内打开,按下**字母键V**或者中键点击标题.
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/google-reader-logo.jpg" atomicselection="true"><img height="40" alt="Google Reader logo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/google-reader-logo-thumb.jpg" width="145" align="right" /></a> 阅读RSS订阅的时候,你可以通过这个<a href="http://greasespot.net/" target="_blank">Greasemonkey</a>脚本在Google Reader内部的一个iframe中打开并查看原文,免去了每次都要在新窗口或者新标签打开的麻烦.安装<a href="http://userscripts.org/scripts/show/9455" target="_blank">这段Greasemonkey代码</a>之后,当你在Google Reader中阅读文章的时候,只需要点击文章标题或者点击文章底部功能按钮区域的**Preview**,就可以在内部进行原文预览了.当然,如果你是快捷键爱好者,还可以直接按下组合键**Shift+V**.如果你想在新标签内打开,按下**字母键V**或者中键点击标题.
 
 <!--more-->
 
 
   
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/in-reader.png" atomicselection="true"><img height="303" alt="in_reader" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/in-reader-thumb.png" width="450" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/in-reader.png" atomicselection="true"><img height="303" alt="in_reader" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/in-reader-thumb.png" width="450" /></a> 
 
 我感觉这还是很不错的一个功能.
 

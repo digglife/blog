@@ -74,7 +74,7 @@ tags:
 
 不知道大家一般使用什么转换软件呢,如果比上面的方法更加简单,不妨在留言中告诉我,我会随时修订这篇文章.
 
- [1]: http://digglife.qiniudn.com/qiniu/2540/image/73a7c1b8670840bd3646bc5b49064916.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2540/image/0dbe353667b965214a944440ae1799df.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2540/image/10f29a90f6f389acc7dca19230964a3f.jpg
- [4]: http://digglife.qiniudn.com/qiniu/2540/image/2bbb6e9ddcfb7be16792921ba3552c0d.jpg
+ [1]: https://www.digglife.net/qiniu/2540/image/73a7c1b8670840bd3646bc5b49064916.jpg
+ [2]: https://www.digglife.net/qiniu/2540/image/0dbe353667b965214a944440ae1799df.jpg
+ [3]: https://www.digglife.net/qiniu/2540/image/10f29a90f6f389acc7dca19230964a3f.jpg
+ [4]: https://www.digglife.net/qiniu/2540/image/2bbb6e9ddcfb7be16792921ba3552c0d.jpg

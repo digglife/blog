@@ -77,7 +77,7 @@ tags:
   2.如果你在GNOME桌面环境下,按下Alt+F2,输入&#8221;gegls From&nbsp;outer space&#8221;.你会看到一个躲避牛奶滴的小游戏(不就是奶牛么,还说什么是外空入侵者,哈&#8221;).
 </p>
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/ubuntu-cow.png" border="0" />
+<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ubuntu-cow.png" border="0" />
 
 <p align="left">
   同样是按下Alt+F2呼出&#8221;运行应用程序&#8221;窗口,输入&#8221;free the fish&#8221;.屏幕上会出现在上面游戏中出现的哪条鱼(芳名wanda),左键点击Wandan,它会一溜烟闪出屏幕,过一会才会再出现.
@@ -95,7 +95,7 @@ tags:
   在OpenOffice电子表格的人意一栏输入&#8221;=Game(&#8220;starwars&#8221;)&#8221;,程序会弹出一个星战游戏.
 </p>
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/starwars.png" border="0" />
+<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/starwars.png" border="0" />
 
 <p align="left">
   &nbsp;
@@ -107,7 +107,7 @@ tags:
   &nbsp;
 </p>
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/starofficeteam.png" border="0" />
+<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/starofficeteam.png" border="0" />
 
 <p align="left">
   &nbsp;
@@ -125,7 +125,7 @@ tags:
   下面会出现一大列杜撰的Ubuntu发行日志,中文的那个有点惊世骇俗.
 </p>
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/release.png" border="0" />
+<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/release.png" border="0" />
 
 <p align="left">
   如果你还知道更多的彩蛋,不妨留言和大家一起分享.
@@ -141,5 +141,5 @@ tags:
   </p>
 </div>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/moo.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/08/moo.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/08/moo.png "moo.png"

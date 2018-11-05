@@ -20,7 +20,7 @@ tags:
   - 离线编辑
 
 ---
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/firefoxBLOGScribeFire_13DF5/scribefire%5B3%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="229" src="http://digglife.qiniudn.com/qiniu/23/image/d3025593849b3f3ebc2ea6a71f6c81a9.png" width="475" border="0" /></a>&nbsp;
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/firefoxBLOGScribeFire_13DF5/scribefire%5B3%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="229" src="https://www.digglife.net/qiniu/23/image/d3025593849b3f3ebc2ea6a71f6c81a9.png" width="475" border="0" /></a>&nbsp;
 
 ScribeFire是赫赫有名的[Performancing for Firefox][1]的后继者,让你可以直接在浏览器里编辑发布你的博客文章. 
 

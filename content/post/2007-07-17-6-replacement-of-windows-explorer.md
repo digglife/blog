@@ -41,7 +41,7 @@ tags:
 
 TC无疑是替代Windows Explorer的首选.一般的文件操作当然不在话下,它还支持文件内容比较,同步文件夹,批量重命名文件、分割合并文件、创建/检查文件校验 (MD5/SFV) 等实用功能.内置多种压缩格式的压缩和解压功能,通过菜单和工具栏还可以调用各种外部命令,安装多种插件之后还可以实现更加强大的功能.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/tc7.01.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/tc7.01-thumb.png" alt="TC7.01" height="337" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/tc7.01.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/tc7.01-thumb.png" alt="TC7.01" height="337" /></a>
 
 下载:[7.01汉化增强版][2](来自霏凡软件)
 
@@ -67,7 +67,7 @@ XYPlorer是一个多标签的文件管理工具,它拥有强大的文件搜索,�
 
 ExplorerXP是一个短小精悍,运行迅速,而且完全免费的文件管理工具.和Windows Explorer不同的是,它可以显示每个文件夹的总容量,而且支持标签浏览多个文件夹.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mainscreen-small.png"><img width="404" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/mainscreen-small-thumb.png" alt="Mainscreen_small" height="342" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mainscreen-small.png"><img width="404" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mainscreen-small-thumb.png" alt="Mainscreen_small" height="342" /></a>
 
  [1]: http://www.ghisler.com/
  [2]: http://www.crsky.com/soft/959.html

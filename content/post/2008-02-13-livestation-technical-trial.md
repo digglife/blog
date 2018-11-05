@@ -30,7 +30,7 @@ tags:
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/livestation-thumb.png" style="border: 0px none " alt="livestation" border="0" height="406" width="411" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/livestation-thumb.png" style="border: 0px none " alt="livestation" border="0" height="406" width="411" />][1]
 
 目前频道列表里面只有7个频道,当然这可以理解.画面还算清晰,和大名鼎鼎的Joost有得一拼,缓冲速度尚可.其他就没什么好说的了.
 

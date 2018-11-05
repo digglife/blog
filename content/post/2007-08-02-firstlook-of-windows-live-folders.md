@@ -29,9 +29,9 @@ tags:
   - 评测
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wlflogo.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/wlflogo-thumb.png" alt="WLFLogo" align="right" height="48" width="240" /></a> Windows Live团队于美国太平洋时间上午10点暂时性开放了<a href="http://folders.live.com/" target="_blank">Windows Live Folders</a>的注册.昨天我快要睡觉的时候突然记起来,马上去开启了这个&#8221;万众瞩目&#8221;的服务.需要注意的是,你必需把**浏览器的语言的首选设置为en-US**.如果是Zh-CN会出现错误提示.截至目前为止,注册依然开放中.
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wlflogo.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wlflogo-thumb.png" alt="WLFLogo" align="right" height="48" width="240" /></a> Windows Live团队于美国太平洋时间上午10点暂时性开放了<a href="http://folders.live.com/" target="_blank">Windows Live Folders</a>的注册.昨天我快要睡觉的时候突然记起来,马上去开启了这个&#8221;万众瞩目&#8221;的服务.需要注意的是,你必需把**浏览器的语言的首选设置为en-US**.如果是Zh-CN会出现错误提示.截至目前为止,注册依然开放中.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/windows-live-folders-live.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/windows-live-folders-live-thumb.png" alt="windows-live-folders-live" height="241" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/windows-live-folders-live.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/windows-live-folders-live-thumb.png" alt="windows-live-folders-live" height="241" width="450" /></a>
 
 <!--more-->
 
@@ -39,16 +39,16 @@ tags:
 
 开启服务后你将会得到500MB的可用空间,单个文件限制为50MB.Windows Live Folders设置了3个区域:个人文件夹(Personal Folders),共享文件夹(Shared Folders),公开文件夹(Public Folders),权限设定很清楚.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/windows-live-folder-features.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/windows-live-folder-features-thumb.png" alt="windows-live-folder-features" height="316" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/windows-live-folder-features.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/windows-live-folder-features-thumb.png" alt="windows-live-folder-features" height="316" width="450" /></a>
 
 **Personal Folders**是私密空间,仅限个人访问,通过Change Permissions选项可以修改权限**Shared Folders**里面的文件可以和网友共享,当你在它的下面创建新文件夹时,可以在Live帐号的邮箱联系人中选择想要共享的好友,并能设置好友的详细读写权限(Reader和Contributor),和Windows下的共享设置一致.修改权限会直接影响文件夹的位置,比如我把Personal Folders下的Documents修改为任何人都可接入,那么Documents就自动移动到了**Public Folders**下.设置还是比较合理的.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/permissions.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/permissions-thumb.png" alt="permissions" height="337" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/permissions.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/permissions-thumb.png" alt="permissions" height="337" width="450" /></a>
 
 **上传速度和外链**
 
 总体来说速度一般,而且并不显示上传速度和进度,即便有那个可爱的撞球游戏,还是让人好等.不过在<a href="http://www.kenengba.com/post/200.html" target="_blank">国外优秀网盘一个接一个撞墙</a>的现状下,永不会被屏蔽的微软服务还是不错的.WLF最大的优越性就是有一个**&#8220;纯洁&#8221;的直接链接**,通过Send A Link可以发送,也可以直接复制下面的Web Address发布.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/link.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/link-thumb.png" alt="link" height="423" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/link.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/link-thumb.png" alt="link" height="423" width="450" /></a>
 
 Live系列发布了这么多产品,我真正常用的只有Windows Live Writer,其他都只是浅尝辄止而已,这个Windows Live Folder将会成为第二个常用产品.希望目前混乱不堪的Windows Live能够走好.

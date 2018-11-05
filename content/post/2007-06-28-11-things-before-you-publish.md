@@ -41,7 +41,7 @@ tags:
   - 博客
 
 ---
- <img align="right" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/wirter.gif" alt="wirter" />在<a target="_blank" href="http://windowslivewriter.spaces.live.com/">Windows Live Writer(WLW)</a>里面写完一篇日志提交之后,很多时候我都会忽然记起什么事情,然后不得不重新编辑然后重新发布.好在WLW<a target="_blank" href="https://www.digglife.net/articles/windows-live-writer-beta2-released.html">这个最新的Beta 2版本</a>很智能,能够自动从博客上抓取已发布的日志,当你重新编辑后发布时,它会自动比对然后修改在线日志,而不是重新发布.不过即便是这样,还是很浪费时间.
+ <img align="right" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wirter.gif" alt="wirter" />在<a target="_blank" href="http://windowslivewriter.spaces.live.com/">Windows Live Writer(WLW)</a>里面写完一篇日志提交之后,很多时候我都会忽然记起什么事情,然后不得不重新编辑然后重新发布.好在WLW<a target="_blank" href="https://www.digglife.net/articles/windows-live-writer-beta2-released.html">这个最新的Beta 2版本</a>很智能,能够自动从博客上抓取已发布的日志,当你重新编辑后发布时,它会自动比对然后修改在线日志,而不是重新发布.不过即便是这样,还是很浪费时间.
 
 这里有一个列表,在发布日志之前Check一下比较好.
 
@@ -49,7 +49,7 @@ tags:
   2. **检查链接是否有效**.如果链接不太重要还好,如果这个链接对理解文章很重要,或者是重要的下载地址的话,那会让读者很恼火.有一次WLW不知道为什么给我的链接前都加上了Page:,结果导致点击无法显示.
   3. **检查加入的图片是否必要,是否适合你的模板**.我个人非常喜欢加图片,现在发现有很多是完全没有必要的.如果你的图片太大,有时候会导致模板崩溃,比如会出现侧边栏全部显示在日志下方的情况. 使用WLW的可以使用Web预览功能检查.
   4. **确认插入的图片有标题和Alt属性.**
-  5. **检查日志是否设置类别,是否加上了关键字.**如果使用WLW,建议在选项中勾选&#8221;发布前提醒我指定标题,添加类别,添加Tag&#8221;三个选项. <img width="345" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/wlwalert.png" alt="WLwalert" height="169" />
+  5. **检查日志是否设置类别,是否加上了关键字.**如果使用WLW,建议在选项中勾选&#8221;发布前提醒我指定标题,添加类别,添加Tag&#8221;三个选项. <img width="345" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/wlwalert.png" alt="WLwalert" height="169" />
   6. **检查标题是否包含重要关键字.**
   7. **检查是否加入了消息来源链接.**这个对博客的信誉很重要.我有时候会忘记,曾经被Dogg.Salmon和一些人指责过^_^,所以每次什么都会忘记,加入原文链接不会忘记.
   8. **检查是否添加Trackback,**如果有必要的话.说个题外话,<a target="_blank" href="http://yo2.cn">Yo2</a>的Trackback还是发不出去.

@@ -29,21 +29,21 @@ tags:
   - 电影
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/3.jpg" target="_blank"><img height="318" alt="恶魔之箱" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/thumb3.jpg" width="424" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/3.jpg" target="_blank"><img height="318" alt="恶魔之箱" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/thumb3.jpg" width="424" border="0" /></a>
 
 <!--more-->
 
 此游戏将由大泉洋和堀北真希出演配音.由于「勇者斗恶龙9」的Level-5的开发，超级流行的「雷顿教授」系列第2弹「雷顿教授和恶魔之箱」(DS)的游戏画面已经公开.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/111.jpg" target="_blank"><img height="253" alt="11" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/11-thumb.jpg" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/111.jpg" target="_blank"><img height="253" alt="11" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/11-thumb.jpg" width="450" border="0" /></a> 
 
-<img height="318" alt="掘北真希23" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/23-thumb.jpg" width="424" border="0" />
+<img height="318" alt="掘北真希23" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/23-thumb.jpg" width="424" border="0" />
 
 &#160;
 
 「雷顿教授」系列讲述的是考古学者雷顿教授和助手叫ruku的少年，以解开各种各样的谜的游戏，由因畅销书「头之体操」而被晓为人知的多湖辉・千张大名誉教授主编。动画声部是由参加制作了「钢之炼金术师」「攻壳机动队 STAND ALONE COMPLEX 」等的PAworks担当。2月发售的第1弹「不可思议的城市」，销售量65万册。
 
-<img height="253" alt="4" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/4-thumb.jpg" width="450" border="0" />
+<img height="253" alt="4" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/4-thumb.jpg" width="450" border="0" />
 
 &#160;
 

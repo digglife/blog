@@ -23,7 +23,7 @@ tags:
 ---
 **TweakVI**是一个优化Windows Vista的免费软件.免费版本的TweakVI拥有功能强大的13个插件.其他的高级功能需要付费才能开启使用. 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritervistatweakviwindowsvista-e4c2tweakvi-m4.jpg" atomicselection="true"><img height="307" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewritervistatweakviwindowsvista-e4c2tweakvi-m-thumb2.jpg" width="450" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritervistatweakviwindowsvista-e4c2tweakvi-m4.jpg" atomicselection="true"><img height="307" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritervistatweakviwindowsvista-e4c2tweakvi-m-thumb2.jpg" width="450" /></a> 
 
 一些重要的功能: 
 

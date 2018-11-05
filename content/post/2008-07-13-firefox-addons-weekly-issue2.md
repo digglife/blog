@@ -61,11 +61,11 @@ Safari有许多不错的功能,比如地址栏进度条,可调整的文本框,�
 
 <a title="safari风格站内搜索扩展" href="https://addons.mozilla.org/en-US/firefox/addon/5239" target="_blank">XUL/Migero</a>:站内关键字强调功能,让用户在使用站内搜索功能时整个页面会盖上一层**灰色蒙版**,所有符合条件的文字都被标记为黄色,而当前匹配的会高亮为绿色并在屏幕上**弹跳一下.**我在<a title="给Firefox加上Safari风格的站内搜索效果" href="https://www.digglife.net/articles/add-safari-like-inline-search-to-firefox.html" target="_blank">之前的一篇日志</a>中详细介绍过这个扩展.
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/tinypaste.png
+ [1]: https://www.digglife.net/wp-content/uploads/archive/tinypaste.png
  [2]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5222426338730341394
- [3]: http://digglife.qiniudn.com/wp-content/uploads/archive/aiderss.png
+ [3]: https://www.digglife.net/wp-content/uploads/archive/aiderss.png
  [4]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5222430425963044850
- [5]: http://digglife.qiniudn.com/wp-content/uploads/archive/foxmarks-profile-settings.png
+ [5]: https://www.digglife.net/wp-content/uploads/archive/foxmarks-profile-settings.png
  [6]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5222436650604318466
- [7]: http://digglife.qiniudn.com/qiniu/2574/image/078d8b71993c9e40c1bd742161fa0bde.png
+ [7]: https://www.digglife.net/qiniu/2574/image/078d8b71993c9e40c1bd742161fa0bde.png
  [8]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5222426333190725522

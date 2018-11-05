@@ -28,17 +28,17 @@ tags:
   - 编程语言
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/maps-results-logo.gif" atomicselection="true"><img height="55" alt="maps_results_logo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/maps-results-logo-thumb.gif" width="150" align="right" /></a> 今天没事逛<a href="http://maps.google.com/maps" target="_blank">Google Maps</a>看到的,不知道大家留意没有.Google Maps在My Maps页面下推荐了几个特色地图,其中有一个是关于编程语言的地图.它列出了世界上16个主要编程语言被创造出来的大致位置,还包含了主要创造者信息,以及每个语言的Hello World!代码.
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/maps-results-logo.gif" atomicselection="true"><img height="55" alt="maps_results_logo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/maps-results-logo-thumb.gif" width="150" align="right" /></a> 今天没事逛<a href="http://maps.google.com/maps" target="_blank">Google Maps</a>看到的,不知道大家留意没有.Google Maps在My Maps页面下推荐了几个特色地图,其中有一个是关于编程语言的地图.它列出了世界上16个主要编程语言被创造出来的大致位置,还包含了主要创造者信息,以及每个语言的Hello World!代码.
 
 截图如下:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/programing-language-maps.png" atomicselection="true"><img height="262" alt="Programing_language_maps" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/programing-language-maps-thumb.png" width="450" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/programing-language-maps.png" atomicselection="true"><img height="262" alt="Programing_language_maps" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/programing-language-maps-thumb.png" width="450" /></a> 
 
 <!--more-->
 
 **以Java为例**
 
- <img height="378" alt="Java_map" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/java-map.png" width="373" />
+ <img height="378" alt="Java_map" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/java-map.png" width="373" />
 
 Google Maps链接:
 
@@ -48,6 +48,6 @@ Google Maps链接:
 
 <font color="#ff0000">在Google Maps上日文的地图信息很详尽.但是中国地图的比例尺稍微大点就不行了,基本上只能看卫星地图.</font>
 
- <img height="307" alt="Japan_maps" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/japan-maps.png" width="450" />
+ <img height="307" alt="Japan_maps" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/japan-maps.png" width="450" />
 
 在My Maps里,你可以创建自己的地图,并可以给地点编辑文字和图片信息.得到链接后还可以和其他人分享(比如我自己创建的<a href="http://maps.google.com/maps/ms?f=d&#038;ie=UTF8&#038;hl=en&#038;msa=0&#038;msid=101028938336906789241.00000111c698bdaa5ae22&#038;ll=30.578778,114.327593&#038;spn=0.008442,0.014462&#038;t=k&#038;z=16&#038;om=1" target="_blank">我在湖北大学的活动地点</a>),结合<a href="http://www.google.com/apis/maps/gallery/mapsAPIProducts.html#utm_source=maps_home" target="_blank">Google Maps API</a>还可以把页面嵌入自己的网页.不过可惜的是,现在<a href="http://ditu.google.com" target="_blank">谷歌地图</a>还不支持My Maps功能,希望能够早日加入.

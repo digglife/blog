@@ -29,7 +29,7 @@ tags:
 <!--more-->
 
 <div style="width: 354px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5231638918763930146"><img title="BrushKing Photoshop笔刷下载" src="http://digglife.qiniudn.com/wp-content/uploads/archive/ps-brush.jpg" alt="都是一些非常有特点的Photoshop笔刷" width="344" height="400" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/yxCMUC/photo#5231638918763930146"><img title="BrushKing Photoshop笔刷下载" src="https://www.digglife.net/wp-content/uploads/archive/ps-brush.jpg" alt="都是一些非常有特点的Photoshop笔刷" width="344" height="400" /></a>
   
   <p class="wp-caption-text">
     都是一些非常有特点的Photoshop笔刷

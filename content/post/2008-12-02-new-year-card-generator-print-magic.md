@@ -34,7 +34,7 @@ tags:
 **Print Magic内置有10种流行的日文字体，以及多种分类的模板和素材**。内置的字体包括正规体和几种流行的美术字体，在第一次启动的时候会一并下载。模板都是和牛相关的（2009年是牛年），素材包括背景、剪贴画、对白气球、图片相框等等，另外你还可以导入本地的图片，将这些好好利用起来的话可以制作出非常精美的卡片。
 
 <div id="attachment_2809" style="width: 510px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2809" title="print-magic-pattern" src="http://digglife.qiniudn.com/wp-content/uploads/2008/12/print-magic-pattern.jpg" alt="剪贴画里都是牛相关的图片" width="500" height="394" />
+  <img class="size-full wp-image-2809" title="print-magic-pattern" src="https://www.digglife.net/wp-content/uploads/2008/12/print-magic-pattern.jpg" alt="剪贴画里都是牛相关的图片" width="500" height="394" />
   
   <p class="wp-caption-text">
     剪贴画里都是牛相关的图片
@@ -44,7 +44,7 @@ tags:
 **发件人和收件人编辑和管理功能**。联系人信息设定非常完善，还可以导入通讯录文件（CSV），管理查找也非常方便。
 
 <div id="attachment_2810" style="width: 510px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2810" title="print-magic-contact" src="http://digglife.qiniudn.com/wp-content/uploads/2008/12/print-magic-contact.jpg" alt="联系人编辑非常方便，还支持实时预览和调整" width="500" height="395" />
+  <img class="size-full wp-image-2810" title="print-magic-contact" src="https://www.digglife.net/wp-content/uploads/2008/12/print-magic-contact.jpg" alt="联系人编辑非常方便，还支持实时预览和调整" width="500" height="395" />
   
   <p class="wp-caption-text">
     联系人编辑非常方便，还支持实时预览和调整

@@ -39,7 +39,7 @@ tags:
 
 PageRank计算器.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/pr-caculator.jpg"><img width="407" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/pr-caculator-thumb.jpg" alt="PR_caculator" height="238" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/pr-caculator.jpg"><img width="407" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/pr-caculator-thumb.jpg" alt="PR_caculator" height="238" /></a>
 
 **4.**[**Webmastereyes**][4]**,** [**Visual PageRank View**][5]
 
@@ -61,7 +61,7 @@ PageRank计算器.
   
 让你能通过RSS和邮件跟踪网页PageRank的变化情况. 
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/prchecker.jpg"><img width="428" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/prchecker-thumb.jpg" alt="PRChecker" height="66" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/prchecker.jpg"><img width="428" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/prchecker-thumb.jpg" alt="PRChecker" height="66" /></a>
 
 **8.**[**Dig PageRank**][9]
   
@@ -75,7 +75,7 @@ Google工具栏上的PageRank差不多3个月更新一次,但是这个工具能�
   
 ** Mac OS X的PageRank Widget. 
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/widget.png"><img width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/widget-thumb.png" alt="widget" height="73" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/widget.png"><img width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/widget-thumb.png" alt="widget" height="73" /></a>
 
 **11.**[**Google PageRank Prediction**][12]
 
@@ -93,7 +93,7 @@ Google工具栏上的PageRank差不多3个月更新一次,但是这个工具能�
   
 ** 让你能够在一个图形平台根据PR信息管理网站,可以使用箭头来连接他们.
 
-[<img width="438" src="http://digglife.qiniudn.com/qiniu/954/image/64c15c13ed2fb110cd4bed675fe686ed.jpg" alt="PageRank Decoder" height="283" title="PageRank Decoder" />][16]
+[<img width="438" src="https://www.digglife.net/qiniu/954/image/64c15c13ed2fb110cd4bed675fe686ed.jpg" alt="PageRank Decoder" height="283" title="PageRank Decoder" />][16]
 
 **15.**[**Page Rank Export List History**][18]
   

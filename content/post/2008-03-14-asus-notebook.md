@@ -30,7 +30,7 @@ tags:
 
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/qiniu/2473/image/e59dfbed00fe4bf3d4d2960e6bd1cf43.jpg" height="305" width="450" />
+<img src="https://www.digglife.net/qiniu/2473/image/e59dfbed00fe4bf3d4d2960e6bd1cf43.jpg" height="305" width="450" />
 
 通过这次登顶珠峰的测试和宣传,华硕将会在2008年4月和北京奥运圣火再登珠峰,华硕笔记本将继续为中国登山队此次“奥运圣火珠峰行”提供[全程IT技术支持][2].因为奥运圣火是第一次登上地球之巅,作为世界上最高的山峰,北京奥运的圣火在此传递展示,到达了29届奥运会以来的新高度,具有重大的历史意义.
 

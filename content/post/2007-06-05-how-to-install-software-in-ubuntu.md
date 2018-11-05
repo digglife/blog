@@ -24,7 +24,7 @@ tags:
   - 软件
 
 ---
-刚开始使用Ubuntu的用户时常有这样的问题,我要安装新软件怎么办?.exe文件在哪里,怎么软件有这么多格式?RPM包,.tar.gz是什么?怎么就是安装不了啊?等等等等.<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/logo.png" atomicselection="true"><img height="55" alt="logo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/logo-thumb.png" width="202" align="right" /></a> 的确,在Windows下安装文件只需要双击即可,所以很多人在Ubuntu下觉得很不习惯.事实上,使用Ubuntu平台下的新利得软件包管理器安装大部分软件比在Windows平台下更加简单,操作更加容易.当然,也有很多软件Ubuntu的储藏库里面没有,而这些软件有着各式各样的格式,因而安装方法也都不一样.下面我就Ubuntu下安装软件的方法做一个详细的总结.
+刚开始使用Ubuntu的用户时常有这样的问题,我要安装新软件怎么办?.exe文件在哪里,怎么软件有这么多格式?RPM包,.tar.gz是什么?怎么就是安装不了啊?等等等等.<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/logo.png" atomicselection="true"><img height="55" alt="logo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/logo-thumb.png" width="202" align="right" /></a> 的确,在Windows下安装文件只需要双击即可,所以很多人在Ubuntu下觉得很不习惯.事实上,使用Ubuntu平台下的新利得软件包管理器安装大部分软件比在Windows平台下更加简单,操作更加容易.当然,也有很多软件Ubuntu的储藏库里面没有,而这些软件有着各式各样的格式,因而安装方法也都不一样.下面我就Ubuntu下安装软件的方法做一个详细的总结.
 
 ### **一.使用新立得软件包管理器安装程序.**
 
@@ -32,7 +32,7 @@ tags:
 
 **3步安装:搜索,标记,应用**
 
-  1. 搜索你需要安装的程序.在新立得里面有成千上万种主题,应用程序,软件包,文档.所有的这些文件包都被存放在Ubuntu的服务器上供下载和升级.新立得相当于一个升级版的windows升级工具,因为它除了可以升级系统文件之外,还可以通过它安装的非关键性程序.你可以在侧边栏的分类中查找软件.点击工具栏上的搜索图标进行搜索. <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/.png" atomicselection="true"><img height="354" alt="新立得" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/thumb.png" width="450" /></a>
+  1. 搜索你需要安装的程序.在新立得里面有成千上万种主题,应用程序,软件包,文档.所有的这些文件包都被存放在Ubuntu的服务器上供下载和升级.新立得相当于一个升级版的windows升级工具,因为它除了可以升级系统文件之外,还可以通过它安装的非关键性程序.你可以在侧边栏的分类中查找软件.点击工具栏上的搜索图标进行搜索. <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/.png" atomicselection="true"><img height="354" alt="新立得" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/thumb.png" width="450" /></a>
   2. 找到需要安装的文件包后,右键点击标记.系统很有可能会提示你一些依赖程序将会同时被安装,幸运的是这些系统会自动为你解决.记住:你可以使用同样的步骤卸载程序(右键点击,选择卸载).你也可以一次标记多个安装包以节省时间.
   3. 标记完毕所有需要安装的文件之后,点击应用图标.新立得会自动下载安装.
 
@@ -55,11 +55,11 @@ tags:
 
 Debian Menu给你安装的程序提供了一个更加全面的列表,它同样显示在应用程序菜单里.你需要安装一个叫做menu-xdg的软件包(新立得里面有),可能需要重启X window(Ctrl+Alt+空格)才能让它显示.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/debian-menu.png" atomicselection="true"><img height="149" alt="Debian_menu" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/debian-menu-thumb.png" width="316" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/debian-menu.png" atomicselection="true"><img height="149" alt="Debian_menu" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/debian-menu-thumb.png" width="316" /></a>
 
 2).在终端输入程序名.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/2007-06-05-062239-561x463-scrot.png" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="371" alt="2007-06-05-062239_561x463_scrot" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/2007-06-05-062239-561x463-scrot-thumb.png" width="450" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/2007-06-05-062239-561x463-scrot.png" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="371" alt="2007-06-05-062239_561x463_scrot" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/2007-06-05-062239-561x463-scrot-thumb.png" width="450" border="0" /></a>
 
 比如说我通过新立得安装了**Muine**,然后可以通过在终端直接输入**Muine**,回车就可以启动它了.注意,这样操作得话,程序会随着你关闭终端而自动关闭. 为避免这种情况发生,同时按下**Alt+F2**运行**启动程序管理**,输入muine启动.你还可以尝试键入程序名称的首字母后按两下Tab键.输入框会显示命令名称或者可供选择的命令列表.要知道程序的命令行名称可以按照一下步骤:
 在新立得里面右键点击安装包,选择属性后进入&#8221;已安装文件&#8221;标签栏.这里显示的是已安装的程序列表,安装到/**usr/bin文件夹**的文件绝大多数情况就是该程序的命令名.
@@ -79,7 +79,7 @@ Debian Menu给你安装的程序提供了一个更加全面的列表,它同样�
 
 当然,上面的ABC只是虚构的软件.Sudo表示你授权管理员(超级用户)权限给下面的命令.这需要你输入管理员密码.这和你打开新立得的时候需要输入密码是一样的道理,只不过现在是在终端下而已.如果你直接输入sudo aptitude,你会看到一个类似于命令行版本的新立得软件包管理器.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/aptitude1.png" atomicselection="true"><img height="268" alt="aptitude" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/aptitude-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/aptitude1.png" atomicselection="true"><img height="268" alt="aptitude" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/aptitude-thumb.png" width="450" /></a>
 
 你还可以像在新立得里面搜索软件一样使用命令行搜索.命令如下:
 
@@ -110,7 +110,7 @@ Debian Menu给你安装的程序提供了一个更加全面的列表,它同样�
 
 你只需要双击下载的Debian包,安装工具就会自动启动.点击&#8221;安装软件包&#8221;执行安装即可.如果有依赖软件需要安装或者软件源里有更新的版本可供安装,它会自动提示你.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/debian-package-install.png" atomicselection="true"><img height="345" alt="debian_package_install" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/debian-package-install-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/debian-package-install.png" atomicselection="true"><img height="345" alt="debian_package_install" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/debian-package-install-thumb.png" width="450" /></a>
 
 2).使用dpkg命令.
 
@@ -133,12 +133,12 @@ RPM是另外一个流行的软件打包方式,它在很多流行的Linux发行�
 **3.安装桌面主题(.tar, .tar.gz, .tgz, .tar.bz, &#8230;)**
 在Gnome下安装桌面主题非常简单.定位到 **<font color="#0000a0">系统&#8211;首选项&#8211;主题</font>** 打开**主题管理器**.使用这个应用程序你可以更改图标,控件,窗口边框等.下载主题包后只需要将其拖拽到主题管理器窗口即可安装.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ubuntu-desktop-themes.png" atomicselection="true"><img height="486" alt="ubuntu_desktop_themes" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/ubuntu-desktop-themes-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ubuntu-desktop-themes.png" atomicselection="true"><img height="486" alt="ubuntu_desktop_themes" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ubuntu-desktop-themes-thumb.png" width="450" /></a>
 
 **4.启动画面主题.(.tar, .tar.gz, .tgz, .tar.bz, &#8230;)
 ** 这个和安装桌面主题一样简单.定位到 **<font color="#000080">系统&#8211;系统管理&#8211;登录窗口</font>** 打开登录窗口首选项.拖拽下载的主题到这个窗口,在弹出对话框中点击确认即可.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/login-themes.png" atomicselection="true"><img height="509" alt="login_themes" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/login-themes-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/login-themes.png" atomicselection="true"><img height="509" alt="login_themes" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/login-themes-thumb.png" width="450" /></a>
 
 > 介绍两个比较火的Gnome主题网站:
 >

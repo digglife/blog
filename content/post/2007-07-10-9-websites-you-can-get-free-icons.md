@@ -42,50 +42,50 @@ tags:
 
 这里有15000多种免费高质量图标供你下载使用.
 
-<img height="313" alt="vector_icons" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/vector-icons.jpg" width="450" />
+<img height="313" alt="vector_icons" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/vector-icons.jpg" width="450" />
 
 <!--more-->
 
 **2.**[**Web Site Icons**][2]  
 Web Site Icons同样有一个超大的根据各种主题分类图标储存库.这里有大概110套图标可供下载.
 
-<img height="260" alt="freeicons" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/freeicons.png" width="300" />
+<img height="260" alt="freeicons" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/freeicons.png" width="300" />
 
 **3.**[**Vista Icons**][3]  
 从网站名我们可以看出这是一个专门提供Vista风格图标的网站.这里有8个风格各异的主题图标你非常有必要试用一下.
 
-<img height="94" alt="vista-icons" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/vista-icons.png" width="380" />
+<img height="94" alt="vista-icons" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/vista-icons.png" width="380" />
 
 **4.**[**Iconoholic**][4]  
 这个网站主要提供一些流行的应用程序的图标,比如Utorrent,Gtalk等等.
 
-<img height="107" alt="iconoholic" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/iconoholic.png" width="400" />
+<img height="107" alt="iconoholic" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/iconoholic.png" width="400" />
 
 **5.**[**Dock Icons**][5]  
 专为Dock程序设计的图标.
 
-<img height="150" alt="dock-icons" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/dock-icons.jpg" width="300" />
+<img height="150" alt="dock-icons" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/dock-icons.jpg" width="300" />
 
 **6.**[**Tool Bar Icons by Matt Ball**][6]  
 专为浏览器工具栏设计的图标集合.
 
-<img height="260" alt="tool-bar-icons" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/tool-bar-icons.jpg" width="380" />
+<img height="260" alt="tool-bar-icons" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/tool-bar-icons.jpg" width="380" />
 
 **7.**[**Free Aqua Glass Icons**][7]
 
 苹果的粉丝永远都不嫌少.这里有一套包含有32个图标的苹果玻璃风格的图标可供下载.
 
-<img height="209" alt="aqua-glass-icons" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/aqua-glass-icons.png" width="397" />
+<img height="209" alt="aqua-glass-icons" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/aqua-glass-icons.png" width="397" />
 
 **8.**[**Crystal Clear Icons**][8]  
 这些图标由WikiMedia提供,可以用于应用程序,设备,文件系统,KDE等等各种类型.
 
-<img height="406" alt="crystal-clear" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/crystal-clear.png" width="450" />
+<img height="406" alt="crystal-clear" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/crystal-clear.png" width="450" />
 
 **9.**[**Tango Icon Gallery**][9]  
 尽管是最后一个,但是这个网站图标的数量之多让人惊叹,而且各种类型的图标都包含在内.大部分都有Linux风格(Gnome风格~?).
 
-<img height="92" alt="tango" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/tango.png" width="192" />
+<img height="92" alt="tango" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/tango.png" width="192" />
 
  [1]: http://www.freeiconsweb.com/
  [2]: http://www.websiteicons.net/index.php?p=icons&id=all

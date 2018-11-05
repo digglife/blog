@@ -42,5 +42,5 @@ tags:
 
 PS:为Yupoo被某局Fuck表示强烈的愤慨和深切的同情,希望Yupoo完事后继续勃起&#8230;
 
- [1]: http://digglife.qiniudn.com/qiniu/2485/image/45232c88b23eaab8556e46533bc53337.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2485/image/4daf35236be081393c2aa6d042c888d9.jpg
+ [1]: https://www.digglife.net/qiniu/2485/image/45232c88b23eaab8556e46533bc53337.jpg
+ [2]: https://www.digglife.net/qiniu/2485/image/4daf35236be081393c2aa6d042c888d9.jpg

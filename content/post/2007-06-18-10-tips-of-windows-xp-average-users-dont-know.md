@@ -29,7 +29,7 @@ tags:
 
 开始&#8211;运行&#8211;输入&#8221;command&#8221;,在命令提示符里面输入&#8221;Systeminfo&#8221;,系统将会检测电脑的多项有用信息,你的基本硬件信息,操作系统版本,甚至是补丁记录.如果你想保存这些记录,可以输入&#8221;Systeminfo>info.txt&#8221;,生成的文件视你输入该命令时所在的目录而定.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/systeminfo.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/systeminfo-thumb.png" alt="systeminfo" height="232" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/systeminfo.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/systeminfo-thumb.png" alt="systeminfo" height="232" /></a>
 
 <!--more-->
 
@@ -37,17 +37,17 @@ tags:
 
 其实很多情况下放到回收站的东西我们会不再理睬的,所以为了免去清空回收站的步骤,可以做如下设置.开始&#8211;运行&#8211;输入&#8221;gpedit.msc&#8221;.定位到:用户配置-管理面板-windows组件-windows资源管理器,在右边栏找到&#8221;不要将已删除的文件移动到回收站&#8221;,双击并启用.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/recyclebin.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/recyclebin-thumb.png" alt="recyclebin" height="307" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/recyclebin.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/recyclebin-thumb.png" alt="recyclebin" height="307" /></a>
 
 另外一种方法是:直接右键点击回收站,选择属性,在全局设置中选中&#8221;删除时不将文件移入回收站,而是直接删除&#8221;.如果你已经按照上一种方法设置,那么,所有的选项将为灰色.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/recyclebin2.png"><img width="344" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/recyclebin2-thumb.png" alt="recyclebin2" height="395" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/recyclebin2.png"><img width="344" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/recyclebin2-thumb.png" alt="recyclebin2" height="395" /></a>
 
 **3.双击锁定电脑.**
 
 在桌面上空白处点击右键&#8211;新建,创建一个新快捷方式,在&#8221;请输入项目的位置下&#8221;输入&#8221;&#8216;rundll32.exe user32.dll,LockWorkStation&#8221;,然后给它任意取个你喜欢的名字.OK,双击这个快捷方式,测试一下.当然,直接按**组合键Win+L**可以达到同样效果.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/lockworkstation.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/lockworkstation-thumb.png" alt="lockworkstation" height="308" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/lockworkstation.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/lockworkstation-thumb.png" alt="lockworkstation" height="308" /></a> 
 
 **4.删除系统隐藏程序.**
 
@@ -75,7 +75,7 @@ XP隐藏了许多系统程序,比如Windows Messager,你可以让它变得可见
 
 对于Zip文件,Windows XP能够像打开文件夹一样打开它,这个功能对于机器比较老的用户尤其有用.你可以在运行栏中键入&#8221;regsvr32 /u zipfldr.dll&#8221;让Windows XP单独处理Zip文件,其他的压缩包关联不会变.还原设置键入&#8221;regsvr32 zipfldr.dll&#8221;.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/zipfolders.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/zipfolders-thumb.png" alt="zipfolders" height="248" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/zipfolders.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/zipfolders-thumb.png" alt="zipfolders" height="248" /></a>
 
 **9.禁用提示气泡.**
 
@@ -87,6 +87,6 @@ Windows的这些提醒很烦,如果你非常熟悉它们,那么禁用它吧.开�
 
 原文来自<a target="_blank" href="http://www.clipmarks.com/view_clip.aspx?guid=A257968B-1247-46B8-8EAE-DF41C02E9D90">Clipmark</a>,有20条
 
-[<img border="0" src="http://digglife.qiniudn.com/qiniu/1066/image/90e0e97427652cf8dd6388aaabac91cb.jpg" alt="Hit Tracker" />][1]
+[<img border="0" src="https://www.digglife.net/qiniu/1066/image/90e0e97427652cf8dd6388aaabac91cb.jpg" alt="Hit Tracker" />][1]
 
  [1]: http://www.ritecounter.com

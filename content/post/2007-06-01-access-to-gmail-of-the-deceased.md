@@ -25,7 +25,7 @@ tags:
 ---
 这其实是一个很现实的问题,而且已经在发生. 如果死者的Gmail里有重要的信息需要提取出来的时候,Ta的家人应该怎么办?关于这个问题,Google已经给出了具体的答案.
 
- 需要的文件:<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/gmaillogo.gif"><img align="right" width="143" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/gmaillogo-thumb.gif" alt="GmailLogo" height="59" /></a>
+ 需要的文件:<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/gmaillogo.gif"><img align="right" width="143" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/gmaillogo-thumb.gif" alt="GmailLogo" height="59" /></a>
 
 >   1. 家人代表的全名和住址,以及可证实的本人Email地址.
 >   2. 死者的Gmail地址.

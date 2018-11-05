@@ -96,7 +96,7 @@ print $t;
 
 以上Perl代码的输出结果如下图：
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/02/perl-asciitable-output-500x280.png" alt="Text::ASCIITable输出纯文本表格" width="500" height="280" class="alignnone size-medium wp-image-3776" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/02/perl-asciitable-output-500x280.png" alt="Text::ASCIITable输出纯文本表格" width="500" height="280" class="alignnone size-medium wp-image-3776" />
 
 Text::ASCIITable还有很多选项，比如上面这段有用到的 drawRowLine 会在每行数据后打印一条分割线。经常会使用的还会有：
 

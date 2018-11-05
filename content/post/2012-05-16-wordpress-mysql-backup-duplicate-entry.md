@@ -23,13 +23,13 @@ tags:
 
 首先恢复数据库。最简单的自然是通过PHPMyAdmin，本来以为点两下鼠标就可以洗洗睡的，结果出现以下极客符文。
 
-<img title="duplicate-entry-primary-id" src="http://digglife.qiniudn.com/wp-content/uploads/2012/05/duplicate-entry-primary-id.png" alt="Duplicate Entry For Key Primary" width="500" height="135" />
+<img title="duplicate-entry-primary-id" src="https://www.digglife.net/wp-content/uploads/2012/05/duplicate-entry-primary-id.png" alt="Duplicate Entry For Key Primary" width="500" height="135" />
 
 MySQL表示`Duplicate Entry '3128' For Key 'Primary'`。我不懂MySQL同学在讲嘛也，于是加个Wordpress关键字去问Google，Google倒是有很多话说，可是都是没多大关联的blabla，有说数据结构不兼容的，有说插件臭虫的，线索太多无从下手。于是干脆自己分析，嘛，字面意思就是wp_post表里面的3128这个Primary Key重复了咯，那我删除重复的不就好了。
 
 于是用<a title="TextWrangler" href="http://itunes.apple.com/cn/app/textwrangler/id404010395" target="_blank">TextWrangler</a>打开sql文档，搜索``INSERT INTO `wp_posts` VALUES (3128``，果然有两条重复记录，心想估计还有其他重复的，所以用Process Duplicate Lines功能查看所有重复项，果然有100多条重复记录，而且全部是日志图片相关，都是2010年5月之后的，不知道那个时候是发生了什么，个人猜测是Wordpress升级导致的，不过也不必深究了，关键在于速度解决问题。
   
-<img title="all-duplicate-lines-sql-backup" src="http://digglife.qiniudn.com/wp-content/uploads/2012/05/all-duplicate-lines-sql-backup.png" alt="所有SQL备份中的重复记录" width="490" height="639" />
+<img title="all-duplicate-lines-sql-backup" src="https://www.digglife.net/wp-content/uploads/2012/05/all-duplicate-lines-sql-backup.png" alt="所有SQL备份中的重复记录" width="490" height="639" />
   
 剩下的很明了，全选WP_Post表记录（因为整个sql文档中还有不少创建表的语句重复，避免误杀），利用重复行删除功能uniq一下。保存打包，重新上传，果然顺利插入，高潮迭起。
 

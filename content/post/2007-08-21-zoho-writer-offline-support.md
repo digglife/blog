@@ -31,13 +31,13 @@ tags:
   - 软件
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/zoho-writer.png"><img align="right" width="197" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/zoho-writer-thumb.png" alt="zoho_writer" height="45" /></a><a target="_blank" href="http://writer.zoho.com/">Zoho Writer</a>今天公布了离线支持.目前还只是支持离线查看,不过Zoho计划在3-4周内实现离线编辑功能.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/zoho-writer.png"><img align="right" width="197" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/zoho-writer-thumb.png" alt="zoho_writer" height="45" /></a><a target="_blank" href="http://writer.zoho.com/">Zoho Writer</a>今天公布了离线支持.目前还只是支持离线查看,不过Zoho计划在3-4周内实现离线编辑功能.
 
 有意思的是,它使用的是<a target="_blank" href="https://www.digglife.net/articles/google-gears-released.html">Google Gears</a>技术,用户需要安装Google Gears来实现离线功能,支持IE和<a target="_blank" href="https://www.digglife.net/articles/category/firefox/">Firefox</a>(Windows和Mac平台).Zoho这次的升级可能会迫使Google尽快发布<a target="_blank" href="https://www.digglife.net/articles/category/about-google/">Google</a>文档和电子表格的离线版本,因为3大在线Office应用只有Google没有离线支持了(<a target="_blank" href="http://www.thinkfree.com">ThinkFree</a> Premium前不久也加入了离线支持).
 
 <!--more-->
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-gears1.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/google-gears-thumb1.png" alt="google_gears" height="236" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-gears1.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-gears-thumb1.png" alt="google_gears" height="236" /></a>
 
 下面我们看看它是如何运作的.
 
@@ -45,7 +45,7 @@ tags:
 
 下载界面:
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/downloadings.png"><img width="280" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/downloadings-thumb.png" alt="downloadings" height="152" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/downloadings.png"><img width="280" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/downloadings-thumb.png" alt="downloadings" height="152" /></a>
 
 下面是功能展示视频(惯例,为了播放速度下载<a target="_blank" href="http://www.viddler.com/explore/raju/videos/7/">原视频</a>后上传到土豆):
 

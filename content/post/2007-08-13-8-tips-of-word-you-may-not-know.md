@@ -31,7 +31,7 @@ tags:
   - 效率
 
 ---
-我们<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/word.png"><img align="right" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/word-thumb.png" alt="word" /></a>中的很多人平时都不可避免地会在Word上花费一些时间,无论你是整天在电脑前使用Word工作的,还是仅仅是有时使用它做一些文字处理,你都可以使用下面的这些简单的快捷键来节省时间提高效率.
+我们<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/word.png"><img align="right" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/word-thumb.png" alt="word" /></a>中的很多人平时都不可避免地会在Word上花费一些时间,无论你是整天在电脑前使用Word工作的,还是仅仅是有时使用它做一些文字处理,你都可以使用下面的这些简单的快捷键来节省时间提高效率.
 
 这7个技巧学起来非常简单,在大部分版本的Word上都有效.
 

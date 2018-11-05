@@ -27,7 +27,7 @@ SONY最近因为PSN用户信息泄露事件又被推到了风口浪尖，据福�
 
 <!--more-->
 
-<img title="ps3" src="http://digglife.qiniudn.com/qiniu/3073/image/c4dcbb430fb6507f3469a5841b2bd69a.jpg" alt="" width="450" height="450" />
+<img title="ps3" src="https://www.digglife.net/qiniu/3073/image/c4dcbb430fb6507f3469a5841b2bd69a.jpg" alt="" width="450" height="450" />
 
 ### 难产
 
@@ -49,7 +49,7 @@ PlayStation 3的硬件配置是非常高的，当时称为神机丝毫不为过�
 一台PS3的成本最初大约在800美元左右，而SONY的官方售价是599美元，也就是说，当年索尼卖一台PS3，直接损失就在200美元上下。而这样的售价依然远远高于同期的竞争对手，对于普通消费者来说还是太贵，所以销量也并不理想。加上很多PS3都卖到了科研和军事机构用于大规模集群计算，SONY从这些用户身上也没法通过贩卖游戏软件赚回一分钱。这种亏本销售硬件状况一直持续到了2009年。
 
 <p style="text-align: center;">
-  <img class="aligncenter" title="pS3-price" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/pS3-price.png" alt="PS3各部件成本" width="554" height="641" />
+  <img class="aligncenter" title="pS3-price" src="https://www.digglife.net/wp-content/uploads/2011/05/pS3-price.png" alt="PS3各部件成本" width="554" height="641" />
 </p>
 
 而2009年的时候，新一代主机大战的大局已定，Wii的热销已经让任天堂赚得盆满钵满，XBOX 360的销量也屡创佳绩，PS3垫底的位置已经无法扭转。
@@ -59,7 +59,7 @@ PlayStation 3的硬件配置是非常高的，当时称为神机丝毫不为过�
 2009年年初，IBM的两位工程师爆出猛料，2003年IBM曾经将Cell的规格详图展示给微软，由此获得XBOX360的芯片订单，IBM的工程师于是利用之前在Cell学到的经验为XBOX 360开发芯片。SONY的40亿美元开发经费，就这样让微软白白分享了。对于此事，华尔街日报曾经在一篇名为“[Playing the fool][2]&#8220;的文章中详细报道。
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-3076 aligncenter" title="playing-the-fool" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/playing-the-fool.jpg" alt="" width="262" height="394" />
+  <img class="size-full wp-image-3076 aligncenter" title="playing-the-fool" src="https://www.digglife.net/wp-content/uploads/2011/05/playing-the-fool.jpg" alt="" width="262" height="394" />
 </p>
 
 更可悲的是，IBM完成两大公司的设计合约之后，晶片制造部门却出了问题，为此PS3不得不推迟6周上市。而微软却早早地将备用产能转移到了第三方厂商，从而比SONY还早拿到新主机的处理芯片。
@@ -70,7 +70,7 @@ SONY这个冤大头做得是十分彻底。
 
 2010年4月，SONY在新固件中移除了对Linux系统的支持，由此引起了很多黑客的愤怒，其中包括大名鼎鼎的Geohot，这位因为iOS破解而声名大噪的Geek也是PS3破解的主力推手之一。
 
-<img class="aligncenter size-full wp-image-3077" title="PS3-Hack" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/PS3-Hack.jpg" alt="" width="570" height="321" />
+<img class="aligncenter size-full wp-image-3077" title="PS3-Hack" src="https://www.digglife.net/wp-content/uploads/2011/05/PS3-Hack.jpg" alt="" width="570" height="321" />
 
 2010年8月，PS3在推出4年后终告破解。我们无从猜测破解在短时间取得重大进展和SONY惹怒黑客是否有关，但是从结果来看非常耐人寻味。对于硬件几乎不能盈利的PS3来说，破解无异于雪上加霜，所以SONY针对黑客采取很多过激的措施也不足为奇了。但是估计SONY也没预料到和黑客社区关系的不断恶化会带来如此严重的后果。
 

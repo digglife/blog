@@ -39,7 +39,7 @@ tags:
 虚拟桌面是为了方便用户建立不同工作区而设计的,现在我们在Windows下通过<a title="YODM3D介绍" href="http://www.4shared.com/file/33561688/4b23e2f5/yodm3D.html" target="_blank">YODM3D</a>来实现.你可以设置透明度,缩放等级,快捷键等.YODM3D是一款绿色软件,下载压缩包之后直接运行,不必安装.
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231433012290130"><img title="3D虚拟桌面YODM3D" src="http://digglife.qiniudn.com/wp-content/uploads/archive/yodm3d.PNG" alt="3D虚拟桌面YODM3D" width="400" height="250" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231433012290130"><img title="3D虚拟桌面YODM3D" src="https://www.digglife.net/wp-content/uploads/archive/yodm3d.PNG" alt="3D虚拟桌面YODM3D" width="400" height="250" /></a>
   
   <p class="wp-caption-text">
     3D虚拟桌面
@@ -53,7 +53,7 @@ tags:
 Windows Vista下的窗口切换效果在刚出现的时候唬了不少人,包括我.不过我想现在大部分追求性能的用户都会使用Basic主题吧.如果在Windows XP下我们倒是可以尝试一下<a title="WinFlip介绍" href="http://winflip.stylekings.de/" target="_blank">WinFlip</a>,因为这个软件绿色短小(598 kb),占用资源也不多,效果还是很不错的.
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231428981189298"><img title="窗口层叠WinFlip" src="http://digglife.qiniudn.com/wp-content/uploads/archive/winflip.png" alt="WinFlip实现的3D窗口层叠和Vista相差无几,但是资源占用却较少" width="400" height="250" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231428981189298"><img title="窗口层叠WinFlip" src="https://www.digglife.net/wp-content/uploads/archive/winflip.png" alt="WinFlip实现的3D窗口层叠和Vista相差无几,但是资源占用却较少" width="400" height="250" /></a>
   
   <p class="wp-caption-text">
     WinFlip实现的3D窗口层叠和Vista相差无几,但是资源占用却较少
@@ -67,7 +67,7 @@ Windows Vista下的窗口切换效果在刚出现的时候唬了不少人,包括
 灵感来自Mac OS X的Expose,可以瞬间将所有打开窗口平铺在桌面上,以便快速选择.在Windows下我们可以使用DExpose2来实现.F9将打开窗口平铺,F11最小化所有窗口并显示桌面.和DExpose2功能相仿的还有一个 <a title="My Expose介绍和下载" href="http://blogs.labo-dotnet.com/simon/archive/2006/11/08/11485.aspx" target="_blank">My Expose</a>.
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231430132893234"><img title="Mac风格的窗口切换DExpose2" src="http://digglife.qiniudn.com/wp-content/uploads/archive/expose.png" alt="DExpose2样式的窗口切换也很不错" width="400" height="241" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231430132893234"><img title="Mac风格的窗口切换DExpose2" src="https://www.digglife.net/wp-content/uploads/archive/expose.png" alt="DExpose2样式的窗口切换也很不错" width="400" height="241" /></a>
   
   <p class="wp-caption-text">
     DExpose2样式的窗口切换也很不错
@@ -81,7 +81,7 @@ Windows Vista下的窗口切换效果在刚出现的时候唬了不少人,包括
 能够将Windows的边框透明化,并提供4个不同的边框样式供选择,效果不错.
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223446253170821618"><img title="边框透明 TrueTransparency" src="http://digglife.qiniudn.com/wp-content/uploads/archive/truetransparency.png" alt="TrueTransparency有4种边框样式,和Vista很神似" width="400" height="313" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223446253170821618"><img title="边框透明 TrueTransparency" src="https://www.digglife.net/wp-content/uploads/archive/truetransparency.png" alt="TrueTransparency有4种边框样式,和Vista很神似" width="400" height="313" /></a>
   
   <p class="wp-caption-text">
     TrueTransparency有4种边框样式,和Vista很神似
@@ -95,7 +95,7 @@ Windows Vista下的窗口切换效果在刚出现的时候唬了不少人,包括
 除了让边框透明之外,你也许还想让整个窗口都有透明效果.使用<a title="Glass2K介绍" href="http://chime.tv/products/glass2k.shtml" target="_blank">Glass2K</a>,你可以设定任务栏和任意窗口的透明度.话说其实很多软件也内置了这一功能,比如QQ,日文字典EBwin等.
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223453493338383570"><img title="窗口透明效果 Glass2K" src="http://digglife.qiniudn.com/wp-content/uploads/archive/glass2k.png" alt="Glass2K可以实现任意窗口的9种不同程度的透明" width="400" height="293" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223453493338383570"><img title="窗口透明效果 Glass2K" src="https://www.digglife.net/wp-content/uploads/archive/glass2k.png" alt="Glass2K可以实现任意窗口的9种不同程度的透明" width="400" height="293" /></a>
   
   <p class="wp-caption-text">
     Glass2K可以实现任意窗口的9种不同程度的透明
@@ -109,7 +109,7 @@ Windows Vista下的窗口切换效果在刚出现的时候唬了不少人,包括
 <a title="Lebending" href="http://www.softpedia.com/progDownload/Lebendig-Download-100336.html" target="_blank">Lebending</a>可以让你自定义窗口启动和关闭时的效果,包括淡入淡出,百叶窗,飞入等等,同时还可以设定动画的时间等参数.
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231437287018002"><img title="窗口动画Lebending" src="http://digglife.qiniudn.com/wp-content/uploads/archive/lebending.png" alt="Lebending可以定义多种方式的窗口动画" width="400" height="355" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231437287018002"><img title="窗口动画Lebending" src="https://www.digglife.net/wp-content/uploads/archive/lebending.png" alt="Lebending可以定义多种方式的窗口动画" width="400" height="355" /></a>
   
   <p class="wp-caption-text">
     Lebending可以定义多种方式的窗口动画
@@ -123,7 +123,7 @@ Windows Vista下的窗口切换效果在刚出现的时候唬了不少人,包括
 这是Ubuntu7.10下的默认效果,点击图标和文件夹时会出现挥发式的动画.使用[UberICon][5]可以在Windows下实现类似的效果.
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231418723819906"><img title="图标动画效果UberIcon" src="http://digglife.qiniudn.com/wp-content/uploads/archive/ubericon.png" alt="图标动画效果UberIcon" width="400" height="300" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223231418723819906"><img title="图标动画效果UberIcon" src="https://www.digglife.net/wp-content/uploads/archive/ubericon.png" alt="图标动画效果UberIcon" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     图标动画效果UberIcon
@@ -137,7 +137,7 @@ Windows Vista下的窗口切换效果在刚出现的时候唬了不少人,包括
 给Windows Explorer添加标签栏和Vista样式的系统栏,这两个小工具能够提高导航效率.其实Vista的地址栏是我最喜欢的Vista功能之一,有了它之后前进后退按钮基本上成了废材.
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223456785959255330"><img title="QT Addressbar" src="http://digglife.qiniudn.com/wp-content/uploads/archive/qtaddressbar.png" alt="Vista样式的地址栏其实更有效率" width="500" height="350" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223456785959255330"><img title="QT Addressbar" src="https://www.digglife.net/wp-content/uploads/archive/qtaddressbar.png" alt="Vista样式的地址栏其实更有效率" width="500" height="350" /></a>
   
   <p class="wp-caption-text">
     Vista样式的地址栏其实更有效率
@@ -153,7 +153,7 @@ Windows Vista下的窗口切换效果在刚出现的时候唬了不少人,包括
 鼠标悬停在任务栏时,会显示一个预览窗口,本来是Vista才开始有的功能.还有一个名为<a title="Visual Tooltip" href="http://www.crystalxp.net/galerie/en.id.197-visual-tooltip-chsalmon-explorer-tools.htm" target="_blank">Visual Tooltip</a>的工具可以实现同样的效果.
 
 <div style="width: 461px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/articles/vista-task-tips.html"><img title="任务栏窗口预览Vista Task Tip" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/vistatask-thumb.png" alt="Vista样式的任务栏窗口预览" width="451" height="200" /></a>
+  <a href="https://www.digglife.net/articles/vista-task-tips.html"><img title="任务栏窗口预览Vista Task Tip" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/vistatask-thumb.png" alt="Vista样式的任务栏窗口预览" width="451" height="200" /></a>
   
   <p class="wp-caption-text">
     Vista样式的任务栏窗口预览

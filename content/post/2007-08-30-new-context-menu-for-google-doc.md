@@ -47,13 +47,13 @@ tags:
 
 **菜单1:在程序内点击任意位置.**弹出的右键菜单包括页眉工具栏的所有选项.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/docs-list-menu-folders.png" atomicselection="true"><img height="298" alt="docs-list-menu-folders" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/docs-list-menu-folders-thumb.png" width="300" /></a>&nbsp;
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/docs-list-menu-folders.png" atomicselection="true"><img height="298" alt="docs-list-menu-folders" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/docs-list-menu-folders-thumb.png" width="300" /></a>&nbsp;
 
 <!--more-->
 
 **菜单2:右键点击某个文件.**弹出的右键菜单将显示与文件类型相关的所有操作.没有包含在内的只有新建文件/文件夹和上传两个选项.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/docs-list-menu-files.png" atomicselection="true"><img alt="docs-list-menu-files" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/docs-list-menu-files-thumb.png" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/docs-list-menu-files.png" atomicselection="true"><img alt="docs-list-menu-files" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/docs-list-menu-files-thumb.png" /></a> 
 
 来自<a href="http://googlesystem.blogspot.com/" target="_blank">Google OS</a>
 

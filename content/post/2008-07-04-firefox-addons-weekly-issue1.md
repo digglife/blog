@@ -35,19 +35,19 @@ tags:
 
 定义了关键字D为DiggLife站内搜索后搜索&#8221;软件&#8221;的效果:
 
-[<img src="http://digglife.qiniudn.com/qiniu/2561/image/a7e738987ce5f33fca85ad9b54045c25.jpg" alt="cybersearch" width="500" height="206" />][3]
+[<img src="https://www.digglife.net/qiniu/2561/image/a7e738987ce5f33fca85ad9b54045c25.jpg" alt="cybersearch" width="500" height="206" />][3]
 
 **2.<a title="Mozilla Weave 0.2" href="https://services.mozilla.com/" target="_blank">Mozilla Weave 0.2</a>**
 
 Mozilla实验室出品的Firefox数据同步工具<a title="Weave的介绍" href="http://labs.mozilla.com/2007/12/introducing-weave/" target="_blank">Weave</a>,其核心理念是将Firefox的各种数据和设定上传到服务器上,以便用户在多台电脑或设备上进行同步,是一个典型的Cloud服务.可以同步的个人数据包括:书签,浏览历史,密码等等.这个扩展貌似还有些问题:首先,Linux下不可用;然后,在使用过程中出现几次无法设置的状况;第三,同步速度成问题,关闭Firefox后需要几分钟的时间完成数据上传.尽管如此,这还是一个非常值得一试的扩展,期待Mozilla不断完善它.
 
-[<img src="http://digglife.qiniudn.com/qiniu/2561/image/52ed1b3061890b3bce1e5869e746d544.jpg" alt="Weave演示" width="500" height="356" />][4]
+[<img src="https://www.digglife.net/qiniu/2561/image/52ed1b3061890b3bce1e5869e746d544.jpg" alt="Weave演示" width="500" height="356" />][4]
 
 **3.[Better Gmail2 0.5.1][5]**
 
 Lifehacker旗下著名扩展的升级版,升级了扩展中Gmail Redesigner皮肤.<a title="Firefox:个性化Gmail续集(Better Gmail 0.5)" href="https://www.digglife.net/articles/customize-gmail-better-gmail05.html" target="_blank">Better Gmail</a>是我必备的Firefox扩展之一,可以实现HTML签名,附件图标,个性化皮肤,树形标签,更加强大的键盘快捷键等功能.经常性使用Gmail的朋友可以尝试一下.另外,Lifehacker Code项目中还有<a title="Better GReader扩展" href="http://lifehacker.com/software/exclusive-lifehacker-download/trick-out-google-reader-with-better-greader-262020.php" target="_blank">Better Greader</a>,<a title="Better Google Calendar扩展" href="http://lifehacker.com/software/exclusive-lifehacker-download/enhance-google-calendar-with-the-better-gcal-firefox-extension-260074.php" target="_blank">Better Gcal</a>,<a title="Better Flickr" href="http://lifehacker.com/software/lifehacker-code/upgrade-flickr-with-the-better-flickr-firefox-extension-263985.php" target="_blank">Better Flickr</a>等扩展,都是整合了一些实用Greasemonkey代码而成的Firefox扩展,都有着不错的功能.
   
-[<img src="http://digglife.qiniudn.com/qiniu/2561/image/cca8ed93662cab52ec97c5d3a485c9b3.jpg" alt="bettergmail" width="494" height="198" />][6]
+[<img src="https://www.digglife.net/qiniu/2561/image/cca8ed93662cab52ec97c5d3a485c9b3.jpg" alt="bettergmail" width="494" height="198" />][6]
 
 **4.<a title="RAMBack" href="https://addons.mozilla.org/en-US/firefox/addon/5972" target="_blank">RAMBack</a>**
 
@@ -57,7 +57,7 @@ Lifehacker旗下著名扩展的升级版,升级了扩展中Gmail Redesigner皮�
 
 可以将网页直接保存为PDF文档的扩展,也能将PDF文档转换为HTML网页.因为处于Beta阶段,所以你需要<a title="PDF Download Beta版注册" href="http://www.pdfdownload.org/beta/signup.asp" target="_blank">注册</a>才能下载使用.
   
-[<img src="http://digglife.qiniudn.com/qiniu/2561/image/48f893dff200a7f3215a337085becdd4.jpg" alt="pdf-download-2.0Beta" width="500" height="433" />][7]
+[<img src="https://www.digglife.net/qiniu/2561/image/48f893dff200a7f3215a337085becdd4.jpg" alt="pdf-download-2.0Beta" width="500" height="433" />][7]
 
 Ok,以上就是我本周推介的Firefox扩展,如果你本周也发现了一些不错的扩展,不妨在留言中告诉我.另外,关注Google的朋友应该知道Google新推出了一个[iPhone版本Google Talk][8],界面非常好看,我们可以把它<a title="集装:在Firefox侧边栏载入Google应用" href="https://www.digglife.net/articles/google-apps-firefox-sidebar.html" target="_blank">放到Firefox侧边栏</a>,或者<a title="Prism扩展:将Web应用桌面化" href="https://www.digglife.net/articles/prism-extension.html" target="_blank">使用Prism将它桌面化</a>.
 

@@ -38,7 +38,7 @@ tags:
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/text-wrapper-thumb.png" alt="text-wrapper" border="0" height="198" width="450" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/text-wrapper-thumb.png" alt="text-wrapper" border="0" height="198" width="450" />][1]
 
 当然,上图这种随意的对齐方式毫无美观可言,大家可以到它提供的<a href="http://www.csstextwrap.com/examples.php" title="演示页面" target="_blank">演示页面</a>查看一些设计得不错的形状.设计完毕后点击I&#8217;m Done即可获得CSS代码,它一共提供了3种不同的输出方式:纯粹的CSS代码,包括Class的CSS代码,JS代码.
 

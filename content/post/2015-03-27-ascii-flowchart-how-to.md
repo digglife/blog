@@ -26,7 +26,7 @@ tags:
 
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2016/05/graph-easy-flowchart.png" alt="Graph::Easy生成ASCII流程图" width="500" height="273" />
+<img src="https://www.digglife.net/wp-content/uploads/2016/05/graph-easy-flowchart.png" alt="Graph::Easy生成ASCII流程图" width="500" height="273" />
 
 总的来说，制作这种 ASCII 文本的流程图有两个方式：
 

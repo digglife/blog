@@ -35,7 +35,7 @@ tags:
 
 **1.显示文件夹大小**
 
-[<img id="id" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/foldersize-thumb.png" border="0" alt="foldersize" width="410" height="175" />][1]
+[<img id="id" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/foldersize-thumb.png" border="0" alt="foldersize" width="410" height="175" />][1]
 
 <a title="FolderSize" href="http://foldersize.sourceforge.net/" target="_blank">FolderSize</a>这个免费软件能够新增一个栏目到Windows Explorer的详细信息视图下.它能够在后台扫描所有显示文件夹的大小.
 
@@ -43,7 +43,7 @@ tags:
 
 **2.扫描空文件夹**
 
-**[<img id="id" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/red-thumb.png" border="0" alt="red" width="450" height="357" />][2]** 
+**[<img id="id" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/red-thumb.png" border="0" alt="red" width="450" height="357" />][2]** 
 
 如果你经常进行安装和卸载操作,系统里通常会出现数量庞大的空文件夹.<a href="http://www.jonasjohn.de/lab/red.htm" target="_blank">RED(Remove Empty Directories)</a>可以帮助你搜索整个硬盘中的空文件夹,以便你进行硬盘清理.这个软件同样可以集成到Windows Explorer中.需要安装有.Net Framework 2.0.
 
@@ -51,7 +51,7 @@ tags:
 
 **3.Windows  Explorer鼠标手势**
 
-[<img id="id" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/rocker-thumb.png" border="0" alt="Rocker" width="450" height="249" />][3]
+[<img id="id" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/rocker-thumb.png" border="0" alt="Rocker" width="450" height="249" />][3]
 
 现在的浏览器都自带有或者通过扩展能够实现鼠标手势功能,它能大大加快浏览速度.来自<a href="http://lifehacker.com/software/exclusive-lifehacker-download-for-windows/navigate-backward-and-forward-with-rocker-257609.php" target="_blank">Lifehacker的Rocker</a>能够让你在Windows Explorer中也能使用这种方便的功能.
 
@@ -59,7 +59,7 @@ tags:
 
 **４.自定义&#8221;发送到&#8221;菜单**
 
-[<img id="id" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/sendto-thumb.png" border="0" alt="sendto" width="355" height="119" />][4]
+[<img id="id" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/sendto-thumb.png" border="0" alt="sendto" width="355" height="119" />][4]
 
 你可以将比较常用的文件夹或者程序添加到发送到菜单中以更快地操作.首先导航到_C:\Documents and Settings\username\SendTo_(修改username为你的用户名),这里有发送到菜单的大部分内容.你可以删除或者添加快捷方式到这个文件夹.
 
@@ -67,7 +67,7 @@ tags:
 
 **5.使用Windows Vista样式的导航栏.**
 
-[<img id="id" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/nagative-thumb.jpg" border="0" alt="nagative" width="350" height="279" />][5]
+[<img id="id" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/nagative-thumb.jpg" border="0" alt="nagative" width="350" height="279" />][5]
 
 使用这种导航栏同样能够加速定位文件的效率,具体内容可以查看<a title="让你的XP拥有和Vista一样的导航菜单" href="https://www.digglife.net/articles/%e8%ae%a9%e4%bd%a0%e7%9a%84xp%e6%8b%a5%e6%9c%89%e5%92%8cvista%e4%b8%80%e6%a0%b7%e7%9a%84%e5%af%bc%e8%88%aa%e8%8f%9c%e5%8d%95.html" target="_blank">让你的XP拥有和Vista一样的导航菜单</a>．
 

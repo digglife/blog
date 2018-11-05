@@ -22,7 +22,7 @@ tags:
   - 网络电视
 
 ---
- <img height="36" alt="livestation-logo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/livestation-logo.jpg" width="450" />
+ <img height="36" alt="livestation-logo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/livestation-logo.jpg" width="450" />
 
 <a href="http://www.joost.com/" target="_blank">Joost</a>的克隆版本最近是越来越多,现在微软也开始涉足网络电视领域了,当然也许我们不应该把微软苦心推出的这款新产品称之为Joost克隆.<a href="http://www.livestation.com/" target="_blank">LiveStation</a>同样是通过P2P技术播放在线电视节目,不同的是它采取了微软令许多人兴奋不已的独家技术<a href="http://www.microsoft.com/silverlight/" target="_blank">Silverlight</a>.目前LiveStation还是Beta版本,计划于10月正式发布. 
 
@@ -43,4 +43,4 @@ tags:
 
 PS:最近在考试,可能更新不够快,文章内容也不够好.7月10日考完,从11号开始会有所好转&#8230;.
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/livestationshot.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/07/livestationshot.png

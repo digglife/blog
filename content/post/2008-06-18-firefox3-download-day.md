@@ -28,7 +28,7 @@ tags:
 
 
   
-[<img title="2008下载日" src="http://digglife.qiniudn.com/qiniu/2545/image/43845cbcdd7fe92c1f24b2c1e1cd596b.png" border="0" alt="2008下载日" />][1]
+[<img title="2008下载日" src="https://www.digglife.net/qiniu/2545/image/43845cbcdd7fe92c1f24b2c1e1cd596b.png" border="0" alt="2008下载日" />][1]
 
 一个浏览器的发布能够搞出这么大动静,恐怕是史无前例.从Alpha到现在正式发布,我一直在关注,并不断感受到Firefox 3的强大.下面总结一下相关文章:
 

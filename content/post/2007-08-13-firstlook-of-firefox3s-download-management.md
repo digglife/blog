@@ -30,7 +30,7 @@ tags:
 ---
 我们知道Firefox 3将会加入许多新功能,比如<a target="_blank" href="https://www.digglife.net/articles/firefox-30-alpha-5-release.html">全新的Place功能,增强的恶意软件防护</a>,升级下载管理器等.现在<a target="_blank" href="http://mozillalinks.org/wp/2007/08/first-look-to-firefox-3s-new-download-manager/">Mozilla Links</a>公布了关于下载管理器升级的一些细节和截图.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ff3downloadmanager.jpg"><img width="400" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/ff3downloadmanager-thumb.jpg" alt="ff3downloadmanager" height="352" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ff3downloadmanager.jpg"><img width="400" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ff3downloadmanager-thumb.jpg" alt="ff3downloadmanager" height="352" /></a>
 
 1.下载项将会被分成活跃和不活跃两类.活跃类显示正在下载的项目,不活跃类包括已完成的和已停止的下载项.
 

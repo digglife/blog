@@ -43,7 +43,7 @@ tags:
 
 也就是上下文功能菜单.用户可以在任意网页便捷地使用某种服务.活动提供程序提供了两种模式:搜寻和发送.类似的功能原来都是通过IE右键菜单实现的,比如Google Toolbar提供的&#8221;使用Google搜索&#8230;&#8221;,&#8221;发送到Gmail&#8221;等等.用户安装和管理自己的活动提供程序,我们可以从[Internet Explorer 8 Service Guide][1](目前只提供了少许服务)或者提供有Activities的网站安装.可以想见,在IE 8正式推出之后,很多网站将会推出自己的活动提供程序.
 
-<img src="http://digglife.qiniudn.com/qiniu/2467/image/f3764af1b176bd2a75f60c18b354f435.jpg" height="286" width="450" />
+<img src="https://www.digglife.net/qiniu/2467/image/f3764af1b176bd2a75f60c18b354f435.jpg" height="286" width="450" />
 
 **2.网站订阅(WebSlices)**
 
@@ -61,13 +61,13 @@ WebSlices可以让用户不用打开网页即可获得网站某些内容的更�
 
 熟悉Firefox和Opera的都知道,没什么好说的.
 
-<img src="http://digglife.qiniudn.com/qiniu/2467/image/e66d33ca13f988e08941003ac367d897.jpg" height="86" width="450" />
+<img src="https://www.digglife.net/qiniu/2467/image/e66d33ca13f988e08941003ac367d897.jpg" height="86" width="450" />
 
 **5.增强的网络钓鱼过滤**
 
 将IE 7中已经有的&#8221;仿冒网站筛选器&#8221;改进为&#8221;安全性过滤器&#8221;,除了包括已有的钓鱼网站过滤功能之外,还可以阻止损害电脑和盗取用户个人信息的已知恶意软件入侵.另外,其处理速度和性能都大大提高,在确保安全的同时也能保证快速浏览.
 
-<img src="http://digglife.qiniudn.com/qiniu/2467/image/323ba500a374e29023a79db14b8a0257.jpg" height="365" width="450" />
+<img src="https://www.digglife.net/qiniu/2467/image/323ba500a374e29023a79db14b8a0257.jpg" height="365" width="450" />
 
 **IE 8 Beta 1简体中文版下载地址:**
 
@@ -78,7 +78,7 @@ WebSlices可以让用户不用打开网页即可获得网站某些内容的更�
 <a href="http://download.microsoft.com/download/a/2/8/a280b20e-7e03-467e-909a-da390e726262/IE8-WindowsServer2003-x86-CHS.exe" target="_blank" title="IE 8Beta 1 For Windows 2003 Sever下载"><strong>IE 8Beta 1 For Windows 2003 Sever下载</strong></a>
 
  [1]: http://go.microsoft.com/fwlink/?LinkID=99193
- [2]: http://digglife.qiniudn.com/qiniu/2467/image/499259d75eabd0700408bbacebc99093.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2467/image/4692c81a2d7d6ac98c71769ec7498b53.jpg
+ [2]: https://www.digglife.net/qiniu/2467/image/499259d75eabd0700408bbacebc99093.jpg
+ [3]: https://www.digglife.net/qiniu/2467/image/4692c81a2d7d6ac98c71769ec7498b53.jpg
  [4]: http://download.microsoft.com/download/7/a/4/7a4b44ff-1e97-40fe-af08-33a819ccea77/IE8-WindowsXP-x86-CHS.exe "IE 8 Beta 1 For Windows XP下载"
  [5]: http://download.microsoft.com/download/1/6/6/1660dc85-4958-4b32-84ec-0c3be6b235c8/IE8-WindowsVista-x86-CHS.exe "IE 8 Beta 1 For Windows Vista下载"

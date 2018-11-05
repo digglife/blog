@@ -24,11 +24,11 @@ Speed Dial,很熟悉吧.这个本来是Opera的功能之一,现在Firefox同样�
 
 Speed Dial扩展可以将多个常用网页集装在一个标签以供快速预览.这个扩展允许你设置9个网页,默认状态下打开Firefox这些网页便立即显示在一个标签里,点击任意一个缩略图进入全屏浏览.当然你也可以通过配置让打开空白标签时也显示.按下Ctrl和1-9数字键可以快速进入你想浏览的网页.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354speeddial34.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354speeddial-thumb13.png" height="249" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354speeddial34.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354speeddial-thumb13.png" height="249" /></a>
 
 你可以在收藏夹里设置Speed Dial页面,或者在网页空白处直接点击右键,在Speed Dial菜单内设置.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354set-speed-dail72.png"><img width="192" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354set-speed-dail-thumb31.png" height="172" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354set-speed-dail221.png"><img width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354set-speed-dail2-thumb1.png" height="169" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354set-speed-dail72.png"><img width="192" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354set-speed-dail-thumb31.png" height="172" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354set-speed-dail221.png"><img width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterfirefoxspeeddial-d354set-speed-dail2-thumb1.png" height="169" /></a>
 
 <a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/4810">下载Speed Dial扩展(需要Firefox2.0+)</a>
 

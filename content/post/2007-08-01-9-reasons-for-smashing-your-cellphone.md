@@ -28,7 +28,7 @@ tags:
   - 搞笑
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/cellphone.jpg" atomicselection="true"><img height="300" alt="cellphone" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/cellphone-thumb.jpg" width="400" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/cellphone.jpg" atomicselection="true"><img height="300" alt="cellphone" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/cellphone-thumb.jpg" width="400" /></a>
 
 手机在大大方便人们生活的同时,也给许多人带来了不少烦恼.下面是让人想砸掉手机的9大理由.
 

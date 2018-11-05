@@ -54,11 +54,11 @@ Firefox 3内置有本地文件和FTP管理组件,不过并不是那么方便.Fir
 
 Firefox的地址栏只在输入URL的时候显示转到按钮,其他时候隐藏.很多朋友不习惯这个改变,Show Go这个扩展能够让转到按钮一直显示在地址栏.
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/firefox-safemode.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/archive/firefox-safemode.jpg
  [2]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5225837501280433234
- [3]: http://digglife.qiniudn.com/wp-content/uploads/archive/firefly.jpg
+ [3]: https://www.digglife.net/wp-content/uploads/archive/firefly.jpg
  [4]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5225837503045757218
- [5]: http://digglife.qiniudn.com/wp-content/uploads/archive/panic.jpg
+ [5]: https://www.digglife.net/wp-content/uploads/archive/panic.jpg
  [6]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5225837509469864706
- [7]: http://digglife.qiniudn.com/wp-content/uploads/archive/twitter-locationbar.jpg
+ [7]: https://www.digglife.net/wp-content/uploads/archive/twitter-locationbar.jpg
  [8]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5225837505701639298

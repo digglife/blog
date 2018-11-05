@@ -48,7 +48,7 @@ tags:
   * 在**硬件**一栏选择**硬件配置文件**.
   * 点击复制,并将新的配置文件命名为VMware.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/hardware-profiles.png"><img width="387" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/hardware-profiles-thumb.png" alt="Hardware_profiles" height="383" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/hardware-profiles.png"><img width="387" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/hardware-profiles-thumb.png" alt="Hardware_profiles" height="383" /></a>
 
 <!--more-->
 
@@ -62,7 +62,7 @@ tags:
       * 选择&#8221;**安装我手动从列表中选择的硬件**&#8220;.
       * 选择**SCSI and RAID控制器**. 点击浏览,定位到你刚才解压的VMware SCSI驱动.Windows会自动安装.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/scsi.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/scsi-thumb.png" alt="SCSI" height="350" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/scsi.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/scsi-thumb.png" alt="SCSI" height="350" /></a>
 
 ### **重启到Ubuntu**
 
@@ -98,11 +98,11 @@ tags:
 定位到 <strong>应用程序--系统工具--VMware Server Console</strong>.选择连接到<strong>本地主机</strong>( local host).下面按照以下步骤进行:</font>`</p> 
           * `<font face="Trebuchet MS">创建一个<strong>自定义虚拟机</strong>(Creat a custom virtual machine)</font>`
         
-        <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/custom.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/custom-thumb.png" alt="custom" height="352" /></a>
+        <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/custom.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/custom-thumb.png" alt="custom" height="352" /></a>
         
           * ```<font face="Trebuchet MS">选择你正在使用的Windows版本,一直保持默认设置点击下一步直到网络选项.在这里选择<strong>NAT Networking</strong>.设定<strong>Buslogic</strong>为SCSI控制器(SCSI Controller)</font>`
         
-        <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/networking.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/networking-thumb.png" alt="networking" height="352" /></a>
+        <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/networking.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/networking-thumb.png" alt="networking" height="352" /></a>
         
           * `<font face="Trebuchet MS">在<strong>选择磁盘</strong>(Select a Disk)对话框中,选择使用<strong>物理磁盘</strong>(Use a  physical Disk).然后使用个别分区,勾选Windows所在分区和Linux所在分区(因为Grub启动器的部分在Linux分区下).注意别误选了Swap分区.</font>`
       * ``尽管我们有很多人希望常驻<a target="_blank" href="https://www.digglife.net/articles/category/about_ubuntu/">Ubuntu</a>,但是很多时候还是脱离不了<a target="_blank" href="https://www.digglife.net/articles/category/windows-tricks/">Windows</a>.这个时候通常的选择是使用Wine模拟运行Windows软件,但是配置难免复杂,而且很多软件也并不能正常使用.下面这个向导详细说明了如何利用VMware在Ubuntu下运行已经在Windows下安装了的软件,操作很简单.
@@ -115,7 +115,7 @@ tags:
   * 在**硬件**一栏选择**硬件配置文件**.
   * 点击复制,并将新的配置文件命名为VMware.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/hardware-profiles.png"><img width="387" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/hardware-profiles-thumb.png" alt="Hardware_profiles" height="383" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/hardware-profiles.png"><img width="387" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/hardware-profiles-thumb.png" alt="Hardware_profiles" height="383" /></a>
 
 <!--more-->
 
@@ -129,7 +129,7 @@ tags:
       * 选择&#8221;**安装我手动从列表中选择的硬件**&#8220;.
       * 选择**SCSI and RAID控制器**. 点击浏览,定位到你刚才解压的VMware SCSI驱动.Windows会自动安装.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/scsi.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/scsi-thumb.png" alt="SCSI" height="350" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/scsi.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/scsi-thumb.png" alt="SCSI" height="350" /></a>
 
 ### **重启到Ubuntu**
 
@@ -165,11 +165,11 @@ tags:
 定位到 <strong>应用程序--系统工具--VMware Server Console</strong>.选择连接到<strong>本地主机</strong>( local host).下面按照以下步骤进行:</font>`</p> 
           * `<font face="Trebuchet MS">创建一个<strong>自定义虚拟机</strong>(Creat a custom virtual machine)</font>`
         
-        <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/custom.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/custom-thumb.png" alt="custom" height="352" /></a>
+        <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/custom.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/custom-thumb.png" alt="custom" height="352" /></a>
         
           * ```<font face="Trebuchet MS">选择你正在使用的Windows版本,一直保持默认设置点击下一步直到网络选项.在这里选择<strong>NAT Networking</strong>.设定<strong>Buslogic</strong>为SCSI控制器(SCSI Controller)</font>`
         
-        <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/networking.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/networking-thumb.png" alt="networking" height="352" /></a>
+        <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/networking.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/networking-thumb.png" alt="networking" height="352" /></a>
         
           * `<font face="Trebuchet MS">在<strong>选择磁盘</strong>(Select a Disk)对话框中,选择使用<strong>物理磁盘</strong>(Use a  physical Disk).然后使用个别分区,勾选Windows所在分区和Linux所在分区(因为Grub启动器的部分在Linux分区下).注意别误选了Swap分区.</font>`
       *`` 
@@ -182,7 +182,7 @@ tags:
     
     `<font face="Trebuchet MS">如果你的配置还可以的话,运行起来应该还算流畅的.</font>`
     
-    `<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/windowsxp-ubuntu.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/windowsxp-ubuntu-thumb.png" alt="windowsXP_Ubuntu" height="324" /></a> `
+    `<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/windowsxp-ubuntu.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/windowsxp-ubuntu-thumb.png" alt="windowsXP_Ubuntu" height="324" /></a> `
     
     ``
     

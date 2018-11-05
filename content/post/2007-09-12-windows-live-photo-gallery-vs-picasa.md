@@ -51,7 +51,7 @@ tags:
 
 Picasa和Windows Live Photo Gallery(的界面都非常漂亮和友好,两者都有着基本的图片编辑功能,你可以非常简单地对图片进行缩放,旋转,搜索,评级,打标签和添加文字.在Picasa里我们可以直接从不同文件夹里面同时选取多张图片,但是在Windows Live Photo Gallery我们只能在当前文件夹选取图片.Picasa整体风格比较更加时尚,类Flash的界面也让操作非常舒适.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/live-photo-gallery.png" target="_blank"><img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="324" alt="Live-photo-gallery" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/live-photo-gallery-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/live-photo-gallery.png" target="_blank"><img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="324" alt="Live-photo-gallery" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/live-photo-gallery-thumb.png" width="450" border="0" /></a> 
 
 **2.运行速度.**
 
@@ -67,13 +67,13 @@ Picasa和Windows Live Photo Gallery(的界面都非常漂亮和友好,两者都�
 
 **5.服务的整合**
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/upload-live-space.png" target="_blank"><img height="312" alt="upload-live-space" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/upload-live-space-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/upload-live-space.png" target="_blank"><img height="312" alt="upload-live-space" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/upload-live-space-thumb.png" width="450" border="0" /></a> 
 
 Google和MS都将旗下的服务整合到了各自的照片管理软件.Picasa可以直接上传图片到<a title="Picasa网络相册" href="http://picasaweb.google.com" target="_blank">Picasa网络相册</a>,上传视频到<a title="超级集装箱:下载YouTube视频的23种方式" href="https://www.digglife.net/articles/%e8%b6%85%e7%ba%a7%e9%9b%86%e8%a3%85%e7%ae%b1%e4%b8%8b%e8%bd%bdyoutube%e8%a7%86%e9%a2%91%e7%9a%8423%e7%a7%8d%e6%96%b9%e5%bc%8f.html" target="_blank">Youtube</a>和Google Video,发布图片博客到Blogger.而Windows Live Photo Gallery则可以分别整合了Live Space和MSN SoapBox.单从软件角度来说,双方的服务整合都做的比较好.不过从服务的质量和用户群来说,MS显然落了下风,当然，要求他们整合对方的服务显然是不可能的.
 
 **6.屏幕保护组件**
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/google-screensaver.jpg" target="_blank"><img id="id" height="324" alt="google-screensaver" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/google-screensaver-thumb.jpg" width="432" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/google-screensaver.jpg" target="_blank"><img id="id" height="324" alt="google-screensaver" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/google-screensaver-thumb.jpg" width="432" border="0" /></a> 
 
 Picasa Screensaver(现在有一个独立的软件<a href="http://pack.google.com/screensaver.html" target="_blank">Google Photo Screensaver</a>)和Live Screensaver都能利用照片自动播放当作屏幕保护,所不同的是Google Photo Screensaver更为开放,它能够抓取Flickr RSS和Yahoo! News RSS等在线图片,但是在Windows Live Photo Gallery只能使用本地图片.另外Picasa 还支持不同的照片显示在两个屏幕上(Dual Screen).
 

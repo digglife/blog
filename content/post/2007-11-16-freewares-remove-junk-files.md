@@ -41,19 +41,19 @@ tags:
 
 **1.**<a title="CCleaner" href="http://www.ccleaner.com/" target="_blank"><strong>CCleaner</strong></a>**&nbsp;** <a title="下载" href="http://download.piriform.com/ccsetup202.exe" target="_blank"><strong>下载</strong></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ccleaner.png" target="_blank"><img height="327" alt="ccleaner" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/ccleaner-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ccleaner.png" target="_blank"><img height="327" alt="ccleaner" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ccleaner-thumb.png" width="450" border="0" /></a> 
 
 这款免费软件现在应该成为许多人进行系统清理的首选了.CCleaner体积小,可自定义性强,扫描清理速度快,而且效果非常明显,非常值得推荐.另外,它的注册表清理,软件卸载工具和启动项管理工具也不错.特别是注册表清理,如果长时间未清理的情况下进行一次大扫除,你会明显感到系统反应速度变快不少.
 
 **2.**<a title="Revo Uninstaller" href="http://www.revouninstaller.com/" target="_blank"><strong>Revo Uninstaller</strong></a>**&nbsp;** <a title="Revo Uninstaller下载" href="http://www.revouninstaller.com/revosetup.exe" target="_blank"><strong>下载</strong></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/revo-unistaller.png" target="_blank"><img height="379" alt="revo-unistaller" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/revo-unistaller-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/revo-unistaller.png" target="_blank"><img height="379" alt="revo-unistaller" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/revo-unistaller-thumb.png" width="450" border="0" /></a> 
 
 Revo Uninstaller的特色在于程序卸载的干净彻底.我们知道,调用软件自带的卸载工具一般会留下文件残余和注册表项,但是Revo Uninstaller会在调用卸载之前对程序进行一次彻底的扫描,然后根据扫描的信息在卸载之后删除所有的残余文件和无用的注册表项.这款软件的详细特点和功能可以查看<a title="酷软推荐:彻底卸载程序的利器Revo Uninstaller" href="https://www.digglife.net/articles/revo-uninstaller.html" target="_blank">酷软推荐:彻底卸载程序的利器Revo Uninstaller</a>.
 
 **3.**<a title="nCleaner" href="http://www.nkprods.com/ncleaner/" target="_blank"><strong>nCleaner</strong></a>**&nbsp;** <a title="nCleaner下载" href="http://sq3.onlinedown.net/down/ncleaner_setup.zip" target="_blank"><strong>下载</strong></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ncleaner.png" target="_blank"><img height="309" alt="ncleaner" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/ncleaner-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ncleaner.png" target="_blank"><img height="309" alt="ncleaner" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/ncleaner-thumb.png" width="450" border="0" /></a> 
 
 nCleaner是系统清理工具的新秀,它有很多CCleaner没有的选项,更加适合熟悉Windows的高级用户.nCleaner一共有四个栏目:系统清理,垃圾查找,系统优化和启动项管理.它还拥有系统实时监测和文件搅碎机等功能.可惜的是,这款软件的国际化做的不好,还没有发现中文版.
 
@@ -61,7 +61,7 @@ nCleaner是系统清理工具的新秀,它有很多CCleaner没有的选项,更�
 
 **4.** <a title="Advanced Windows Care Personal" href="http://www.download.com/3000-2086_4-10755164.html" target="_blank"><strong>Advanced Windows Care Personal</strong></a>&nbsp;&nbsp; <a title="advanced windows care personal下载" href="http://www.download.com/3000-2086_4-10755164.html" target="_blank"><strong>下载</strong></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/advanced-windows-care.png" target="_blank"><img height="499" alt="advanced-windows-care" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/advanced-windows-care-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/advanced-windows-care.png" target="_blank"><img height="499" alt="advanced-windows-care" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/advanced-windows-care-thumb.png" width="450" border="0" /></a> 
 
 这个软件有一揽子优化和清理工具,它最好的一个工具是间谍软件监测.值得提醒一下的是,这款软件的系统资源占用比较大.
 
@@ -69,7 +69,7 @@ nCleaner是系统清理工具的新秀,它有很多CCleaner没有的选项,更�
 
 **5.** <a title="XP Safeguard" href="http://www.download.com/XP-SafeGuard/3000-2086_4-10749284.html" target="_blank"><strong>XP Safeguard</strong></a>&nbsp;  ****<a title="XP Safeguard下载" href="http://www.download.com/XP-SafeGuard/3000-2086_4-10749284.html" target="_blank"><strong>下载</strong></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/window-xp-safeguard.png" target="_blank"><img height="350" alt="window-xp-safeguard" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/window-xp-safeguard-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/window-xp-safeguard.png" target="_blank"><img height="350" alt="window-xp-safeguard" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/window-xp-safeguard-thumb.png" width="450" border="0" /></a> 
 
 XP Safeguard主要针对普通用户,界面清爽简洁.它除了可以完成系统清理工作之外,还能进行一些XP系统设置上的优化.同样没有中文版.
 

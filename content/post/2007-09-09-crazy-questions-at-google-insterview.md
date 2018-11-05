@@ -129,7 +129,7 @@ tags:
   - 面试
 
 ---
-[<img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/google-headquarters-1-thumb.jpg" alt="google-headquarters-1" height="223" id="id" />][1]
+[<img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/google-headquarters-1-thumb.jpg" alt="google-headquarters-1" height="223" id="id" />][1]
 
 现在大型公司的面试问题都喜欢走隐蔽路线,通过一些貌似和测试目的毫不相关的问题来达到评定员工的目的.下面问题大部分来自<a target="_blank" href="http://tihomir.org/crazy-questions-at-google-job-interview/" title="Google面试问题">tihomir</a>的朋友在几周前参加Google面试时被问到的问题,很多问题尽管依附在荒诞的事例上,不过的确能够看到对逻辑思维的考量,而且大多数的核心都是数学问题.一共有16个问题,看看你会如何回答.
 

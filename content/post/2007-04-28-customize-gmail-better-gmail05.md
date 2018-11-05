@@ -38,9 +38,9 @@ Air Skin皮肤
 
 <a href="http://lifehacker.com/assets/resources/lhcode/bettergmail_0.5.xpi" target="_blank">Better Gmail 下载 </a>
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/bettergmail.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/bettergmail.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/bettergmail.png "bettergmail.png"
- [3]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/options.png
+ [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/options.png
  [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/options.png "options.png"
- [5]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/airskin.png
+ [5]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/airskin.png
  [6]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/airskin.png "airskin.png"

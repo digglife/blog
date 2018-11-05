@@ -39,7 +39,7 @@ tags:
 
 **6.Windows Live背包和CI证书.**<a title="Windows Live中文社区" href="http://forum.livesino.net/" target="_blank">Windows Live中文社区</a>的社区影响力人物(Community Influencer)证明和纪念背包,微软送的东西都不错,美观精致,质量上佳.
 
-[<img src="http://digglife.qiniudn.com/qiniu/2560/image/1d4224d469023e15373a5570182bfd37.jpg" alt="业余奇客的徽章 II" width="500" height="375" />][1]
+[<img src="https://www.digglife.net/qiniu/2560/image/1d4224d469023e15373a5570182bfd37.jpg" alt="业余奇客的徽章 II" width="500" height="375" />][1]
 
 拍照当时没有拿出来的还有以下这些东西:
 
@@ -47,7 +47,7 @@ tags:
 
 **8.百度的水杯和《赢在中国》.**暑假无聊参加百度音乐掌门人活动的奖品,摩摩诘一度对百度抱有好感.百度水杯送给了昨天奔赴广州的北极小鱼同学,那本百度编年史《赢在中国》不知所踪.
   
-[<img src="http://digglife.qiniudn.com/qiniu/2560/image/bfbd4969bf675863b4ca8d286d5b2453.jpg" alt="百度水杯" width="500" height="375" />][2]
+[<img src="https://www.digglife.net/qiniu/2560/image/bfbd4969bf675863b4ca8d286d5b2453.jpg" alt="百度水杯" width="500" height="375" />][2]
 
 **9.精英主板的背包和公仔.**精英主板在湖北大学办活动时送的纪念品,大一的时候很傻很天真.
 

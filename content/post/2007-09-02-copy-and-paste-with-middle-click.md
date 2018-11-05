@@ -39,7 +39,7 @@ tags:
 
 这个软件能够让你使用鼠标中键复制粘贴剪切板的内容到任意一个文本框.它能够自动聚焦到处于鼠标指针下的窗口,所以你不用点击窗口激活.但是它也有一点缺陷,首先你无法对它进行自定义,任何设置都只能使用默认的;第二,启动该软件后,它会独占中键操作,也就是说,你在使用Firefox的时候无法使用中键关闭标签,浏览网页的时候点击中键页不会出现自动滚动标志. 
 
-  <img height="50" alt="X-mouse" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/x-mouse.png" width="315" />
+  <img height="50" alt="X-mouse" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/x-mouse.png" width="315" />
 
 <a href="http://fy.chalmers.se/~appro/nt/TXMouse/TXMouse.exe" target="_blank">点击下载</a> 
 
@@ -49,7 +49,7 @@ tags:
 
 这个扩展能够自动复制选中内容到剪切板,就像某些网站提供代码复制时的效果,而粘贴到其他地方时也只用按下鼠标中键即可.对于经常对网页文章进行摘要的博客来说,这个扩展能够节约你很多时间. 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/autocopy.png" atomicselection="true"><img height="303" alt="autocopy" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/autocopy-thumb.png" width="450" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/autocopy.png" atomicselection="true"><img height="303" alt="autocopy" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/autocopy-thumb.png" width="450" /></a> 
 
 <a href="https://addons.mozilla.org/en-US/firefox/downloads/file/1872/auto_copy__45_0.6.4__45_fx__43_mz__43_tb.xpi" target="_blank">直接点击安装</a>(.xpi 47KB) 
 

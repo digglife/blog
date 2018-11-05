@@ -25,7 +25,7 @@ tags:
 
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/08/ebwin4.png" alt="EBWin4 的主界面" width="540" height="320" class="alignnone size-full wp-image-3856" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/08/ebwin4.png" alt="EBWin4 的主界面" width="540" height="320" class="alignnone size-full wp-image-3856" />
 
 ### EBWin4 的安装环境
 

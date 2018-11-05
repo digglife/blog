@@ -48,7 +48,7 @@ tags:
   - 微软
 
 ---
-[<img border="0" align="right" width="200" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/windows-live-logo-thumb.png" alt="windows-live-logo" height="50" style="border-width: 0px" id="id" />][1]
+[<img border="0" align="right" width="200" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/windows-live-logo-thumb.png" alt="windows-live-logo" height="50" style="border-width: 0px" id="id" />][1]
 
 Windows Live Suite Beta的集成安装方式的确让人很不爽,下载和安装都非常缓慢,所以我在<a target="_blank" href="https://www.digglife.net/articles/firstlook-of-windows-live-writer-beta3.html">升级WLW的当天</a>就在研究如何找到独立的安装文件和安装方法.当时只是从Windows目录下的Windowsupdate.txt中找到了真实下载地址和程序的临时文件,但是有了这些.exe文件还是无法安装,今天终于找到了实现的方法.(不想了解方法的直接跳**到第3处下载安装文件**即可)．
 
@@ -76,7 +76,7 @@ Windows Live Suite Beta的集成安装方式的确让人很不爽,下载和安�
 
   * 使用 PE Explorer打开下载的.exe文件,点击&#8221;资源查看/编辑器&#8221;.(点击查看大图)
 
-         [<img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/pe-source-thumb.png" alt="PE-Explorer" height="335" />][4]
+         [<img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/pe-source-thumb.png" alt="PE-Explorer" height="335" />][4]
 
   * 展开左侧边栏的目录,你可以看到以.MSI为后缀的文件,右键点击,在弹出菜单中选择&#8221;资源另存为&#8221;,保存到任意目录.
   * 将提取出来的文件的后缀名更改为.MSI,Over~
@@ -105,7 +105,7 @@ Windows Live Suite Beta的集成安装方式的确让人很不爽,下载和安�
 
 这个程序的真实下载地址我也找到了,不过里面并没有MSI文件可以提取,所以并没有在上面提及.
 
-[<img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/windows-search-thumb.png" alt="Windows桌面搜索" height="376" id="id" />][5]
+[<img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/windows-search-thumb.png" alt="Windows桌面搜索" height="376" id="id" />][5]
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/windows-live-logo.png
  [2]: http://get.live.cn/ "Windows Live套件"

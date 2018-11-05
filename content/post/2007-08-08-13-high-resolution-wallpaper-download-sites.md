@@ -28,57 +28,57 @@ tags:
 
 1.[Interfacelift][1]  非常不错,热血推荐~!
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/interfacelift.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/interfacelift-thumb.png" alt="interfacelift" height="258" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/interfacelift.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/interfacelift-thumb.png" alt="interfacelift" height="258" /></a>
 
 <!--more-->
 
 2.[Digital Blasphemy][2] 提供高清3D壁纸
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digiblas.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/digiblas-thumb.png" alt="digiblas" height="243" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digiblas.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/digiblas-thumb.png" alt="digiblas" height="243" /></a>
 
 3.[Vlad Studio][3] 
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/vlad.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/vlad-thumb.png" alt="vlad" height="256" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/vlad.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/vlad-thumb.png" alt="vlad" height="256" /></a>
 
 4.[Terra Galleria][4]  主要是些自然景观.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/terra.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/terra-thumb.png" alt="terra" height="245" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/terra.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/terra-thumb.png" alt="terra" height="245" /></a>
 
 5.[Steve Truett’s][5]
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/struett.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/struett-thumb.png" alt="struett" height="245" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/struett.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/struett-thumb.png" alt="struett" height="245" /></a>
 
 6.[Blatte’s Backgrounds][6] 主要是一些复杂的几何图形
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/blatte.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/blatte-thumb.png" alt="blatte" height="245" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/blatte.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/blatte-thumb.png" alt="blatte" height="245" /></a>
 
 7.[HigRes Wallpapers][7]  自然景观
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/highres.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/highres-thumb.png" alt="highres" height="246" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/highres.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/highres-thumb.png" alt="highres" height="246" /></a>
 
 8.[eWallpapers][8]
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ewall.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/ewall-thumb.png" alt="ewall" height="246" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ewall.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ewall-thumb.png" alt="ewall" height="246" /></a>
 
 9.[Picture Correct][9] 
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/piccorrect.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/piccorrect-thumb.png" alt="piccorrect" height="246" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/piccorrect.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/piccorrect-thumb.png" alt="piccorrect" height="246" /></a>
 
 10.[Inside Graphics][10]
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/insidegraphics.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/insidegraphics-thumb.png" alt="insidegraphics" height="246" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/insidegraphics.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/insidegraphics-thumb.png" alt="insidegraphics" height="246" /></a>
 
 11.[All best Wallpapers][11]
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/allbest.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/allbest-thumb.png" alt="allbest" height="245" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/allbest.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/allbest-thumb.png" alt="allbest" height="245" /></a>
 
 12.[Mandolux][12] 专为双显示器提供
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/mandolux.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/mandolux-thumb.png" alt="mandolux" height="242" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/mandolux.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/mandolux-thumb.png" alt="mandolux" height="242" /></a>
 
 13.[Dual Monitor][13] 专为双显示器提供
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/dmb.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/dmb-thumb.png" alt="dmb" height="245" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/dmb.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/dmb-thumb.png" alt="dmb" height="245" /></a> 
 
  来自:<a target="_blank" href="http://blog.shankarganesh.com/2007/08/07/download-high-resolution-wallpapers/">Shankar Genesh</a>
 

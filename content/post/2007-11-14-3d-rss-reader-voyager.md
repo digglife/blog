@@ -48,7 +48,7 @@ tags:
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/voyage-thumb.png" border="0" alt="voyage" width="450" height="267" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/voyage-thumb.png" border="0" alt="voyage" width="450" height="267" />][1]
 
 另外,这个阅读器画面的中间还有一条很细的时间线,你可以通过键盘的方向键或者鼠标滚轮来阅读特定时间段的的文章.Voyage默认状态下加载了一些流行的Feed,比如<a href="http://www.thatsweird.net/" target="_blank">Weird News</a>,<a href="http://news.bbc.co.uk/" target="_blank">BBC News</a>等,你可以任意删除和添加.不过可惜的是,Voyager不支持OPML文件导入,所以每次你只能添加一个Feed.同时,中文在这里也会显示为乱码.
 

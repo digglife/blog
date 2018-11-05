@@ -34,7 +34,7 @@ MPE有两种模式,单张优化和批量优化.可供选择的照片改进选项
 <!--more-->
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223529275679891346"><img title="手机照片优化软件Mobile Photo Enhancer" src="http://digglife.qiniudn.com/wp-content/uploads/archive/mobile-photo-enhancer.png" alt="优化效果还是很明显的,话说这张照片还真是河蟹啊..." width="400" height="211" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5223529275679891346"><img title="手机照片优化软件Mobile Photo Enhancer" src="https://www.digglife.net/wp-content/uploads/archive/mobile-photo-enhancer.png" alt="优化效果还是很明显的,话说这张照片还真是河蟹啊..." width="400" height="211" /></a>
   
   <p class="wp-caption-text">
     优化效果还是很明显的,话说我这张照片还真是河蟹啊...
@@ -45,7 +45,7 @@ MPE有两种模式,单张优化和批量优化.可供选择的照片改进选项
 
 手机照片优化软件MPE下载:
 
-<a title="手机照片优化软件Mobie Photo Enhancer下载" href="http://files.vicman.net/mpeinst.exe" target="_blank"><img class="alignnone size-full wp-image-2565" title="下载" src="http://digglife.qiniudn.com/wp-content/uploads/2008/07/download.gif" alt="" width="64" height="64" /></a>
+<a title="手机照片优化软件Mobie Photo Enhancer下载" href="http://files.vicman.net/mpeinst.exe" target="_blank"><img class="alignnone size-full wp-image-2565" title="下载" src="https://www.digglife.net/wp-content/uploads/2008/07/download.gif" alt="" width="64" height="64" /></a>
 
 PS:本来是需要提供一个Email,它才会将下载地址放送到你的邮箱,不过我看这个下载地址也并不特殊,所以直接贴上来了.
 

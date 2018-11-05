@@ -34,13 +34,13 @@ tags:
 ---
 <a title="Adobe" href="http://www.adobe.com" target="_blank">Adobe</a>今天发布了在线文档共享服务Adobe Share.用户可以得到1GB的免费空间来存储和共享文档.
 
-[<img id="id" height="191" alt="adobeshare-files" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/adobeshare-files-thumb.jpg" width="450" />][1] 
+[<img id="id" height="191" alt="adobeshare-files" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/adobeshare-files-thumb.jpg" width="450" />][1] 
 
 <!--more-->
 
 这个服务使用起来非常简单,而且提供了一些有趣的功能,包括绝佳的在线文件浏览.用户只需要上传或者在已有的文档库中选择一个文档,输入想与之共享的邮件地址,设置一下文件权限即可.在文档共享之前,Adobe Share将会执行病毒扫描并创制一个文档预览图.
 
-[<img id="id" height="309" alt="adobeshare-viewer" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/adobeshare-viewer-thumb.jpg" width="450" />][2] 
+[<img id="id" height="309" alt="adobeshare-viewer" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/adobeshare-viewer-thumb.jpg" width="450" />][2] 
 
 当用户收到共享文档后,他可以直接进入一个基于Flash的在线文档浏览器.你可以对文档进行缩放和拖拽操作.无论你放大还是缩小,它都能够保证文档的显示质量.如果用户想下载该文档,需要登录或者创建一个帐户.
 

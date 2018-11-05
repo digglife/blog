@@ -27,7 +27,7 @@ iPhone的苹果风格特效让不少<a target="_blank" href="https://www.digglif
 
 <font color="#ff0080">Snapshot截图:</font>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/slide.png"><img border="0" width="180" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/slide-thumb.png" alt="slide" height="240" style="border-width: 0px" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/slide2.png"><img border="0" width="180" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/slide2-thumb.png" alt="slide2" height="240" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/slide.png"><img border="0" width="180" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/slide-thumb.png" alt="slide" height="240" style="border-width: 0px" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/slide2.png"><img border="0" width="180" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/slide2-thumb.png" alt="slide2" height="240" style="border-width: 0px" /></a>
 
 其实不是动画的话是看不出效果的,这其实是一个屏幕保护程序,只是**解锁的方式**是滑动下面的那个白色模块到最右边而已.试用了一下,还是不错的.只不过对中文的支持不大好,时间下面其实应该显示星期和日期,但是由于我的iPaq是简体中文,所以显示为乱码.我还看了一下内存占用,似乎有点多,大概4-5MB.
 
@@ -54,7 +54,7 @@ iPhone的苹果风格特效让不少<a target="_blank" href="https://www.digglif
 >
 > 2.右键点击你需要创建快捷方式的程序,选择&#8221;复制&#8221;.
 >
-> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/shortcut.png"><img width="380" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/shortcut-thumb.png" alt="shortcut" height="450" /></a>
+> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/shortcut.png"><img width="380" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/shortcut-thumb.png" alt="shortcut" height="450" /></a>
 >
 > 3.定位到你要希望复制到的文件夹,右键点击空白处,选择&#8221;复制快捷方式&#8221;.
 >

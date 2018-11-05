@@ -25,7 +25,7 @@ tags:
 
 然而在 Yosemite 之前，如果 Macbook 使用 HDMI 和外置显示器连接，且同时输出音视频，当插入耳机到 Macbook 内置接口时，声音输出不会自动切换到耳机，需要到 用户偏好设置 中手动切换，非常不便。估计苹果的码农们也意识到这是个问题，所以终于在 Yosemite 里改过来了。这个 Bug Fix 不得不赞，对我来说这种小修正比什么 Hands Off 什么花里胡哨的新功能要实在。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/10/osx-hdmi-audio-output-500x390.png" alt="OSX 选择音频输出设备" width="500" height="390" class="alignnone size-medium wp-image-3934" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/10/osx-hdmi-audio-output-500x390.png" alt="OSX 选择音频输出设备" width="500" height="390" class="alignnone size-medium wp-image-3934" />
 
 但是。
   

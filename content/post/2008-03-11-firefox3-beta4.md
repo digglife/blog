@@ -57,10 +57,10 @@ Mozilla今天<a href="http://www.mozilla.com/en-US/firefox/3.0b4/releasenotes/" 
 
 Update(3月16日):<a href="http://portableapps.com/apps/internet/firefox_portable" title="Firefox 3 beta 4便携版" target="_blank">Firefox 3 Beta 4的便携版</a>出现,如果你不愿意扰乱现有的Firefox版本,建议下载这个便携版.
 
- [1]: http://digglife.qiniudn.com/qiniu/2471/image/841b8197355bdfcd76e24d9731235bbc.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2471/image/44f7d8535c0ea0e7b9f09a8807280d58.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2471/image/29bdf17bc02fac95bc14941ec0af3a54.jpg
- [4]: http://digglife.qiniudn.com/qiniu/2471/image/fd0da80e66b1a53ff46eae22668c0430.jpg
- [5]: http://digglife.qiniudn.com/qiniu/2471/image/ec6ef7fe0966192a6d896883a64ba36e.jpg
- [6]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/firefox3-icons-thumb.png
- [7]: http://digglife.qiniudn.com/qiniu/2471/image/928b7251f3f512fd031de4e06d54b776.jpg
+ [1]: https://www.digglife.net/qiniu/2471/image/841b8197355bdfcd76e24d9731235bbc.jpg
+ [2]: https://www.digglife.net/qiniu/2471/image/44f7d8535c0ea0e7b9f09a8807280d58.jpg
+ [3]: https://www.digglife.net/qiniu/2471/image/29bdf17bc02fac95bc14941ec0af3a54.jpg
+ [4]: https://www.digglife.net/qiniu/2471/image/fd0da80e66b1a53ff46eae22668c0430.jpg
+ [5]: https://www.digglife.net/qiniu/2471/image/ec6ef7fe0966192a6d896883a64ba36e.jpg
+ [6]: https://www.digglife.net/wp-content/uploads/3/379/2008/02/firefox3-icons-thumb.png
+ [7]: https://www.digglife.net/qiniu/2471/image/928b7251f3f512fd031de4e06d54b776.jpg

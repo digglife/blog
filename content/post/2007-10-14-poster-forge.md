@@ -49,13 +49,13 @@ tags:
   - 软件
 
 ---
-[<img height="150" alt="process" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/process-thumb.jpg" width="450" />][1] 
+[<img height="150" alt="process" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/process-thumb.jpg" width="450" />][1] 
 
 <a href="https://www.digglife.net/articles/long-time-to-see.html" target="_blank">昨天那个通缉令海报</a>就是使用免费海报制作软件<a title="Poster Forge" href="http://www.ronyasoft.com/products/poster-forge/index.html" target="_blank">Poster Forge</a>炮制而成.这款海报制作软件操作简单,自定义选项较多,能够充分满足一般海报制作的需要.你只需要导入图片,输入文字,调整字体和颜色就可以制作一张像模像样的海报了,Poster Forge提供了3种模式:Motivational,Film,Wanted.
 
 <!--more-->
 
-[<img height="323" alt="poster_forge" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/poster-forge-thumb.png" width="450" />][2] 
+[<img height="323" alt="poster_forge" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/poster-forge-thumb.png" width="450" />][2] 
 
 这个<a title="酷软推荐" href="https://www.digglife.net/articles/category/software/" target="_blank">软件</a>的主要特点就在于操作简单,任何不懂图片设计的人都可以通过它制作出一张不错的海报.如果你觉得这些功能的复杂度还不够,无法完成一些高级设置,还可以购买收费的专业级海报制作软件<a title="ProPoster" href="http://www.ronyasoft.com/products/proposter/download.html" target="_blank">ProPoster</a>.
 

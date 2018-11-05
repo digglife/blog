@@ -34,7 +34,7 @@ tags:
 
 ### 1.<a href="http://alltray.sourceforge.net/" target="_blank">AllTray</a>
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693alltray-thumb4.png" alt="" width="294" height="91" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693alltray-thumb4.png" alt="" width="294" height="91" />][1]
 
 这个软件让你能够把那些本没有默认托盘图标的软件放到到系统托盘里,并即时显示软件运行状态.当你点击软件关闭按钮的时候,它会自动最小化到系统托盘.
 
@@ -42,7 +42,7 @@ tags:
 
 ### 2.<a href="http://amarok.kde.org/" target="_blank">amaroK</a>
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693amarok-thumb4.jpg" border="0" alt="" width="450" height="205" />][2]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693amarok-thumb4.jpg" border="0" alt="" width="450" height="205" />][2]
 
 一个功能强大,界面美观的音频播放器.本来属于KDE桌面下的软件,但是GNOME同样可以使用.强烈推荐.
 
@@ -50,7 +50,7 @@ tags:
 
 ### 3.<a href="http://www.getautomatix.com/" target="_blank">Automatix2</a>
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693automatix-thumb.jpg" border="0" alt="" width="450" height="337" />][3]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693automatix-thumb.jpg" border="0" alt="" width="450" height="337" />][3]
 
 Automatix2是一个免费的管理软件安装,卸载,配置的工具.它支持大部分基于Debian Linux操作系统的常用软件,比如所有的多媒体解码器,烧录软件,文件共享软件,Email客户端,VoIP聊天软件,浏览器,加密软件等等.目前支持Ubuntu 7.04,6.10,6.06,Debian Etch和Mepis6.连Dell的CEO在他的家里都用这款软件,现在你知道它是多么酷了吧. 这里有一个<a href="http://www.howtoforge.com/automatix_ubuntu?topic=306371" target="_blank">图解安装教程(英文)</a>.
 
@@ -58,7 +58,7 @@ Automatix2是一个免费的管理软件安装,卸载,配置的工具.它支持�
 
 ### 4.<a href="http://beagle-project.org/Main_Page" target="_blank">Beagle</a>
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693beagle-thumb2.png" border="0" alt="" width="450" height="367" />][4]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693beagle-thumb2.png" border="0" alt="" width="450" height="367" />][4]
 
 Beagle是一款强大的硬盘搜索工具,类似于 Google Desktop.它能够索引硬盘里的所有文件,包括文档,Email以及附件,网页浏览记录,聊天记录,日历, 图片 ,便签,音频,视频,软件等等等等,以供用户能够迅速搜索到自己想要的文件.
 
@@ -68,13 +68,13 @@ Beagle是一款强大的硬盘搜索工具,类似于 Google Desktop.它能够索
 
 ### 5.[Beryl0.2.1][6]
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693beryl-thumb2.jpg" border="0" alt="" width="450" height="337" />][7]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693beryl-thumb2.jpg" border="0" alt="" width="450" height="337" />][7]
 
 Beryl是一个免费的桌面效果优化软件.如果你很羡慕Vista的桌面效果,在Ubuntu下,你可以做的比它更加出色.下载安装配置方法请看<a title="ubuntu 6.10 edgy beryl安装日志" href="https://www.digglife.net/articles/%e5%9c%a8linux%e4%b8%8b%e4%bd%bf%e7%94%a8beryl%e5%ae%9e%e7%8e%b0vista%e6%95%88%e6%9e%9c.html" target="_blank">我总结的一篇日志</a>.
 
 ### 6.<a href="http://checkgmail.sourceforge.net/" target="_blank">CheckGmail 1.11</a>
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693checkmail-thumb1.png" border="0" alt="" width="450" height="180" />][8]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693checkmail-thumb1.png" border="0" alt="" width="450" height="180" />][8]
 
 Gmail提醒软件.类似于Google官方的Gmail Notify.
 
@@ -86,7 +86,7 @@ Gmail提醒软件.类似于Google官方的Gmail Notify.
 
 ### 7.<a href="http://www.heroinewarrior.com/cinelerra.php3" target="_blank">Cinlerra</a>
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693cinelerra-thumb1.jpg" border="0" alt="" width="450" height="307" />][11]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693cinelerra-thumb1.jpg" border="0" alt="" width="450" height="307" />][11]
 
 A Movie Studio For Linux.功能强大的视频编辑软件.
 
@@ -94,7 +94,7 @@ A Movie Studio For Linux.功能强大的视频编辑软件.
 
 ### 8.<a href="http://dev.deluge-torrent.org/" target="_blank">Deluge 0.5.0 for Feisty</a>
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693deluge-0.5.0-thumb1.png" border="0" alt="" width="450" height="337" />][13]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693deluge-0.5.0-thumb1.png" border="0" alt="" width="450" height="337" />][13]
 
 嵌入搜索种子功能的BT客户端.和BitTorrent和毒蛙等BT软件比较起来,它的优点在于对系统资源的消耗更加小.
 
@@ -102,13 +102,13 @@ A Movie Studio For Linux.功能强大的视频编辑软件.
 
 ### 9.<a href="http://www.adobe.com/products/flashplayer/" target="_blank">Flash播放器</a>
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693flash9-thumb3.png" border="0" alt="" width="450" height="120" />][14]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693flash9-thumb3.png" border="0" alt="" width="450" height="120" />][14]
 
 你绝对不能没有一个Flash播放器 .你可以到新利得去下载安装,或者使用Automatix2,当然也可以到<a href="http://www.adobe.com/products/flashplayer/" target="_blank">Adobe</a>去直接下载.
 
 ### 10.<a href="http://www.gimp.org/" target="_blank">GIMP2.2.14</a>
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693gimp-thumb1.png" border="0" alt="" width="450" height="360" />][15]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriter730d3fb3be0e-9693gimp-thumb1.png" border="0" alt="" width="450" height="360" />][15]
 
 Linux下最著名的图片编辑软件,和Photoshop可以说不相上下.Ubuntu里面已经集成.软件&#8211;图象&#8211;GIMP图象编辑.
 

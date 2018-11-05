@@ -44,7 +44,7 @@ tags:
   - 软件
 
 ---
-[<img height="98" alt="internet-explorer-l" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/internet-explorer-l-thumb.png" width="100" align="right" />][1] 微软昨天发布了新版的IE 7,支持<a title="Windows技巧" href="https://www.digglife.net/articles/category/windows-tricks/" target="_blank">Windows</a> XP和Windows Sever 2003.没有什么功能上的增加或改进,只是在一些细节上有所变化.对于广大非正版用户来说,好消息是微软正式撤除了遭到万人鄙视的<a title="微软WGA服务器当机,Vista正版变成盗版" href="https://www.digglife.net/articles/wga-sever-down.html" target="_blank">WGA验证</a>,在安装这个新版本时,你再也不会看到那个可恶的验证按钮,而是和安装其他软件一样,一直下一步即可.
+[<img height="98" alt="internet-explorer-l" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/internet-explorer-l-thumb.png" width="100" align="right" />][1] 微软昨天发布了新版的IE 7,支持<a title="Windows技巧" href="https://www.digglife.net/articles/category/windows-tricks/" target="_blank">Windows</a> XP和Windows Sever 2003.没有什么功能上的增加或改进,只是在一些细节上有所变化.对于广大非正版用户来说,好消息是微软正式撤除了遭到万人鄙视的<a title="微软WGA服务器当机,Vista正版变成盗版" href="https://www.digglife.net/articles/wga-sever-down.html" target="_blank">WGA验证</a>,在安装这个新版本时,你再也不会看到那个可恶的验证按钮,而是和安装其他软件一样,一直下一步即可.
 
 <a title="IE的官方博客的IE 7更新日志" href="http://blogs.msdn.com/ie/archive/2007/10/04/internet-explorer-7-update.aspx" target="_blank">IE的官方博客的IE 7更新日志</a>上没有说明去除WGA验证的原因,IE项目经理Steve Reynolds给出的解释是“为了尽量让所有Windows用户都能升级到IE7”.大家都心知肚明,微软的确不想看到市场占有率继续下滑了,无数普通Windows的盗版用户因为这该死的WGA验证被挡在了IE 7的门外,对于微软来说拉拢盗版用户也不失为一个保持甚至增加市场占有率的好办法.
 
@@ -56,9 +56,9 @@ tags:
   * 默认显示菜单栏 
   * 改善上网体验,<a title="IE 7使用向导" href="http://www.microsoft.com/windows/ie/ie7/tour/fre/interface/" target="_blank">使用向导</a>更新,首次运行时的页面也有所不同
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="318" alt="firstrun" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/firstrun-thumb.png" width="427" />][2] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="318" alt="firstrun" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/firstrun-thumb.png" width="427" />][2] 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="318" alt="tour" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/tour-thumb.png" width="439" />][3] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="318" alt="tour" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/tour-thumb.png" width="439" />][3] 
 
   * 提供一个新的MSI安装包，方便IT管理员在企业内部批量部署安装.<a title="相关页面" href="http://technet.microsoft.com/en-us/ie/bb219543.aspx" target="_blank">相关页面</a>
 

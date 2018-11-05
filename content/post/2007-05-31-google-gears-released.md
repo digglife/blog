@@ -25,11 +25,11 @@ tags:
 ---
 终于有这么一个东西出现了.Google和微软的桌面应用大战才刚刚开始.
 
-<a target="_blank" href="http://gears.google.com/">Google Gears</a>是一个开源的浏览器扩展,它可以让开发者制作可以<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/gears-sm4.png"><img align="right" width="153" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/gears-sm-thumb2.png" height="53" /></a>离线运行的Web应用程序.这个东西对Google的重大意义在于,在不久的将来,所有目前Google的在线应用程序将全部可以离线操作,也就是说,Google  Doc&spreadsheets,Google Reader,Google Notebook,也许还有Gmail都能够离线使用.同时其他的在线应用程序通过Google Gears也将能够实现离线操作.多么伟大的创造,不是么?
+<a target="_blank" href="http://gears.google.com/">Google Gears</a>是一个开源的浏览器扩展,它可以让开发者制作可以<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/gears-sm4.png"><img align="right" width="153" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/gears-sm-thumb2.png" height="53" /></a>离线运行的Web应用程序.这个东西对Google的重大意义在于,在不久的将来,所有目前Google的在线应用程序将全部可以离线操作,也就是说,Google  Doc&spreadsheets,Google Reader,Google Notebook,也许还有Gmail都能够离线使用.同时其他的在线应用程序通过Google Gears也将能够实现离线操作.多么伟大的创造,不是么?
 
 我们可以预见,很多提供在线web应用程序的网站都将制作自己的Google Gears脚本供用户使用.从办公程序一点来看,Google就拉拢了一大票人马和微软对阵了.离线使用会大大方便用户,我们不用理会网络响应时间,不会让浏览器反应缓慢,自然会大大地提高效率.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/gearspage7.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/gearspage-thumb3.png" height="217" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/gearspage7.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/gearspage-thumb3.png" height="217" /></a>
 
 <!--more-->
 
@@ -41,6 +41,6 @@ tags:
 
 **注意那个绿色小按钮**
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/readeroff.png"><img width="467" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/readeroff-thumb.png" height="109" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/readeroff.png"><img width="467" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/readeroff-thumb.png" height="109" /></a>
 
 期待更多的离线应用程序&#8230;

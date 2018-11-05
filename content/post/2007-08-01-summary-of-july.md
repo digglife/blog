@@ -37,7 +37,7 @@ tags:
   - 总结
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/logo.png"><img align="right" width="168" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/logo-thumb.png" alt="logo" height="55" /></a>7月DiggLife基本没有什么大的突破,流量[相比六月][1]一路飙低,订阅数也增长缓慢(100~172).和之前相比退步不小.7月一共发布30篇日志,首先看看这个月的TOP 5.其实真正在前10位的只有第一个,其他都在前10开外,所以这只不过是7月份日志的TOP 5而已.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/logo.png"><img align="right" width="168" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/logo-thumb.png" alt="logo" height="55" /></a>7月DiggLife基本没有什么大的突破,流量[相比六月][1]一路飙低,订阅数也增长缓慢(100~172).和之前相比退步不小.7月一共发布30篇日志,首先看看这个月的TOP 5.其实真正在前10位的只有第一个,其他都在前10开外,所以这只不过是7月份日志的TOP 5而已.
 
   1. <a target="_blank" href="https://www.digglife.net/articles/harry-potter-and-the-deathly-hallows-bt-download.html">哈利波特7:《哈利波特与死圣》泄漏,扫描版BT下载出现</a>
   2. <a target="_blank" href="https://www.digglife.net/articles/9-websites-you-can-get-free-icons.html">9个免费图标下载网站</a>
@@ -57,11 +57,11 @@ tags:
 
 然后瞄一下7月Google分析的**流量报告(6月综合浏览量18905)**:
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/traffic.png"><img width="290" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/traffic-thumb.png" alt="traffic" height="120" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/traffic.png"><img width="290" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/traffic-thumb.png" alt="traffic" height="120" /></a>
 
 **访问数示意图:**大多数时间徘徊在300.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/summary.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/summary-thumb.png" alt="summary" height="143" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/summary.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/summary-thumb.png" alt="summary" height="143" /></a>
 
 这个月的确没有发布什么特别引起关注的文章,所以在Diglog和5dig上都没有好表现.而对于43%流量来自推介网站的DiggLife,这无疑是一个悲哀.看到Fisio篇篇被顶超6次,实在是羡慕不已&#8230;$$$$
 

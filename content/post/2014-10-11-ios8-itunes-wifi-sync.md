@@ -61,6 +61,6 @@ tags:
 
  [1]: https://www.digglife.net/articles/tag/ios "DiggLife iOS相关文章"
  [2]: https://www.digglife.net/articles/osx-wake-up-for-network-access.html "OS X唤醒以供网络访问和本地下载的关系"
- [3]: http://digglife.qiniudn.com/wp-content/uploads/2014/10/ios8-reset-network-settings-500x413.png
- [4]: http://digglife.qiniudn.com/wp-content/uploads/2014/10/ios8-trust-pc.jpg
- [5]: http://digglife.qiniudn.com/wp-content/uploads/2014/10/wifi-sync-charge.png
+ [3]: https://www.digglife.net/wp-content/uploads/2014/10/ios8-reset-network-settings-500x413.png
+ [4]: https://www.digglife.net/wp-content/uploads/2014/10/ios8-trust-pc.jpg
+ [5]: https://www.digglife.net/wp-content/uploads/2014/10/wifi-sync-charge.png

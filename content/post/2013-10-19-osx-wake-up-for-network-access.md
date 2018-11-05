@@ -45,6 +45,6 @@ tags:
 
 那么如果我有大量下载任务时怎么办呢？唯一的方法是，在节能器里关闭睡眠，然后使用下载工具（如<a title="迅雷Mac版" href="http://mac.xunlei.com/" target="_blank">迅雷Mac版</a>）的“下载完成后关机（睡眠）”之类的功能。
 
-<img alt="Mac永不睡眠" src="http://digglife.qiniudn.com/wp-content/uploads/2013/10/never-sleep.png" width="500" height="398" />
+<img alt="Mac永不睡眠" src="https://www.digglife.net/wp-content/uploads/2013/10/never-sleep.png" width="500" height="398" />
 
 总之，“唤醒以供网络访问”和本地下载是毫无关系的。

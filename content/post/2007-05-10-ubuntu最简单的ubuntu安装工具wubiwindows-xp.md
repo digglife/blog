@@ -38,11 +38,11 @@ tags:
 
   * 运行下载的Wubi.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntuwubiwindowsxp-120f8wubi210.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="187" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntuwubiwindowsxp-120f8wubi2-thumb6.jpg" width="240" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntuwubiwindowsxp-120f8wubi210.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="187" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntuwubiwindowsxp-120f8wubi2-thumb6.jpg" width="240" border="0" /></a> 
 
   * Wubi会自动下载安装直到完毕.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntuwubiwindowsxp-120f8wubi31.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="187" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntuwubiwindowsxp-120f8wubi3.jpg" width="240" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntuwubiwindowsxp-120f8wubi31.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="187" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriterubuntuubuntuwubiwindowsxp-120f8wubi3.jpg" width="240" border="0" /></a> 
 
   * 重新启动.
   * Ok,你会在启动菜单中看到Ubuntu菜单.进入享受吧&#8230;

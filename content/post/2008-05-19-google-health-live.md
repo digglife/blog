@@ -34,7 +34,7 @@ tags:
 
 <!--more-->
 
-<a href="http://www.bababian.com/photozoom.sl?pictureid=67B51B26FE70DDC12920FF962FCE298EDT&size=5&viewID=B1E9FC10C6126F1235669209174F8D53UR" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2537/image/5bc3d5fa7cba4568f9aab08d28154edb.jpg" /></a> 
+<a href="http://www.bababian.com/photozoom.sl?pictureid=67B51B26FE70DDC12920FF962FCE298EDT&size=5&viewID=B1E9FC10C6126F1235669209174F8D53UR" target="_blank"><img src="https://www.digglife.net/qiniu/2537/image/5bc3d5fa7cba4568f9aab08d28154edb.jpg" /></a> 
 
 Google Health目前只有英文,而且我想在相当长的一段时间内也只可能有英文版本,在中国太多条件不具备了,各种规范的医疗制度和习惯都没有养成.我看了一下,各种医疗方面的信息都非常完备,那些医疗术语也是多如牛毛,到<a title="这个页面" href="https://www.google.com/health/ref/index.html" target="_blank">这个页面</a>看看就知道有多恐怖了,Google做的Health Topic完全可以当医疗Wiki用.这个服务应该是Google创建以来**最最私人的服务**了吧,所以呢,隐私问题Google强调得特别厉害,不过就我来说还是不太愿意把这种私人信息上传到网上的.有兴趣的同学可以去<a href="https://www.google.com/health/" target="_blank">登录一下</a>,填个身高体重什么的,然后你的Google Health图标就点亮了.如果你是Google服务的重度使用者的话,现在你的Google Account下应该有30个图标,Google是不是也应该学习某公司把这些图标整合到Gtalk的Pop-Up,然后搞个帮助文档教人如何点亮图标呢?嗯,有一种想吐的感觉.
 

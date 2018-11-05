@@ -35,7 +35,7 @@ Ript运行之后会在桌面生成一个悬浮窗,你可以直接将网络或者
   
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2008/02/ript-demo.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/ript-demo-thumb.png" alt="ript-demo" border="0" height="321" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2008/02/ript-demo.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/ript-demo-thumb.png" alt="ript-demo" border="0" height="321" width="450" /></a>
 
 制作好之后你可以保存为图片文件或Ript专属的文件格式,还可以直接打印或者Email给朋友.
 

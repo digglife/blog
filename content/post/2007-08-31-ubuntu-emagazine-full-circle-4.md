@@ -54,7 +54,7 @@ tags:
   - 电子杂志
 
 ---
-tr <img src="http://digglife.qiniudn.com/qiniu/1731/image/061ddf72ca5004828e459ab73ca04567.png" align="right" />Full Circle杂志于美国时间31日发布了第4期.[Full Circle][1]是[Ubuntu][2]社区共同撰写发布的电子杂志,内容包括Ubuntu操作系统,开源技术等内容.更多详细信息看另外一篇日志:[Ubuntu电子杂志《Full Circle》第1期上线][3].
+tr <img src="https://www.digglife.net/qiniu/1731/image/061ddf72ca5004828e459ab73ca04567.png" align="right" />Full Circle杂志于美国时间31日发布了第4期.[Full Circle][1]是[Ubuntu][2]社区共同撰写发布的电子杂志,内容包括Ubuntu操作系统,开源技术等内容.更多详细信息看另外一篇日志:[Ubuntu电子杂志《Full Circle》第1期上线][3].
 
 第三期主要内容:&nbsp;
 
@@ -71,7 +71,7 @@ tr <img src="http://digglife.qiniudn.com/qiniu/1731/image/061ddf72ca5004828e459a
 
 封面:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/fullcircle-issue4.png" atomicselection="true"><img height="317" alt="fullcircle-issue4" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/fullcircle-issue4-thumb.png" width="450" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/fullcircle-issue4.png" atomicselection="true"><img height="317" alt="fullcircle-issue4" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/fullcircle-issue4-thumb.png" width="450" /></a> 
 
 这一期还介绍了**5个Ubuntu下的博客工具**,非常值得一看哦&#8230;
 
@@ -79,7 +79,7 @@ tr <img src="http://digglife.qiniudn.com/qiniu/1731/image/061ddf72ca5004828e459a
 
 **<font color="#ff5a00">PS</font>:**最近在考虑换一个模板,不知道大家觉得怎么样.截图如下:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/screenshot.png" atomicselection="true"><img height="255" alt="screenshot" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/screenshot-thumb.png" width="300" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/screenshot.png" atomicselection="true"><img height="255" alt="screenshot" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/screenshot-thumb.png" width="300" /></a>
 
  [1]: http://www.fullcirclemagazine.org/
  [2]: https://www.digglife.net/articles/category/about_ubuntu/

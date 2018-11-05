@@ -134,7 +134,7 @@ WordPress2.6昨天<a title="Wordpress2.6的发布报告" href="http://wordpress.
 <!--more-->
 
 <div style="width: 476px" class="wp-caption aligncenter">
-  <img title="Wordpress2.6" src="http://digglife.qiniudn.com/qiniu/2589/image/f609b3ef50b95f84086204e52ee2407e.png" alt="图片说明就是类似这样的效果" width="466" height="303" />
+  <img title="Wordpress2.6" src="https://www.digglife.net/qiniu/2589/image/f609b3ef50b95f84086204e52ee2407e.png" alt="图片说明就是类似这样的效果" width="466" height="303" />
   
   <p class="wp-caption-text">
     图片说明就是类似这样的效果

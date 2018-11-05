@@ -30,7 +30,7 @@ tags:
 
 RecordMyDesktop能够帮助你制作高质量的有声和无声的录像,你可以自行配置音视频的质量参数,录像帧数以及光标样式.另外,你还可以选择抓取整个屏幕或者活动窗口.当然,和Windows下繁多的屏幕录像工具相比,还有许多功能无法实现,自定义设置也不够多.但是在Linux下的确算是功能不错的了. 最遗憾的还是不支持独立程序内录像,比如说游戏视频制作.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/recordmydesktop.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/recordmydesktop-thumb.png" alt="recordMyDesktop" height="186" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/recordmydesktop.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/recordmydesktop-thumb.png" alt="recordMyDesktop" height="186" /></a>
 
 <!--more-->
 

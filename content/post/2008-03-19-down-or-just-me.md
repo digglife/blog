@@ -28,11 +28,11 @@ tags:
 
 下面的有点讽刺了,我尝试了一下测试digglife.cn:
 
-[<img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/2008/03/windowslivewriterc3f5e40c57f7-abcedown-test-thumb-1.png" alt="down-test" height="49" />][1]
+[<img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/2008/03/windowslivewriterc3f5e40c57f7-abcedown-test-thumb-1.png" alt="down-test" height="49" />][1]
 
 结果是:
 
-[<img border="0" width="450" src="http://digglife.qiniudn.com/wp-content/uploads/2008/03/windowslivewriterc3f5e40c57f7-abcedown-test-digglife-thumb.png" alt="down-test-digglife" height="67" />][2]
+[<img border="0" width="450" src="https://www.digglife.net/wp-content/uploads/2008/03/windowslivewriterc3f5e40c57f7-abcedown-test-digglife-thumb.png" alt="down-test-digglife" height="67" />][2]
 
 哎&#8230;看来国外访问digglife.cn不怎么样啊&#8230;
 

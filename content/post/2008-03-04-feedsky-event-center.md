@@ -31,7 +31,7 @@ tags:
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/2008/03/windowslivewriterfeedsky-ed08feedsky-review-thumb.png" style="border-width: 0px" alt="Feedsky-review" border="0" height="212" width="450" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/2008/03/windowslivewriterfeedsky-ed08feedsky-review-thumb.png" style="border-width: 0px" alt="Feedsky-review" border="0" height="212" width="450" />][1]
 
 对于Feedsky分配话题广告的规则我只能猜到一点,大部分话题直接发布到内容相关的博客,也就是根据博客的分类分配.部分广告可能有订阅数(或许还有流量.PR等)的要求.
 

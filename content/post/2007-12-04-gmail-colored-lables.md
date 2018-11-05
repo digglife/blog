@@ -36,10 +36,10 @@ tags:
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/gmail-colored-lable.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/gmail-colored-lable-thumb.png" border="0" alt="gmail-colored-lable" width="450" height="296" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/gmail-colored-lable.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/gmail-colored-lable-thumb.png" border="0" alt="gmail-colored-lable" width="450" height="296" /></a>
 
 进入邮件后可以直接删除标签或者点击进入标签下的所有会话.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/lable-edit.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/lable-edit-thumb.png" border="0" alt="lable-edit" width="450" height="109" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/lable-edit.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/lable-edit-thumb.png" border="0" alt="lable-edit" width="450" height="109" /></a>
 
 其实这个彩色标签在<a title="Google Calendar" href="http://www.google.com/calendar/" target="_blank">Google Calendar</a>下早就有了,加入Gmail想必也不用花费太大功夫.所以说,上次的更新也不过是规模比较大点而已,事实上Gmail 2.0还在缓慢测试当中.

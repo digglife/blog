@@ -212,9 +212,9 @@ beryl 除了自己附带的主题，还可以到下面的地址下载更多主�
 > 
 > [http://wiki.beryl-project.org/wiki/Install\_Beryl\_on_Ubuntu**\_Edgy\_with_nVidia**][6]
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/beryleffect1.thumbnail.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/beryleffect1.thumbnail.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/beryleffect1.png "beryleffect1.png"
- [3]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/beryleffect2.thumbnail.png
+ [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/beryleffect2.thumbnail.png
  [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/05/beryleffect2.png "beryleffect2.png"
  [5]: http://cheerin.blogcn.com/
  [6]: http://wiki.beryl-project.org/wiki/Install_Beryl_on_Ubuntu_Edgy_with_nVidia

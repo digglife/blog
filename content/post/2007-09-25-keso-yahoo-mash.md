@@ -34,7 +34,7 @@ tags:
 ---
 今天逛<a title="Yahoo Mash试用和免费邀请" href="https://www.digglife.net/articles/first-look-of-mash-and-free-invites.html" target="_blank">Yahoo! Mash</a>的时候发现有个名为<a title="Keso的Mash主页" href="http://mash.yahoo.com/hongbonetchinacocn" target="_blank">Keso的Profile</a>,跑上去瞄一瞄照片还真是那个传说中的<a title="对牛乱弹琴 | Playin&#x27; with IT" href="http://blog.donews.com/keso/" target="_blank">Keso</a>.不过我估计和<a title="假Keso的饭否" href="http://fanfou.com/keso" target="_blank">饭否</a>上的情况一样,乃是咳嗽粉丝帮忙建的一个假账号.
 
-[<img id="id" height="245" alt="keso-mash" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/keso-mash-thumb.png" width="450" border="0" />][1] 
+[<img id="id" height="245" alt="keso-mash" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/keso-mash-thumb.png" width="450" border="0" />][1] 
 
 这张照片网上流传的很广,找到很简单,其他的也可以乱写.当然,我也不能排出他真的尝试了Mash的可能.
 

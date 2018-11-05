@@ -36,7 +36,7 @@ tags:
 ---
 喜欢对<a title="Windows技巧" href="https://www.digglife.net/articles/category/windows-tricks/" target="_blank">Windows</a>进行美化的朋友一定很熟悉两款美化利器:WindowsBlinds和Visual Styles. 其中WindowBlinds能够对Windows进行更加彻底的美化,另外还可以添加许多超酷的特效.昨天<a title="Stardock" href="http://www.stardock.com/" target="_blank">Stardock</a>发布了<a title="WindowBlinds 6" href="http://www.stardock.com/products/windowblinds/" target="_blank">WindowBlinds 6</a>,最引人注目的是完全支持Windows Vista桌面美化. 
 
-[<img height="318" alt="windowsblind" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/windowsblind-thumb.png" width="450" />][1] 
+[<img height="318" alt="windowsblind" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/windowsblind-thumb.png" width="450" />][1] 
 
 <!--more-->
 

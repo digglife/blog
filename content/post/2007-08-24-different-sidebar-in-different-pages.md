@@ -224,7 +224,7 @@ tags:
   - 插件
 
 ---
-<img src="http://digglife.qiniudn.com/qiniu/1654/image/45c87639107817a6379391a581a6934f.jpg" border="0" alt="wordpress_logo" width="70" height="70" align="right" />很多人喜欢在不同的页面显示不同的侧边,事实上这的确非常管用,比如你为了访客体验不想把广告显示在首页而更愿意放在文章页,这就非常需要把index.php和single.php的侧边区别起来.有了<a title="如何让wordpress模板支持侧边栏插件(sidebar widget)" href="https://www.digglife.net/articles/sidebar-widgets-support.html" target="_blank">上一篇</a>做基础,这个实现起来其实非常简单.很多博主采取的是在functions.php中的**&#8220;register_sidebar(&#8220;**后添加数字,这种方法也非常好,但是对于三栏模板需要将侧栏的两列分别建立不同的sidebar文件,那么要实现不同的侧栏你需要建立4个sidebar.相比这个方法,我更加喜欢直接在functions.php中直接添加sidebar定义.下面拿我修改的那个**三栏模板**作为示例:
+<img src="https://www.digglife.net/qiniu/1654/image/45c87639107817a6379391a581a6934f.jpg" border="0" alt="wordpress_logo" width="70" height="70" align="right" />很多人喜欢在不同的页面显示不同的侧边,事实上这的确非常管用,比如你为了访客体验不想把广告显示在首页而更愿意放在文章页,这就非常需要把index.php和single.php的侧边区别起来.有了<a title="如何让wordpress模板支持侧边栏插件(sidebar widget)" href="https://www.digglife.net/articles/sidebar-widgets-support.html" target="_blank">上一篇</a>做基础,这个实现起来其实非常简单.很多博主采取的是在functions.php中的**&#8220;register_sidebar(&#8220;**后添加数字,这种方法也非常好,但是对于三栏模板需要将侧栏的两列分别建立不同的sidebar文件,那么要实现不同的侧栏你需要建立4个sidebar.相比这个方法,我更加喜欢直接在functions.php中直接添加sidebar定义.下面拿我修改的那个**三栏模板**作为示例:
 
 (\****以下代码在Feed阅读器中可能会有问题,如果感兴趣建议到原网页.)
 

@@ -44,5 +44,5 @@ tags:
 
 我们同样可以改变**Gmail的皮肤**。有兴趣的话可以看看<a target="_blank" href="https://www.digglife.net/archives/54991">这篇文章</a>.
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/fullreaders.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/fullreaders.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/greaderskin.zip "greaderskin.zip"

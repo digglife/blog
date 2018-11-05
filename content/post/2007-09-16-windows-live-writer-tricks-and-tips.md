@@ -84,7 +84,7 @@ http://api.my.yahoo.com/rss/ping
 
 为防止意外情况发生(死机,停电等)建议勾选自动保存,时间可以自定义.勾选指定标题,添加类别和关键字提醒,以免忘记.提醒添加标签可以根据情况选择,如果没有加入社会化书签网址标签的习惯(我现在才开始使用),可以不勾选,但是另外的两个建议勾选.
 
-[<img id="id" height="415" alt="settings" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/settings-thumb.png" width="353" />][1]
+[<img id="id" height="415" alt="settings" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/settings-thumb.png" width="353" />][1]
 
 ### **二.文章编辑.**
 
@@ -96,7 +96,7 @@ http://api.my.yahoo.com/rss/ping
 
   * **链接词汇表.**将经常会链接到的网址添加到链接词汇表,这样以后给同样的文字添加链接的时候就不用重新输入URL了.这样的链接一般为某些大站的主页地址,朋友的博客,自己的分类链接等,长久的积累能够让你节省很多时间.如果WLW能够做到输入相关文字即可识别就更好了. 
 
-[<img id="id" height="326" alt="links" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/links-thumb.png" width="450" />][2]
+[<img id="id" height="326" alt="links" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/links-thumb.png" width="450" />][2]
 
   * **链接标题.**给链接添加适当的标题是非常好的习惯,对博客的SEO有很大的好处.我之前一直忽略了这一点,现在尽量将链接都添上标题. 
   * **链接到以前的日志.**WLW开始的版本只能添加从本地发过的日志链接,不过现在能够扫描到所有在线日志.所以,如果你发现正在编辑的日志和存档日志有关联,最好设计一段话链接到之前的日志. 
@@ -105,7 +105,7 @@ http://api.my.yahoo.com/rss/ping
 
 当你使用Ctrl+V来粘贴来富文本时,所有原本的文本格式比如字体,超链接等将会全部保留.但是有时这会让你的日志看起来很不协调,所以我们可以使用选择性粘贴模式.使用快捷键**Ctrl+Shift+V**,WLW会弹出一个对话框让你从3总粘贴方式中选择,具体保留和去除的细节对话框中有详细的说明.
 
-[<img id="id" height="293" alt="paste-special" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/paste-special-thumb.png" width="450" />][3]
+[<img id="id" height="293" alt="paste-special" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/paste-special-thumb.png" width="450" />][3]
 
 **4.图片插入.**
 

@@ -35,6 +35,6 @@ Vista自带的磁盘管理工具也能够对空闲空间进行调整，但是无
 
 Acronis Disk Director是收费软件，不过，你可以在下载[英文版][2]（汉化版有一些问题）后尝试一下使用这个[特别化工具][3]，然后就可以免费使用了。
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/acronis-increase.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/archive/acronis-increase.jpg
  [2]: http://www.acronis.com/homecomputing/download/link/?DiskDirectorSuite10.0_d_en.exe "Acronis Disk Director英文版"
  [3]: http://www.fileden.com/getfile.php?file_path=http://www.fileden.com/files/2008/11/6/2176503/Acronis-keygen.zip

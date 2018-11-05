@@ -28,7 +28,7 @@ tags:
   - 视频
 
 ---
-YouTube是一个巨大的视频资源库,但是对于国内的大部人来说连接速度都很成问题,龟速的缓冲会让人很扫兴,如果能够下载的话就不用忍受漫长的等待了. 另外,很多视频也很有收藏价值,YouTube可不会让一个视频永久地留在它的服务器上,就算是有钱没地方使的Google也消受不起全世界视频爱好者对YouTube服务器的轰炸吧. <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687youtubenew2.png"><img border="0" align="right" width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687youtubenew-thumb3.png" height="65" style="border-width: 0px" /></a>
+YouTube是一个巨大的视频资源库,但是对于国内的大部人来说连接速度都很成问题,龟速的缓冲会让人很扫兴,如果能够下载的话就不用忍受漫长的等待了. 另外,很多视频也很有收藏价值,YouTube可不会让一个视频永久地留在它的服务器上,就算是有钱没地方使的Google也消受不起全世界视频爱好者对YouTube服务器的轰炸吧. <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687youtubenew2.png"><img border="0" align="right" width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687youtubenew-thumb3.png" height="65" style="border-width: 0px" /></a>
 
 好在我们有很多工具能够下载来自YouTube的视频,还能将这些视频转换成能够在掌上装备上播放的格式.很难在这些工具中选择一个最棒的,他们都很值得一试.下面提供了23方式,按照工作平台分类:
 
@@ -50,7 +50,7 @@ YouTube是一个巨大的视频资源库,但是对于国内的大部人来说连
 
 5. <a target="_blank" href="http://www.zamzar.com"><strong>Zamzar</strong></a> 可以将YouTube视频在线转换成你需要的格式然后下载.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687zamzar-ss5.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687zamzar-ss-thumb3.jpg" height="384" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687zamzar-ss5.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687zamzar-ss-thumb3.jpg" height="384" /></a>
 
 [][7]
 
@@ -92,7 +92,7 @@ YouTube是一个巨大的视频资源库,但是对于国内的大部人来说连
 
 17. <a target="_blank" href="http://nuclear-coffee.com/php/products.php"><strong>VideoGet</strong></a> ****号称支持100多种视频分享网站.它有一个很简洁美观的界面,还有一些不错的选项可供自定义.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687videoget-ss3.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687videoget-ss-thumb1.jpg" height="313" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687videoget-ss3.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteryoutube23-9687videoget-ss-thumb1.jpg" height="313" /></a>
 
 [][14]
 

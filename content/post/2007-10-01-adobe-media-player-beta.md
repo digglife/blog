@@ -28,11 +28,11 @@ tags:
   - 播放器
 
 ---
-[ <img id="id" height="40" alt="adobelabs-logo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/adobelabs-logo-thumb.jpg" width="175" align="right" />Adobe][1]将于今日在<a title="Adobe实验室" href="http://labs.adobe.com" target="_blank">Adobe实验室</a>页面上发布[Adobe Media Player][2]的Beta版,正式版将于明年上半年发布.和Veoh Player在某些方面类似,AWP是一个能够让用户在线或离线观看网络Flash视频的AIR桌面应用程序.和<a title="Veoh" href="http://www.veoh.com/" target="_blank">Veoh</a>不同的是,AWP并不是从网络上**抓取**视频内容,而是由内容发布者直接提供.Adobe还将给发布商提供品牌合作版本,以便发布商通过视频广告获得盈利.
+[ <img id="id" height="40" alt="adobelabs-logo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/adobelabs-logo-thumb.jpg" width="175" align="right" />Adobe][1]将于今日在<a title="Adobe实验室" href="http://labs.adobe.com" target="_blank">Adobe实验室</a>页面上发布[Adobe Media Player][2]的Beta版,正式版将于明年上半年发布.和Veoh Player在某些方面类似,AWP是一个能够让用户在线或离线观看网络Flash视频的AIR桌面应用程序.和<a title="Veoh" href="http://www.veoh.com/" target="_blank">Veoh</a>不同的是,AWP并不是从网络上**抓取**视频内容,而是由内容发布者直接提供.Adobe还将给发布商提供品牌合作版本,以便发布商通过视频广告获得盈利.
 
 <!--more-->
 
-[<img id="id" height="345" alt="Philo_screenshot" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/philo-screenshot-thumb.jpg" width="450" />][3] 
+[<img id="id" height="345" alt="Philo_screenshot" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/philo-screenshot-thumb.jpg" width="450" />][3] 
 
 目前和Adobe合作的内容提供商有:CBS, Yahoo! Video, PBS,Blip.tv, MotionBox, and MyToons等.
 

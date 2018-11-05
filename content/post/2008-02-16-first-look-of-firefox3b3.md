@@ -58,25 +58,25 @@ Firefox 3 Beta 3的改进体现在许多方面,比较显著的包括各个操作
 
 主页按钮默认被移到了书签工具栏,不过通过定制功能把它恢复到导航工具栏.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/firefox3-ui-thumb.png" style="border-width: 0px" alt="firefox3-UI" border="0" height="384" width="449" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/firefox3-ui-thumb.png" style="border-width: 0px" alt="firefox3-UI" border="0" height="384" width="449" />][1]
 
 图标也都焕然一新(那个狐很有意思.Firefox在推广汉字&#8230;)
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/firefox3-icons-thumb.png" style="border-width: 0px" alt="firefox3-icons" border="0" height="50" width="410" />][2]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/firefox3-icons-thumb.png" style="border-width: 0px" alt="firefox3-icons" border="0" height="50" width="410" />][2]
 
 **扩展管理更加方便**.现在可以直接在Firefox里搜索,下载和安装扩展,非常方便,想必也是Mozilla出于推广Firefox扩展的考虑.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/firefox3-addons-manager-thumb.png" style="border-width: 0px" alt="firefox3-addons-manager" border="0" height="419" width="450" />][3]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/firefox3-addons-manager-thumb.png" style="border-width: 0px" alt="firefox3-addons-manager" border="0" height="419" width="450" />][3]
 
 **完善的Place功能**
 
 Firefox 3中新增的Place是最引人瞩目的改进.使用Place你可以搜索浏览历史,收藏和标签,你可以选择搜索的范围,搜索的规则,并可以将搜索保存至Smart Bookmark.Beta 3还新增了**备份和恢复功能**.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/firefox3-place-thumb.png" style="border-width: 0px" alt="firefox3-place" border="0" height="375" width="450" />][4]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/firefox3-place-thumb.png" style="border-width: 0px" alt="firefox3-place" border="0" height="375" width="450" />][4]
 
 与此相关,地址栏的星号收藏按钮在操作上也做了改变,单击直接收藏,双击归类和打标签.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/firefox3-bookmark-thumb.png" style="border-width: 0px" alt="firefox3-bookmark" border="0" height="185" width="323" />][5]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/firefox3-bookmark-thumb.png" style="border-width: 0px" alt="firefox3-bookmark" border="0" height="185" width="323" />][5]
 
 除了能够看见的这些改进之外,我能明显感觉到网页打开速度和响应速度的提升,应该不是心里暗示造成的.希望Firefox团队能够在3月份不负众望,推出令人满意的正式版.
 

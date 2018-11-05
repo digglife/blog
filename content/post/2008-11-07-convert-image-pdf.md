@@ -29,7 +29,7 @@ Image To PDF是一款能够批量转换图片为PDF文档的免费软件，功�
 <a title="批量转换图片为PDF" href="https://www.digglife.net/articles/convert-image-pdf.html" target="_blank">Image To PDF</a>操作起来非常简单，只需导入图片后点击转换按钮即可，200多张图片差不多需要25秒，还算比较迅速。
 
 <div id="attachment_2731" style="width: 477px" class="wp-caption aligncenter">
-  <a href="https://www.digglife.net/wp-content/uploads/2008/11/image-pdf.gif"><img class="size-full wp-image-2731" title="Image To PDF" src="http://digglife.qiniudn.com/wp-content/uploads/2008/11/image-pdf.gif" alt="转换PDF时注意按照图片的实际情况调整页面大小" width="467" height="433" /></a>
+  <a href="https://www.digglife.net/wp-content/uploads/2008/11/image-pdf.gif"><img class="size-full wp-image-2731" title="Image To PDF" src="https://www.digglife.net/wp-content/uploads/2008/11/image-pdf.gif" alt="转换PDF时注意按照图片的实际情况调整页面大小" width="467" height="433" /></a>
   
   <p class="wp-caption-text">
     转换PDF时注意按照图片的实际情况调整页面大小

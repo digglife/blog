@@ -43,7 +43,7 @@ tags:
 
 而大部分时候我们在Windows下只需要读取存储在Linux下的文件,无需进行写操作.<a href="http://www.diskinternals.com/linux-reader/" title="Linux Reader" target="_blank">Linux Reader</a>就提供了这一功能,它拥有和Windows Explorer类似的界面,使用起来非常安全和方便.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/linux-reader-thumb.png" alt="linux-reader" border="0" height="406" width="450" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/linux-reader-thumb.png" alt="linux-reader" border="0" height="406" width="450" />][1]
 
 所以如果你并不是非常熟悉Linux的文件系统,而且不时在两个系统之间切换,这款软件值得一试.
 

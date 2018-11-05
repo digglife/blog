@@ -36,7 +36,7 @@ tags:
 
 **下面那个"Google"标签就是自动识别的**
 
-[<img id="id" height="262" alt="Bookmark" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/bookmark-thumb.png" width="450" border="0" />][1]&#xA0;
+[<img id="id" height="262" alt="Bookmark" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/bookmark-thumb.png" width="450" border="0" />][1]&#xA0;
 
 <!--more-->
 

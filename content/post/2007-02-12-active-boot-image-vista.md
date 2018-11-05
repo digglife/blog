@@ -30,19 +30,19 @@ Windows Vista的启动画面实在很糟糕,但是Windows Vista里其实有更�
 
 这是默认启动画面:
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/qiniu/11/image/d28d9124b7ecdfd012625920806f278f.png" border="0" alt="" width="240" height="186" />][1]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/qiniu/11/image/d28d9124b7ecdfd012625920806f278f.png" border="0" alt="" width="240" height="186" />][1]
 
 这个是隐藏了的,叫做Aurora
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/qiniu/11/image/d738c403847563541f2d16e063276545.png" border="0" alt="" width="361" height="273" />][2]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/qiniu/11/image/d738c403847563541f2d16e063276545.png" border="0" alt="" width="361" height="273" />][2]
 
 你需要做的只是在开始菜单中的搜索框中输入msconfig(万年不变的系统配置程序),然后Enter.
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/qiniu/11/image/7af296a0c926afc07da159fac33f5462.png" border="0" alt="" width="178" height="117" />][3]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/qiniu/11/image/7af296a0c926afc07da159fac33f5462.png" border="0" alt="" width="178" height="117" />][3]
 
 选择启动选项卡,去掉&#8221;No GUI boot&#8221;选项
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="http://digglife.qiniudn.com/qiniu/11/image/f5bda2fca27ab062a5a8263784998a3f.png" border="0" alt="" width="374" height="167" />][4]
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" src="https://www.digglife.net/qiniu/11/image/f5bda2fca27ab062a5a8263784998a3f.png" border="0" alt="" width="374" height="167" />][4]
 
 Hit OK and reboot the computer. You should see the new boot screen immediately.
 

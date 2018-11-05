@@ -38,13 +38,13 @@ tags:
 ---
 <a title="Favikon,Favicon制作网站" href="http://www.favikon.com/" target="_blank">Favikon</a>是一个在线Favicon制作工具,他能够让你上传一张图片,进行裁剪缩放等步骤后制作出独特的Favicon,不需要任何专业设计技巧.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/favikon.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/favikon-thumb.png" border="0" alt="favikon" width="450" height="369" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/favikon.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/favikon-thumb.png" border="0" alt="favikon" width="450" height="369" /></a>
 
 <!--more-->
 
 Favicon是什么?favicon.ico一般用于作为缩略的网站标志,它显示位于浏览器的地址栏或者在标签上,用于显示网站的logo,,目前主要的浏览器都支持favicon.ico图标.下图为Google主页的Favicon:
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-favicon.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/google-favicon-thumb.png" border="0" alt="google-favicon" width="345" height="37" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-favicon.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/google-favicon-thumb.png" border="0" alt="google-favicon" width="345" height="37" /></a>
 
 当然,类似的网站还有很多,比如<a title="Favicon.cc" href="http://www.favicon.cc/" target="_blank">Favicon.cc</a>,不过其中大部分都是提供将图片转化或者在线绘画功能,Favikon免去了制作的工序,让你可以直接在线截取部分图像作为Favicon,操作起来比较直观,你可以对阴影区域进行拖拽和拉伸,覆盖到你想截取的区域即可,在下载之前可以预览效果,如果觉得不满意可以直接重新截取和生成,直到满意为止.
 

@@ -34,7 +34,7 @@ tags:
 
 ★点击看大图,下同
 
-[<img class="alignnone" title="Vista灰色主题" src="http://digglife.qiniudn.com/wp-content/uploads/archive/Vista_Ultimate_Grey_by_dynacord.jpg" alt="" width="400" height="250" />][1]
+[<img class="alignnone" title="Vista灰色主题" src="https://www.digglife.net/wp-content/uploads/archive/Vista_Ultimate_Grey_by_dynacord.jpg" alt="" width="400" height="250" />][1]
 
 <a title="Vista Ultimate Grey下载" href="http://dynacord.deviantart.com/art/Vista-Ultimate-Grey-81035941" target="_blank">主题下载</a>
 
@@ -79,15 +79,15 @@ tags:
 来自<a href="http://www.nirmaltv.com/2008/08/07/download-windows-vista-themes/" target="_blank">Life Rock 2.0</a>
 
  [1]: http://picasaweb.google.com/digglifeshow/Vista/photo#5232455945694564242
- [2]: http://digglife.qiniudn.com/qiniu/2629/image/1f7b71a282ce683290b26bd06de0632e.jpg
+ [2]: https://www.digglife.net/qiniu/2629/image/1f7b71a282ce683290b26bd06de0632e.jpg
  [3]: http://picasaweb.google.com/digglifeshow/Vista/photo#5232456140771189010
- [4]: http://digglife.qiniudn.com/wp-content/uploads/archive/Vista_Blue_Refresh_Theme_by_Vishal_Gupta.jpg
+ [4]: https://www.digglife.net/wp-content/uploads/archive/Vista_Blue_Refresh_Theme_by_Vishal_Gupta.jpg
  [5]: http://picasaweb.google.com/digglifeshow/Vista/photo#5232456183285205570
- [6]: http://digglife.qiniudn.com/wp-content/uploads/archive/AeroVG_Theme_for_Windows_Vista_by_Vishal_Gupta.jpg
+ [6]: https://www.digglife.net/wp-content/uploads/archive/AeroVG_Theme_for_Windows_Vista_by_Vishal_Gupta.jpg
  [7]: http://picasaweb.google.com/digglifeshow/Vista/photo#5232456085610608706
- [8]: http://digglife.qiniudn.com/wp-content/uploads/archive/Maxclear_V3_1_theme_for_Vista_by_sonicexcess.jpg
+ [8]: https://www.digglife.net/wp-content/uploads/archive/Maxclear_V3_1_theme_for_Vista_by_sonicexcess.jpg
  [9]: http://picasaweb.google.com/digglifeshow/Vista/photo#5232455843936050834
- [10]: http://digglife.qiniudn.com/wp-content/uploads/archive/Reanimaero_VS_for_Vista_by_Miretank.jpg
+ [10]: https://www.digglife.net/wp-content/uploads/archive/Reanimaero_VS_for_Vista_by_Miretank.jpg
  [11]: http://picasaweb.google.com/digglifeshow/Vista/photo#5232455769446519602
- [12]: http://digglife.qiniudn.com/wp-content/uploads/archive/Vista_GlassNeon_by_Akanaz.jpg
+ [12]: https://www.digglife.net/wp-content/uploads/archive/Vista_GlassNeon_by_Akanaz.jpg
  [13]: http://picasaweb.google.com/digglifeshow/Vista/photo#5232456002169379458

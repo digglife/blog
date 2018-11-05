@@ -50,7 +50,7 @@ tags:
 
 <font color="#ff0080">俨然成为沪江网中枢的<a title="沪江部落" href="http://bulo.hjenglish.com/" target="_blank">沪江部落</a>.像不像一个SNS??</font>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/hjenglish-bulo.png" target="_blank"><img height="244" alt="hjenglish-bulo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/hjenglish-bulo-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/hjenglish-bulo.png" target="_blank"><img height="244" alt="hjenglish-bulo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/hjenglish-bulo-thumb.png" width="450" border="0" /></a> 
 
 沪江几乎所有的内容都来自于自己的原创,而这些原创内容也大部分来自于网友的贡献,这也正是沪江最能吸引人的地方.内容覆盖了外语的各个方面,形式也多种多样,文字(文章,考题,备考资料等),音频(新闻,原创播客等),视频(视频新闻,电影,动漫,专题采访等)应有尽有.
 
@@ -65,4 +65,4 @@ tags:
 ![][2]
 
  [1]: http://www.hjenglish.com/ "http://www.hjenglish.com/"
- [2]: http://digglife.qiniudn.com/qiniu/2280/image/5db44eda0aafa718069f1efea73dda96.jpg
+ [2]: https://www.digglife.net/qiniu/2280/image/5db44eda0aafa718069f1efea73dda96.jpg

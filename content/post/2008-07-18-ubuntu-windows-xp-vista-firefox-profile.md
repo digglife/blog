@@ -42,12 +42,12 @@ tags:
 
 1.关闭Firefox,在终端中输入<span style="font-family: Courier New; color: #ff5a00;">firefox -profilemanager</span>,这时会弹出配置文件管理界面.
 
-<img class="aligncenter" title="Firefox配置文件管理器" src="http://digglife.qiniudn.com/wp-content/uploads/archive/Firefox%20-%20Choose%20User%20Profile.png" alt="" width="385" height="288" />
+<img class="aligncenter" title="Firefox配置文件管理器" src="https://www.digglife.net/wp-content/uploads/archive/Firefox%20-%20Choose%20User%20Profile.png" alt="" width="385" height="288" />
 
 2.点击创建配置文件(Create A New Profile),然后在弹出窗口中点击选择文件夹(Choose Folder),定位到<span style="font-family: Courier New; color: #ff5a00;">Documents and Settings/<你的用户名>/Application Data/Mozilla/Firefox/Profiles</span>,选择以.default结尾的那个文件夹(我不确定大家的文件夹名是不是一样的).
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5224287886248586466"><img title="创建Firefox配置文件" src="http://digglife.qiniudn.com/wp-content/uploads/archive/Create%20Profile%20Wizard.png" alt="" width="400" height="298" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5224287886248586466"><img title="创建Firefox配置文件" src="https://www.digglife.net/wp-content/uploads/archive/Create%20Profile%20Wizard.png" alt="" width="400" height="298" /></a>
   
   <p class="wp-caption-text">
     给配置文件命名,并点击Choose File
@@ -55,7 +55,7 @@ tags:
 </div>
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5224287883699916802"><img title="定位到Windows XP下的Firefox配置文件夹" src="http://digglife.qiniudn.com/wp-content/uploads/archive/Choose%20Profile%20Folder.png" alt="定位到Windows XP下的Firefox配置文件夹" width="400" height="312" /></a>
+  <a href="http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5224287883699916802"><img title="定位到Windows XP下的Firefox配置文件夹" src="https://www.digglife.net/wp-content/uploads/archive/Choose%20Profile%20Folder.png" alt="定位到Windows XP下的Firefox配置文件夹" width="400" height="312" /></a>
   
   <p class="wp-caption-text">
     定位到Windows XP下的Firefox配置文件夹

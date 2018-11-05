@@ -35,7 +35,7 @@ tags:
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/ribbon-generator.png" target="_blank"><img height="279" alt="ribbon-generator" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/ribbon-generator-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/ribbon-generator.png" target="_blank"><img height="279" alt="ribbon-generator" src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/ribbon-generator-thumb.png" width="450" border="0" /></a> 
 
 如上图所示,你可以自定义勋章文字,勋章样式和色彩细节,勋章背景色和指向链接,这些选项足够个性化了.设置完毕后即可生成代码并粘贴到网站源码里.
 

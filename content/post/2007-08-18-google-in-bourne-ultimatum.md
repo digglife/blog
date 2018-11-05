@@ -39,7 +39,7 @@ tags:
   - 电影
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/searchforbourne.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/searchforbourne-thumb.jpg" alt="searchforbourne" height="213" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/searchforbourne.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/searchforbourne-thumb.jpg" alt="searchforbourne" height="213" /></a>
 
 今天看了DVDSCR-RMVB版本的《谍影重重3》,除了那环球电影公司那个该死的Logo水印和下面的TICKER之外,效果和普通的DVD-RMVB没有太大差别(下面的截图看起来像是枪版,哈哈),无奈字幕太烂,草草听译的东西就是不行啊.整部电影也还不错,情节非常紧张,场面和细节都很不错,值得一看.
 
@@ -49,20 +49,20 @@ tags:
 
 这个是CIA定位伯恩所在的拿破仑火车站时使用的地图,和<a target="_blank" href="http://maps.google.com">Google地图</a>很像,不过原因应该是Google和CIA都使用的是NAVTEQ和TANA等第三方公司提供的地图数据.电影不够清晰,我看不到这个图片右下角的一行字符到底是什么,很怀疑是不是@2007 Google&#8230;&#8230;&#8230;.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-maps.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/google-maps-thumb.jpg" alt="Google maps" height="253" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-maps.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/google-maps-thumb.jpg" alt="Google maps" height="253" /></a> 
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/london2.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/london2-thumb.png" alt="london2" height="155" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/london2.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/london2-thumb.png" alt="london2" height="155" /></a> 
 
 伯恩在伦敦时使用Google搜索,Google UK
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/googlesearch.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/googlesearch-thumb.jpg" alt="googlesearch" height="253" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/googlesearch.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/googlesearch-thumb.jpg" alt="googlesearch" height="253" /></a>
 
 从图片上看使用的浏览器是MS的IE 7(使用带有Google工具栏的<a target="_blank" href="https://www.digglife.net/articles/category/firefox/">Firefox</a>就到位了,哈)
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ie7.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/ie7-thumb.jpg" alt="ie7" height="253" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ie7.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/ie7-thumb.jpg" alt="ie7" height="253" /></a>
 
 Nicky的电脑上竟然安装的是Norton互联网安全套装,CIA的人也用这个的么?赛门铁克这么牛?也难怪<a target="_blank" href="https://www.digglife.net/articles/google-pack-includes-sun-staroffice.html">Google Pack</a>推荐了.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/northon.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/northon-thumb.jpg" alt="northon" height="253" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/northon.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/northon-thumb.jpg" alt="northon" height="253" /></a> 
 
 伯恩能打(快速凶狠的搏击让人叹为观止),会泡妞(第三部似乎又把Nicky迷住了),会多国语言(法语,德语,俄语,西班牙语,意大利语),还懂高科技(充分利用电话和网络),实在是21世纪复合型人才的终极代表啊.

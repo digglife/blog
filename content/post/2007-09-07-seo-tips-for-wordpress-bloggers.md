@@ -53,7 +53,7 @@ tags:
   - 博客
 
 ---
-[<img id="id" height="96" alt="seo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/seo-thumb.jpg" width="96" align="right" />][1] 我是没有资格来教别人SEO技巧的,因为我的博客对搜索引擎也并不怎么友好.不过最近也在关注这方面的信息,所以翻译一篇文章来和大家分享一下.这段文字是根据三个星期前<a href="http://www.mattcutts.com" target="_blank">Google的工程师Matt Cutts</a>在Wordcamp 2007上的演讲编写而成的,之前网上也有部分摘要在流传,不过我搜索了一下,似乎都不怎么完整.下面是比较完整的版本,我发现我的博客在很多地方都存在问题.
+[<img id="id" height="96" alt="seo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/seo-thumb.jpg" width="96" align="right" />][1] 我是没有资格来教别人SEO技巧的,因为我的博客对搜索引擎也并不怎么友好.不过最近也在关注这方面的信息,所以翻译一篇文章来和大家分享一下.这段文字是根据三个星期前<a href="http://www.mattcutts.com" target="_blank">Google的工程师Matt Cutts</a>在Wordcamp 2007上的演讲编写而成的,之前网上也有部分摘要在流传,不过我搜索了一下,似乎都不怎么完整.下面是比较完整的版本,我发现我的博客在很多地方都存在问题.
 
   1. 使用Akisment或者Math Comment插件,保护博客不受垃圾链接的侵扰. 
   2. 将Google Analytics等统计服务代码尽量放置在Wordpress模板的下方,最好是在Footer.php.这样做可以加快网页加载速度. 

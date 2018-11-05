@@ -22,7 +22,7 @@ tags:
   - 铃声
 
 ---
-<a target="_blank" href="http://online.wsj.com/article/SB118461672269867869.html">华尔街日报</a>消息,Google正在为手机铃声和游戏等手机媒体内容开发搜索引擎.<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/google-mobile-search-ringtones.png"><img align="right" width="201" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/google-mobile-search-ringtones-thumb.png" alt="google-mobile-search-ringtones" height="240" /></a>
+<a target="_blank" href="http://online.wsj.com/article/SB118461672269867869.html">华尔街日报</a>消息,Google正在为手机铃声和游戏等手机媒体内容开发搜索引擎.<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/google-mobile-search-ringtones.png"><img align="right" width="201" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/google-mobile-search-ringtones-thumb.png" alt="google-mobile-search-ringtones" height="240" /></a>
 
 &#8220;通过这个新的搜索系统,用户能够直接搜索到如手机铃声等内容,并会自动获取提供该内容的公司名单,通过上面的链接用户可以简单地购买他们.Google为了索引那些内容提供商的内容并让他们能够在移动搜索上得到已经工作了好几个月,这些提供商包括大型娱乐公司和小的移动媒体聚合网站.知情人透漏,Google还考虑通过加入一个社会化组件让用户能够通过Gmail服务互相交换自己的内容,但是Google拒绝对此发表评论.&#8221;
 

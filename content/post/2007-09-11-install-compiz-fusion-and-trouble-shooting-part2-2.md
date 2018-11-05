@@ -116,15 +116,15 @@ AWN相比早前版本的更新(8月26日更新的,也不能算新了,呵呵)包�
 
 关于compiz fusion的安装我所了解的就这么多了,这篇日志可能会不断更新.如有更新我会在以后的日志中提到,所以如果有兴趣看看的话,不妨<a href="http://feed.digglife.cn" title="订阅digglife" target="_blank">订阅DiggLife</a>. 8)
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/compiz-fusion-tray-icon.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/compiz-fusion-tray-icon.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/compiz-fusion-tray-icon.png "compiz fusion系统托盘图标"
  [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/fusion-icon.zip "fusion-icon安装包"
- [4]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/awn.thumbnail.png
+ [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/awn.thumbnail.png
  [5]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/awn.png "avant window navigator"
  [6]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/glass-beach-theme.zip "AWN Glass Beach主题"
- [7]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/preview1.png
+ [7]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/preview1.png
  [8]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/preview1.png "程序预览"
- [9]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/stack.thumbnail.png
+ [9]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/stack.thumbnail.png
  [10]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/stack.png "文件夹抽屉"
- [11]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/awn-main-menu.thumbnail.png
+ [11]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/awn-main-menu.thumbnail.png
  [12]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/awn-main-menu.png "AWN主菜单"

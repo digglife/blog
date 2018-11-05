@@ -29,7 +29,7 @@ tags:
 
 <span style="color: #ff0080;">Gmail显示效果</span>
 
-[<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewritergmail-e5d6signature-thumb1.png" border="0" alt="" width="440" height="293" />][1]
+[<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritergmail-e5d6signature-thumb1.png" border="0" alt="" width="440" height="293" />][1]
   
 <!--more-->
 
@@ -37,13 +37,13 @@ tags:
   
 <span style="color: #ff0080;">发给163邮箱的显示效果.</span>
 
-[<img style="border: 0px none " src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewritergmail-e5d6signature163-thumb1.png" border="0" alt="" width="440" height="370" />][2]
+[<img style="border: 0px none " src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritergmail-e5d6signature163-thumb1.png" border="0" alt="" width="440" height="370" />][2]
 
 ### **使用方法**
 
 **1.**给Firefox安装<a href="https://addons.mozilla.org/en-US/firefox/addon/4866" target="_blank">Better Gmail扩展</a>.这个扩展我曾经介绍过两次:<a title="Firefox:个性化Gmail(Better Gmail扩展)" href="https://www.digglife.net/articles/customize-gmail-better-gmail.html" target="_blank">Firefox:个性化Gmail(Better Gmail扩展)</a>,<a title=" 	Firefox:个性化Gmail续集(Better Gmail 0.5)" href="https://www.digglife.net/articles/customize-gmail-better-gmail05.html" target="_blank">Firefox:个性化Gmail续集(Better Gmail 0.5)</a>.不过一直关注于它带来的皮肤,搜索功能,和Google Reader的整合等,没有注意到原来它给Gmail设置里的签名设置添加了&#8221;允许HTML签名&#8221;的选项.
 
-[<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewritergmail-e5d6signatureoptions-thumb.png" border="0" alt="" width="325" height="230" />][3]
+[<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritergmail-e5d6signatureoptions-thumb.png" border="0" alt="" width="325" height="230" />][3]
 
 **2.**进入Gmail设置,在签名栏目里将&#8221;Allow HTML in Signature&#8221; 勾上.
 
@@ -69,7 +69,7 @@ tags:
   2. 某些邮箱客户端会屏蔽邮件中的图片,这时`<img alt=""` 中引号内部的内容会代替图片出现.
   3. 弊端:你必须在安装有Better Gmail扩展的Firefox中发送才有效,不然签名只会显示为一段没有丝毫意义的HTML代码.
 
-[<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewritergmail-e5d6signaureerror-thumb1.png" border="0" alt="" width="450" height="238" />][5]
+[<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewritergmail-e5d6signaureerror-thumb1.png" border="0" alt="" width="450" height="238" />][5]
 
 当然,你可以使用更多的HTML代码.但是记住不要使用太多,一来可能会被屏蔽,二来你的收件人也可能会很反感.
 

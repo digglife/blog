@@ -38,9 +38,9 @@ tags:
   2. **专利号6,621,746，闪存擦除**。监视闪存的使用状况，在适当的时候进行有针对性的擦除操作。严格的说来，任何一个基于 Flash 的文件系统必然要实现类似的功能，Android自然也不例外。
   3. **专利号6,909,910，联系人的创建和更新**。具体为从通话记录中更新某个联系人或创建新联系人的系统和方法。如下图，这个估计很多智能手机都逃不过：
   
-    <img title="微软有关联系人新建和更新的专利" src="http://digglife.qiniudn.com/wp-content/uploads/2011/07/contact-manager.png" alt="微软有关联系人新建和更新的专利" width="388" height="494" />
+    <img title="微软有关联系人新建和更新的专利" src="https://www.digglife.net/wp-content/uploads/2011/07/contact-manager.png" alt="微软有关联系人新建和更新的专利" width="388" height="494" />
   4. **专利号7,644,376，系统状态监视和通知系统**。主要是关于允许移动应用获取手机状态变化的API，管理全局系统状态通知。
-  5. **专利号5,664,133，弹出式上下文菜单系统**。具体专利描述为对用户选择的对象获取并展示一系列命令在一个弹出菜单中。这专利估计是微软的屠龙刀，神挡杀神，佛挡杀佛。当初苹果引入右键菜单的时候，微软没有起诉是因为Patent Cross-Licensing Agreement吗？<img title="微软有关上下文弹出菜单的专利" src="http://digglife.qiniudn.com/wp-content/uploads/2011/07/context-pop-menu.png" alt="微软有关上下文弹出菜单的专利" width="600" height="396" />
+  5. **专利号5,664,133，弹出式上下文菜单系统**。具体专利描述为对用户选择的对象获取并展示一系列命令在一个弹出菜单中。这专利估计是微软的屠龙刀，神挡杀神，佛挡杀佛。当初苹果引入右键菜单的时候，微软没有起诉是因为Patent Cross-Licensing Agreement吗？<img title="微软有关上下文弹出菜单的专利" src="https://www.digglife.net/wp-content/uploads/2011/07/context-pop-menu.png" alt="微软有关上下文弹出菜单的专利" width="600" height="396" />
   6. **专利号6,578,054，增量同步**。用来同步服务器和客户端里多个数据副本的系统和方法，通过此方法某一个数据副本的增量变化将会被识别，传输，整合到其他所有数据副本上。按照这个专利描述，Android的数据同步功能可以说全军覆没。
   7. **专利号6,370,566，从移动设备发起计划会议请求**。专利里描述的实现方式和Google Calendar并不相同，所以不太明白这个和Android哪里冲突了。
 

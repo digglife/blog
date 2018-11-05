@@ -66,22 +66,22 @@ tags:
 [![firefox_shirt.jpg][19]][20]
 
  [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_hentai.jpg "firefox_hentai.jpg"
- [2]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/firefox_hentai2.jpg
+ [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_hentai2.jpg
  [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_hentai2.jpg "firefox_hentai2.jpg"
- [4]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/firefox_crop.jpg
+ [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_crop.jpg
  [5]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_crop.jpg "firefox_crop.jpg"
- [6]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/firefoxbus.jpg
+ [6]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefoxbus.jpg
  [7]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefoxbus.jpg "firefoxbus.jpg"
- [8]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/real_firefox.jpg
+ [8]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/real_firefox.jpg
  [9]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/real_firefox.jpg "real_firefox.jpg"
- [10]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windows_firefox.jpg
+ [10]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/windows_firefox.jpg
  [11]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/windows_firefox.jpg "windows_firefox.jpg"
- [12]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/firefox_condom.gif
+ [12]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_condom.gif
  [13]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_condom.gif "firefox_condom.gif"
- [14]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/firefox_ie.jpg
+ [14]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_ie.jpg
  [15]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_ie.jpg "firefox_ie.jpg"
- [16]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/firefox_hentai.jpg
- [17]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/firefox_boobs.jpg
+ [16]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_hentai.jpg
+ [17]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_boobs.jpg
  [18]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_boobs.jpg "firefox_boobs.jpg"
- [19]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/firefox_shirt.jpg
+ [19]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_shirt.jpg
  [20]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/firefox_shirt.jpg "firefox_shirt.jpg"

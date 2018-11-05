@@ -66,7 +66,7 @@ tags:
   - 模板
 
 ---
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/wordpress-logo-cristal-thumb.jpg" alt="wordpress-logo-cristal" width="70" height="70" align="right" />][1] 昨天研究了一下Wordpress的模板修改,主要是为了给一个不支持自定义侧边栏的三栏模板加入这个简单方便的功能.其实我是一个PHP文盲,对Wordpress模板的修改也并没有深刻的了解,下面是作为一个门外汉研究心得,只讨论实现方法,并不深究原因,没有多大的技术含量,希望高手不要见笑. <!--more-->
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wordpress-logo-cristal-thumb.jpg" alt="wordpress-logo-cristal" width="70" height="70" align="right" />][1] 昨天研究了一下Wordpress的模板修改,主要是为了给一个不支持自定义侧边栏的三栏模板加入这个简单方便的功能.其实我是一个PHP文盲,对Wordpress模板的修改也并没有深刻的了解,下面是作为一个门外汉研究心得,只讨论实现方法,并不深究原因,没有多大的技术含量,希望高手不要见笑. <!--more-->
 
 ### **一.有关侧边栏的两个重要文件**
 

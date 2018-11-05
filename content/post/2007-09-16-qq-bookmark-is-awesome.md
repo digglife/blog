@@ -52,7 +52,7 @@ tags:
 
 于是我跑到Google Analytics查看了一下9月15日的记录(本来是下午3点才会统计完毕),结果吓了我一跳,竟然突然有800多个访问数,1400多综合访问量,于是我马上到点击量来源查看,竟然是来自<a title="QQ书签" href="http://shuqian.qq.com" target="_blank">QQ书签</a>.马上打开QQ书签(话说之前我就上过一次,就是开始Beta的那天),果不其然,首页赫然就有我的那篇日志,收藏数4559人.
 
-[<img id="id" height="142" alt="qqbookmark" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/qqbookmark-thumb.png" width="450" />][1]&#xA0;
+[<img id="id" height="142" alt="qqbookmark" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/qqbookmark-thumb.png" width="450" />][1]&#xA0;
 
 <!--more-->
 
@@ -60,7 +60,7 @@ tags:
 
 到现在为止,该文章12700人收藏,不过已经被新书签挤到第二页.
 
-[<img id="id" height="73" alt="qqbookmark2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/qqbookmark2-thumb.png" width="450" />][2]&#xA0;
+[<img id="id" height="73" alt="qqbookmark2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/qqbookmark2-thumb.png" width="450" />][2]&#xA0;
 
 很遗憾没有早点发现,不然我就可以在这篇日志上破例多放一个GA单元了啊&#8230;唉..结果这爆发性的2000多次展示(因为还有16日的)全部的点击就8次,浪费啊&#8230;
 
@@ -70,7 +70,7 @@ tags:
 
 最后附上Google分析的峰值:
 
-[<img id="id" height="190" alt="statistics" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/statistics-thumb.png" width="215" />][3] 
+[<img id="id" height="190" alt="statistics" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/statistics-thumb.png" width="215" />][3] 
 
 14日访问数480,15日访问数飙升至915,16日访问数1081(还未统计完毕,不过既然已经不在首页,估计也不会有多大变化了).
 

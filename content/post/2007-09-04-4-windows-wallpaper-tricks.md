@@ -54,7 +54,7 @@ tags:
 
 进入Google日历的设置页面,点击&#8221;日历&#8221;选项并选择一个已创建的日程,在页面下方的&#8221;日历网址&#8221;一栏点击HTML图标,复制弹出窗口中的地址.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gcal-html.png" atomicselection="true"><img height="65" alt="GCal-html" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/gcal-html-thumb.png" width="280" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gcal-html.png" atomicselection="true"><img height="65" alt="GCal-html" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/gcal-html-thumb.png" width="280" /></a>
 
 然后在Windows桌面空白处右键,点击属性,定位到桌面&#8211;自定义桌面&#8211;Web,选择&#8221;新建&#8221;,粘贴日历地址,然后确定即可.该方法适合于添加任意网页到桌面.
 
@@ -62,7 +62,7 @@ tags:
 
 **2.桌面壁纸搜索引擎**<a href="http://marcogomes.com/wallpapr/" target="_blank"><strong>Wallpapr</strong></a>**.**
 
- <img height="261" alt="wallpapr" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/wallpapr.jpg" width="350" />
+ <img height="261" alt="wallpapr" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/wallpapr.jpg" width="350" />
 
 Wallpapr是一个以Flickr海量的图片库作为搜索源的壁纸搜索引擎,它的搜索结果至少有1024*768的分辨率,足以拿来当作壁纸.不过很可惜Flickr已经被我们强大的防火墙封掉了,所以如果你不愿意采取翻墙措施的话,可以参考之前的一篇日志:<a href="https://www.digglife.net/articles/13-high-resolution-wallpaper-download-sites.html" target="_blank"><strong>13个专业级高清壁纸免费下载网站</strong></a>,里面介绍的网站都有非常棒的壁纸下载.
 
@@ -72,7 +72,7 @@ Wallpapr是一个以Flickr海量的图片库作为搜索源的壁纸搜索引擎
 
 来自微软本家的壁纸自动换工具<a href="http://download.microsoft.com/download/4/a/4/4a445a53-7e5a-44ef-a105-78809d9726d3/powertoys_wpchanger.exe" target="_blank">Powertoys</a>.你可以选择希望显示的壁纸文件夹,设定更换的时间间隔等.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/powertoys.png" atomicselection="true"><img height="400" alt="powertoys" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/powertoys-thumb.png" width="327" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/powertoys.png" atomicselection="true"><img height="400" alt="powertoys" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/powertoys-thumb.png" width="327" /></a>
 
 另外还有一款<a href="http://www.topdownloads.net/wallpapers/view.php?id=20959" target="_blank">Wallpaper Jungle</a>提供同样的自动更换功能,效果也不错.
 
@@ -85,7 +85,7 @@ Dreamscene是Windows Vista的一个吸引眼球的新功能,它能够将视频�
   * <a href="http://www.videolan.org/vlc/" target="_blank">下载VLC Media Player</a>并安装. 
   * 打开VLC,定位到设置&#8211;选项&#8211;视频&#8211;输出模块&#8211;DirectX,勾选右下角的&#8221;高级选项&#8221;,在&#8221;DirectX输出选项&#8221;中勾选&#8221;打开壁纸模式&#8221;.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/vlc-settings.png" atomicselection="true"><img height="289" alt="VLC-settings" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/vlc-settings-thumb.png" width="450" /></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/vlc-settings.png" atomicselection="true"><img height="289" alt="VLC-settings" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/vlc-settings-thumb.png" width="450" /></a> 
 
   * 下载高清视频.你可以在以下地方下载适合作为背景的视频文件.[Winmatrix][1]  
     [SkyTimeLapse][2]  
@@ -93,7 +93,7 @@ Dreamscene是Windows Vista的一个吸引眼球的新功能,它能够将视频�
     [Microsoft WMV HD][4] 
   * 去除任务栏和系统托盘图标.使用视频作为桌面背景时,你可能不希望在任务栏或者系统托盘看到VLC的图标,所以我们可以在设置中去除他们.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/vlc-settings2.png" atomicselection="true"><img height="289" alt="VLC-settings2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/vlc-settings2-thumb.png" width="450" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/vlc-settings2.png" atomicselection="true"><img height="289" alt="VLC-settings2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/vlc-settings2-thumb.png" width="450" /></a>
 
   * 如果你希望某段视频重复播放,可以在播放列表选项中进行设置.
 

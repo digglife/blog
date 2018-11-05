@@ -34,7 +34,7 @@ tags:
 
 **CosPrime变身^_^**
 
-<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/prime.png"><img width="450" src="http://digglife.qiniudn.com/qiniu/1271/image/d7cdd495da9eb319c4d80cdd91f1d3f3.png" alt="prime" height="300" /></a>
+<a atomicselection="true" href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/prime.png"><img width="450" src="https://www.digglife.net/qiniu/1271/image/d7cdd495da9eb319c4d80cdd91f1d3f3.png" alt="prime" height="300" /></a>
 
 Youtube视频如下:
 

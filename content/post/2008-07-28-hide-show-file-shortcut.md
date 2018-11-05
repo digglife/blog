@@ -96,7 +96,7 @@ PS：前几天在注册了一个Google app，现在DiggLife也有@digglife.cn后
 
  [1]: https://www.digglife.net/articles/category/windows-tricks "Windows技巧"
  [2]: https://www.digglife.net/articles/tag/vista "Vista相关文章"
- [3]: http://digglife.qiniudn.com/wp-content/uploads/archive/msgbox.png
+ [3]: https://www.digglife.net/wp-content/uploads/archive/msgbox.png
  [4]: http://picasaweb.google.com/digglifeshow/oCzYfC/photo#5227898259155235714
  [5]: http://cybernetnews.com/2008/07/24/cybernotes-shortcut-to-showhide-hidden-files/
  [6]: https://www.google.com/a/digglife.cn/ "DiggLife的Google APP"

@@ -63,7 +63,7 @@ tags:
 嗯,嗯,拿这个转换一张个人照贴在墙上似乎也不错哦&#8230;
 
  [1]: https://www.digglife.net/articles/sumatra-pdf.html "酷软推荐:开源PDF阅读器Sumatra PDF "
- [2]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/ascii-creat.jpg
+ [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/ascii-creat.jpg
  [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/ascii-creat.jpg "Ascii-Poster-Creator-settings"
- [4]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/ascii-result.thumbnail.JPG
+ [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/ascii-result.thumbnail.JPG
  [5]: https://www.digglife.net/wp-content/uploads/3/379/2007/12/ascii-result.JPG "Ascii-result"

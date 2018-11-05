@@ -60,25 +60,25 @@ tags:
 
 在日志中插入特殊字符,以备不时之需.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/symbol.png" target="_blank"><img id="id" height="311" alt="symbol" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/symbol-thumb.png" width="323" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/symbol.png" target="_blank"><img id="id" height="311" alt="symbol" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/symbol-thumb.png" width="323" border="0" /></a> 
 
 **3.**<a title="Skydrive嵌入" href="http://gallery.live.com/liveItemDetail.aspx?li=d4409446-af7f-42ec-aa20-78aa5bac4748&bt=9&pl=8" target="_blank"><strong>Skydrive嵌入</strong></a>
 
 在日志中插入漂亮的Live Skydrive按钮,链接到上传到Skydrive上的文件.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/skydrive.png" target="_blank"><img id="id" height="391" alt="skydrive" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/skydrive-thumb.png" width="441" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/skydrive.png" target="_blank"><img id="id" height="391" alt="skydrive" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/skydrive-thumb.png" width="441" border="0" /></a> 
 
 **4.**<a title="博客中代码插入" href="http://gallery.live.com/liveItemDetail.aspx?li=d4409446-af7f-42ec-aa20-78aa5bac4748&bt=9&pl=8" target="_blank"><strong>代码插入(Code Snippest)</strong></a>
 
 插入常见代码,其效果类似于我之前写的两篇关于Wordpress侧边栏插件的效果.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/code-snippet.png" target="_blank"><img id="id" height="349" alt="code-snippet" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/code-snippet-thumb.png" width="450" border="0" /></a>&#xA0;
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/code-snippet.png" target="_blank"><img id="id" height="349" alt="code-snippet" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/code-snippet-thumb.png" width="450" border="0" /></a>&#xA0;
 
 **5.文件上传插件**
 
 可以直接从WLW插入本地文件并上传到博客
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/insert-files.png" target="_blank"><img id="id" height="139" alt="insert-files" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/insert-files-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/insert-files.png" target="_blank"><img id="id" height="139" alt="insert-files" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/insert-files-thumb.png" width="450" border="0" /></a> 
 
 一共有两个插件可供使用.
 

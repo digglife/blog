@@ -29,17 +29,17 @@ tags:
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/deluxive-creative-pack-001-by-deluxive-thumb.jpg" style="border-width: 0px" alt="Deluxive_Creative_Pack_001_by_Deluxive" border="0" height="338" width="450" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/deluxive-creative-pack-001-by-deluxive-thumb.jpg" style="border-width: 0px" alt="Deluxive_Creative_Pack_001_by_Deluxive" border="0" height="338" width="450" />][1]
 
 下面是素材包里的部分:
 
 徽章
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/deluxive-badges-thumb.png" style="border: 0px none " alt="Deluxive_Badges" border="0" height="400" width="400" />][2]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/deluxive-badges-thumb.png" style="border: 0px none " alt="Deluxive_Badges" border="0" height="400" width="400" />][2]
 
 用于填充文字的背景图案,透明贴纸等
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/02/sticker-thumb.png" style="border: 0px none " alt="sticker" border="0" height="400" width="400" />][3]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/02/sticker-thumb.png" style="border: 0px none " alt="sticker" border="0" height="400" width="400" />][3]
 
 另外还有好多,我就不一一列举了.总之,这个素材包不会让你失望.
 

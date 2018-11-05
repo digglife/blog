@@ -53,7 +53,7 @@ tags:
 
 &#160;
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/fc2-4726.gif" target="_blank"><img height="60" alt="fc2_4726" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/fc2-4726-thumb.gif" width="240" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/fc2-4726.gif" target="_blank"><img height="60" alt="fc2_4726" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/fc2-4726-thumb.gif" width="240" border="0" /></a> 
 
 <!--more-->
 
@@ -61,7 +61,7 @@ tags:
 
 &#160;
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/11.jpg" target="_blank"><img height="177" alt="中川翔子1" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/1-thumb.jpg" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/11.jpg" target="_blank"><img height="177" alt="中川翔子1" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/1-thumb.jpg" width="450" border="0" /></a> 
 
 其本人为2006 年日本最红偶像之一 部落格最高纪录曾一天更新过78次总浏览页次也超过一亿次,目前这个喜欢ACG的女生最广为人知的头衔是&#8220;Blog女王&#8221;。她的Blog更新速度非常之强，日志都是自己的RP自拍、自己画的漫画和自己的猫咪照片，有的时候一连几天都是自创漫画连载。其职业是从事演员，声优，插画家，歌手，主持人等 经历：集英社漫画杂志《周刊少年MAGAZIHE》2002年的美少女代言人；超大型综艺节目《KING&#8217;S BRUNCH》中长期出演了接近一年时间；2004年超人气特摄片系列《特搜战队》友情出演；《光速假面21》声优出演；《吉宗》きる坊/主题曲《Brilliant Dream》；日本国民人气动画《阿拉蕾》首度DVD BOX化，秋叶原当红的美少女偶像中川翔子以动画人物的形式入住企鹅村。
 
@@ -71,7 +71,7 @@ tags:
 
 相关链接:[http://www.feedsky.com/challenge/art/522/feedsky/diggliferss/~/gtsp/zt1/0fe62/lnk.html][4]
 
- [1]: http://digglife.qiniudn.com/qiniu/2222/image/a8b69e39a64acacb12ad9d8e849c0fd1.jpg
+ [1]: https://www.digglife.net/qiniu/2222/image/a8b69e39a64acacb12ad9d8e849c0fd1.jpg
  [2]: http://blog.fc2.com/
  [3]: http://yaplog.jp/strawberry2/
  [4]: http://www.feedsky.com/challenge/art/522/feedsky/diggliferss/~/gtsp/zt1/0fe62/lnk.html "http://www.feedsky.com/challenge/art/522/feedsky/diggliferss/~/gtsp/zt1/0fe62/lnk.html"

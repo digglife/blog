@@ -69,7 +69,7 @@ Adobe AIR是致力于将网络应用本地化的软件,发展势头非常迅猛,
 
 桌面版Google Reader,可以在本地浏览你的Google Reader,外观为Mac风格,非常漂亮.具体介绍可以查看<a title="ReadAir: 基于Adobe AIR的Mac风格Google Reader客户端" href="http://www.gtalkme.com/share-web/read-air-lunched.html" target="_blank">Fiorano的文章</a>.
 
-<a title="ReadAir" href="http://photo1.bababian.com/upload11/20080516/020EBB85E5656BF1F69AABDFE540B8CF.jpg" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2534/image/8620b46e46cb3910c4332336225b7b8a.jpg" alt="ReadAir主界面" /></a>
+<a title="ReadAir" href="http://photo1.bababian.com/upload11/20080516/020EBB85E5656BF1F69AABDFE540B8CF.jpg" target="_blank"><img src="https://www.digglife.net/qiniu/2534/image/8620b46e46cb3910c4332336225b7b8a.jpg" alt="ReadAir主界面" /></a>
 
 <a title="下载ReadAir" href="http://readair.googlecode.com/files/ReadAir.0.11.air" target="_blank">下载ReadAir</a>
 
@@ -77,7 +77,7 @@ Adobe AIR是致力于将网络应用本地化的软件,发展势头非常迅猛,
 
 桌面Twitter客户端.可以登入多个Twiiter和FriendFeed帐户,拥有Twitter的大部分功能.登入Friendfeed的时候需要一个Romote Key,可以直接点击下面的提示获取.
 
-<a title="Twhirl" href="http://photo1.bababian.com/upload11/20080516/5F2E486279276F27EDB407C0E56D4617.jpg" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2534/image/6dc771a6a3150378a95a5be777f00d57.jpg" alt="TWhirl的FriendFeed演示" /></a>
+<a title="Twhirl" href="http://photo1.bababian.com/upload11/20080516/5F2E486279276F27EDB407C0E56D4617.jpg" target="_blank"><img src="https://www.digglife.net/qiniu/2534/image/6dc771a6a3150378a95a5be777f00d57.jpg" alt="TWhirl的FriendFeed演示" /></a>
 
 <a title="下载Twhirl" href="http://twhirl.org/files/twhirl-0.8.1.air" target="_blank">下载Twhirl</a>
 
@@ -91,13 +91,13 @@ Adobe AIR是致力于将网络应用本地化的软件,发展势头非常迅猛,
 
 博客离线编辑工具,界面和功能都非常不错.要求使用老版本的AIR(Beta 2)
 
-<a title="Airpress" href="http://photo1.bababian.com/upload11/20080516/E280A5804D618A4AAB41FAB9BF596545.jpg" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2534/image/bdc47206b45cb94eaf8a41a3acd6cc0e.jpg" alt="AIRPress编辑界面" /></a>
+<a title="Airpress" href="http://photo1.bababian.com/upload11/20080516/E280A5804D618A4AAB41FAB9BF596545.jpg" target="_blank"><img src="https://www.digglife.net/qiniu/2534/image/bdc47206b45cb94eaf8a41a3acd6cc0e.jpg" alt="AIRPress编辑界面" /></a>
 
 **6.**<a title="ColorBrowser" href="http://code.google.com/p/colorbrowser/" target="_blank"><strong>ColorBrowser</strong></a>
 
 色彩管理工具.方便进行主题编辑和模板制作.
 
-<a title="色彩管理器ColorBrowser" href="http://photo1.bababian.com/upload11/20080516/E4634ECB651522774C814A1FD0CEAA74.jpg" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2534/image/358b94d51ab23f1c18c739ecb907d5e6.jpg" alt="色彩管理器ColorBrowser" /></a>
+<a title="色彩管理器ColorBrowser" href="http://photo1.bababian.com/upload11/20080516/E4634ECB651522774C814A1FD0CEAA74.jpg" target="_blank"><img src="https://www.digglife.net/qiniu/2534/image/358b94d51ab23f1c18c739ecb907d5e6.jpg" alt="色彩管理器ColorBrowser" /></a>
 
 <a title="下载ColorBrowse" href="http://colorbrowser.googlecode.com/files/ColorBrowser.air" target="_blank">下载ColorBrowse</a>
 
@@ -109,5 +109,5 @@ Adobe AIR是致力于将网络应用本地化的软件,发展势头非常迅猛,
 
 除了以上<a title="Killer Tech Tips" href="http://www.killertechtips.com/2008/05/15/useful-adobe-air-software-applications-for-bloggers/" target="_blank">Killer Tech Tips</a>介绍的这些,不知道大家还有什么能够方便写博的AIR程序,不妨在留言中告诉我,本日志随时更新.:)
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/site-overlay-thumb.png
- [2]: http://digglife.qiniudn.com/qiniu/2534/image/a94b93ed72d41aaaceedd1c80bf295bd.jpg
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/site-overlay-thumb.png
+ [2]: https://www.digglife.net/qiniu/2534/image/a94b93ed72d41aaaceedd1c80bf295bd.jpg

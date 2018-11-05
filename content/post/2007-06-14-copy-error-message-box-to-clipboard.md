@@ -26,7 +26,7 @@ tags:
 
 <font color="#ff0080">示意图:</font>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/messagebox.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/messagebox-thumb.png" alt="messagebox" height="371" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/messagebox.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/messagebox-thumb.png" alt="messagebox" height="371" /></a>
 
 <!--more-->
 

@@ -27,7 +27,7 @@ tags:
   - 网站推荐
 
 ---
-又是一个刚刚启动的博客广告赚钱公司.<a target="_blank" href="http://www.advertlets.com">Advertlets</a>来自马<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertlets3.png"><img border="0" align="right" width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertlets-thumb1.png" height="103" style="border-width: 0px" /></a>来西亚,同样是给博客提供广告,自己赚取中间利润.
+又是一个刚刚启动的博客广告赚钱公司.<a target="_blank" href="http://www.advertlets.com">Advertlets</a>来自马<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertlets3.png"><img border="0" align="right" width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertlets-thumb1.png" height="103" style="border-width: 0px" /></a>来西亚,同样是给博客提供广告,自己赚取中间利润.
 
 (怎么感觉马来西亚的IT很牛一样啊,我的Google Reader里面就有两个是马来的,而且刚开始还不知道) .
 
@@ -35,7 +35,7 @@ tags:
 
 首先到<a target="_blank" href="http://www.advertlets.com">Advertlets主页</a>注册.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertletspage3.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertletspage-thumb1.png" height="414" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertletspage3.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertletspage-thumb1.png" height="414" /></a>
 
 注册的时候暂时不用提供付款信息.注册完毕后,进入个人界面,获得一段代码加入博客就行了.这一段代码是一个同时兼有博客统计作用的Flash.效果见我的侧边栏Advertlets统计.这个是Advertlets为了给博客广告准确定位做的调查(所以希望大家帮忙选一下,只有3步而已).
 
@@ -61,7 +61,7 @@ tags:
 
 <font color="#ff0080">这个就是50RM的付费评论,在你的用户界面会有.</font>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertletsoption3.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertletsoption-thumb1.png" height="48" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertletsoption3.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/05/windowslivewriteradvertlets-e216advertletsoption-thumb1.png" height="48" /></a>
 
 Advertlets提供的广告格式也很多样化,除了传统的边栏广告(图片,文字等),还有赞助商的调查(这个还真没有在博客广告中见过),当然还有大家都很熟悉的付费评论广告.
 

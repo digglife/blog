@@ -37,17 +37,17 @@ tags:
   - 游戏
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/googleearth.gif" atomicselection="true"><img height="55" alt="googleearth" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/googleearth-thumb.gif" width="150" align="right" /></a> 最新的Google Earth里面有一个非常有趣的复活节彩蛋:一个飞行模拟器.尽管它并不怎么像微软的著名游戏模拟飞行,不过是个不错的开始. 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/googleearth.gif" atomicselection="true"><img height="55" alt="googleearth" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/googleearth-thumb.gif" width="150" align="right" /></a> 最新的Google Earth里面有一个非常有趣的复活节彩蛋:一个飞行模拟器.尽管它并不怎么像微软的著名游戏模拟飞行,不过是个不错的开始. 
 
 首先要确定你使用的是<a href="http://earth.google.com/" target="_blank">Google Earth 4.2</a>.打开程序后,点击地球然后按下组合键Ctrl+Alt+A,这时会弹出一个对话框,里面有两架飞机和很多跑道可供选择.如果你的电脑还装备有摇杆,你甚至可以像玩游戏那样使用摇杆控制. 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/flight-emulator.png" atomicselection="true"><img height="497" alt="flight-emulator" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/flight-emulator-thumb.png" width="450" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/flight-emulator.png" atomicselection="true"><img height="497" alt="flight-emulator" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/flight-emulator-thumb.png" width="450" /></a> 
 
 <!--more-->
 
 **纽约机场起飞:** 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/newyork-cr.png" atomicselection="true"><img height="300" alt="Newyork_cr" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/newyork-cr-thumb.png" width="450" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/newyork-cr.png" atomicselection="true"><img height="300" alt="Newyork_cr" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/newyork-cr-thumb.png" width="450" /></a> 
 
 &nbsp;
 

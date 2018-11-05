@@ -47,27 +47,27 @@ tags:
 
 触摸屏版本的界面几乎和手机版的Safari一样,多了两个缩放按钮.标签按钮比较像IE 7的标签预览功能,点击之后会一屏显示4个页面预览以供切换.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/mobileff-touchui-main-thumb.png" style="border-width: 0px" alt="MobileFF-TouchUI-Main" border="0" height="338" width="320" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/mobileff-touchui-main-thumb.png" style="border-width: 0px" alt="MobileFF-TouchUI-Main" border="0" height="338" width="320" />][1]
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/safari-iphone-thumb.jpg" style="border-width: 0px" alt="safari-iphone" border="0" height="480" width="320" />][2]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/safari-iphone-thumb.jpg" style="border-width: 0px" alt="safari-iphone" border="0" height="480" width="320" />][2]
 
 点击标签按钮之后的效果:
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/mobileff-touchui-tabs-thumb.png" style="border-width: 0px" alt="mobileff-touchui-tabs" border="0" height="380" width="420" />][3]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/mobileff-touchui-tabs-thumb.png" style="border-width: 0px" alt="mobileff-touchui-tabs" border="0" height="380" width="420" />][3]
 
 地址栏和Firefox 3一样强悍:
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/mobileff-touchui-url-entry-thumb.png" style="border-width: 0px" alt="mobileff-touchui-url-entry" border="0" height="380" width="389" />][4]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/mobileff-touchui-url-entry-thumb.png" style="border-width: 0px" alt="mobileff-touchui-url-entry" border="0" height="380" width="389" />][4]
 
 收藏夹功能.点击显示收藏列表,当前页面灰色显示,双击收藏当前页.这个收藏页面长度估计是固定的,收藏太多之后应该会有翻页按钮,不然第二个效果不是白做了.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/mobileff-touchui-bookmarks-thumb.png" style="border-width: 0px" alt="MobileFF-TouchUI-Bookmarks" border="0" height="380" width="400" />][5]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/mobileff-touchui-bookmarks-thumb.png" style="border-width: 0px" alt="MobileFF-TouchUI-Bookmarks" border="0" height="380" width="400" />][5]
 
 面向普通手机的Firefox相比Opera Mini来说还很嫩.虚拟鼠标直接照搬Opera Mini,不知道缩放能不能做到Opera Mini那么智能和灵活.集成了备受好评的Place模块,这个倒是很有Firefox特色.在处理标签方面,直接采取菜单导航的方式,感觉上比较繁琐.
 
 **虚拟鼠标:**
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/virtualcursor-thumb.png" style="border-width: 0px" alt="VirtualCursor" border="0" height="298" width="240" />][6]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/virtualcursor-thumb.png" style="border-width: 0px" alt="VirtualCursor" border="0" height="298" width="240" />][6]
 
 在虚拟标签的讨论栏里有个兄弟提的意见非常搞笑,真亏他想得出来:
 
@@ -75,11 +75,11 @@ tags:
 
 **Place模块中的收藏**
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/bookmarks-thumb.png" style="border-width: 0px" alt="Bookmarks" border="0" height="299" width="240" />][7]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/bookmarks-thumb.png" style="border-width: 0px" alt="Bookmarks" border="0" height="299" width="240" />][7]
 
 **标签菜单**(话说这个色彩和字体怎么这么Mac啊?):
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/tabs-menu-thumb.png" style="border-width: 0px" alt="Tabs_Menu" border="0" height="298" width="239" />][8]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/tabs-menu-thumb.png" style="border-width: 0px" alt="Tabs_Menu" border="0" height="298" width="239" />][8]
 
 对于触摸屏版本我倒是不怎么期待,普通手机版更能显示出设计者的创意和天才,尽管触摸风暴在iPhone出现之后势头很猛,但是应该还不至于在很短的时间内占据很大一篇移动江山.
 

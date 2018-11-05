@@ -183,7 +183,7 @@ tags:
   
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/03/multithread2.jpg" alt="Perl多线程" width="600" height="350" class="alignnone size-full wp-image-3866" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/03/multithread2.jpg" alt="Perl多线程" width="600" height="350" class="alignnone size-full wp-image-3866" />
   
 Parallel::ForkManager 代码也只有寥寥的200多行，内容并不艰深。
 

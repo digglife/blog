@@ -21,13 +21,13 @@ tags:
 ---
 </p> 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterwiredness-14f87wiredness16.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="86" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterwiredness-14f87wiredness-thumb26.png" width="240" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterwiredness-14f87wiredness16.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="86" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterwiredness-14f87wiredness-thumb26.png" width="240" border="0" /></a> 
 
 [Wiredness][1]让你在能够在浏览器里方便地执行图片编辑.这个网站允许你从硬盘上传小于5MB的图片文件,同时还支持从[Flickr][2]或者其他地址导入图片.编辑选项包括大部分用户常用的功能:裁剪,改变大小,亮度对比度以及很多Photoshop风格的滤镜. 
 
 &nbsp; 
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterwiredness-14f87wiredness23.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="300" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/windowslivewriterwiredness-14f87wiredness2-thumb2.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterwiredness-14f87wiredness23.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="300" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/windowslivewriterwiredness-14f87wiredness2-thumb2.png" width="450" border="0" /></a> 
 
 &nbsp; 
 

@@ -54,7 +54,7 @@ tags:
 ---
 Gmail最近动作比较大,总总迹象表明传说中的Gmail 2.0离我们越来越近,前天登陆Gmail得时候就发现顶部右侧链接中多了个Newer Version,不过我的一些同学即便是将Gmail的默认语言设置为English(US)还是无法体验到新版,所以和之前推出的IMAP一样,Google应该还是在一些老用户中间进行小心翼翼的测试.不过你还是可以点击<a href="https://mail.google.com/mail/?ui=2" target="_blank">这个链接</a>试试.还有一点就是,如果你使用的是V 7.0以下版本的IE浏览器,则无论如何无法使用新版Gmail.
 
-[<img id="id" height="61" alt="Newer-version" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/newer-version-thumb.png" width="420" border="0" />][1] 
+[<img id="id" height="61" alt="Newer-version" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/newer-version-thumb.png" width="420" border="0" />][1] 
 
 总体来说界面风格上变化不大,主要在一些细节上有许多改进.
 
@@ -68,7 +68,7 @@ Gmail最近动作比较大,总总迹象表明传说中的Gmail 2.0离我们越�
 
 新版本的Gmail使用了Ajax重新打造了联系人页面,整体风格变得更加简洁高效,管理起来也更加方便.值得一提的是,现在Gmail每一个页面都有一个独立的URL,比如联系人页面就是[https://mail.google.com/mail/#contacts][2],收件箱是[Gmail最近动作比较大,总总迹象表明传说中的Gmail 2.0离我们越来越近,前天登陆Gmail得时候就发现顶部右侧链接中多了个Newer Version,不过我的一些同学即便是将Gmail的默认语言设置为English(US)还是无法体验到新版,所以和之前推出的IMAP一样,Google应该还是在一些老用户中间进行小心翼翼的测试.不过你还是可以点击<a href="https://mail.google.com/mail/?ui=2" target="_blank">这个链接</a>试试.还有一点就是,如果你使用的是V 7.0以下版本的IE浏览器,则无论如何无法使用新版Gmail.
 
-[<img id="id" height="61" alt="Newer-version" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/newer-version-thumb.png" width="420" border="0" />][1] 
+[<img id="id" height="61" alt="Newer-version" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/newer-version-thumb.png" width="420" border="0" />][1] 
 
 总体来说界面风格上变化不大,主要在一些细节上有许多改进.
 
@@ -82,21 +82,21 @@ Gmail最近动作比较大,总总迹象表明传说中的Gmail 2.0离我们越�
 
 新版本的Gmail使用了Ajax重新打造了联系人页面,整体风格变得更加简洁高效,管理起来也更加方便.值得一提的是,现在Gmail每一个页面都有一个独立的URL,比如联系人页面就是[https://mail.google.com/mail/#contacts][2],收件箱是][3] .这样做的好处在于,你可以通过添加页面到书签以便快速进入特定页面,而不用像以往那样首先进入Gmail首页(收件箱),然后定位到某个页面.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/contacts.png" target="_blank"><img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="262" alt="contacts" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/contacts-thumb.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/contacts.png" target="_blank"><img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="262" alt="contacts" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/contacts-thumb.png" width="450" border="0" /></a> 
 
 添加联系人图片时可以从Google Picasa Albums中选择
 
-[<img id="id" height="262" alt="contacts-pictures" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/contacts-pictures-thumb.png" width="450" border="0" />][4] 
+[<img id="id" height="262" alt="contacts-pictures" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/contacts-pictures-thumb.png" width="450" border="0" />][4] 
 
 在联系人详细信息菜单中可以看到一个**Instant Messaging**选项,下拉菜单中包含了Gtalk,AIM,MSN,Yahoo!,ICQ,Jabber六个平台. 估计以后我们能够直接在Gmail页面里实现和这些平台的互通.
 
-[<img id="id" height="153" alt="instant-messaging" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/instant-messaging-thumb.png" width="421" border="0" />][5] 
+[<img id="id" height="153" alt="instant-messaging" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/instant-messaging-thumb.png" width="421" border="0" />][5] 
 
 **3.更多动作选项.**
 
 新增一个**Filter Message Like This**选项,方便进行邮件过滤.
 
-[<img id="id" height="271" alt="more-actions" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/more-actions-thumb.png" width="200" border="0" />][6] [<img id="id" height="178" alt="more-actions2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/more-actions2-thumb.png" width="181" border="0" />][7] 
+[<img id="id" height="271" alt="more-actions" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/more-actions-thumb.png" width="200" border="0" />][6] [<img id="id" height="178" alt="more-actions2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/more-actions2-thumb.png" width="181" border="0" />][7] 
 
 &#xA0;
 
@@ -104,29 +104,29 @@ Gmail最近动作比较大,总总迹象表明传说中的Gmail 2.0离我们越�
 
 在新增的选项菜单中你可以自定义聊天栏的大小和联系人显示模式.
 
-[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="181" alt="chat-options" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/chat-options-thumb.png" width="152" border="0" />][8] 
+[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="181" alt="chat-options" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/chat-options-thumb.png" width="152" border="0" />][8] 
 
 鼠标悬停在联系人上的弹出窗口也变得更加智能.
 
-[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="133" alt="chat-pop" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/chat-pop-thumb.png" width="309" border="0" />][9]&#xA0;&#xA0; 
+[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="133" alt="chat-pop" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/chat-pop-thumb.png" width="309" border="0" />][9]&#xA0;&#xA0; 
 
 旧版:
 
-[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="173" alt="chat-pop2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/chat-pop2-thumb.png" width="256" border="0" />][10] 
+[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="173" alt="chat-pop2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/chat-pop2-thumb.png" width="256" border="0" />][10] 
 
 **5.邮件撰写细节更新**
 
 添加链接的弹出窗口更加美观和便利
 
-[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="186" alt="edit-link" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/edit-link-thumb.png" width="450" border="0" />][11]&#xA0;
+[<img id="id" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="186" alt="edit-link" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/edit-link-thumb.png" width="450" border="0" />][11]&#xA0;
 
-[<img id="id" height="155" alt="edit-link2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/edit-link2-thumb.png" width="355" border="0" />][12] 
+[<img id="id" height="155" alt="edit-link2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/edit-link2-thumb.png" width="355" border="0" />][12] 
 
 拼写检查外观&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; 
 
-[<img id="id" height="180" alt="spell-checker" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/spell-checker-thumb.png" width="255" border="0" />][13]&#xA0; 
+[<img id="id" height="180" alt="spell-checker" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/spell-checker-thumb.png" width="255" border="0" />][13]&#xA0; 
 
-[<img id="id" height="180" alt="spell-checker2" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/spell-checker2-thumb.png" width="255" border="0" />][14] 
+[<img id="id" height="180" alt="spell-checker2" src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/spell-checker2-thumb.png" width="255" border="0" />][14] 
 
 总体来说其中某些更新,比如联系人菜单和多平台聊天都非常不错,我估计在Gmail正式推出新版之前应该还会有更多改进,让我们拭目以待.
 

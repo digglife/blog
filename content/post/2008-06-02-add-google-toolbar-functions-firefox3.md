@@ -77,8 +77,8 @@ Google Toolbar For <a title="Firefox" href="https://www.digglife.net/articles/ca
 
  [1]: http://www.google.com/tools/firefox/toolbar/ "Google Toolbar主页"
  [2]: http://dl.google.com/firefox/google-toolbar-ff3-win.xpi "Google toolbar For Windows版"
- [3]: http://digglife.qiniudn.com/qiniu/2541/image/83de422513a378b774f61c096441b590.jpg
- [4]: http://digglife.qiniudn.com/qiniu/2541/image/1b3cd3ff16dc79c792b8f492cc2a0f57.jpg
- [5]: http://digglife.qiniudn.com/qiniu/2541/image/8aca7fbe168bd6ee873c21ab393b4cd1.jpg
- [6]: http://digglife.qiniudn.com/qiniu/2541/image/2baf9ad9201d767cece88a545624db87.jpg
- [7]: http://digglife.qiniudn.com/qiniu/2541/image/112887da90bd40a49ab4474cb7d64f22.jpg
+ [3]: https://www.digglife.net/qiniu/2541/image/83de422513a378b774f61c096441b590.jpg
+ [4]: https://www.digglife.net/qiniu/2541/image/1b3cd3ff16dc79c792b8f492cc2a0f57.jpg
+ [5]: https://www.digglife.net/qiniu/2541/image/8aca7fbe168bd6ee873c21ab393b4cd1.jpg
+ [6]: https://www.digglife.net/qiniu/2541/image/2baf9ad9201d767cece88a545624db87.jpg
+ [7]: https://www.digglife.net/qiniu/2541/image/112887da90bd40a49ab4474cb7d64f22.jpg

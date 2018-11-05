@@ -37,15 +37,15 @@ tags:
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/feedsky-overview.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/feedsky-overview-thumb.png" alt="Feedsky-overview" border="0" height="236" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/feedsky-overview.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/feedsky-overview-thumb.png" alt="Feedsky-overview" border="0" height="236" width="450" /></a>
 
 详细页面的统计图标界面也都更新到全新的风格,比之前的柱状图看起来更清爽.下面是订阅统计截图,左边的蓝色数字是平均订阅,右边的图表中分别划出了本月最低和最高订阅数,以及平均订阅数.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/subscribers-thumb.png" alt="subscribers" border="0" height="137" width="450" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/subscribers-thumb.png" alt="subscribers" border="0" height="137" width="450" />][1]
 
 而订阅来源统计更是详细到了星期.记得之前只会显示当天的订阅来源.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/readers-thumb.png" alt="readers" border="0" height="161" width="450" />][2]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/readers-thumb.png" alt="readers" border="0" height="161" width="450" />][2]
 
 现在除了周末虫事件之外,我对Feedsky的服务还是比较满意的.上次的绑定域名无法访问的事件据说是受所谓的&#8221;不良网站&#8221;绑定域名的影响,导致Feedsky的指定绑定域名IP被GFW屏蔽了,搞笑啊,长城都建到江南来了,这不是搞国家分裂么?
 

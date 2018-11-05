@@ -34,7 +34,7 @@ tags:
   - 皮肤
 
 ---
-无论我们承认与否,我们多多少少都有点喜欢iPhone精致的外观和Mac风格化的操作系统<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/iphonehomepage.jpg"><img align="right" width="240" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/iphonehomepage-thumb.jpg" alt="iPhoneHomepage" height="320" /></a>.可能你无法接受它高昂的价格,可能你对苹果素有成见,可能<a target="_blank" href="https://www.digglife.net/articles/safari-30-alpha-for-windows%e4%bd%93%e9%aa%8c%e4%b8%a4%e4%b8%aa%e5%ad%97%e7%b3%9f%e7%b3%95.html">你鄙视它不开放SDK</a>,但是不可否认的是,我们当中很多人对这个6月29日即将开卖的革命性产品都怀有爱慕之意.如果你手头上有一个相对陈旧的Windows Mobile手机,你可以选择让你的美国朋友在开卖后给你远洋邮寄一个iPhone来代替它,当然,如果你没有500美元,我们还是有办法模拟一些iPhone已经大白于天下的超酷功能,比如:iPhone的主页界面,<a target="_blank" href="https://www.digglife.net/articles/%e7%bb%99%e4%bd%a0%e7%9a%84windows-mobile%e6%89%8b%e6%9c%ba%e5%8a%a0%e4%b8%8aiphone%e9%a3%8e%e6%a0%bc%e7%9a%84%e8%81%94%e7%b3%bb%e4%ba%ba%e8%8f%9c%e5%8d%95.html">滚动式联系人菜单</a>,<a target="_blank" href="https://www.digglife.net/articles/%e8%ae%a9%e4%bd%a0%e7%9a%84windows-mobile%e7%b3%bb%e7%bb%9f%e7%94%a8%e4%b8%8aiphone%e5%b1%8f%e4%bf%9d%e7%89%b9%e6%95%88.html">滑动解锁功能</a>等等.
+无论我们承认与否,我们多多少少都有点喜欢iPhone精致的外观和Mac风格化的操作系统<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/iphonehomepage.jpg"><img align="right" width="240" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/iphonehomepage-thumb.jpg" alt="iPhoneHomepage" height="320" /></a>.可能你无法接受它高昂的价格,可能你对苹果素有成见,可能<a target="_blank" href="https://www.digglife.net/articles/safari-30-alpha-for-windows%e4%bd%93%e9%aa%8c%e4%b8%a4%e4%b8%aa%e5%ad%97%e7%b3%9f%e7%b3%95.html">你鄙视它不开放SDK</a>,但是不可否认的是,我们当中很多人对这个6月29日即将开卖的革命性产品都怀有爱慕之意.如果你手头上有一个相对陈旧的Windows Mobile手机,你可以选择让你的美国朋友在开卖后给你远洋邮寄一个iPhone来代替它,当然,如果你没有500美元,我们还是有办法模拟一些iPhone已经大白于天下的超酷功能,比如:iPhone的主页界面,<a target="_blank" href="https://www.digglife.net/articles/%e7%bb%99%e4%bd%a0%e7%9a%84windows-mobile%e6%89%8b%e6%9c%ba%e5%8a%a0%e4%b8%8aiphone%e9%a3%8e%e6%a0%bc%e7%9a%84%e8%81%94%e7%b3%bb%e4%ba%ba%e8%8f%9c%e5%8d%95.html">滚动式联系人菜单</a>,<a target="_blank" href="https://www.digglife.net/articles/%e8%ae%a9%e4%bd%a0%e7%9a%84windows-mobile%e7%b3%bb%e7%bb%9f%e7%94%a8%e4%b8%8aiphone%e5%b1%8f%e4%bf%9d%e7%89%b9%e6%95%88.html">滑动解锁功能</a>等等.
 
 下面提供了两种方法来让你的Windows Mobile手机变成iPhone.每一种都能达到非常好的效果,第一种相对比较简单,第二种稍微复杂一点,需要你做更多工作,但是效果比第一种更加真实.
 
@@ -48,13 +48,13 @@ tags:
 
 示意图:
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/iphoneicons.jpg"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/iphoneicons-thumb.jpg" alt="iphoneicons" height="82" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/iphoneicons.jpg"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/iphoneicons-thumb.jpg" alt="iphoneicons" height="82" /></a>
 
 <!--more-->
 
 解压后,复制以下文件到你的Windows Mobile手机里面新建的文件夹,SD卡下也可以.(当然,你需要微软的<a target="_blank" href="https://www.digglife.net/articles/windows-mobile%e8%ae%be%e5%a4%87%e4%b8%ad%e5%bf%8361%e5%8f%91%e5%b8%83.html">ActiveSync</a>来完成):
 
-  * launcher.exe <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/slide1.png"><img align="right" width="180" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/slide-thumb1.png" alt="slide" height="240" /></a>
+  * launcher.exe <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/slide1.png"><img align="right" width="180" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/slide-thumb1.png" alt="slide" height="240" /></a>
   * config.ini
   * GFX folder
   * Slide.exe
@@ -83,7 +83,7 @@ OK,现在你可以尝试一下了.如果你更改一个成功后,相信你能完
 
 **2.**将Maps按钮指向 <a target="_blank" href="http://www.google.com/gmm/index.html">Google Maps Mobile</a> 或者 <a target="_blank" href="http://mobile.search.live.com/about/download/default.aspx">Windows Live Search</a>.  (根据Gizmodo的文章, [Windows Live Search更好][1]—至少对Windows Mobile设备来说.)
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/hubei-university-gmaps.jpg"><img border="0" width="180" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/hubei-university-gmaps-thumb.jpg" alt="Hubei_University_Gmaps" height="240" style="border-width: 0px" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ipodskin.jpg"><img border="0" width="180" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/ipodskin-thumb.jpg" alt="ipodskin" height="240" style="border-width: 0px" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/hubei-university-gmaps.jpg"><img border="0" width="180" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/hubei-university-gmaps-thumb.jpg" alt="Hubei_University_Gmaps" height="240" style="border-width: 0px" /></a> <a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/ipodskin.jpg"><img border="0" width="180" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/ipodskin-thumb.jpg" alt="ipodskin" height="240" style="border-width: 0px" /></a>
 
 **3.**将Clock按钮指向Slide2Unlock(如上所述)
 

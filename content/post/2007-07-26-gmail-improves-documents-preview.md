@@ -27,13 +27,13 @@ tags:
   - 预览
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/gmail.gif" atomicselection="true"><img alt="Gmail" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/gmail-thumb.gif" align="right" /></a> 如果你使用Gmail的&#8221;<a href="https://www.digglife.net/articles/gmail_powerpoint_slideshow.html" target="_blank">以HTML格式下查看</a>&#8220;功能预览过附件,你可能注意到了输出的文档没有包含附件中的图片,文档排版也有时和原版有些不同,而且过长的文档会被截断,这些缺陷无疑让这个本来很方便的功能大打折扣.
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/gmail.gif" atomicselection="true"><img alt="Gmail" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/gmail-thumb.gif" align="right" /></a> 如果你使用Gmail的&#8221;<a href="https://www.digglife.net/articles/gmail_powerpoint_slideshow.html" target="_blank">以HTML格式下查看</a>&#8220;功能预览过附件,你可能注意到了输出的文档没有包含附件中的图片,文档排版也有时和原版有些不同,而且过长的文档会被截断,这些缺陷无疑让这个本来很方便的功能大打折扣.
 
 不过现在有个好消息.Gmail改进了对微软Office格式文档的HTML预览功能.文档不会再被截断,而图片也能全部显示.笔者测试了一个包含7张图片的3MB的文档,输出效果几乎没有什么瑕疵.  
 不知道为什么Gmail花了这么长时间才改进这个功能,为什么对其他格式文档的支持依然比较糟糕呢?
 
 <!--more-->
 
- <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/gmail-html-view.png" atomicselection="true"><img height="386" alt="Gmail_html_view" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/gmail-html-view-thumb.png" width="450" /></a> 
+ <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/gmail-html-view.png" atomicselection="true"><img height="386" alt="Gmail_html_view" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/gmail-html-view-thumb.png" width="450" /></a> 
 
 来自<a href="http://googlesystem.blogspot.com/2007/07/gmail-improves-document-preview.html" target="_blank">Google Operating System</a>

@@ -35,7 +35,7 @@ tags:
 2、<a title="维基百科离线文件下载" href="http://wikitaxi.org/delphi/doku.php/products/wikitaxi/index#download_the_wiki_backup" target="_blank">下载维基百科离线文件</a>，导入到WikiTaxi的数据库中，视乎文件的大小导入时间长短不一，当然，这样的操作是一次性的。如果你想试用一下先，推荐先下载[简化版英文维基百科][1]。这里需要注意的是，一般我们要进入有最新版本的Latest目录下，并下载文件名含有`pages-articles.xml.bz2`的压缩包。
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <img title="WikiTaxi导入维基离线文件" src="http://digglife.qiniudn.com/wp-content/uploads/archive/winkitaxi-import.jpg" alt="导入33MB的维基文件大概需要30秒左右的时间" width="400" height="275" />
+  <img title="WikiTaxi导入维基离线文件" src="https://www.digglife.net/wp-content/uploads/archive/winkitaxi-import.jpg" alt="导入33MB的维基文件大概需要30秒左右的时间" width="400" height="275" />
   
   <p class="wp-caption-text">
     导入33MB的维基文件大概需要30秒左右的时间
@@ -45,7 +45,7 @@ tags:
 3、打开刚才创建的.taxi数据库就可以开始离线查询维基百科了。
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <img title="WikiTaxi查询离线维基百科" src="http://digglife.qiniudn.com/wp-content/uploads/2008/08/wikitaxi-search-browse.gif" alt="离线文件查询得自然很快,而且排版也和网络版维基百科相差无几" width="400" height="338" />
+  <img title="WikiTaxi查询离线维基百科" src="https://www.digglife.net/wp-content/uploads/2008/08/wikitaxi-search-browse.gif" alt="离线文件查询得自然很快,而且排版也和网络版维基百科相差无几" width="400" height="338" />
   
   <p class="wp-caption-text">
     离线文件查询得自然很快,而且排版也和网络版维基百科相差无几
@@ -53,7 +53,7 @@ tags:
 </div>
 
 <div style="width: 410px" class="wp-caption aligncenter">
-  <img title="WikiTaxi查询中文版离线维基百科" src="http://digglife.qiniudn.com/wp-content/uploads/2008/08/wikitaxi-chinese.gif" alt="WikiTaxi查询中文版离线维基百科" width="400" height="338" />
+  <img title="WikiTaxi查询中文版离线维基百科" src="https://www.digglife.net/wp-content/uploads/2008/08/wikitaxi-chinese.gif" alt="WikiTaxi查询中文版离线维基百科" width="400" height="338" />
   
   <p class="wp-caption-text">
     查询中文维基也完全没有问题

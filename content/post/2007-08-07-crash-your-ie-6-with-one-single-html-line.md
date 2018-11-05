@@ -38,7 +38,7 @@ tags:
 
 如果你不信,可以点击<a href="http://immike.net/scripts/ie_crash.html" target="_blank">这个链接</a>尝试一下.这一段代码在Firefox,Opera和Safari中都能正常解析,但是在IE 6下会引起Mshtml.dll致命错误.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/crash.png" atomicselection="true"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/crash-thumb.png" alt="Crash" height="135" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/crash.png" atomicselection="true"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/crash-thumb.png" alt="Crash" height="135" width="450" /></a>
 
 以上来自<a href="http://immike.net/blog/2007/08/06/single-line-of-html-crashes-ie-6/" target="_blank">immike</a>
 

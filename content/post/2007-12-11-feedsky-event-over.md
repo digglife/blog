@@ -73,7 +73,7 @@ tags:
 </p>
 
 <p dragover="true">
-  <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/huodong_01.gif" title="最有意思的网站"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/12/huodong_01.gif" alt="最有意思的网站" align="right" /></a>感觉上自己在上海回来之后写博严重&#8221;体力&#8221;不支,没有整块的时间上网,而且在拉票和吸引流量方面没有想任何办法,所以名次在28附近徘徊了半个月.
+  <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/12/huodong_01.gif" title="最有意思的网站"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/12/huodong_01.gif" alt="最有意思的网站" align="right" /></a>感觉上自己在上海回来之后写博严重&#8221;体力&#8221;不支,没有整块的时间上网,而且在拉票和吸引流量方面没有想任何办法,所以名次在28附近徘徊了半个月.
 </p>
 
 和菜头说,他<a href="http://www.hecaitou.com/?p=2570" target="_blank">只是陪玩</a>,人品可真是好啊.其实就算他拿了奖估计也没有人会说什么的,这场比赛如果非要说不公平,即便是和菜头退出还是改变不了,因为毕竟里面还是有Leika和Since1984这样已经成名已久的牛博.如果要做到绝对公平,只能让刚刚开博的人参赛,但是这在操作上很难实现,而且影响力不够,Feedsky的赞助商估计要闪人.所以,没有什么可抱怨的.

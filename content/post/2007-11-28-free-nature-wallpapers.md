@@ -33,7 +33,7 @@ tags:
 ---
 下面这些看了让人心旷神怡的自然风景类壁纸来自微软的技术布道者<a title="Mike Swason的博客" href="http://blogs.msdn.com/mswanson/articles/wallpaper.aspx" target="_blank">Mike Swason的博客</a>.这些图片大部分取景自然,色彩和亮度都非常协调,同时具备两种分辨率:1600\*1200(4:3标准屏幕)和1920\*1200(宽屏),非常清晰.真正好的壁纸除了美观之外,更加重要的能够让眼睛舒适,突出桌面图标,同时还要和系统主题样式搭配.以下这些自然风景类壁纸完全符合这些标准.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/nature-wallpapers.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/nature-wallpapers-thumb.png" border="0" alt="nature-wallpapers" width="450" height="241" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/nature-wallpapers.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/nature-wallpapers-thumb.png" border="0" alt="nature-wallpapers" width="450" height="241" /></a>
 
 <!--more-->
 

@@ -38,7 +38,7 @@ tags:
   - 总结
 
 ---
- <img id="id" src="http://digglife.qiniudn.com/qiniu/1978/image/9e80445d91d2bec10f185bb292fbc478.png" align="right" />一晃已经在学校呆了一个月了.9月份明显不如以前勤快,一共发表了31篇日志.访问量的变数比较多,总体来说平均值相比之前来了一个较大的提升.一个月以来大部分时间访问数都在500左右,下半月几乎都在600以上,曾经两天超过了1400,分别来自于<a title="QQ书签实在太猛了" href="https://www.digglife.net/articles/qq-bookmark-is-awesome.html" target="_blank">QQ书签</a>和百度搜索.<a title="订阅DiggLife" href="http://feed.digglife.cn" target="_blank">Feedsky</a>的订阅数也超过了500,比之<a title="DiggLife 8月总结报告" href="https://www.digglife.net/articles/summary-of-august.html" target="_blank">8月</a>的300多一点算是有很大的增长了.
+ <img id="id" src="https://www.digglife.net/qiniu/1978/image/9e80445d91d2bec10f185bb292fbc478.png" align="right" />一晃已经在学校呆了一个月了.9月份明显不如以前勤快,一共发表了31篇日志.访问量的变数比较多,总体来说平均值相比之前来了一个较大的提升.一个月以来大部分时间访问数都在500左右,下半月几乎都在600以上,曾经两天超过了1400,分别来自于<a title="QQ书签实在太猛了" href="https://www.digglife.net/articles/qq-bookmark-is-awesome.html" target="_blank">QQ书签</a>和百度搜索.<a title="订阅DiggLife" href="http://feed.digglife.cn" target="_blank">Feedsky</a>的订阅数也超过了500,比之<a title="DiggLife 8月总结报告" href="https://www.digglife.net/articles/summary-of-august.html" target="_blank">8月</a>的300多一点算是有很大的增长了.
 
 下面来看看这个月的TOP 5:
 
@@ -79,7 +79,7 @@ tags:
   * 唯一身份浏览量:28235 
   * 新访问:81.61% 
 
-[<img id="id" height="199" alt="overview" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/overview-thumb.png" width="450" />][1] 
+[<img id="id" height="199" alt="overview" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/overview-thumb.png" width="450" />][1] 
 
 &#xA0;
 
@@ -95,15 +95,15 @@ tags:
   * 推介网站:39.75%(7539) 
   * 直接点击量:15.56%(2951) 
 
-[<img id="id" height="109" alt="source1" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/source1-thumb.png" width="450" />][2] 
+[<img id="id" height="109" alt="source1" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/source1-thumb.png" width="450" />][2] 
 
 **来源详细排名:**
 
-[<img id="id" height="170" alt="source" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/source-thumb.png" width="390" />][3] 
+[<img id="id" height="170" alt="source" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/source-thumb.png" width="390" />][3] 
 
 **推介网站排名:**
 
-[<img id="id" height="330" alt="referral" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/referral-thumb.png" width="380" />][4] 
+[<img id="id" height="330" alt="referral" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/referral-thumb.png" width="380" />][4] 
 
 **关键字统计:**
 
@@ -117,7 +117,7 @@ tags:
 
 9月的订阅量没有像8月那样出现突然增长60几的情况,只是每天多一点,终于在几天前突破了500(可不是Feedsky中秋送惊喜的那次).Goo至于Feedsky的服务,至少现在开始没有出现Feedsky和我们一起双休的情况了,不过抓取的速度有时还是会有问题.至于Feedburner上面的60几位读者,反正大部分使用的是Google Reader,不会影响阅读,所以也不用麻烦转移了.
 
-[<img id="id" height="223" alt="feed" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/feed-thumb.png" width="450" />][5]&#xA0;
+[<img id="id" height="223" alt="feed" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/feed-thumb.png" width="450" />][5]&#xA0;
 
 这个月流量上偶然的原因太多,对于QQ书签用户的口味和百度搜索引擎我是没有办法控制的,后者尽管可以通过SEO,但是到目前为止,除了上次翻译的<a title="所有博客都应该了解的16条SEO技巧" href="https://www.digglife.net/articles/seo-tips-for-wordpress-bloggers.html" target="_blank">那篇SEO技巧</a>之外我几乎一无所知,所以对我来说还是无法把握,何况百度这个搜索引擎和Google貌似有很大的区别,到今天为止收录的页面也只有**401页.**
 

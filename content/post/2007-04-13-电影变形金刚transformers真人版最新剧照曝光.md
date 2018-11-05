@@ -30,7 +30,7 @@ tags:
 
 [擎天柱(Optimus Prime)][2]和[推土机(Bonecrusher)][3]在洛杉矶的高速公路上作战. 
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/Transformers_D01D/transformersrobots1big%5B6%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="270" src="http://digglife.qiniudn.com/qiniu/35/image/c2e8600972bd748b3c7c069dbe0797b8.jpg" width="470" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/Transformers_D01D/transformersrobots1big%5B6%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="270" src="https://www.digglife.net/qiniu/35/image/c2e8600972bd748b3c7c069dbe0797b8.jpg" width="470" border="0" /></a> 
 
 &nbsp;
 
@@ -38,7 +38,7 @@ tags:
 
 Sam Witwicky(本片人类主角)卡在街垒/栅栏(Barricade)和一辆汽车中间.
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/Transformers_D01D/transformersrobots2%5B4%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="270" src="http://digglife.qiniudn.com/qiniu/35/image/2dcf0b50f690de86ddf124b841dee43f.jpg" width="470" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/Transformers_D01D/transformersrobots2%5B4%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="270" src="https://www.digglife.net/qiniu/35/image/2dcf0b50f690de86ddf124b841dee43f.jpg" width="470" border="0" /></a> 
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Sam Witwicky(本片人类主角)卡在街垒/栅栏(Barricade)和一辆汽车中
 
 推土机(Bonecrusher)在高速公路上猛追一辆巴士.
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/Transformers_D01D/transformersrobots3%5B4%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="270" src="http://digglife.qiniudn.com/qiniu/35/image/54f25f0ba981ee6959411b0cd4b455e8.jpg" width="470" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/Transformers_D01D/transformersrobots3%5B4%5D.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="270" src="https://www.digglife.net/qiniu/35/image/54f25f0ba981ee6959411b0cd4b455e8.jpg" width="470" border="0" /></a> 
 
 &nbsp;
 

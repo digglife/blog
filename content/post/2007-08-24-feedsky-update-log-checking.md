@@ -45,11 +45,11 @@ tags:
   - RSS托管服务
 
 ---
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/feedsky-logo.gif"><img align="right" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/feedsky-logo-thumb.gif" alt="Feedsky-Logo" /></a> 今天登录<a target="_blank" href="http://feedsky.digglife.cn">Feedsky</a>的时候发现统计栏目里增加了更新状态功能.Feedsky的抓取和统计最近老出问题,上周末还出现了<a target="_blank" href="http://www.williamlong.info/archives/1017.html">统计数清零,无法抓取Feed的严重情况</a>,包括我在内的许多用户都受到影响.这个更新状态功能可以让用户在后台查看Feedsky抓取Feed的状况,方便了查看错误,这应该也算是一个不错的改进吧.
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/feedsky-logo.gif"><img align="right" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/feedsky-logo-thumb.gif" alt="Feedsky-Logo" /></a> 今天登录<a target="_blank" href="http://feedsky.digglife.cn">Feedsky</a>的时候发现统计栏目里增加了更新状态功能.Feedsky的抓取和统计最近老出问题,上周末还出现了<a target="_blank" href="http://www.williamlong.info/archives/1017.html">统计数清零,无法抓取Feed的严重情况</a>,包括我在内的许多用户都受到影响.这个更新状态功能可以让用户在后台查看Feedsky抓取Feed的状况,方便了查看错误,这应该也算是一个不错的改进吧.
 
 <!--more-->
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/feedstatus.png"><img width="400" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/feedstatus-thumb.png" alt="Feedstatus" height="295" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/feedstatus.png"><img width="400" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/feedstatus-thumb.png" alt="Feedstatus" height="295" /></a>
 
 从上面的Log看,Feedsky的抓取在时间上似乎没有什么特定的规律,而且我也不知道怎么会有那么多解析错误,甚至还有Service Unavailable.最近<a target="_blank" href="http://www.oneoo.com">OneOo</a>通知我们<a target="_blank" href="http://yo2.cn">Yo2</a>已经服务器已经升级,速度和稳定性都有很大改善,怎么还会有这样的问题呢?或者,这是正常状况?
 

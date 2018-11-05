@@ -28,18 +28,18 @@ tags:
   - 软件
 
 ---
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/utorrent.png" target="_blank"><img height="48" alt="utorrent" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/utorrent-thumb.png" width="153" align="right" /> µTorrent mUI</a> (mobileUI)是一个拥有大部分<a href="http://utorrent.com/" target="_blank">µTorrent</a>重要功能的µTorrent WebUI移动版本.它让你可以在<a href="https://www.digglife.net/articles/tag/mobile-phone" target="_blank">手机</a>上通过任何移动浏览器开始,暂停,停止以及监视电脑上µTorrent的BT下载.包括流行的Opera Mini浏览器.
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/utorrent.png" target="_blank"><img height="48" alt="utorrent" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/utorrent-thumb.png" width="153" align="right" /> µTorrent mUI</a> (mobileUI)是一个拥有大部分<a href="http://utorrent.com/" target="_blank">µTorrent</a>重要功能的µTorrent WebUI移动版本.它让你可以在<a href="https://www.digglife.net/articles/tag/mobile-phone" target="_blank">手机</a>上通过任何移动浏览器开始,暂停,停止以及监视电脑上µTorrent的BT下载.包括流行的Opera Mini浏览器.
 
 现在已经推出beta2版本的<a href="http://forum.utorrent.com/viewtopic.php?id=14565" target="_blank">µTorrent WebUI</a>是一个让用户能够在通过任何一台联网的电脑远程控制本机上BT下载的小程序,你可以在µTorrent的官方主页看到.同时<a href="http://forum.utorrent.com" target="_blank">µTorrent论坛</a>上已经有许多粉丝自行开发的WebUI的各种扩展,包括<a href="https://www.digglife.net/articles/category/about-google/" target="_blank">Google</a>桌面小工具,<a href="https://www.digglife.net/articles/category/firefox/" target="_blank">Firefox</a>扩展等等,让这个WebUI的使用更加方便.
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/utorrentweb.png" atomicselection="true"><img height="307" alt="utorrentWeb" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/utorrentweb-thumb.png" width="450" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/utorrentweb.png" atomicselection="true"><img height="307" alt="utorrentWeb" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/utorrentweb-thumb.png" width="450" /></a>
 
 这个移动版本也同样仅仅是µTorrent的粉丝开发的,官方网站上暂时没有提及.要使用mUI,你不必在手机上安装任何东西,只需要电脑上安装有一个激活了WebUI功能的µTorrent,以及一个能够联网的手机,然后通过手机浏览器访问<http://utorrentmui.com>就可以进行设置和远程控制了.
 
 据开发者所说,他还在为iPhone进行优化当中.µTorrent mUI的源代码在主页上可以<a href="http://www.utorrentmui.com/source.zip" target="_blank">下载</a>．
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui01.jpg" atomicselection="true"><img height="237" alt="mui01" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/mui01-thumb.jpg" width="200" /></a> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui02.jpg" atomicselection="true"><img height="237" alt="mui02" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/mui02-thumb.jpg" width="200" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui01.jpg" atomicselection="true"><img height="237" alt="mui01" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui01-thumb.jpg" width="200" /></a> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui02.jpg" atomicselection="true"><img height="237" alt="mui02" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/mui02-thumb.jpg" width="200" /></a>
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui03.jpg" atomicselection="true"><img height="237" alt="mui03" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/mui03-thumb.jpg" width="200" /></a> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui04.jpg" atomicselection="true"><img height="237" alt="mui04" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/mui04-thumb.jpg" width="200" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui03.jpg" atomicselection="true"><img height="237" alt="mui03" src="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui03-thumb.jpg" width="200" /></a> <a href="https://www.digglife.net/wp-content/uploads/3/379/2007/07/mui04.jpg" atomicselection="true"><img height="237" alt="mui04" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/07/mui04-thumb.jpg" width="200" /></a>

@@ -64,8 +64,8 @@ NREMOTE=ture</pre>
 
 PS：EBWin昨天悄悄升级了一下，但是在功能上没有什么大变化，所以不升级也无所谓。
 
- [1]: http://digglife.qiniudn.com/qiniu/2967/image/3a5edecf60ac738bffecbc0e1019c012.png
- [2]: http://digglife.qiniudn.com/wp-content/uploads/archive/ebview-add-dic.png
+ [1]: https://www.digglife.net/qiniu/2967/image/3a5edecf60ac738bffecbc0e1019c012.png
+ [2]: https://www.digglife.net/wp-content/uploads/archive/ebview-add-dic.png
  [3]: http://manpages.ubuntu.com/manpages/dapper/man1/gnome-moz-remote.1.html
  [4]: https://www.digglife.net/about
  [5]: https://www.digglife.net/twitter

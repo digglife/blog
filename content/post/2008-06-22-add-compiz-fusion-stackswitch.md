@@ -29,7 +29,7 @@ Stackswitch是Linux下的桌面特效软件 <a title="compiz fusion相关日志"
 
 <!--more-->
 
-[<img style="vertical-align: text-bottom;" src="http://digglife.qiniudn.com/qiniu/2550/image/a030be541318573430265693773600b9.jpg" alt="Compiz Fusion新特效stackswitch截图" width="500" height="312" />][1]
+[<img style="vertical-align: text-bottom;" src="https://www.digglife.net/qiniu/2550/image/a030be541318573430265693773600b9.jpg" alt="Compiz Fusion新特效stackswitch截图" width="500" height="312" />][1]
 
 **<a title="Ubuntu技巧" href="https://www.digglife.net/articles/category/about_ubuntu" target="_blank">Ubuntu</a> 8.04下的安装使用方法:**
 

@@ -38,15 +38,15 @@ tags:
 
 截图如下:(点击放大)
 
-[<img height="360" alt="fireflies01" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/fireflies01-thumb.jpg" width="450" />][1] 
+[<img height="360" alt="fireflies01" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/fireflies01-thumb.jpg" width="450" />][1] 
 
 <!--more-->
 
-[<img height="360" alt="fireflies20" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/fireflies20-thumb.jpg" width="450" />][2] 
+[<img height="360" alt="fireflies20" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/fireflies20-thumb.jpg" width="450" />][2] 
 
 你还可以通过内置的设置菜单来调节屏保细节,比如每秒帧数,颗粒大小等等.
 
-[<img height="343" alt="fireflies-settings" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/fireflies-settings-thumb.png" width="359" />][3] 
+[<img height="343" alt="fireflies-settings" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/fireflies-settings-thumb.png" width="359" />][3] 
 
 <a title="Fireflies屏幕保护" href="http://somewhere.fscked.org/fireflies/" target="_blank"><strong>Fireflies屏幕保护</strong></a>**下载:**
 

@@ -31,7 +31,7 @@ Yoono现阶段有整合了社会化网络(Facebook,Twitter,FriendFeed,Flickr等�
 
 其中比较有意思的是探索功能,Yoono会分析当前页面的tags,然后给出相关的网站,图片和视频.我仔细测试了一下,相关网页还是比较准的,至于图片和视频有时候就会离题万里了.
 
-[<img src="http://digglife.qiniudn.com/qiniu/2551/image/4056f895611cf0d8f4e02fe07698775e.jpg" alt="yoono" width="392" height="500" />][1]
+[<img src="https://www.digglife.net/qiniu/2551/image/4056f895611cf0d8f4e02fe07698775e.jpg" alt="yoono" width="392" height="500" />][1]
 
 Yoono之前一直在内测当中,现在才正式发布,所以在细节上可能会有一些不完善的地方,对主流社会化网络的支持也不够全面,但是我想随着参与者的增加,这个扩展会慢慢强大起来的.
 

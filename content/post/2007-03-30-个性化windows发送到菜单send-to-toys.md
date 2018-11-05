@@ -20,7 +20,7 @@ tags:
 ---
 </p> 
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/WindowsSendToToys_14757/kaka%5B3%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="169" src="http://digglife.qiniudn.com/qiniu/27/image/d3306cdc2b8b9e55a91e417795075146.png" width="280" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/03/WindowsLiveWriter/WindowsSendToToys_14757/kaka%5B3%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="169" src="https://www.digglife.net/qiniu/27/image/d3306cdc2b8b9e55a91e417795075146.png" width="280" border="0" /></a> 
 
 Send To toys是一个可以让你自定义发送到菜单内容的免费软件. 
 

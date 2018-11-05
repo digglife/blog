@@ -35,7 +35,7 @@ tags:
 
 <!--more-->
 
-[<img border="1" vspace="4" align="top" width="440" src="http://digglife.qiniudn.com/qiniu/981/image/712ee22a1268f49674e783f0299deb91.jpg" hspace="4" alt="WMDC 6.1" height="300" />][1]
+[<img border="1" vspace="4" align="top" width="440" src="https://www.digglife.net/qiniu/981/image/712ee22a1268f49674e783f0299deb91.jpg" hspace="4" alt="WMDC 6.1" height="300" />][1]
 
 拥有运行windows Moblie 2003及以上版本移动设备的Windows Vista用户可用.不支持Windows XP.
 

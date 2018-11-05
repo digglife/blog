@@ -39,11 +39,11 @@ tags:
 
 为了保证一个清洁的收件箱,<a target="_blank" href="http://www.howtogeek.com/">How-to-Geek</a>的编辑们基于Wordpress的API制作了一个桌面小程序,当有新评论时,这个软件会跳出一个弹出窗口提示,让你能够及时作出处理. 
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/notifer1.png"><img width="282" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/notifer1-thumb.png" alt="notifer1" height="97" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/notifer1.png"><img width="282" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/notifer1-thumb.png" alt="notifer1" height="97" /></a> 
 
 设置界面:只需要输入Blog地址,用户名以及密码.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wordpressnotify-settings.png"><img width="450" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/08/wordpressnotify-settings-thumb.png" alt="WordPressNotify_Settings" height="325" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wordpressnotify-settings.png"><img width="450" src="https://www.digglife.net/wp-content/uploads/3/379/2007/08/wordpressnotify-settings-thumb.png" alt="WordPressNotify_Settings" height="325" /></a>
 
 **下载:**
 

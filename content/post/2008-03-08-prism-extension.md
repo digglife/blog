@@ -31,11 +31,11 @@ tags:
 
 这张图片说明了一切&#8230;Prism这个名字取得实在是太好了.
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2008/03/prism.jpg" alt="Prism" title="Prism" width="400" height="233" />
+<img src="https://www.digglife.net/wp-content/uploads/2008/03/prism.jpg" alt="Prism" title="Prism" width="400" height="233" />
 
 如果你已经把<a href="https://www.digglife.net/articles/first-look-of-firefox3b3.html" title="Firefox 3 Beta 3" target="_blank">Firefox 3 Beta 3</a>作为你的主要浏览器,就可以直接下载这个扩展使用和Prism一样的功能了.安装扩展之后打开你想桌面化的web应用,点击Firefox菜单栏上的&#8221;工具&#8221;,选择Convert Website To Application,然后自定义浏览器设置,选择快捷方式的位置,如果你愿意,还可以更改图标样式.
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2008/03/prism-menu.png" alt="Prism的功能设定菜单" title="Prism的功能设定菜单" width="415" height="599" />
+<img src="https://www.digglife.net/wp-content/uploads/2008/03/prism-menu.png" alt="Prism的功能设定菜单" title="Prism的功能设定菜单" width="415" height="599" />
 
 <a href="https://addons.mozilla.org/en-US/firefox/downloads/file/24730/prism_for_firefox-0.2-fx-win.xpi" target="_blank"><strong>直接下载Prism扩展xpi文件</strong></a>
 

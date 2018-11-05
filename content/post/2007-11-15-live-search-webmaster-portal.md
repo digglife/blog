@@ -45,18 +45,18 @@ tags:
 
 和Google Webmaster一样,你可以通过在HTML代码中添加Meta标签和上传XML文件的方式添加和验证网站.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-master-add-site.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/live-master-add-site-thumb.png" border="0" alt="live-master-add-site" width="450" height="217" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-master-add-site.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-master-add-site-thumb.png" border="0" alt="live-master-add-site" width="450" height="217" /></a>
 
 在网站概述页面,Live网站管理员工具会列出索引页面数,爬虫最后抓取时间,网站评分等信息.还会显示评分最高的5个网页.与Google Pagerank的10分制不同的是,Live Search采取的是5分制.那么<a title="DiggLife" href="https://www.digglife.net/" target="_blank">DiggLife</a>的评分是满分5分?
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-webmaster-summary.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/live-webmaster-summary-thumb.png" border="0" alt="live-webmaster-summary" width="450" height="318" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-webmaster-summary.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-webmaster-summary-thumb.png" border="0" alt="live-webmaster-summary" width="450" height="318" /></a>
 
 Live网站管理员工具的关键字分析工具能够让你查询某个关键字在Live Search中的表现,和Google关键字查询工具不一样的是,它仅仅用自己的评分系统来标注网页,并不会显示关键字在搜索引擎中的排名.感觉这样的方式没有多大的用处.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-master-keywords.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/live-master-keywords-thumb.png" border="0" alt="live-master-keywords" width="450" height="256" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-master-keywords.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-master-keywords-thumb.png" border="0" alt="live-master-keywords" width="450" height="256" /></a>
 
 另外,Top Links From栏目下能展示网站的外链在Live Search中的表现排名.Top Links To栏目下则展示所有链入网站在Live Search中的表现排名.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-master-top-link-from.png" target="_blank"><img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/11/live-master-top-link-from-thumb.png" border="0" alt="live-master-top-link-from" width="450" height="262" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-master-top-link-from.png" target="_blank"><img src="https://www.digglife.net/wp-content/uploads/3/379/2007/11/live-master-top-link-from-thumb.png" border="0" alt="live-master-top-link-from" width="450" height="262" /></a>
 
 总体来说Live网站管理工具在功能上实在乏善可陈,不过毕竟Live搜索的算法和和Google还是不一样,所以如果网站有很多流量来自Live搜索,针对它的优化还是很重要的.话说回来,我们也不能完全排除Live搜索在搜索市场上份额爆发的可能性,所以大型网站也许需要利用这个工具简单地优化一下在Live搜索中的表现.至于我这样的小博客,闲着的时候想办法针对百度优化一下可能有必要,Live搜索?还是免了吧&#8230;

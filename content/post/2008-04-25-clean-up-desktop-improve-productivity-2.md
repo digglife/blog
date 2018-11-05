@@ -40,7 +40,7 @@ tags:
 
 目前最流行的命令行启动工具,其实现原理是通过给Windows下的文件夹(可自定义)建立索引,以便通过直接敲击键盘输入关键字开启文件夹,程序,文档等.通过插件还可以直接搜索网页,打开Firefox和IE收藏夹内的网页,启动自定义命令等功能.
 
-&#160;<a href="https://www.digglife.net/articles/clean-up-desktop-improve-productivity-1.html" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2519/image/fa2fac94edcdf9322d0a3bceb1881a9a.jpg" /></a> 
+&#160;<a href="https://www.digglife.net/articles/clean-up-desktop-improve-productivity-1.html" target="_blank"><img src="https://www.digglife.net/qiniu/2519/image/fa2fac94edcdf9322d0a3bceb1881a9a.jpg" /></a> 
 
 <a title="Launchy2.0汉化版下载" href="http://bborn.cn/download/download.asp?id=11" target="_blank">Launchy2.0汉化版下载</a>
 
@@ -56,7 +56,7 @@ tags:
 
 同样是一款QuickSilver For Windows的软件.
 
-&#160;<a href="https://www.digglife.net/" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2519/image/7b768da79523573622241425e06e5488.jpg" /></a> 
+&#160;<a href="https://www.digglife.net/" target="_blank"><img src="https://www.digglife.net/qiniu/2519/image/7b768da79523573622241425e06e5488.jpg" /></a> 
 
 <a title="直接下载WinSilver" href="http://www.winsilver.net/WinSilverSetup.exe" target="_blank">直接下载WinSilver</a>
 
@@ -113,17 +113,17 @@ Find and Run Robot 是一款免费的程序启动加速器,它会将「程序集
 
   * <a title="Short Run" href="http://www.vdsworld.com/search.php?keywords=short%20run&match_type=%200" target="_blank"><strong>Short Run</strong></a> 
 
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <a href="https://www.digglife.net/articles/clean-up-desktop-improve-productivity-2.html" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2519/image/f9c1b0713d922253579cd8e392a7d5d8.jpg" /></a>yi
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <a href="https://www.digglife.net/articles/clean-up-desktop-improve-productivity-2.html" target="_blank"><img src="https://www.digglife.net/qiniu/2519/image/f9c1b0713d922253579cd8e392a7d5d8.jpg" /></a>yi
 
 Short Run一款非常小巧的软件,无需安装即可使用.我们可以通过这个软件直接定义快捷键名称和路径,非常方便.使用这个工具能够一目了然地查看现有的快捷键,便于编辑,也能够有效地避免重复.
 
 这些方法如果结合起来用更加有效,不知道大家平时使用什么办法,如果你有更加好的方法,不妨在下面给我留言,我会把它加上来.
 
- [1]: http://digglife.qiniudn.com/qiniu/2519/image/a621f85ce85887db2acbb858f9997888.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2519/image/0c2d8ff12d6f5dfa07cd49cb407133b1.jpg
- [3]: http://digglife.qiniudn.com/qiniu/2519/image/544cf054c9ddc4f673798c87d45ef1e4.jpg
+ [1]: https://www.digglife.net/qiniu/2519/image/a621f85ce85887db2acbb858f9997888.jpg
+ [2]: https://www.digglife.net/qiniu/2519/image/0c2d8ff12d6f5dfa07cd49cb407133b1.jpg
+ [3]: https://www.digglife.net/qiniu/2519/image/544cf054c9ddc4f673798c87d45ef1e4.jpg
  [4]: http://soft.72pines.com/enso-launcher-and-words/ "http://soft.72pines.com/enso-launcher-and-words/"
- [5]: http://digglife.qiniudn.com/qiniu/2519/image/1dea353faa54eb569f7427f83254f296.jpg
+ [5]: https://www.digglife.net/qiniu/2519/image/1dea353faa54eb569f7427f83254f296.jpg
  [6]: http://trydash.com/home/
- [7]: http://digglife.qiniudn.com/qiniu/2519/image/2a81ea00e09876bc7940d481358c1a1b.jpg
- [8]: http://digglife.qiniudn.com/qiniu/2519/image/61a7373e477056f41903c0c4330112da.jpg
+ [7]: https://www.digglife.net/qiniu/2519/image/2a81ea00e09876bc7940d481358c1a1b.jpg
+ [8]: https://www.digglife.net/qiniu/2519/image/61a7373e477056f41903c0c4330112da.jpg

@@ -40,13 +40,13 @@ tags:
   - 软件
 
 ---
- <img src="http://digglife.qiniudn.com/qiniu/2050/image/6d246f0e075c7dd6f889412c352c17e7.png" align="right" />如果你想将<a title="Windows Live Writer Beta 3安装和试用" href="https://www.digglife.net/articles/firstlook-of-windows-live-writer-beta3.html" target="_blank">Windows Live Writer</a>的设置和日志转原样复制到另外一台电脑,或者重新安装了操作系统需要恢复Windows Live Writer的常用设置,通过手动一个个重新设置会非常麻烦,这时我们可以使用一个工具<a href="http://scottisafooldev.spaces.live.com/blog/cns!FE151030F50B5B37!556.entry" target="_blank">Live Writer Backup</a>快速对WLW进行备份和恢复.
+ <img src="https://www.digglife.net/qiniu/2050/image/6d246f0e075c7dd6f889412c352c17e7.png" align="right" />如果你想将<a title="Windows Live Writer Beta 3安装和试用" href="https://www.digglife.net/articles/firstlook-of-windows-live-writer-beta3.html" target="_blank">Windows Live Writer</a>的设置和日志转原样复制到另外一台电脑,或者重新安装了操作系统需要恢复Windows Live Writer的常用设置,通过手动一个个重新设置会非常麻烦,这时我们可以使用一个工具<a href="http://scottisafooldev.spaces.live.com/blog/cns!FE151030F50B5B37!556.entry" target="_blank">Live Writer Backup</a>快速对WLW进行备份和恢复.
 
 这个工具是独立于Windows Live Writer的小程序,提供了4个可选项目,包括博客设置,草稿,已发日志和插件,可以满足所有的备份要求.
 
 <!--more-->
 
-[<img height="263" alt="live-writer-backup" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/live-writer-backup-thumb.png" width="450" />][1]&nbsp;
+[<img height="263" alt="live-writer-backup" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/live-writer-backup-thumb.png" width="450" />][1]&nbsp;
 
 选择需要备份的项目后点击Backup按钮即可将生成一个后缀名为.wlwbackup的文件,需要恢复时只需点击Restore按钮并选择改文件即可.
 

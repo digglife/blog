@@ -35,6 +35,6 @@ tags:
 
 这让我想起很多朋友在电脑出现问题的时候首先想到的搜索引擎，或者需求他人的帮助，其实操作系统或者软件的帮助软件在很多时候都能更快的解决问题，而且，更重要的是，帮助文档能够让你相信了解到所有相关联的事项，以及造成问题的根本原因，这些比搜索引擎带来的只言片语和他人的代劳都要有效得多。谈到这个是因为帮助文档其实也是使用软件的基础之一。
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/archive/checkbox.png
+ [1]: https://www.digglife.net/wp-content/uploads/archive/checkbox.png
  [2]: https://www.digglife.net/articles/copy-error-message-box-to-clipboard.html "如何复制Windows错误信息窗口的文本"
- [3]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/messagebox-thumb.png
+ [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/06/messagebox-thumb.png

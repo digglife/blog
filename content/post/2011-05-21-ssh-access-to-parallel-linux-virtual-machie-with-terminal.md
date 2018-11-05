@@ -260,7 +260,7 @@ tags:
 <!--more-->
 
 <div style="width: 610px" class="wp-caption alignnone">
-  <img title="X模式和文本模式下的Fedora虚拟机系统资源占用对比" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/parallels-vm-memory.png" alt="X模式和文本模式下的Fedora虚拟机系统资源占用对比" width="600" height="457" />
+  <img title="X模式和文本模式下的Fedora虚拟机系统资源占用对比" src="https://www.digglife.net/wp-content/uploads/2011/05/parallels-vm-memory.png" alt="X模式和文本模式下的Fedora虚拟机系统资源占用对比" width="600" height="457" />
   
   <p class="wp-caption-text">
     X模式和文本模式下的Fedora虚拟机系统资源占用对比
@@ -269,7 +269,7 @@ tags:
 
 Parallels虚拟机的默认网络设定是[Shared Networking][3]，在这种模式下，主机和虚拟机之间能够通过虚拟网络互相通信，虚拟机也能通过主机连接互联网，所以其实在本机不需要任何设定就可以连接到虚拟机。事实上，我们通过ifconfig命令就会发现，Parallels在本地建立了两个虚拟网卡，vnic0和vnic1，前者用于Shared Networking，后者用于Host-Only模式。
   
-<img class="aligncenter size-full wp-image-3082" title="Parallels的shared-networking模式" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/shared-networking.png" alt="Parallels的shared-networking模式" width="593" height="260" />
+<img class="aligncenter size-full wp-image-3082" title="Parallels的shared-networking模式" src="https://www.digglife.net/wp-content/uploads/2011/05/shared-networking.png" alt="Parallels的shared-networking模式" width="593" height="260" />
   
 所以要实现SSH连接到Linux虚拟机，只需要在Linux下做一些设定即可。
 
@@ -360,7 +360,7 @@ iptables       	0:off	1:off	2:off	3:off	4:off	5:off	6:off</pre>
   2. 配置iptables文件，允许SSH连接
 如果觉得禁用防火墙太暴力，可以配置一下防火墙设定，让它允许ssh连接。Fedora提供了一个图形配置界面[system-config-firewall][4]，在文本模式下直接输入system-config-firewall即可进入配置界面，进入Custom选项之后，在Trust Services列表里勾选SSH，然后应用即可。
   
-<img class="alignnone size-full wp-image-3084" title="system-config-firewall配置界面" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/system-config-firewall.png" alt="配置防火墙的图形界面system-config-firewall" width="600" height="359" />
+<img class="alignnone size-full wp-image-3084" title="system-config-firewall配置界面" src="https://www.digglife.net/wp-content/uploads/2011/05/system-config-firewall.png" alt="配置防火墙的图形界面system-config-firewall" width="600" height="359" />
 
 当然，system-config-firewall也仅仅是一个用来向/etc/sysconfig/iptables写入数据的工具，我们可以直接修改iptables文件，手动加入防火墙规则，然后重启iptables服务即可。
 
@@ -397,7 +397,7 @@ iptables: Applying firewall rules:                         [  OK  ]
 
 以后启动虚拟机之后，直接输入fedora然后输入密码即可登入。
 
-<img class="alignnone size-full wp-image-3085" title="从Mac终端登入Fedora虚拟机" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/ssh-login-linux-vm.png" alt="从Mac终端登入Fedora虚拟机" width="600" height="488" />
+<img class="alignnone size-full wp-image-3085" title="从Mac终端登入Fedora虚拟机" src="https://www.digglife.net/wp-content/uploads/2011/05/ssh-login-linux-vm.png" alt="从Mac终端登入Fedora虚拟机" width="600" height="488" />
 
 ### 杂七杂八
 

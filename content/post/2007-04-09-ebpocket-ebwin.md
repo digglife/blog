@@ -110,7 +110,7 @@ EBPocket是日本人为移动平台开发的一款最实用最强大的日文词
 
 解压压缩包后在cabs文件夹下双击setup.exe执行安装.
 
-<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/setup_thumb%5B2%5D.png" border="0" alt="" width="159" height="61" />
+<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/setup_thumb%5B2%5D.png" border="0" alt="" width="159" height="61" />
 
 执行绿化(可选+推荐):
 
@@ -135,11 +135,11 @@ EBPocket是日本人为移动平台开发的一款最实用最强大的日文词
 
   * 触摸屏手写适用:[Decuma(.Cab 642KB)][9]
 
-<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/decuma_thumb%5B6%5D.jpg" border="0" alt="" width="240" height="320" /></a>
+<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/decuma_thumb%5B6%5D.jpg" border="0" alt="" width="240" height="320" /></a>
 
   * 键盘输入适用:[Atok(.Cab 3.98MB)][10]
 
-<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/atok_thumb%5B1%5D.jpg" border="0" alt="" width="240" height="320" /></a>
+<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/atok_thumb%5B1%5D.jpg" border="0" alt="" width="240" height="320" /></a>
 
 安装方法:
 
@@ -153,9 +153,9 @@ EBPocket是日本人为移动平台开发的一款最实用最强大的日文词
 
 我的PPC中安装的字典:
 
-<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/dic_thumb%5B26%5D.jpg" border="0" alt="" width="240" height="320" />
+<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/dic_thumb%5B26%5D.jpg" border="0" alt="" width="240" height="320" />
 
-<img style="border-width: 0px" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/dic2_thumb%5B4%5D.jpg" border="0" alt="" width="240" height="320" />
+<img style="border-width: 0px" src="https://www.digglife.net/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/PPCEBPocket_C6B7/dic2_thumb%5B4%5D.jpg" border="0" alt="" width="240" height="320" />
 
 ### EBWin的安装和使用:
 

@@ -55,7 +55,7 @@ tags:
 
 **6.**[**Snipshot**][9]
 
- <img src="http://digglife.qiniudn.com/qiniu/2468/image/8845a369342f8c07ea29d0da0f86f6ca.jpg" width="400" height="251" />
+ <img src="https://www.digglife.net/qiniu/2468/image/8845a369342f8c07ea29d0da0f86f6ca.jpg" width="400" height="251" />
 
 **7.**[**Dosize**][10]
 
@@ -101,29 +101,29 @@ tags:
 
 来自<a href="http://www.hongkiat.com/blog/resize-your-images-online-without-photoshop/" target="_blank">Hongkiat</a>(部分有修改)
 
- [1]: http://digglife.qiniudn.com/qiniu/2468/image/e2fd335db96bebc80133847466cc7ced.jpg
- [2]: http://digglife.qiniudn.com/qiniu/2468/image/b12572f096ad17eca7911f18d32e3fb6.jpg
+ [1]: https://www.digglife.net/qiniu/2468/image/e2fd335db96bebc80133847466cc7ced.jpg
+ [2]: https://www.digglife.net/qiniu/2468/image/b12572f096ad17eca7911f18d32e3fb6.jpg
  [3]: http://reshade.com/
- [4]: http://digglife.qiniudn.com/qiniu/2468/image/d5bd132f3768c2982882fbb0d2424743.jpg
+ [4]: https://www.digglife.net/qiniu/2468/image/d5bd132f3768c2982882fbb0d2424743.jpg
  [5]: http://www.resize.it/
- [6]: http://digglife.qiniudn.com/qiniu/2468/image/914684ed4aa316a8df296788d0ac86ac.jpg
+ [6]: https://www.digglife.net/qiniu/2468/image/914684ed4aa316a8df296788d0ac86ac.jpg
  [7]: http://quickthumbnail.com/
- [8]: http://digglife.qiniudn.com/qiniu/2468/image/9b2e5cb58f24ccd5b15c6c6dc2152aca.jpg
+ [8]: https://www.digglife.net/qiniu/2468/image/9b2e5cb58f24ccd5b15c6c6dc2152aca.jpg
  [9]: http://snipshot.com/
  [10]: http://www.dosize.com/
- [11]: http://digglife.qiniudn.com/qiniu/2468/image/674cc21d6d2188c0fb8e9a7b5133135f.jpg
+ [11]: https://www.digglife.net/qiniu/2468/image/674cc21d6d2188c0fb8e9a7b5133135f.jpg
  [12]: http://gui.picresize.com/picresize2/
- [13]: http://digglife.qiniudn.com/qiniu/2468/image/681f5c644983947fae4dcb023531a190.jpg
+ [13]: https://www.digglife.net/qiniu/2468/image/681f5c644983947fae4dcb023531a190.jpg
  [14]: http://www.resizeyourimage.com/
- [15]: http://digglife.qiniudn.com/qiniu/2468/image/454839cc976f1f8b15c0605af94ebdd7.jpg
+ [15]: https://www.digglife.net/qiniu/2468/image/454839cc976f1f8b15c0605af94ebdd7.jpg
  [16]: http://www.resize2mail.com/
- [17]: http://digglife.qiniudn.com/qiniu/2468/image/4f2a9f8b8983b8cce14cb8d103ffcc53.jpg
+ [17]: https://www.digglife.net/qiniu/2468/image/4f2a9f8b8983b8cce14cb8d103ffcc53.jpg
  [18]: http://www.izhuk.com/imaging/
- [19]: http://digglife.qiniudn.com/qiniu/2468/image/4f9d23b0d546437c44639f84f8c5d019.jpg
+ [19]: https://www.digglife.net/qiniu/2468/image/4f9d23b0d546437c44639f84f8c5d019.jpg
  [20]: http://www.shrinkpictures.com/
- [21]: http://digglife.qiniudn.com/qiniu/2468/image/874c65ee28e0595cffe05302564e7bf7.jpg
+ [21]: https://www.digglife.net/qiniu/2468/image/874c65ee28e0595cffe05302564e7bf7.jpg
  [22]: http://www.resizeimagesonline.com/
- [23]: http://digglife.qiniudn.com/qiniu/2468/image/b3d477c71973ed0a6358875fadfb2785.jpg
+ [23]: https://www.digglife.net/qiniu/2468/image/b3d477c71973ed0a6358875fadfb2785.jpg
  [24]: http://www.resizeimage.4u2ges.com/index.asp
- [25]: http://digglife.qiniudn.com/qiniu/2468/image/f8d91121894b7499b2ac209103fcf602.jpg
- [26]: http://digglife.qiniudn.com/qiniu/2468/image/d008b570fabc6ebb7bed198e8f4fe096.jpg
+ [25]: https://www.digglife.net/qiniu/2468/image/f8d91121894b7499b2ac209103fcf602.jpg
+ [26]: https://www.digglife.net/qiniu/2468/image/d008b570fabc6ebb7bed198e8f4fe096.jpg

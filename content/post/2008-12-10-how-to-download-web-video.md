@@ -36,7 +36,7 @@ YouTube、优酷、土豆等视频分享网站上有海量的电影、动漫、�
 ### **<span style="color: #ff3300;">浏览器扩展或插件</span>**
 
   * **Firefox的<a title="全能的在线视频下载工具:WebVideo Downloader" href="https://www.digglife.net/articles/sothink-online-video-downloader-firefox-addon.html" target="_blank">Web Video Downloader</a>**
-<img title="Web Video Downloader" src="http://digglife.qiniudn.com/wp-content/uploads/2008/12/preview.jpg" alt="硕思在线视频下载工具" width="496" height="305" />
+<img title="Web Video Downloader" src="https://www.digglife.net/wp-content/uploads/2008/12/preview.jpg" alt="硕思在线视频下载工具" width="496" height="305" />
 
 Web Video Downloader是一个支持几乎国内外所有流行在线视频分享网站的在线视频下载扩展,包括YouTube,Google Video,MySpace,优酷,土豆,6cn,甚至日本的ニコニコ,Mixi等等,名单很长,这里就不一一列出了.除了视频分享网站常用的Flv格式视频之外,Web Video Downloader还支持swf, wmv, asf, avi, mov, rm, rmvb多种视频格式.
 
@@ -57,7 +57,7 @@ Maxthon 2的特色功能之一，除了可以捕捉来自视频网站的 FLV 媒
   * **在线视频抓取软件**<a title="WebVideoCap" href="http://www.nirsoft.net/utils/web_video_capture.html" target="_blank"><strong>WebVideoCap</strong><br /> </a>
 绿色、小巧、简单，但非常好用的一个在线视频下载软件，能够抓取Flv、Wmv、SWF和RTSP、MMS视频流，操作非常简单，点击Start Capture之后浏览器里所有该软件支持的视频都会自动下载到指定的文件夹，全自动进行，问题是，在抓取了自己想要的视频之后记得停止抓取。
 
-[<img class="alignnone size-full wp-image-2830" title="webvideocap" src="http://digglife.qiniudn.com/wp-content/uploads/2008/12/webvideocap.gif" alt="" width="500" height="506" />][2]
+[<img class="alignnone size-full wp-image-2830" title="webvideocap" src="https://www.digglife.net/wp-content/uploads/2008/12/webvideocap.gif" alt="" width="500" height="506" />][2]
 
 本软件只适合Windows平台，主页上有简体中文语言文件可供下载，另外，Vista用户需要多下载一个<a title="WinCap驱动" href="http://www.winpcap.org/install/default.htm" target="_blank">驱动程序</a>。
 
@@ -66,7 +66,7 @@ Maxthon 2的特色功能之一，除了可以捕捉来自视频网站的 FLV 媒
   * **在线视频抓取软件<a title="xViservicenThief" href="http://xviservicethief.sourceforge.net/" target="_blank">xVideoserviceThief </a>**
 一款开源的多平台在线视频下载软件。和WebVideoCap相比，xVideoserviceThief的最大特点在于操作采用了拖拽的方式，拥有完整的下载管理器，各方面的设定比较完全，而且内置有视频转换功能。支持包括国内的土豆、优酷在内的[大批视频分享网站][4]，甚至还有一些成人视频网站。该软件目前有Windows和Linux两个版本，Mac版本也在开发计划当中。
 
-[<img class="alignnone size-full wp-image-2832" title="xvideoservicethief在线视频下载软件" src="http://digglife.qiniudn.com/wp-content/uploads/2008/12/xvideoservicethief.jpg" alt="" width="500" height="331" />][5]
+[<img class="alignnone size-full wp-image-2832" title="xvideoservicethief在线视频下载软件" src="https://www.digglife.net/wp-content/uploads/2008/12/xvideoservicethief.jpg" alt="" width="500" height="331" />][5]
 
 <a title="xVideoserviceThief下载" href="http://xviservicethief.sourceforge.net/index.php?action=downloads" target="_blank">xVideoserviceThief下载</a></ul> 
 
@@ -85,7 +85,7 @@ Maxthon 2的特色功能之一，除了可以捕捉来自视频网站的 FLV 媒
 
 如果大家还有什么更好的办法，不妨留言和我分享O(∩_∩)O
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/2008/12/maxthon-sniffer.gif "遨游网页嗅探器"
+ [1]: https://www.digglife.net/wp-content/uploads/2008/12/maxthon-sniffer.gif "遨游网页嗅探器"
  [2]: https://www.digglife.net/wp-content/uploads/2008/12/webvideocap.gif
  [3]: http://www.nirsoft.net/utils/trans/webvideocap_schinese.zip "WebVideoCap中文语言包"
  [4]: http://xviservicethief.sourceforge.net/index.php?action=information "支持的视频网站列表"

@@ -30,17 +30,17 @@ tags:
 
 ### 1.[compound Google gadget][1].
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/compound-gadgets.png"><img width="320" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/compound-gadgets-thumb.png" alt="compound_gadgets" height="275" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/compound-gadgets.png"><img width="320" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/compound-gadgets-thumb.png" alt="compound_gadgets" height="275" /></a>
 
 使用它可以将页面内的任何模块整合在一起.他们会以标签的形式显示.点击上面的链接添加后,它会自动监测到个性化主页上的所有模块,你只需要勾选希望添加进来的模块就可以了.
 
 <!--more-->
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/compound-gadgets-add.png"><img width="317" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/compound-gadgets-add-thumb.png" alt="compound_gadgets_add" height="548" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/compound-gadgets-add.png"><img width="317" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/compound-gadgets-add-thumb.png" alt="compound_gadgets_add" height="548" /></a>
 
 ### 2.<a target="_blank" href="http://www.google.com/ig/directory?root=%2Fig&dpos=top&num=24&url=http://www.google.com/ig/modules/feeds_tabs.xml">feeds in tabs</a>
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/feeds-in-tab.png"><img width="315" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/feeds-in-tab-thumb.png" alt="feeds_in_tab" height="310" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/feeds-in-tab.png"><img width="315" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/feeds-in-tab-thumb.png" alt="feeds_in_tab" height="310" /></a>
 
 如果你的个性化主页上有很多订阅,使用<a target="_blank" href="http://www.google.com/ig/directory?root=%2Fig&dpos=top&num=24&url=http://www.google.com/ig/modules/feeds_tabs.xml">feeds in tabs</a>这个工具可以把他们聚合到一个模块.
 
@@ -52,7 +52,7 @@ tags:
 
 嗯,的的确确有个叫**<a target="_blank" href="http://www.google.com/ig/add?moduleurl=http%3A//persistent.info/modules/opml-export.xml">OPML Export</a>**的工具来导出页面上所有的订阅.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/export-xml.png"><img width="315" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/export-xml-thumb.png" alt="export_xml" height="90" /></a> 
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/export-xml.png"><img width="315" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/export-xml-thumb.png" alt="export_xml" height="90" /></a> 
 
 将导出的OPML文件保存到本地.
 
@@ -60,7 +60,7 @@ tags:
 
 3).添加Google Reader小工具.这样你就可以在一个模块里面阅读现有的所有订阅了.
 
-<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/google-reader-gadgets.png"><img width="315" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/google-reader-gadgets-thumb.png" alt="google_reader_gadgets" height="300" /></a>
+<a atomicselection="true" href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/google-reader-gadgets.png"><img width="315" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/google-reader-gadgets-thumb.png" alt="google_reader_gadgets" height="300" /></a>
 
 以上参考了<a target="_blank" href="http://googlesystem.blogspot.com/2007/06/declutter-igoogle.html">Google Operating System</a>和<a target="_blank" href="http://www.lifehacker.com/software/igoogle/clean-up-your-homepage-with-the-compound-gadget-265718.php">LifeHacker</a>
 

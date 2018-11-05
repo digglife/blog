@@ -38,11 +38,11 @@ tags:
   - 扩展
 
 ---
-Google Reader作为搜索起家的Google旗下产品不支持搜索功能,<a href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/googlereader-logo.png" atomicselection="true"><img height="66" alt="googlereader_logo" src="http://digglife.qiniudn.com/qiniu/1276/image/6757dbeaa3d90336c2bacd4ebf093813.png" width="156" align="right" /></a>这不得不说是一个巨大的遗憾,而且比较匪夷所思.无论<a href="https://www.digglife.net/articles/%e5%8d%81%e5%a4%a7google-reader%e4%bd%bf%e7%94%a8%e6%8a%80%e5%b7%a7.html" target="_blank">我们能够多么方便地使用Google Reader</a>,但是需要搜索有点印象的相关文章内容时,Google却毫无办法.当然,为了实现这一搜索功能,我们可以[使用Google自定义搜索引擎][1],或者甚至使用<a href="https://www.digglife.net/articles/google-gears-released.html" target="_blank">Google Gears</a>(<a href="http://www.gseeker.com/50226711/cgoogle_readeraeceiefirefoxeie_99773.php" target="_blank">How-to</a>&nbsp; 来自GSeek).尽管步骤也不算太复杂,但是已经远离的集成搜索的概念.
+Google Reader作为搜索起家的Google旗下产品不支持搜索功能,<a href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/googlereader-logo.png" atomicselection="true"><img height="66" alt="googlereader_logo" src="https://www.digglife.net/qiniu/1276/image/6757dbeaa3d90336c2bacd4ebf093813.png" width="156" align="right" /></a>这不得不说是一个巨大的遗憾,而且比较匪夷所思.无论<a href="https://www.digglife.net/articles/%e5%8d%81%e5%a4%a7google-reader%e4%bd%bf%e7%94%a8%e6%8a%80%e5%b7%a7.html" target="_blank">我们能够多么方便地使用Google Reader</a>,但是需要搜索有点印象的相关文章内容时,Google却毫无办法.当然,为了实现这一搜索功能,我们可以[使用Google自定义搜索引擎][1],或者甚至使用<a href="https://www.digglife.net/articles/google-gears-released.html" target="_blank">Google Gears</a>(<a href="http://www.gseeker.com/50226711/cgoogle_readeraeceiefirefoxeie_99773.php" target="_blank">How-to</a>&nbsp; 来自GSeek).尽管步骤也不算太复杂,但是已经远离的集成搜索的概念.
 
 现在又这么一个<a href="http://greasespot.net/" target="_blank">Greasemonkey</a>代码能够直接在Google Reader加入搜索框,让搜索更加方便.它同时提供了文章范围搜索功能,你可以设定需要搜索的文章的新旧程度和数量.
 
-<a href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/grsearch.png" atomicselection="true"><img height="45" alt="GRsearch" src="http://digglife.qiniudn.com/qiniu/1276/image/435f87dcb574213be1a615f5027e4b27.png" width="450" /></a>
+<a href="http://wpcache.yo2.cn/wp-content/uploads/3/379/2007/07/grsearch.png" atomicselection="true"><img height="45" alt="GRsearch" src="https://www.digglife.net/qiniu/1276/image/435f87dcb574213be1a615f5027e4b27.png" width="450" /></a>
 
 下载:<a href="http://userscripts.org/scripts/show/7062" target="_blank">Google Reader Search</a> (点击直接安装)
 

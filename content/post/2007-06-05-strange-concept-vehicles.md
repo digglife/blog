@@ -29,7 +29,7 @@ tags:
 
 1.现代版独轮车.
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-unicycle.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="299" alt="strange-vehicles-unicycle" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-unicycle-thumb.jpg" width="400" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-unicycle.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="299" alt="strange-vehicles-unicycle" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-unicycle-thumb.jpg" width="400" border="0" /></a>
 
 <!--more-->
 
@@ -37,38 +37,38 @@ tags:
 
 2.坦克车
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-tank-chair.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="310" alt="strange-vehicles-tank-chair" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-tank-chair-thumb.jpg" width="400" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-tank-chair.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="310" alt="strange-vehicles-tank-chair" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-tank-chair-thumb.jpg" width="400" border="0" /></a>
 
 3.蜜蜂子弹头
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-whizzy-bee.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="261" alt="strange-vehicles-whizzy-bee" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-whizzy-bee-thumb.jpg" width="403" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-whizzy-bee.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="261" alt="strange-vehicles-whizzy-bee" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-whizzy-bee-thumb.jpg" width="403" border="0" /></a>
 
 4.高跟鞋汽车
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-shoe-car.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="286" alt="strange-vehicles-shoe-car" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-shoe-car-thumb.jpg" width="401" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-shoe-car.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="286" alt="strange-vehicles-shoe-car" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-shoe-car-thumb.jpg" width="401" border="0" /></a>
 
 5.奥迪的隐轮概念车(应该还记得I,Robot吧)
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-wheel-hover.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="299" alt="strange-vehicles-wheel-hover" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-wheel-hover-thumb.jpg" width="400" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-wheel-hover.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="299" alt="strange-vehicles-wheel-hover" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-wheel-hover-thumb.jpg" width="400" border="0" /></a>
 
 6.大鲨鱼喷气式汽车
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-shark-jet.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="315" alt="strange-vehicles-shark-jet" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-shark-jet-thumb.jpg" width="400" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-shark-jet.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="315" alt="strange-vehicles-shark-jet" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-shark-jet-thumb.jpg" width="400" border="0" /></a>
 
 7.怪兽卡车
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-monster-truck.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="390" alt="strange-vehicles-monster-truck" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-monster-truck-thumb.jpg" width="260" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-monster-truck.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="390" alt="strange-vehicles-monster-truck" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-monster-truck-thumb.jpg" width="260" border="0" /></a>
 
 8.家庭货车
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-family-wagon.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="275" alt="strange-vehicles-family-wagon" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-family-wagon-thumb.jpg" width="400" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-family-wagon.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="275" alt="strange-vehicles-family-wagon" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-family-wagon-thumb.jpg" width="400" border="0" /></a>
 
 9.黑色林肯Limo
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-black-limo.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="300" alt="strange-vehicles-black-limo" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-black-limo-thumb.jpg" width="400" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-black-limo.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="300" alt="strange-vehicles-black-limo" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-black-limo-thumb.jpg" width="400" border="0" /></a>
 
 10.这个太古怪了,起个什么名字好呢?
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-crazy-ride.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="263" alt="strange-vehicles-crazy-ride" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/06/strange-vehicles-crazy-ride-thumb.jpg" width="402" border="0" /></a>
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-crazy-ride.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="263" alt="strange-vehicles-crazy-ride" src="https://www.digglife.net/wp-content/uploads/3/379/2007/06/strange-vehicles-crazy-ride-thumb.jpg" width="402" border="0" /></a>
 
 来自<a href="http://www.sizlopedia.com/2007/06/04/10-most-strange-concept-vehicles-ever/" target="_blank">sizlopedia</a>

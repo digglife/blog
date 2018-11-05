@@ -51,7 +51,7 @@ tags:
 
 这个Widget的效果如下:
 
-[<img id="id" height="164" alt="710countdown_14days" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/710countdown-14days-thumb.png" width="199" />][1] 
+[<img id="id" height="164" alt="710countdown_14days" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/710countdown-14days-thumb.png" width="199" />][1] 
 
 <!--more-->
 

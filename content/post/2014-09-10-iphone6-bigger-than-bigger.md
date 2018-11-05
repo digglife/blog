@@ -23,7 +23,7 @@ tags:
 
 且看英文原文， Bigger Than Bigger。妙在一语双关，内涵丰富，前后对称，形式工整，整句着眼于<del>逼格</del> Bigger 一词。再来看大陆翻译，“比更大还更大”，着眼“更大”，区区六言，内容形式，都得以完美重现。重剑无锋，大巧不工，此文案之功力实臻化境。回看港台翻译，“岂止于大”，双关尽失，娇柔浮夸，实乃丧心病狂，不堪入目。港台翻译之俗，以电影译名最甚，“岂止于大”之于“比更大还更大”，正如“刺激1995”之于“肖申克的救赎”，“神鬼奇航”之于“木乃伊”，港台翻译的哗众取宠，还没看够吗？
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/09/iphone6.png" alt="iPhone6 比更大还更大" width="500" height="198" class="alignnone size-full wp-image-3892" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/09/iphone6.png" alt="iPhone6 比更大还更大" width="500" height="198" class="alignnone size-full wp-image-3892" />
 
 以上吐槽，以下正文。
 
@@ -32,7 +32,7 @@ tags:
 苹果的英文文案在大中华地区的翻译一直有很多人关注，因为大陆区的翻译几度奇葩，所以争议颇多，以某乎为胜，蔚为奇观。以英文论，Bigger Than Bigger 的双关很浅显，意指尺寸变大，只是次世代 iPhone 大幅提升的冰山一角，顺带揶揄了三星等一众 Android 厂商盲目求大却鲜有创新，和自己不在一个段位。表达这样的意思，中文实在更有优势，于是港台译作“岂止于大”，是重新用中文思维解析之后的文案，几乎没有任何信息损失，气势甚至更胜一筹，而且一字一意，文言风格，能够体现出中文的美感。反观“比更大还更大”，实在不知所谓，有辱汉字。
 
 <div id="attachment_3894" style="width: 510px" class="wp-caption alignnone">
-  <img src="http://digglife.qiniudn.com/wp-content/uploads/2014/09/iphone6-weird-translation-500x228.png" alt="iphone 6 扯淡翻译之有史以来极其重大" width="500" height="228" class="size-medium wp-image-3894" />
+  <img src="https://www.digglife.net/wp-content/uploads/2014/09/iphone6-weird-translation-500x228.png" alt="iphone 6 扯淡翻译之有史以来极其重大" width="500" height="228" class="size-medium wp-image-3894" />
   
   <p class="wp-caption-text">
     有史以来极其重大的iOS 8，这个翻译也极其骇人听闻。

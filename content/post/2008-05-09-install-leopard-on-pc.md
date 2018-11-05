@@ -32,7 +32,7 @@ tags:
 
 <!--more-->
 
-<a href="http://www.yupoo.com/photos/zoom?id=ff80808119c880c60119ca4d69bf514a" target="_blank"><img src="http://digglife.qiniudn.com/qiniu/2529/image/6208f34e23c1ea55b8b7ccb89cb7723e.jpg" /></a>
+<a href="http://www.yupoo.com/photos/zoom?id=ff80808119c880c60119ca4d69bf514a" target="_blank"><img src="https://www.digglife.net/qiniu/2529/image/6208f34e23c1ea55b8b7ccb89cb7723e.jpg" /></a>
 
 尽管Royal Apple Fans会耻笑在PC上安装Mac OS的人是&#8221;装B&#8221;,但是我还是背着装B的骂名在大概一个月前下载了<a href="http://lib.verycd.com/2007/12/22/0000174765.html" title="iAKTOS V1.0" target="_blank">iAKTOS V1.0</a>(最新版是<a href="http://thepiratebay.org/tor/4176465/iAtkos_v1.0i_r3" title="iATKOS V1.0 r3" target="_blank">r3</a>),并在几天前刻碟安装.因为之前已经阅读了许多相关内容,所以很顺利地安装成功,前前后后只花了30分钟,并和Windows XP组成双系统.其实我在下载之前就查阅过硬件支持列表,知道自己的笔记本网卡无法驱动,但是还是尝试了一下,碰碰运气.结果证明OSX86 Project 的HCL的确不是盖的,安装结果非常精确地体现了列表的权威性.也就是说,我在Leopard下不能上网,这就否定了一切,体验一把Leopard的欲望顿时熄灭,从激动地看到Leo的Welcome开机视频到彻底绝望不过一个小时,越是Google越是绝望,Broadcom 5985m和<a href="http://forum.insanelymac.com/index.php?showtopic=84072" title="Intel wireless 3945abg" target="_blank">Intel wireless 3945abg</a>是绝对的无解网卡(截止到今天).
 

@@ -66,7 +66,7 @@ tags:
 ---
 又过了一个月,实在是太快了.昨天我回到了学校,结束了短暂的暑假生活.
 
- <img src="http://digglife.qiniudn.com/qiniu/1749/image/9e80445d91d2bec10f185bb292fbc478.png" align="right" />8月我一共发表了47篇日志,并于8月15日达成200斩,访问量和订阅数和上个月相比都有了一点进步,访问数在一般情况下还是稳定在350左右,综合浏览量稳定在700左右.本月有一个峰值出现在12日,根据Google 分析的报告,这次峰值居然是拜抓虾所赐,实在是出乎我的意料之外.当天有一篇日志被推荐了50多次,估计是登上热门文章吧,看来抓虾同样是一个非常牛的Digg.下面看看8月的TOP 5:
+ <img src="https://www.digglife.net/qiniu/1749/image/9e80445d91d2bec10f185bb292fbc478.png" align="right" />8月我一共发表了47篇日志,并于8月15日达成200斩,访问量和订阅数和上个月相比都有了一点进步,访问数在一般情况下还是稳定在350左右,综合浏览量稳定在700左右.本月有一个峰值出现在12日,根据Google 分析的报告,这次峰值居然是拜抓虾所赐,实在是出乎我的意料之外.当天有一篇日志被推荐了50多次,估计是登上热门文章吧,看来抓虾同样是一个非常牛的Digg.下面看看8月的TOP 5:
 
 <!--more-->
 
@@ -98,13 +98,13 @@ tags:
 
 **8月访问量:**
 
- <img height="115" alt="preview" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/preview.png" width="450" />
+ <img height="115" alt="preview" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/preview.png" width="450" />
 
- <img height="160" alt="pageview" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/pageview.png" width="300" />
+ <img height="160" alt="pageview" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/pageview.png" width="300" />
 
 访问来源方面,来自Google搜索的访问数首次超过众多推介网站成为第一位,不过来自Baidu的搜索还是很少.其实造成Google成为第一来源的原因很大程度上是因为这个月有很多日志我并没有提交到<a href="http://www.diggbuzz.com" target="_blank">我挖网</a>和<a href="http://www.diglog.com" target="_blank">Diglog</a>,同时两家网站在月底时的整改也是原因之一.前10位中还有<a href="http://www.cnbeta.com" target="_blank">Cnbeta</a>,<a href="http://www.zhuaxia.com" target="_blank">抓虾</a>和<a href="http://www.soso.com" target="_blank">腾讯搜搜</a>.
 
- <img height="340" alt="source" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/source.png" width="400" />
+ <img height="340" alt="source" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/source.png" width="400" />
 
 **8月订阅量:**
 
@@ -114,6 +114,6 @@ tags:
 
 根据Google网站管理员工具的报告,DiggLife突然出现了数量庞大的抓取错误,其中Robot.txt无法访问为主要原因,至于造成这个现象的原因我还不是很清楚.时间上是8月25日之后.(连首页都是无法访问了,Robot.txt错误)
 
- <img height="250" alt="sitemanager" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/sitemanager.png" width="305" />
+ <img height="250" alt="sitemanager" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/sitemanager.png" width="305" />
 
 这个问题看来要向ONeOo老大好好地请教一下.

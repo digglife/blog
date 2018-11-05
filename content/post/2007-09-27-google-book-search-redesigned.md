@@ -25,13 +25,13 @@ tags:
   - google图书
 
 ---
-<a title="Google图书搜索(英文版)" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/books-sm1.gif" target="_blank"><img id="id" height="59" alt="books_sm" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/books-sm-thumb1.gif" width="143" align="right" border="0" /> Google图书搜索(英文版)</a>今天推出了重新设计过的主页.现在用户可以通过点击左侧栏的分类或者受欢迎书籍的封面更加方便地寻找到自己喜欢的书籍,原来的搜索框则被放置在页面的顶部.这样一来,用户偶然性阅读的可能性大大提高.
+<a title="Google图书搜索(英文版)" href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/books-sm1.gif" target="_blank"><img id="id" height="59" alt="books_sm" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/books-sm-thumb1.gif" width="143" align="right" border="0" /> Google图书搜索(英文版)</a>今天推出了重新设计过的主页.现在用户可以通过点击左侧栏的分类或者受欢迎书籍的封面更加方便地寻找到自己喜欢的书籍,原来的搜索框则被放置在页面的顶部.这样一来,用户偶然性阅读的可能性大大提高.
 
 下图的随机分类里面有大名鼎鼎的《孙子兵法》
 
 <!--more-->
 
-<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/google-book-search1.png" target="_blank"><img id="id" height="554" alt="google-book-search" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/google-book-search-thumb1.png" width="450" border="0" /></a> 
+<a href="https://www.digglife.net/wp-content/uploads/3/379/2007/09/google-book-search1.png" target="_blank"><img id="id" height="554" alt="google-book-search" src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/google-book-search-thumb1.png" width="450" border="0" /></a> 
 
 在页面的主要内容栏有4个分类:
 

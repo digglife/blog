@@ -43,7 +43,7 @@ tags:
 
 <!--more-->
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/embed-presentation-thumb2.png" alt="embed-presentation" border="0" height="340" width="410" />][1]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2008/01/embed-presentation-thumb2.png" alt="embed-presentation" border="0" height="340" width="410" />][1]
 
 我之前在<a href="https://www.digglife.net/articles/google-presentation-competition.html" title="细数Google在线演示文稿的竞争对手" target="_blank">细数Google在线演示文稿的竞争对手</a>里提到的[Scribd][2](接受多种格式的文件,多文件上传)和[Slideshare][3](无需登录,单个文件上限为30MB)也提供了嵌入功能,不过相对而言效果不算理想.
 

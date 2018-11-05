@@ -36,8 +36,8 @@ tags:
 
  [1]: http://www.google.com/notebook
  [2]: http://www.google.com/notebook/download
- [3]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/notebookside.png
+ [3]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/notebookside.png
  [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/notebookside.png "notebookside.png"
  [5]: http://www.google.com/ig
- [6]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/04/gtalkside.png
+ [6]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/gtalkside.png
  [7]: https://www.digglife.net/wp-content/uploads/3/379/2007/04/gtalkside.png "gtalkside.png"

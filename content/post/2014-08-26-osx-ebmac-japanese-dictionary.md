@@ -24,7 +24,7 @@ tags:
 
 <!--more-->
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/08/ebmac.png" alt="OS X 上的日文电子词典软件EBMac" width="573" height="474" class="alignnone size-full wp-image-3860" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/08/ebmac.png" alt="OS X 上的日文电子词典软件EBMac" width="573" height="474" class="alignnone size-full wp-image-3860" />
 
 ### EBMac的常规功能
 
@@ -41,13 +41,13 @@ EBMac 的常规功能和 EBWin 几乎一样，下面是比较重要的几个。
   * 支持服务菜单查询
 作为一个 OS X 上的文本查询系软件，EBMac还加入了服务菜单支持，借此我们在系统任何位置都能使用服务菜单或者快捷键直接查询日文。
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/08/EBMac-service-menu.png" alt="EBMac服务菜单支持" width="500" height="159" class="alignnone size-full wp-image-3859" />
+<img src="https://www.digglife.net/wp-content/uploads/2014/08/EBMac-service-menu.png" alt="EBMac服务菜单支持" width="500" height="159" class="alignnone size-full wp-image-3859" />
 
   * 支持AppleScript
 EBMac还加入了两个AppleScript指令，Search 和 Select，前者用来查词，后者用来选择词典和Group。用这两个指令我们可以自动化一些操作。
   
 
-<img src="http://digglife.qiniudn.com/wp-content/uploads/2014/08/ebmac-applescript.png" alt="EBMac的AppleScript支持" width="464" height="494" class="alignnone size-full wp-image-3861" /> </ul> 
+<img src="https://www.digglife.net/wp-content/uploads/2014/08/ebmac-applescript.png" alt="EBMac的AppleScript支持" width="464" height="494" class="alignnone size-full wp-image-3861" /> </ul> 
 
 ### EBMac 下载
 

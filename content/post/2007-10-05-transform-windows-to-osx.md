@@ -58,27 +58,27 @@ tags:
   - 软件
 
 ---
-[<img height="80" alt="flyakiteosx" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/flyakiteosx-thumb.png" width="200" align="right" />][1] Windows XP的美化一直是比较热门的话题,在Windows Vista出现之前,Windows用户模仿的目标一直对准了充满时尚元素的苹果Mac OS.Vista的推出让许多人都重投微软的怀抱,不过Mac OS的模拟还是非常热门.<a title="FlyakiteOSX" href="http://www.flyakiteosx.com/download/" target="_blank">FlyakiteOSX</a>专门针对Windows XP(同时支持Windows 2003,Windows Media Center)模拟Mac OSX提供了一套全方位的解决方案.这款软件其实推出好久了,后来集成了许多优化效果的小组件.通过使用这些第三方的小组件,如Y&#8217;z Shadow,WinRoll,Docks等,并加上Tiger视觉风格,你的Windows XP会变得非常苹果化.
+[<img height="80" alt="flyakiteosx" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/flyakiteosx-thumb.png" width="200" align="right" />][1] Windows XP的美化一直是比较热门的话题,在Windows Vista出现之前,Windows用户模仿的目标一直对准了充满时尚元素的苹果Mac OS.Vista的推出让许多人都重投微软的怀抱,不过Mac OS的模拟还是非常热门.<a title="FlyakiteOSX" href="http://www.flyakiteosx.com/download/" target="_blank">FlyakiteOSX</a>专门针对Windows XP(同时支持Windows 2003,Windows Media Center)模拟Mac OSX提供了一套全方位的解决方案.这款软件其实推出好久了,后来集成了许多优化效果的小组件.通过使用这些第三方的小组件,如Y&#8217;z Shadow,WinRoll,Docks等,并加上Tiger视觉风格,你的Windows XP会变得非常苹果化.
 
 <!--more-->
 
 首先,你需要下载[**FlyakiteOSX**][2] 这款软件.解压后启动安装程序,经过几个下一步之后来到安装组件选择界面,选择你喜欢的所有组件,如果不知道改选那些,可以直接全部打勾.(如果关闭了Windows的还原功能,不要勾上Creat System Restore Point)
 
-[<img height="336" alt="install" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/install-thumb.png" width="430" />][3] 
+[<img height="336" alt="install" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/install-thumb.png" width="430" />][3] 
 
 安装完成之后直接重启即可看到效果.
 
 **桌面:**
 
-[<img height="338" alt="desktop-macos" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/desktop-macos-thumb.png" width="450" />][4] 
+[<img height="338" alt="desktop-macos" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/desktop-macos-thumb.png" width="450" />][4] 
 
 **Windows Explorer**
 
-[<img height="336" alt="explorer" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/explorer-thumb.png" width="450" />][5] 
+[<img height="336" alt="explorer" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/explorer-thumb.png" width="450" />][5] 
 
 如果你想让这个界面更加个性化,可以自定义Y&#8217;z Shadow(窗口效果),WinRoll(让窗口缩小成一个标题栏)和Dock的设置,以达到最满意的效果.Y&#8217;z Shadow和WinRoll都可以在系统托盘里面找到.
 
-[<img height="65" alt="system-tray" src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/10/system-tray-thumb.png" width="225" />][6] 
+[<img height="65" alt="system-tray" src="https://www.digglife.net/wp-content/uploads/3/379/2007/10/system-tray-thumb.png" width="225" />][6] 
 
 右键单击Dock的空白处,选择Settings即可对Dock的细节进行设置.
 

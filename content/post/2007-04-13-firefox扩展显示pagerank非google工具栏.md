@@ -24,7 +24,7 @@ tags:
 
 显示效果: 
 
-<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/FirefoxPageRankGoogle_E229/PageRankEx%5B3%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="159" src="http://digglife.qiniudn.com/qiniu/37/image/911c55a0207063c9a2b5883ca06936ad.png" width="212" border="0" /></a> 
+<a href="http://javabeta.yo2.cn/wp-content/uploads/3/379/2007/04/WindowsLiveWriter/FirefoxPageRankGoogle_E229/PageRankEx%5B3%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="159" src="https://www.digglife.net/qiniu/37/image/911c55a0207063c9a2b5883ca06936ad.png" width="212" border="0" /></a> 
 
 &nbsp; 
 

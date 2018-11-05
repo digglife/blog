@@ -72,21 +72,21 @@ tags:
 
 来自<a href="http://gigazine.net/index.php?/news/comments/20080723_olympic_summergames/" target="_blank">Gigazine</a>
 
- [1]: http://digglife.qiniudn.com/qiniu/2609/image/198d3658b2762cf11535917a206ed8a4.jpg
+ [1]: https://www.digglife.net/qiniu/2609/image/198d3658b2762cf11535917a206ed8a4.jpg
  [2]: http://picasaweb.google.com/digglifeshow/Beijing2008/photo#5226068991515240962
- [3]: http://digglife.qiniudn.com/qiniu/2609/image/d9633d4026cbd385a670ddad23f73da6.jpg
+ [3]: https://www.digglife.net/qiniu/2609/image/d9633d4026cbd385a670ddad23f73da6.jpg
  [4]: http://picasaweb.google.com/digglifeshow/Beijing2008/photo#5226068992821786274
- [5]: http://digglife.qiniudn.com/qiniu/2609/image/a6c405119c86cbdca9c31943f5865dc8.jpg
+ [5]: https://www.digglife.net/qiniu/2609/image/a6c405119c86cbdca9c31943f5865dc8.jpg
  [6]: http://picasaweb.google.com/digglifeshow/Beijing2008/photo#5226068996449602594
- [7]: http://digglife.qiniudn.com/qiniu/2609/image/16c8fb1353c5ab3baa079413a4080892.jpg
+ [7]: https://www.digglife.net/qiniu/2609/image/16c8fb1353c5ab3baa079413a4080892.jpg
  [8]: http://picasaweb.google.com/digglifeshow/Beijing2008/photo#5226068997795897506
- [9]: http://digglife.qiniudn.com/qiniu/2609/image/2ef5177d74577897d50e86215386deff.jpg
+ [9]: https://www.digglife.net/qiniu/2609/image/2ef5177d74577897d50e86215386deff.jpg
  [10]: http://picasaweb.google.com/digglifeshow/Beijing2008/photo#5226075479161226946
- [11]: http://digglife.qiniudn.com/qiniu/2609/image/800af4e79a67580ad0a3e745835f2e41.png
+ [11]: https://www.digglife.net/qiniu/2609/image/800af4e79a67580ad0a3e745835f2e41.png
  [12]: http://picasaweb.google.com/digglifeshow/Beijing2008/photo#5226081287243973858
- [13]: http://digglife.qiniudn.com/qiniu/2609/image/e0ca4fa61aa2e16e4af2984e26ad7eeb.png
+ [13]: https://www.digglife.net/qiniu/2609/image/e0ca4fa61aa2e16e4af2984e26ad7eeb.png
  [14]: http://picasaweb.google.com/digglifeshow/Beijing2008/photo#5226081289928520962
- [15]: http://digglife.qiniudn.com/qiniu/2609/image/c0f00556bfc6f78afa851e7f6b8fc90d.png
+ [15]: https://www.digglife.net/qiniu/2609/image/c0f00556bfc6f78afa851e7f6b8fc90d.png
  [16]: http://picasaweb.google.com/digglifeshow/Beijing2008/photo#5226081290055368738
- [17]: http://digglife.qiniudn.com/qiniu/2609/image/1a6b345502d9a3a896c7cf88bf0ca0e9.jpg
+ [17]: https://www.digglife.net/qiniu/2609/image/1a6b345502d9a3a896c7cf88bf0ca0e9.jpg
  [18]: http://picasaweb.google.com/digglifeshow/Beijing2008/photo#5226082543788958226

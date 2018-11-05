@@ -164,7 +164,7 @@ sudo apt-get install compiz-fusion-*
 
 还有很多效果,可以到Manager中慢慢研究,只要点击右边的对应效果就可以对它进行快捷键,效果微调等方面的自定义.
 
-[<img src="http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/flip-snow.png" alt="Vista层叠和雪花效果" width="450" height="360" />][4]
+[<img src="https://www.digglife.net/wp-content/uploads/3/379/2007/09/flip-snow.png" alt="Vista层叠和雪花效果" width="450" height="360" />][4]
 
 [![火焰字][5]][6]
 
@@ -172,9 +172,9 @@ sudo apt-get install compiz-fusion-*
 
 待续&#8230;.
 
- [1]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/compiz-fusion-cube.thumbnail.png
+ [1]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/compiz-fusion-cube.thumbnail.png
  [2]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/compiz-fusion-cube.png "compiz-fusion-cube.png"
  [3]: http://download.tuxfamily.org/3v1deb/pool/feisty/eyecandy/libdecoration0-dev_0.5.5~git20070905+3v1ubuntu0_i386.deb "compiz-decorator"
  [4]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/flip-snow.png "flip-snow.png"
- [5]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2007/09/flame.thumbnail.png
+ [5]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/flame.thumbnail.png
  [6]: https://www.digglife.net/wp-content/uploads/3/379/2007/09/flame.png "火焰字"
