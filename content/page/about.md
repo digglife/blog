@@ -26,10 +26,9 @@ DiggLife 始于 2006 年，是一个有关网络和软件的独立博客。
 
 ## 联系方式
 
-相对于即时聊天，个人觉得通过邮件联系更有效率。
+相比微信、QQ，我更喜欢电子邮件这种异步的沟通方式。
 
-[![摩摩诘的邮箱地址][2]][3]
+digglife@gmail.com
+
 
  [1]: http://www.hubu.edu.cn/
- [2]: http://digglife.qiniudn.com/wp-content/uploads/3/379/2008/01/digglife-mail.gif
- [3]: mailto:digglife@gmail.com "Mail"

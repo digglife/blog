@@ -15,7 +15,7 @@ date: 2011-05-03T11:19:11+00:00
 始终无法抵抗开放世界塞尔达的吸引，又一次啪啪打脸了。这也是我的第一台任天堂电视主机，离第一次接触 Famicon 已有二十多年。
 
 
-<img title="PlayStation4" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/iphone7.jpeg" alt="iPhone7" width="400" height="400" class="alignright" />
+<img title="PlayStation4" src="https://www.digglife.net/wp-content/uploads/2011/05/iphone7.jpeg" alt="iPhone7" width="400" height="400" class="alignright" />
 
 ### iPhone 7 Black 256GB
 
@@ -26,7 +26,7 @@ date: 2011-05-03T11:19:11+00:00
 <div class="clear">
 </div>
 
-<img title="PlayStation4" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/ps4-s.jpg" alt="PlayStation4" width="400" height="361" class="alignleft" />
+<img title="PlayStation4" src="https://www.digglife.net/wp-content/uploads/2011/05/ps4-s.jpg" alt="PlayStation4" width="400" height="361" class="alignleft" />
 
 ### Sony PlayStation 4
 
@@ -60,7 +60,7 @@ date: 2011-05-03T11:19:11+00:00
 <div class="clear">
 </div>
 
-<img class="alignright" title="New 3DSLL" alt="New 3DSLL" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/new-3dsll.jpg" width="400" height="400" />
+<img class="alignright" title="New 3DSLL" alt="New 3DSLL" src="https://www.digglife.net/wp-content/uploads/2011/05/new-3dsll.jpg" width="400" height="400" />
 
 ### Nintendo New 3DSLL
 
@@ -84,7 +84,7 @@ date: 2011-05-03T11:19:11+00:00
 <div class="clear">
 </div>
 
-<img class="alignleft" title="iPhone 5S" alt="iPhone 5S 深空灰" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/iphone-5s1.jpg" width="400" height="467" />
+<img class="alignleft" title="iPhone 5S" alt="iPhone 5S 深空灰" src="https://www.digglife.net/wp-content/uploads/2011/05/iphone-5s1.jpg" width="400" height="467" />
 
 ### iPhone 5S 16GB Space Grey
 
@@ -97,7 +97,7 @@ date: 2011-05-03T11:19:11+00:00
 <div class="clear">
 </div>
 
-<img class="alignright" title="The New iPad 32G WiFi" alt="The New iPad 32G WiFi" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/new-ipad.png" width="450" height="367" />
+<img class="alignright" title="The New iPad 32G WiFi" alt="The New iPad 32G WiFi" src="https://www.digglife.net/wp-content/uploads/2011/05/new-ipad.png" width="450" height="367" />
 
 ### The New iPad 32G WiFi
 
@@ -110,7 +110,7 @@ date: 2011-05-03T11:19:11+00:00
 <div class="clear">
 </div>
 
-<img class="alignleft" title="ndsl" alt="Sony Xperia Neo" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/sony-xperia-neo.png" width="450" height="253" />
+<img class="alignleft" title="ndsl" alt="Sony Xperia Neo" src="https://www.digglife.net/wp-content/uploads/2011/05/sony-xperia-neo.png" width="450" height="253" />
 
 ### Sony Xperia Neo
 
@@ -125,7 +125,7 @@ Update：于2014年3月正式退役，功能一切正常。
 <div class="clear">
 </div>
 
-<img class="alignright" title="htc-dream" alt="" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/htc-dream.jpg" width="450" height="450" />
+<img class="alignright" title="htc-dream" alt="" src="https://www.digglife.net/wp-content/uploads/2011/05/htc-dream.jpg" width="450" height="450" />
 
 ### HTC Dream
 
@@ -148,7 +148,7 @@ Update：于2011年年底丢失。最后出现位置为武昌青山。
 <div class="clear">
 </div>
 
-<img class="alignleft size-full wp-image-3069" title="macbookpro" alt="" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/macbookpro.jpg" width="449" height="275" />
+<img class="alignleft size-full wp-image-3069" title="macbookpro" alt="" src="https://www.digglife.net/wp-content/uploads/2011/05/macbookpro.jpg" width="449" height="275" />
 
 ### Macbook Pro 13&#8221;
 
@@ -159,7 +159,7 @@ Mac有很多优点，我觉得最核心的地方在于，它的操作系统有�
 <div class="clear">
 </div>
 
-<img class="alignright size-full wp-image-3067" title="ps3" alt="" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/ps3.jpg" width="450" height="450" />
+<img class="alignright size-full wp-image-3067" title="ps3" alt="" src="https://www.digglife.net/wp-content/uploads/2011/05/ps3.jpg" width="450" height="450" />
 
 ### PlayStation 3 Slim
 
@@ -187,7 +187,7 @@ Mac有很多优点，我觉得最核心的地方在于，它的操作系统有�
 <div class="clear">
 </div>
 
-<img class="alignleft size-full wp-image-3070" title="ipodtouch4" alt="iPod Touch 4" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/ipodtouch4.jpg" width="450" height="450" />
+<img class="alignleft size-full wp-image-3070" title="ipodtouch4" alt="iPod Touch 4" src="https://www.digglife.net/wp-content/uploads/2011/05/ipodtouch4.jpg" width="450" height="450" />
 
 ### iPod Touch 4 32G
 
@@ -200,7 +200,7 @@ Game Center 账号：digglife#gmail.com
 <div class="clear">
 </div>
 
-<img class="alignright size-full wp-image-3071" title="ndsl" alt="NDSL" src="http://digglife.qiniudn.com/wp-content/uploads/2011/05/ndsl.jpg" width="450" height="439" />
+<img class="alignright size-full wp-image-3071" title="ndsl" alt="NDSL" src="https://www.digglife.net/wp-content/uploads/2011/05/ndsl.jpg" width="450" height="439" />
 
 ### Nintendo DSL
 
