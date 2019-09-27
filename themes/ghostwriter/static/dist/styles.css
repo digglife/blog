@@ -228,3 +228,16 @@ table tr { border-bottom: 1px dotted #aeadad; }
  .author-meta span { display: block; margin: 18px 0; }
  .footer-copyright { padding: 0 10px; }
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #fefefe;
+    background-color: #424242;
+  }
+  .post-stub a {
+    color: #fefefe;
+  }
+  .post-stub a:hover {
+    background-color: #303030;
+  }
+}
