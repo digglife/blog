@@ -18,7 +18,7 @@ url: /articles/puppet-chaos.html
 
 <!--more-->
 
-### DSL 让事情变得更复杂
+## DSL 让事情变得更复杂
 
 Puppet 的团队大概是为了照顾不懂开发的运维人员，所以用 Ruby 造了一个 DSL（即所谓 Puppet Language），咋一看语法挺简单，门槛很低，极易上手，其实碰到稍微复杂一点的需求就捉襟见肘。为了弥补这一点，Puppet 又提供了 `Custom Functions`、`Custom Type` 和 `Custom Provider` 三种扩展，使用 Ruby 编写，用于增强 Puppet 语法的表达力，但很多都是在重复实现那些通过 Ruby 本身可以更容易做到的事情。即便没用过 Puppet，看一下它的 标准库([`stdlib`](https://github.com/puppetlabs/puppetlabs-stdlib)) 就能明白这一点，整个模式大概就是——用 Ruby 实现一个 DSL，然后再用这个 DSL 反过来实现 Ruby 的一些语法糖。
 
@@ -37,7 +37,7 @@ function apache::bool2http(Variant[String, Boolean] $arg) >> String {
 }
 ```
 
-### 拉取模式带来很多问题
+## 拉取模式带来很多问题
 
 Puppet 的核心是拉取模式，也就是客户端定时发送本机信息到服务端，获取配置，然后在本地应用的模式。这个模式，最大的特点在于「**状态定义**」，也就是你在服务端是在给所有机器定义一种目标状态。很多其他自动化运维工具，更多地是在做「**行为定义**」，也就是定义针对客户端做什么操作。
 
@@ -45,7 +45,7 @@ Puppet 的核心是拉取模式，也就是客户端定时发送本机信息到�
 
 当然 Puppet 还提供了 MCollective 、Bolt 两种推送模式的工具，但始终不是它的强项。
 
-### 技术栈混乱
+## 技术栈混乱
 
 Puppet 原本是一个 Ruby 项目，照说技术栈几乎都是 Ruby 系的，但一开始 PuppetDB 就用的 Clojure（运行在 JVM 上的 LISP），这就比较怪了。
 
