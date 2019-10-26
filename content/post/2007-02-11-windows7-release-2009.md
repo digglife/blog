@@ -4,14 +4,6 @@ author: 摩摩诘
 type: post
 date: 2007-02-11T11:55:23+00:00
 url: /articles/windows7-release-2009.html
-related_posts:
-  - 'a:2:{s:4:"time";i:1224884874;s:13:"related_posts";s:1301:"<h3>相关日志</h3><ul class="related_post"><li><a href="http://www.digglife.cn/articles/vista-theme-visual-style-download.html" title="7个漂亮的Vista主题(视觉样式)下载">7个漂亮的Vista主题(视觉样式)下载</a></li><li><a href="http://www.digglife.cn/articles/hide-show-file-shortcut.html" title="一键显示或隐藏文件">一键显示或隐藏文件</a></li><li><a href="http://www.digglife.cn/articles/my-favorite-vista-features.html" title="我最喜欢的Windows Vista功能">我最喜欢的Windows Vista功能</a></li><li><a href="http://www.digglife.cn/articles/wallpaper-windows7.html" title="9枚Windows 7高清壁纸">9枚Windows 7高清壁纸</a></li><li><a href="http://www.digglife.cn/articles/ubuntu-windows-xp-vista-firefox-profile.html" title="Ubuntu,Windows Vista和XP共享Firefox配置文件">Ubuntu,Windows Vista和XP共享Firefox配置文件</a></li><li><a href="http://www.digglife.cn/articles/custom-windows-interface-tools.html" title="9个工具打造焕然一新的Windows界面">9个工具打造焕然一新的Windows界面</a></li><li><a href="http://www.digglife.cn/articles/clean-up-desktop-improve-productivity-2.html" title="彻底清空桌面,让启动程序更加高效Part.2">彻底清空桌面,让启动程序更加高效Part.2</a></li></ul>";}'
-bot_views:
-  - 1207
-views:
-  - 317
-duoshuo_thread_id:
-  - 1154125469839261700
 categories:
   - Windows技巧
 tags:
