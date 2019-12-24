@@ -62,4 +62,4 @@ url: /articles/switch-dark-red.html
 
 ![创想电玩工商执照](/wp-content/uploads/chuangxiang-cert.jpg)
 
-所以我建议，如果在意第一次，还是亚马逊海淘最靠谱，这方面 smzdm 上面就很多了。
+所以我建议，如果在意第一次，还是直接买[国行官方正品](https://u.jd.com/Ax1OEk)吧。
