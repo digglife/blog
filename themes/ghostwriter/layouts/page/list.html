@@ -1,6 +1,6 @@
 <!-- {{ partial "header.html" . }} -->
 <!DOCTYPE html>
-{{ $pag := .Paginate .Data.Pages }}
+{{ $pag := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 <html{{ if .Site.Params.opengraph }} prefix="og: http://ogp.me/ns#"{{ end }}>
     <head>
         <meta charset="utf-8">
@@ -99,11 +99,12 @@
     {{ partial "intro.html" . }}
 
     <ol class="post-list">
-        {{ $pag := .Paginate .Data.Pages }}
+        {{ $pag := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
         {{ range $pag.Pages }}
             {{ partial "page-stub.html" . }}
         {{ end }}
     </ol>
+
 
     <div class="post-navigation">
         {{ partial "pagination.html" . }}
