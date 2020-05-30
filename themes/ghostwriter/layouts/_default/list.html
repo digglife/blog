@@ -15,9 +15,7 @@
         {{ if .Site.Params.opengraph }}{{ partial "opengraph.html" . }}{{ end }}
         <link rel="stylesheet" href="{{ .Site.BaseURL }}dist/styles.css">
         <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        {{ if .RSSLink }}
-            <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml">
-        {{ end }}
+        {{ if .OutputFormats.Get "RSS" }}<link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml">{{ end }}
     </head>
     <body>
         {{ template "_internal/google_analytics.html" . }}
