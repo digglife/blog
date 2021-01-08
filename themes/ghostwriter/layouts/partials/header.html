@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="{{ .Site.BaseURL }}dist/styles.css">
         <link rel="stylesheet" href="https://lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css">
         {{ if .OutputFormats.Get "RSS" }}<link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml">{{ end }}
+        <script data-ad-client="ca-pub-2278425311840618" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     </head>
     <body>
         {{ template "_internal/google_analytics.html" . }}
