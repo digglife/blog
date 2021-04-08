@@ -15,6 +15,11 @@ pygmentsStyle: tango
 MetaDataFormat: yaml
 #uglyurls: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 Author:
   name: 摩摩诘
   profile: https://www.digglife.net
